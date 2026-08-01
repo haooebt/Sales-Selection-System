@@ -1,0 +1,94 @@
+<table>
+  <tr>
+    <th><p>Device</p></th>
+    <th><p>Freq(MHz)</p></th>
+    <th><p>Flash(kB)</p></th>
+    <th><p>RAM(kB)</p></th>
+    <th><p>ADC Ch.</p></th>
+    <th><p>DAC</p></th>
+    <th><p>Comp</p></th>
+    <th><p>Comp Ch.</p></th>
+    <th><p>OPA</p></th>
+    <th><p>HaLL</p></th>
+    <th><p>SPI</p></th>
+    <th><p>IIC</p></th>
+    <th><p>UART</p></th>
+    <th><p>CAN</p></th>
+    <th><p>QEP</p></th>
+    <th><p>Gate driver</p></th>
+    <th><p>Gate driver current(A)</p></th>
+    <th><p>Gate driver supply (V)</p></th>
+    <th><p>Floating voltage(V)</p></th>
+    <th><p>Others</p></th>
+    <th><p>Package</p></th>
+  </tr>
+  <tr>
+    <td><p>LKS32MC061C6T8</p></td>
+    <td><p>96</p></td>
+    <td><p>32</p></td>
+    <td><p>4</p></td>
+    <td><p>12</p></td>
+    <td><p>12BITx1</p></td>
+    <td><p>2</p></td>
+    <td><p>8</p></td>
+    <td><p>4</p></td>
+    <td><p>3-way</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>TQFP48</p></td>
+  </tr>
+  <tr>
+    <td><p>LKS32MC062K6Q8</p></td>
+    <td><p>96</p></td>
+    <td><p>32</p></td>
+    <td><p>4</p></td>
+    <td><p>12</p></td>
+    <td><p>12BITx1</p></td>
+    <td><p>2</p></td>
+    <td><p>6</p></td>
+    <td><p>3</p></td>
+    <td><p>3-way</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>QFN32</p></td>
+  </tr>
+  <tr>
+    <td><p>LKS32MC066N6Q8</p></td>
+    <td><p>96</p></td>
+    <td><p>32</p></td>
+    <td><p>4</p></td>
+    <td><p>12</p></td>
+    <td><p>12BITx1</p></td>
+    <td><p>2</p></td>
+    <td><p>7</p></td>
+    <td><p>3</p></td>
+    <td><p>3-way</p></td>
+    <td><p>1</p></td>
+    <td><p>1</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>0.8</p></td>
+    <td><p>45955</p></td>
+    <td><p>200</p></td>
+    <td><p></p></td>
+    <td><p>QFN52L</p></td>
+  </tr>
+</table>
