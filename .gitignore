@@ -4,7 +4,14 @@ __pycache__/
 # 隐私红线：敏感目录绝不进入公开仓库
 00_Workbench/
 01_Customer Cases/
-02_Product Knowledge Base/
+# 02_Product Knowledge Base 默认全忽略；仅放开 ACDC/raw 与 ACDC/wiki实体
+02_Product Knowledge Base/*
+!02_Product Knowledge Base/ACDC/
+02_Product Knowledge Base/ACDC/*
+!02_Product Knowledge Base/ACDC/raw/
+!02_Product Knowledge Base/ACDC/raw/**
+!02_Product Knowledge Base/ACDC/wiki实体/
+!02_Product Knowledge Base/ACDC/wiki实体/**
 03_Solutions and Applications/
 04_Competitor and Replacement/
 05_Selection Rules and Tools/
