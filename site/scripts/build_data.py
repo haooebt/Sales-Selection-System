@@ -9,6 +9,7 @@
   - Product Quick Locator.md — 竞品→产品线、场景→产品线
   - 竞品替代表（Replacement Tables/*.md）— 竞品→推荐替代
   - Home Appliance Solution Map.md — 应用场景→产品组合
+  - product_apps.json — 型号→已量产应用（脱敏自案例复盘，客户敏感信息不进入）
 
 隐私红线：绝不读取 01_Customer Cases / 07_Case Reviews / 99_Archive / 00_Workbench。
 """
@@ -282,6 +283,9 @@ def build_products():
         dedup.append(p)
     products = dedup
 
+    # 注入已量产应用（来自脱敏 product_apps.json，客户敏感信息不进入）
+    apply_product_apps(products, load_product_apps())
+
     # 按线统计
     from collections import Counter
     line_counts = Counter(p["line"] for p in products)
@@ -412,6 +416,33 @@ def _merge_into(products, rec, line, series):
             return i
     products.append(rec)
     return len(products) - 1
+
+
+def load_product_apps():
+    """读取脱敏的型号→已量产应用映射（product_apps.json，不含客户敏感信息）。"""
+    p = SOLUTIONS / "Home Appliance" / "product_apps.json"
+    if not p.exists():
+        return {}
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[warn] product_apps.json 解析失败: {e}", file=sys.stderr)
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    apps = {}
+    for dev, lst in data.items():
+        if isinstance(lst, list):
+            apps[dev] = [str(x).strip() for x in lst if str(x).strip()]
+    return apps
+
+
+def apply_product_apps(products, apps):
+    """为已收录型号注入『已量产应用』字段（新增字段，不覆盖已有）。"""
+    for p in products:
+        dev = p.get("device", "")
+        if dev in apps and apps[dev]:
+            p["applications"] = apps[dev]
 
 
 # ------------------------------------------------------------------ 竞品/定位/场景

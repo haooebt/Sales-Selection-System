@@ -139,6 +139,7 @@ window.ProductsView = {
     html += `</dl></div>`;
 
     html += `<div class="card"><h3>适合场景</h3>${chips(p.suitable) || '<p class="muted">暂无</p>'}</div>`;
+    html += `<div class="card"><h3>已量产应用</h3>${chips(p.applications) || '<p class="muted">暂无</p>'}</div>`;
     html += `<div class="card"><h3>不适合场景</h3>${chips(p.unsuitable) || '<p class="muted">暂无</p>'}</div>`;
     html += `</div>`;
 
@@ -157,6 +158,7 @@ function summarize(p) {
   if (p.gate_driver) parts.push(`GD:${p.gate_driver}`);
   if (p.package) parts.push(p.package);
   if (p.current) parts.push(p.current);
+  if (p.applications && p.applications.length) parts.push(`应用:${p.applications[0]}`);
   if (p.positioning) parts.push(p.positioning.slice(0, 24));
   return parts.slice(0, 3).join(' · ') || '—';
 }

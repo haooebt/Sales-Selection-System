@@ -606,7 +606,12 @@
     "gate_driver": "6N",
     "package": "TQFP48",
     "source": "02_Product Knowledge Base/MCU/LKS05x/LKSLKS05x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "正阳角磨机",
+      "泉峰18V电钻",
+      "浙江华丽电扳手"
+    ]
   },
   {
     "device": "LKS32MC052K6Q8",
@@ -648,7 +653,10 @@
     "gate_driver": "6N",
     "package": "QFN40",
     "source": "02_Product Knowledge Base/MCU/LKS05x/LKSLKS05x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "正阳电钻/电扳手（华丽电器）"
+    ]
   },
   {
     "device": "LKS32MC054DOF6Q8",
@@ -858,7 +866,10 @@
     "gate_driver": "",
     "package": "LQFP64",
     "source": "02_Product Knowledge Base/MCU/LKS07x/LKSLKS07x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "金挚空调外机PFC+压缩机"
+    ]
   },
   {
     "device": "LKS32MC071C8T8",
@@ -900,7 +911,14 @@
     "gate_driver": "",
     "package": "TQFP48",
     "source": "02_Product Knowledge Base/MCU/LKS07x/LKSLKS07x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "变频空调",
+      "新飞空调内机变频",
+      "洗衣机公板（创维洗衣机主变一体）",
+      "洗衣机公板（湖州南洋电机驱动板）",
+      "空调PFC+压缩机"
+    ]
   },
   {
     "device": "LKS32MC071DOC8T8",
@@ -942,7 +960,10 @@
     "gate_driver": "",
     "package": "QFN32",
     "source": "02_Product Knowledge Base/MCU/LKS07x/LKSLKS07x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "MPPT直流电源"
+    ]
   },
   {
     "device": "LKS32MC072KBT8",
@@ -1026,7 +1047,10 @@
     "gate_driver": "6N",
     "package": "QFN40",
     "source": "02_Product Knowledge Base/MCU/LKS07x/LKSLKS07x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "宝时得-WG633"
+    ]
   },
   {
     "device": "LKS32MC074FF8Q8",
@@ -1089,7 +1113,10 @@
     "gate_driver": "",
     "package": "SSOP24",
     "source": "02_Product Knowledge Base/MCU/LKS07x/LKSLKS07x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "冰箱变频方案"
+    ]
   },
   {
     "device": "LKS32MC077EM8S8",
@@ -1152,7 +1179,10 @@
     "gate_driver": "",
     "package": "TQFP48",
     "source": "02_Product Knowledge Base/MCU/LKS08x/LKSLKS08x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "Arcelik滚筒洗衣机"
+    ]
   },
   {
     "device": "LKS32MC082K8Q8",
@@ -1236,7 +1266,10 @@
     "gate_driver": "6N",
     "package": "QFN52",
     "source": "02_Product Knowledge Base/MCU/LKS08x/LKSLKS08x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "宝时得 电动工具"
+    ]
   },
   {
     "device": "LKS32MC087M6S8",
@@ -1341,7 +1374,10 @@
     "gate_driver": "3P3N",
     "package": "SSOP24",
     "source": "02_Product Knowledge Base/MCU/LKS08x/LKSLKS08x系列.xlsx",
-    "data_quality": {}
+    "data_quality": {},
+    "applications": [
+      "智能马桶水泵"
+    ]
   },
   {
     "device": "LKS32MC088C6T8",
@@ -1633,7 +1669,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP85221AL是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost拓扑应用。功率电感可兼容 0510 色环电感或CD43贴片电感。"
+    "overview": "BP85221AL是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost拓扑应用。功率电感可兼容 0510 色环电感或CD43贴片电感。",
+    "applications": [
+      "直发器"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1671,7 +1710,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP85226DF 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost 变换器拓扑应用。"
+    "overview": "BP85226DF 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost 变换器拓扑应用。",
+    "applications": [
+      "高速风筒"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1690,7 +1732,13 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP85226D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost变换器拓扑应用。"
+    "overview": "BP85226D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost变换器拓扑应用。",
+    "applications": [
+      "国内搅拌机",
+      "搅拌机",
+      "比依咖啡机",
+      "飞利浦空气炸锅-单锅"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1728,7 +1776,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP85256D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost 变换器拓扑应用。"
+    "overview": "BP85256D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost 变换器拓扑应用。",
+    "applications": [
+      "烧水壶"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1747,7 +1798,14 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "SOP-8 封装"
+    "overview": "SOP-8 封装",
+    "applications": [
+      "小家电-风扇",
+      "搅拌机",
+      "空气炸锅",
+      "空气炸锅平台（扁平款）",
+      "飞利浦空气炸锅-双锅"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1785,7 +1843,11 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP86213D 是一款高集成度的低功耗 PSR 隔离 CC/CV 控制芯片。芯片工作在电感电流断续导通模式，适用于 85Vac\\~265Vac 全范围输入电压的隔离反激电源。"
+    "overview": "BP86213D 是一款高集成度的低功耗 PSR 隔离 CC/CV 控制芯片。芯片工作在电感电流断续导通模式，适用于 85Vac\\~265Vac 全范围输入电压的隔离反激电源。",
+    "applications": [
+      "16W热水器墙排",
+      "5W热水器墙排"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1823,7 +1885,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPS1418PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围85\\~265VAC输入的反激式变换器应用。"
+    "overview": "BPS1418PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围85\\~265VAC输入的反激式变换器应用。",
+    "applications": [
+      "冰箱变频方案"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1841,7 +1906,11 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP1371 是一款驱动高亮度 LED 的降压恒流驱动芯片，BP1371 外部采用极少的元器件，为 MR16 LED 灯杯、LED 舞台灯、车载 LED 灯、太阳能 LED 灯和 LED 路灯提供一个极高性价比的解决方案。BP1371 输入电压范围从 5V 到 40V，输出电流通过采样电阻设定，单颗 LED 最大输出电流可达 1.2A。BP1371 采用先进技术的恒流控制方法获得较好的 LED 电流精度。BP1371 通过 DIM 引脚接受 0.5-2.5V 的模拟调光以及频率范围很宽的 PWM 调光。当 DIM 的电压低于 0.3V 时，功率开关关断，BP1371 进入极低工作电流的待机状态。"
+    "overview": "BP1371 是一款驱动高亮度 LED 的降压恒流驱动芯片，BP1371 外部采用极少的元器件，为 MR16 LED 灯杯、LED 舞台灯、车载 LED 灯、太阳能 LED 灯和 LED 路灯提供一个极高性价比的解决方案。BP1371 输入电压范围从 5V 到 40V，输出电流通过采样电阻设定，单颗 LED 最大输出电流可达 1.2A。BP1371 采用先进技术的恒流控制方法获得较好的 LED 电流精度。BP1371 通过 DIM 引脚接受 0.5-2.5V 的模拟调光以及频率范围很宽的 PWM 调光。当 DIM 的电压低于 0.3V 时，功率开关关断，BP1371 进入极低工作电流的待机状态。",
+    "applications": [
+      "BSH洗地机灯条",
+      "储能产品照明"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1859,7 +1928,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP1638CJ 是一款三通道可调光 LED 线性恒流驱动芯片，内置 40V/200mAMOSFET，通过调节输入的 3 路 PWM 信号占空比，来调整对应 LED 光源的电流，从而达到调光目的。"
+    "overview": "BP1638CJ 是一款三通道可调光 LED 线性恒流驱动芯片，内置 40V/200mAMOSFET，通过调节输入的 3 路 PWM 信号占空比，来调整对应 LED 光源的电流，从而达到调光目的。",
+    "applications": [
+      "GE 照明"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -1877,7 +1949,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BP/00_Product Card.md",
     "data_quality": {},
-    "overview": "BP1808A 是一款多工作模式、宽输入/输出范围的高压 DC-DC LED 驱动芯片，内部集成 80V/300mΩ功率开关。BP1808A可以工作于升压、降压、和升降压模式，其输入/输出电压范围可达 3V—70VDC。"
+    "overview": "BP1808A 是一款多工作模式、宽输入/输出范围的高压 DC-DC LED 驱动芯片，内部集成 80V/300mΩ功率开关。BP1808A可以工作于升压、降压、和升降压模式，其输入/输出电压范围可达 3V—70VDC。",
+    "applications": [
+      "冰箱照明"
+    ]
   },
   {
     "line": "ACDC-BP",
@@ -2048,7 +2123,12 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8604D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，主要应用于微波炉等小家电产品中的辅助电源。"
+    "overview": "BPA8604D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，主要应用于微波炉等小家电产品中的辅助电源。",
+    "applications": [
+      "埃及KI冰箱",
+      "天喜微波烤箱",
+      "除湿机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2067,7 +2147,12 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，主要应用于微波炉等小家电产品中的辅助电源。芯片集成交流电压过零检测与过零信号输出功能，交流电压过零信号可用于对继电器、可控硅等器件进行过零开关，降低开关应力，延长器件寿命。"
+    "overview": "是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，主要应用于微波炉等小家电产品中的辅助电源。芯片集成交流电压过零检测与过零信号输出功能，交流电压过零信号可用于对继电器、可控硅等器件进行过零开关，降低开关应力，延长器件寿命。",
+    "applications": [
+      "内销微波炉",
+      "内销油烟机照明",
+      "外销油烟机照明"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2086,7 +2171,11 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8615D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8615D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "吉德洗衣机电控板",
+      "吉德洗衣机（小米）"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2105,7 +2194,10 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8616PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8616PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "空调分体机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2124,7 +2216,17 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8618D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8618D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "冷柜控制器",
+      "咖啡机（江浙）",
+      "外销空调外机",
+      "小米干衣机",
+      "显示电源",
+      "洗衣机",
+      "洗衣机控制板",
+      "烟灶"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2162,7 +2264,17 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8618PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8618PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "出口分体内机(15W)",
+      "创维洗衣机",
+      "变频空调内机",
+      "热泵",
+      "移动空调",
+      "空调外机电源",
+      "美博空调内机",
+      "除湿机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2181,7 +2293,18 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8618P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8618P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "Arcelik 冰箱",
+      "Arcelik 洗衣机",
+      "变频空调内机",
+      "奥特龙油烟机",
+      "志高空调",
+      "海尔冰箱",
+      "澳柯玛冰箱",
+      "移动空调",
+      "空调辅助电源"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2200,7 +2323,12 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8619P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8619P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "天禧炒菜锅（线上版）",
+      "空调内机",
+      "苏泊尔-天禧IH炒菜锅"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2219,7 +2347,16 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8620PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8620PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "变频空调内机（语音+WiFi版）",
+      "吉德洗衣机大桶驱动板",
+      "圆柱形柜机空调",
+      "小米洗衣机ODM",
+      "热泵",
+      "移动空调",
+      "移动空调辅助电源"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2238,7 +2375,13 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8620P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA8620P 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "吉德冰箱",
+      "洗碗机",
+      "空调辅助电源",
+      "集成灶"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2257,7 +2400,14 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA86525PC 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA86525PC 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "1.5p空调内机",
+      "外销空调内机",
+      "大金空调外机",
+      "空调内机电源板",
+      "空调外机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2276,7 +2426,14 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA86526PC 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA86526PC 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "5代定频平台洗碗机",
+      "三星洗碗机",
+      "创维洗衣机（终端小天鹅）",
+      "变频平台洗碗机",
+      "艾克诺克3P商用空调内机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2295,7 +2452,12 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA86528D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。"
+    "overview": "BPA86528D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围 85\\~265VAC 输入的反激式变换器应用。",
+    "applications": [
+      "DAYA 冰箱",
+      "欧伦除湿机",
+      "追觅除湿机"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2313,7 +2475,15 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8504D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback等变换器拓扑应用。"
+    "overview": "BPA8504D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback等变换器拓扑应用。",
+    "applications": [
+      "工业水泵电源",
+      "炖锅/空气炸锅",
+      "移动空气炸锅",
+      "美的生活炖锅",
+      "美的生活炸锅",
+      "美的生活移动小煮锅"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2331,7 +2501,21 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8505D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback 等变换器拓扑应用。"
+    "overview": "BPA8505D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback 等变换器拓扑应用。",
+    "applications": [
+      "冰箱变频方案",
+      "咖啡机",
+      "小家电产品",
+      "工业风机850W",
+      "比依咖啡机",
+      "洗衣机公板（湖州南洋电机）",
+      "空气炸锅",
+      "空气炸锅双锅",
+      "空调外机电源公板",
+      "风机",
+      "飞利浦空气炸锅",
+      "高速风筒"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2349,7 +2533,13 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA8506D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback 等变换器拓扑应用。"
+    "overview": "BPA8506D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压85\\~265VAC输入的Buck、Buck-Boost、Flyback 等变换器拓扑应用。",
+    "applications": [
+      "Arcelik 洗衣机",
+      "公牛单火开关",
+      "必胜洗地机",
+      "美菱冷柜"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2367,7 +2557,18 @@
     },
     "source": "02_Product Knowledge Base/ACDC/BPA/00_Product Card.md",
     "data_quality": {},
-    "overview": "BPA85906D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost、Flyback 等变换器拓扑应用。"
+    "overview": "BPA85906D 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85\\~265VAC 输入的 Buck、Buck-Boost、Flyback 等变换器拓扑应用。",
+    "applications": [
+      "伊莱克斯挂机外机辅助电源",
+      "出口分体空调外机115V平台",
+      "出口分体空调外机220V平台",
+      "华为挂机空调外机PFC+压缩机",
+      "盈量空调外机",
+      "空调内机电源公板",
+      "空调外机电源公板",
+      "美博空调内机",
+      "美邦空调项目"
+    ]
   },
   {
     "line": "ACDC-BPA",
@@ -2424,7 +2625,10 @@
     "line": "ACDC-BPA",
     "series": "BPA",
     "overview": "BPS1418PD 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压范围85\\~265VAC输入的反激式变换器应用。",
-    "source": ""
+    "source": "",
+    "applications": [
+      "冰箱变频方案"
+    ]
   },
   {
     "line": "Gate Driver",
@@ -2512,7 +2716,10 @@
       "供电": "10~20 V",
       "输入电平": "3.3V/5V/15V"
     },
-    "source": ""
+    "source": "",
+    "applications": [
+      "车载空调马达驱动"
+    ]
   },
   {
     "line": "Gate Driver",
@@ -2556,7 +2763,10 @@
       "供电": "10~20V",
       "输入电平": "3.3/5/15V"
     },
-    "source": ""
+    "source": "",
+    "applications": [
+      "DAYA 冰箱 HVM100MX"
+    ]
   },
   {
     "line": "Gate Driver",
@@ -2622,7 +2832,10 @@
       "供电": "10~20V",
       "输入电平": "3.3/5/15V"
     },
-    "source": ""
+    "source": "",
+    "applications": [
+      "DAYA 冰箱 HVM100MX"
+    ]
   },
   {
     "line": "Gate Driver",
@@ -2814,7 +3027,10 @@
       "保护功能": "无",
       "状态": "主推"
     },
-    "source": ""
+    "source": "",
+    "applications": [
+      "空调内机"
+    ]
   },
   {
     "line": "IPM",
@@ -2833,7 +3049,10 @@
       "保护功能": "VTS",
       "状态": "主推"
     },
-    "source": ""
+    "source": "",
+    "applications": [
+      "空调内机"
+    ]
   },
   {
     "line": "IPM",
