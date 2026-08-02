@@ -58,19 +58,20 @@ git status --short site/data/
 echo "--- diffstat ---"
 git diff --stat site/data/ | tail -10
 
-# 5. 提交（仅 --push，只 add site/data/，绝不碰敏感目录）
+# 5. 提交（仅 --push，只 add site/data/ + site/functions/，绝不碰敏感目录）
+#    注：site/functions/ 是 EdgeOne Pages 边缘函数（AI 代理），改动需随仓库推送，否则 EdgeOne 不会更新函数
 if [ "$1" == "--push" ]; then
-  echo "==> 提交并推送 site/data/ ..."
-  git add site/data/
-  git commit -m "Update product data via build_data.py" || echo "!! 无可提交改动"
+  echo "==> 提交并推送 site/data/ 与 site/functions/ ..."
+  git add site/data/ site/functions/
+  git commit -m "Update site data & functions" || echo "!! 无可提交改动"
   git push origin main
-  echo "==> 已推送，Vercel 将自动重新部署"
+  echo "==> 已推送，EdgeOne / Vercel 将自动重新部署"
 else
   echo ""
   echo "======================================================"
   echo "数据已重建。确认无误后可提交并推送："
-  echo "  git add site/data/"
-  echo "  git commit -m \"Update product data\""
+  echo "  git add site/data/ site/functions/"
+  echo "  git commit -m \"Update site data & functions\""
   echo "  git push origin main"
   echo "（或直接运行 bash update_site_data.sh --push 一步完成）"
   echo "======================================================"

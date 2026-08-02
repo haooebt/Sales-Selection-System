@@ -8,13 +8,15 @@
 - **参数筛选**：按主频/Flash/RAM/封装等参数实时筛出候选型号
 - **竞品替代**：输入竞品型号，查看推荐替代与风险等级
 - **应用场景**：按终端场景查看 MCU + 驱动 + 电源组合
-- **AI 选型助手**：自然语言对话，基于本库数据推荐型号/竞品替代（需 Vercel 后端）
+- **AI 选型助手**：自然语言对话，基于本库数据推荐型号/竞品替代（需后端代理，EdgeOne/Vercel）
 
 ## 技术栈
 
 - 原生 HTML/CSS/JS，零框架零 CDN，自包含
 - 数据由 Python 脚本从选型系统数据源生成 JSON
-- AI 对话：Vercel 无服务器函数 `api/chat.js` 代理 DeepSeek API（密钥存 Vercel 环境变量）
+- AI 对话：
+  - **EdgeOne Pages（主站，国内可访问）**：边缘函数 `functions/api/chat.js` 代理 DeepSeek API（密钥存 EdgeOne 环境变量）
+  - **Vercel（海外备份）**：无服务器函数 `api/chat.js`（密钥存 Vercel 环境变量）
 
 ## 目录结构
 
@@ -23,7 +25,8 @@ site/
 ├── index.html            # 入口页
 ├── css/style.css         # 样式
 ├── js/                   # 前端脚本（5 视图 + AI 对话）
-├── api/chat.js           # Vercel 无服务器函数（AI 代理）
+├── functions/api/chat.js # EdgeOne Pages 边缘函数（AI 代理，主站）
+├── api/chat.js           # Vercel 无服务器函数（AI 代理，海外备份）
 ├── data/*.json           # 构建产物（提交，便于离线/回退）
 ├── scripts/              # 数据构建脚本（Python）
 └── vercel.json           # Vercel 配置
@@ -49,9 +52,19 @@ py -3 -m http.server 8000 -d site
 
 浏览器访问 http://127.0.0.1:8000/
 
-## 发布（Vercel 主站 / GitHub Pages 备份）
+## 发布（EdgeOne Pages 主站 / Vercel 海外备份 / GitHub Pages 纯静态备份）
 
-**Vercel（主站，含 AI 对话）**：
+**EdgeOne Pages（主站，国内可访问，含 AI 对话）**：
+1. [edgeone.cloud.tencent.com](https://edgeone.cloud.tencent.com) 创建 Pages 项目（需腾讯云账号 + 实名认证），连接本仓库，Root Directory 设 `site`。
+2. 环境变量加 `DEEPSEEK_API_KEY`（与 Vercel 相同）。
+3. 平台自动分配免费域名 `*.eo-pages.site`；push 到 `main` 自动重新部署。
+4. `functions/api/chat.js` 对应 URL `/api/chat`，前端 `fetch('/api/chat')` 无需改动。
+
+访问：控制台分配的 `*.eo-pages.site` 域名
+
+> 说明：`functions/` 目录是 EdgeOne Pages Functions 专用，**不会**被 GitHub Pages / Vercel 当作静态资源发布。
+
+**Vercel（海外备份，含 AI 对话）**：
 1. [vercel.com](https://vercel.com) 导入本仓库。
 2. Root Directory 设 `site`。
 3. 环境变量加 `DEEPSEEK_API_KEY`（DeepSeek API key）。
@@ -66,7 +79,7 @@ py -3 -m http.server 8000 -d site
 
 访问：https://haooebt.github.io/Sales-Selection-System/
 
-> GitHub Pages 纯静态无法运行 `api/chat.js`，AI 对话只在 Vercel 版可用。
+> GitHub Pages 纯静态无法运行 `api/chat.js`，AI 对话只在 EdgeOne/Vercel 版可用。
 
 ## 隐私保护
 

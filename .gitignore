@@ -1,2 +1,13 @@
 __pycache__/
 *.pyc
+
+# 隐私红线：敏感目录绝不进入公开仓库
+00_Workbench/
+01_Customer Cases/
+02_Product Knowledge Base/
+03_Solutions and Applications/
+04_Competitor and Replacement/
+05_Selection Rules and Tools/
+06_Output Templates/
+07_Case Reviews/
+99_Archive/
