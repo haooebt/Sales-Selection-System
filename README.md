@@ -120,6 +120,8 @@ bash update_site_data.sh --push     # 重建 + 提交 + 推送（触发 Vercel �
 
 日常改完数据源后跑这个脚本即可，Windows 下用 Git Bash 运行。
 
+> **安全红线**：本脚本只会提交 `site/data/`，**绝不提交** `01_Customer Cases/`、`07_Case Reviews/`、`00_Workbench/`、`99_Archive/` 及任何含客户名单/报价/内部备注的 Excel 或复盘文档。检测到敏感目录有改动时 `--push` 会中止，防止客户数据泄露到公开仓库。
+
 ---
 
 ## 五、数据更新流程
