@@ -262,6 +262,25 @@ tr.rowlink { cursor: pointer; }
 .search-results .sr-item:hover { background: var(--bg); }
 .search-results .sr-item small { color: var(--text-dim); display: block; }
 
+/* ---------------- AI Chat ---------------- */
+.chat-wrap { display: flex; flex-direction: column; height: calc(100vh - 240px); min-height: 380px; }
+.chat-examples { margin-bottom: 12px; }
+.chat-example { border: none; cursor: pointer; background: var(--chip-bg); color: var(--chip-text); }
+.chat-example:hover { background: var(--primary); color: #fff; }
+.chat-log { flex: 1; overflow-y: auto; background: #fff; border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; margin-bottom: 12px; }
+.msg { display: flex; margin-bottom: 12px; }
+.msg.user { justify-content: flex-end; }
+.msg.assistant { justify-content: flex-start; }
+.msg-bubble { max-width: 78%; padding: 10px 14px; border-radius: 12px; font-size: 14px; line-height: 1.6; white-space: pre-wrap; word-break: break-word; }
+.msg.user .msg-bubble { background: var(--primary); color: #fff; border-bottom-right-radius: 4px; }
+.msg.assistant .msg-bubble { background: var(--bg); border: 1px solid var(--border); border-bottom-left-radius: 4px; }
+.msg.typing .msg-bubble::after { content: ''; display: inline-block; width: 6px; height: 14px; margin-left: 2px; background: var(--primary); animation: blink 1s infinite; vertical-align: text-bottom; }
+@keyframes blink { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+.chat-input-row { display: flex; gap: 10px; }
+.chat-input-row input { flex: 1; padding: 10px 14px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px; }
+.btn-primary { background: var(--primary); color: #fff; border: none; border-radius: 8px; padding: 10px 20px; font-size: 14px; cursor: pointer; white-space: nowrap; }
+.btn-primary:disabled { opacity: .6; cursor: not-allowed; }
+
 /* ---------------- Responsive ---------------- */
 @media (max-width: 720px) {
   .topbar-inner { gap: 12px; }
@@ -271,4 +290,6 @@ tr.rowlink { cursor: pointer; }
   .view-title { font-size: 19px; }
   th, td { padding: 6px 8px; font-size: 12px; }
   .detail-grid { grid-template-columns: 1fr; }
+  .chat-wrap { height: calc(100vh - 260px); min-height: 300px; }
+  .msg-bubble { max-width: 92%; }
 }

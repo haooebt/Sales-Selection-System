@@ -12,6 +12,10 @@
         <p>面向客户与同事的在线选型工具：按产品线浏览、按参数筛选、查竞品替代、按应用场景找方案。</p>
       </div>
       <div class="grid-cards">
+        <a class="entry-card" href="#/chat">
+          <h3>🤖 AI 选型助手</h3>
+          <div class="desc">自然语言对话，AI 基于本库数据推荐型号与竞品替代</div>
+        </a>
         <a class="entry-card" href="#/products">
           <h3>📦 产品库</h3>
           <div class="desc">按产品线浏览全系列型号与参数详情</div>
@@ -61,6 +65,7 @@
       return { view: 'product-detail', line: parts[1], device: parts[2] };
     }
     if (parts[0] === 'selection') return { view: 'selection' };
+    if (parts[0] === 'chat') return { view: 'chat' };
     if (parts[0] === 'competitors') return { view: 'competitors' };
     if (parts[0] === 'applications') {
       if (parts[1]) return { view: 'application-detail', app: parts[1] };
@@ -79,6 +84,7 @@
       case 'products-line': html = window.ProductsView.renderLine(route.line); break;
       case 'product-detail': html = window.ProductsView.renderDetail(route.line, route.device); break;
       case 'selection': html = window.SelectionView.render(); break;
+      case 'chat': html = window.ChatView.render(); break;
       case 'competitors': html = window.CompetitorsView.render(); break;
       case 'applications': html = window.ApplicationsView.render(); break;
       case 'application-detail': html = window.ApplicationsView.renderDetail(route.app); break;
@@ -88,6 +94,7 @@
     scrollTo(0, 0);
     // 视图渲染后的额外绑定
     if (route.view === 'selection') window.SelectionView.afterRender();
+    if (route.view === 'chat') window.ChatView.afterRender();
     if (route.view === 'competitors') window.CompetitorsView.afterRender();
     bindRowLinks();
   }
@@ -97,7 +104,7 @@
       const map = { home: '#/', products: '#/products', selection: '#/selection',
                     competitors: '#/competitors', applications: '#/applications',
                     'products-line': '#/products', 'product-detail': '#/products',
-                    'application-detail': '#/applications' };
+                    'application-detail': '#/applications', chat: '#/chat' };
       a.classList.toggle('active', a.getAttribute('href') === map[view]);
     });
   }
