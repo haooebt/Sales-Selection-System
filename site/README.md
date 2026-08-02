@@ -8,11 +8,13 @@
 - **参数筛选**：按主频/Flash/RAM/封装等参数实时筛出候选型号
 - **竞品替代**：输入竞品型号，查看推荐替代与风险等级
 - **应用场景**：按终端场景查看 MCU + 驱动 + 电源组合
+- **AI 选型助手**：自然语言对话，基于本库数据推荐型号/竞品替代（需 Vercel 后端）
 
 ## 技术栈
 
 - 原生 HTML/CSS/JS，零框架零 CDN，自包含
 - 数据由 Python 脚本从选型系统数据源生成 JSON
+- AI 对话：Vercel 无服务器函数 `api/chat.js` 代理 DeepSeek API（密钥存 Vercel 环境变量）
 
 ## 目录结构
 
@@ -20,9 +22,11 @@
 site/
 ├── index.html            # 入口页
 ├── css/style.css         # 样式
-├── js/                   # 前端脚本（5 视图）
+├── js/                   # 前端脚本（5 视图 + AI 对话）
+├── api/chat.js           # Vercel 无服务器函数（AI 代理）
 ├── data/*.json           # 构建产物（提交，便于离线/回退）
-└── scripts/              # 数据构建脚本（Python）
+├── scripts/              # 数据构建脚本（Python）
+└── vercel.json           # Vercel 配置
 ```
 
 ## 重新生成数据
@@ -45,13 +49,24 @@ py -3 -m http.server 8000 -d site
 
 浏览器访问 http://127.0.0.1:8000/
 
-## 发布（GitHub Pages）
+## 发布（Vercel 主站 / GitHub Pages 备份）
 
+**Vercel（主站，含 AI 对话）**：
+1. [vercel.com](https://vercel.com) 导入本仓库。
+2. Root Directory 设 `site`。
+3. 环境变量加 `DEEPSEEK_API_KEY`（DeepSeek API key）。
+4. push 到 `main` 自动重新部署。
+
+访问：https://sales-selection-system.vercel.app
+
+**GitHub Pages（备份，无 AI）**：
 1. 在选型系统仓库：`git add site/ .github/` → commit → push origin main
 2. GitHub 仓库 Settings → Pages → Source 设为 **GitHub Actions**
-3. `.github/workflows/pages.yml` 会自动构建并发布到 gh-pages
+3. `.github/workflows/pages.yml` 会自动构建并发布
 
-访问：`https://haooebt.github.io/Sales-Selection-System/`
+访问：https://haooebt.github.io/Sales-Selection-System/
+
+> GitHub Pages 纯静态无法运行 `api/chat.js`，AI 对话只在 Vercel 版可用。
 
 ## 隐私保护
 

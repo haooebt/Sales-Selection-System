@@ -1,76 +1,204 @@
 # 技术销售选型工作系统
 
-本目录用于沉淀技术销售工作中的产品资料、解决方案包、竞品替代关系、客户选型案件和可复用输出模板。
+面向技术销售的选型知识库 + 在线选型网站。内部使用，由销售/FAE 协作维护。
 
-核心目标：
+**本仓库包含两部分：**
 
-- 客户给竞品规格书时，能快速做替代选型。
-- 客户给参数需求时，能快速筛出候选型号。
-- 客户只给终端项目情况时，能从行业方案和历史案例推导初步选型。
-- 每次客户沟通都能沉淀为后续可复用的知识。
+1. **知识库**（`00_` ~ `99_` 目录）：沉淀产品资料、竞品替代、应用方案、客户案件的原始资料库。
+2. **选型网站**（`site/`）：把知识库数据编译成静态网站，供查询选型、参数筛选、竞品替代、AI 对话。
 
-## 目录结构
+---
+
+## 一、项目概述
+
+### 核心目标
+
+- 客户给竞品规格书 → 快速做替代选型。
+- 客户给参数需求 → 快速筛出候选型号。
+- 客户只给终端项目情况 → 从行业方案推导初步选型。
+- 每次客户沟通沉淀为可复用知识。
+
+### 网站能力（线上：https://sales-selection-system.vercel.app）
+
+| 功能 | 说明 |
+|---|---|
+| 产品库 | 按产品线 → 系列 → 型号三级浏览，含参数详情 |
+| 参数筛选 | 按主频/Flash/封装/内置外设等实时过滤型号，各产品线独立参数列 |
+| 竞品替代 | 输入竞品型号，查推荐替代、等级、Pin 兼容、软件难度 |
+| 应用场景 | 按终端场景查看 MCU + 驱动 + 电源组合方案 |
+| AI 选型助手 | 自然语言对话，基于本库数据推荐型号 / 竞品替代（需 Vercel 后端） |
+
+---
+
+## 二、架构
+
+```
+知识库数据源（产品卡/Excel/竞品表/方案卡）
+        │  build_data.py（Python，解析+归一化）
+        ▼
+site/data/*.json（编译产物，网站实际数据源）
+        │
+        ├── 静态页面 site/*.html / js/ / css/   →  GitHub Pages / Vercel 静态托管
+        └── /api/chat  (Vercel 无服务器函数)  →  DeepSeek API（AI 对话）
+```
+
+**关键点**：
+
+- 网站显示的是 `site/data/*.json`，由 `build_data.py` 从知识库编译生成。
+- **修改知识库源文件不会自动反映到网站**，需运行更新脚本重新编译（见下文）。
+- AI 对话的 `/api/chat` 是 Vercel 函数，密钥存 Vercel 环境变量 `DEEPSEEK_API_KEY`，前端不接触密钥。
+
+---
+
+## 三、目录结构
+
+### 知识库（根目录 `00_` ~ `99_`）
 
 | 目录 | 用途 |
 |---|---|
-| `00_Workbench` | 临时工作台，放待处理资料、未归档需求和快速判断记录 |
-| `01_Customer Cases` | 客户选型案件，每个客户/项目一个文件夹 |
-| `02_Product Knowledge Base` | 公司产品资料库，按产品线和系列管理 |
-| `03_Solutions and Applications` | 解决方案包和行业应用场景库 |
-| `04_Competitor and Replacement` | 竞品资料、竞品规格书拆解和替代表 |
-| `05_Selection Rules and Tools` | 选型规则、评分方法、筛选表字段和工作流 |
-| `06_Output Templates` | 给客户的输出模板、邮件模板、报告模板 |
-| `07_Case Reviews` | 成功/失败/暂停项目复盘，沉淀经验 |
-| `99_Archive` | 不再活跃但需要保留的旧资料 |
+| `00_Workbench` | 临时工作台，待处理资料/未归档需求 |
+| `01_Customer Cases` | 客户选型案件（含敏感信息，**不进网站**） |
+| `02_Product Knowledge Base` | 产品资料库，按产品线/系列管理 |
+| `03_Solutions and Applications` | 解决方案和行业应用场景库 |
+| `04_Competitor and Replacement` | 竞品资料和替代表 |
+| `05_Selection Rules and Tools` | 选型规则、评分方法、工作流 |
+| `06_Output Templates` | 客户输出模板 |
+| `07_Case Reviews` | 项目复盘（含敏感信息，**不进网站**） |
+| `99_Archive` | 不再活跃的旧资料 |
 
-## 基本原则
+### 选型网站（`site/`）
 
-1. 原始资料和结构化资料分开。
-   - 原始资料：PDF、PPT、Excel、Word、图片、客户提供的文件。
-   - 结构化资料：产品卡、参数矩阵、竞品对标表、方案卡、风险点总结。
+| 路径 | 用途 |
+|---|---|
+| `index.html` | 入口页 |
+| `css/style.css` | 全站样式 |
+| `js/app.js` | 路由 + 首页 + 全局搜索 |
+| `js/products.js` | 产品库视图 |
+| `js/selection.js` | 参数筛选视图 |
+| `js/competitors.js` | 竞品替代视图 |
+| `js/applications.js` | 应用场景视图 |
+| `js/chat.js` | AI 对话视图 |
+| `js/data.js` | 数据加载 + 工具函数 |
+| `data/*.json` | 编译产物（**不要手改**，用脚本重建） |
+| `scripts/build_data.py` | 主数据管道 |
+| `scripts/table_extract.py` | MD/HTML 表解析 |
+| `scripts/field_map.py` | 字段别名/单位归一化 |
+| `api/chat.js` | Vercel 无服务器函数（AI 对话代理） |
+| `vercel.json` | Vercel 配置 |
+| `site/README.md` | 网站目录说明 |
 
-2. 每个客户需求都建立案件。
-   - 不要只把资料丢进产品库。
-   - 需要记录客户背景、需求来源、推荐逻辑、风险点和后续动作。
+---
 
-3. 每个产品系列都要有销售视角卡片。
-   - 不只是规格书摘要。
-   - 要写清楚适合什么、不适合什么、如何选型、常见替代关系。
+## 四、本地运行
 
-4. 每个方案包都按终端场景管理。
-   - 客户通常不会先说芯片型号，而会说风机、水泵、电动工具、BMS、工业控制等项目。
-   - 方案卡应从场景出发，推导推荐产品。
+### 1. 数据管道（重建 JSON）
 
-5. 每次案件结束后必须复盘。
-   - 可复用经验进入产品卡、方案卡或竞品替代表。
-   - 客户个性化信息留在客户案件中。
+需要 Python 3.9+（本项目用 `py -3`，注意 `python` 是 WindowsApps 占位符不要用），需安装 `openpyxl`：
 
-## 推荐工作流
+```bash
+pip install openpyxl
+py -3 site/scripts/build_data.py
+```
 
-### 新资料入库
+产出 `site/data/*.json`（products 177 / series 13 / product_lines 12 / competitors 8 / applications 19 / locator / meta）。
 
-1. 先放入 `00_Workbench/Temp Intake`。
-2. 判断资料类型：公司产品、解决方案、竞品资料、客户项目资料。
-3. 移动到对应目录的原始资料位置。
-4. 生成或更新结构化摘要。
-5. 在相关索引、产品卡、方案卡或替代表中加入链接。
+### 2. 本地预览网站
 
-### 新客户需求
+```bash
+py -3 -m http.server 8000 -d site
+# 访问 http://127.0.0.1:8000/（file:// 有 CORS 限制）
+```
 
-1. 在 `01_Customer Cases/YYYY` 下建立案件文件夹。
-2. 复制 `_Customer Case Template.md` 作为案件卡。
-3. 判断需求入口：
-   - 竞品替代
-   - 参数选型
-   - 项目场景建议
-4. 查产品卡、方案卡和竞品替代表。
-5. 输出推荐型号、备选型号、风险点和待确认问题。
-6. 结束后写复盘，并把通用经验沉淀回资料库。
+> AI 对话在本地无法工作（`/api/chat` 需要 Vercel 后端），其余功能均可预览。
 
-## 后续维护建议
+### 3. 一键更新数据（推荐）
 
-- 每周整理一次 `00_Workbench`。
-- 每月更新一次产品参数矩阵和竞品替代表。
-- 每完成一个客户案件，至少沉淀一个可复用结论。
-- 对客户承诺前，必须区分“可直接替代”“功能替代”“方案替代”“不建议替代”。
+```bash
+bash update_site_data.sh            # 重建 + 看差异（不推送）
+bash update_site_data.sh --push     # 重建 + 提交 + 推送（触发 Vercel 重新部署）
+```
 
+日常改完数据源后跑这个脚本即可，Windows 下用 Git Bash 运行。
+
+---
+
+## 五、数据更新流程
+
+### 网站数据如何更新
+
+1. 修改知识库源文件（产品卡 `00_Product Card.md`、Excel 选型表 `.xlsx`、竞品替代表 `Replacement Tables/*.md`、Solution Map 等）。
+2. 运行 `build_data.py` 或一键脚本重建 JSON。
+3. 检查 `site/data/meta.json` 确认数据量（产品数、竞品数、gaps/conflicts）。
+4. 提交推送 → Vercel 自动重新部署 → 网站更新。
+
+### 新增产品
+
+在 `02_Product Knowledge Base/` 对应产品线目录：
+- 维护 `00_Product Card.md`（一句话定位、适合/不适合、型号矩阵）
+- 维护选型表 `*.xlsx`（型号级参数：主频/Flash/封装等）
+
+### 新增竞品替代
+
+在 `04_Competitor and Replacement/Replacement Tables/` 新建：
+`品牌_竞品型号_Replacement Summary.md`，包含替代等级（A/B/C/D）、Pin 兼容、软件难度、风险点。
+
+### 新增应用场景
+
+在 `03_Solutions and Applications/` 维护 Solution Map，场景→MCU/驱动/电源组合。
+
+### 隐私红线（重要）
+
+`build_data.py` 开头断言**不读取** `01_Customer Cases`、`07_Case Reviews`、`99_Archive`、`00_Workbench`——这些目录含客户敏感信息，**绝不会进入公开网站**。新增数据源时不要改变这个行为。
+
+---
+
+## 六、AI 选型助手
+
+- 前端 `site/js/chat.js`：把 `site/data/*.json` 编译成紧凑摘要注入 system prompt，AI 基于真实数据回答。
+- 后端 `site/api/chat.js`：Vercel 无服务器函数，转发到 DeepSeek API。
+- **部署配置**（Vercel 项目）：
+  - Root Directory：`site`
+  - 环境变量：`DEEPSEEK_API_KEY`（在 https://platform.deepseek.com 获取）
+- AI 输出为 markdown，前端已内置轻量渲染器（`mdToHtml`），支持表格/列表/代码块/粗体。
+
+---
+
+## 七、部署
+
+### Vercel（主站，含 AI 功能）
+
+1. [vercel.com](https://vercel.com) 导入本仓库。
+2. Root Directory 设 `site`。
+3. 环境变量加 `DEEPSEEK_API_KEY`。
+4. 之后每次 push 到 `main` 自动重新部署。
+
+### GitHub Pages（旧版备份，无 AI）
+
+- 仓库 Settings → Pages → 用 GitHub Actions 部署 `site/` 目录（workflow 在 `.github/workflows/pages.yml`）。
+- 线上：https://haooebt.github.io/Sales-Selection-System/
+
+> GitHub Pages 是纯静态，无法运行 `/api/chat`，所以 AI 对话只在 Vercel 版可用。
+
+---
+
+## 八、协作规范
+
+- 优先英文文件名，中文写内容（保留器件型号/封装等英文术语）。
+- 原始资料（PDF/PPT/Excel/图片）与结构化资料（产品卡/参数矩阵/替代表）分开存放。
+- 客户敏感信息只进 `01_Customer Cases` / `07_Case Reviews`，不进公共产品卡/方案卡。
+- 改数据 → 跑 `update_site_data.sh` 验证 → 再提交推送。
+- 提交信息用英文，简短说明改动内容。
+- 不确定的信息标注「待确认」。
+
+---
+
+## 九、常见问题
+
+**Q: 改了产品卡，网站怎么没变？**
+A: 需运行 `bash update_site_data.sh --push` 重新编译并推送，Vercel 才会重新部署。
+
+**Q: 为什么 AI 对话在某些环境打不开？**
+A: vercel.app 域名大陆直连可能不稳定，需代理；或后续配置自定义域名/国内 CDN。
+
+**Q: site/data/*.json 能手改吗？**
+A: 不要手改，一律用 `build_data.py` 重建，否则下次构建会被覆盖。
