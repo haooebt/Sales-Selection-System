@@ -37,30 +37,53 @@ window.SelectionView = {
     }
   },
 
-  getWidgetDefs(line) {
+  // 每个产品线的列定义：{ key, label, type, options }
+  // key 用于取产品字段；type: 'num'(数值≥) | 'select'(下拉) | 'text'(显示列，不筛选)
+  getColDefs(line) {
     const defs = {
       'MCU': [
-        ['freq_mhz', '主频 (≥MHz)', 'num', 'min'],
-        ['flash_kb', 'Flash (≥KB)', 'num', 'min'],
-        ['ram_kb', 'RAM (≥KB)', 'num', 'min'],
-        ['adc_channels', 'ADC 通道 (≥)', 'num', 'min'],
-        ['gate_driver', '内置 Gate Driver', 'select', ['', '6N', '3P3N']],
-        ['package', '封装', 'select', []],
-      ],
-      'IPM': [
-        ['voltage', '耐压', 'select', []],
-        ['current', '电流', 'num', 'min'],
-        ['package', '封装', 'select', []],
+        { key: 'freq_mhz', label: '主频 (MHz)', type: 'num' },
+        { key: 'flash_kb', label: 'Flash (KB)', type: 'num' },
+        { key: 'ram_kb', label: 'RAM (KB)', type: 'num' },
+        { key: 'adc_channels', label: 'ADC 通道', type: 'num' },
+        { key: 'gate_driver', label: '内置 Gate Driver', type: 'select' },
+        { key: 'package', label: '封装', type: 'select' },
       ],
       'ACDC-BP': [
-        ['package', '封装', 'select', []],
+        { key: '封装', label: '封装', type: 'select', raw: true },
+        { key: 'MOSFET耐压', label: 'MOSFET 耐压', type: 'select', raw: true },
+        { key: '输出能力', label: '输出能力', type: 'select', raw: true },
+        { key: '拓扑', label: '拓扑', type: 'select', raw: true },
+        { key: '待机功耗', label: '待机功耗', type: 'select', raw: true },
+        { key: '特色功能', label: '特色功能', type: 'text', raw: true },
       ],
       'ACDC-BPA': [
-        ['package', '封装', 'select', []],
+        { key: '封装', label: '封装', type: 'select', raw: true },
+        { key: 'MOSFET耐压', label: 'MOSFET 耐压', type: 'select', raw: true },
+        { key: '输出能力', label: '输出能力', type: 'select', raw: true },
+        { key: '拓扑', label: '拓扑', type: 'select', raw: true },
+        { key: '特色功能', label: '特色功能', type: 'text', raw: true },
       ],
       'Gate Driver': [
-        ['supply', '供电', 'select', []],
-        ['package', '封装', 'select', []],
+        { key: '封装', label: '封装', type: 'select', raw: true },
+        { key: 'IO+', label: 'IO+ (A)', type: 'select', raw: true },
+        { key: 'IO-', label: 'IO- (A)', type: 'select', raw: true },
+        { key: 'Floating Voltage', label: '浮空电压', type: 'select', raw: true },
+        { key: '控制逻辑', label: '控制逻辑', type: 'select', raw: true },
+        { key: 'UVLO', label: 'UVLO', type: 'select', raw: true },
+        { key: '供电', label: '供电', type: 'select', raw: true },
+        { key: '输入电平', label: '输入电平', type: 'select', raw: true },
+        { key: 'Turn-on/off Delay', label: '开通/关断延时', type: 'text', raw: true },
+        { key: 'Dead Time', label: '死区时间', type: 'text', raw: true },
+      ],
+      'IPM': [
+        { key: '耐压', label: '耐压', type: 'select', raw: true },
+        { key: '电流能力', label: '电流能力', type: 'select', raw: true },
+        { key: '导通电阻', label: '导通电阻', type: 'select', raw: true },
+        { key: '封装', label: '封装', type: 'select', raw: true },
+        { key: '集成自举', label: '集成自举', type: 'select', raw: true },
+        { key: '温度检测', label: '温度检测', type: 'select', raw: true },
+        { key: '保护功能', label: '保护功能', type: 'text', raw: true },
       ],
       'DC-DC': [],
       'LED Driver': [],
@@ -69,10 +92,23 @@ window.SelectionView = {
     return defs[line] || [];
   },
 
+  // 取产品某字段值：顶层优先，其次 raw 字典
+  getVal(p, col) {
+    if (col.raw) {
+      const raw = p.raw || {};
+      if (col.key in raw) return raw[col.key];
+    }
+    const v = p[col.key];
+    if (v != null && v !== '') return v;
+    // 顶层没有再从 raw 兜底
+    const raw = p.raw || {};
+    return raw[col.key] ?? '';
+  },
+
   renderWidgets() {
     const box = document.getElementById('sel-widgets');
     if (!box) return;
-    const defs = this.getWidgetDefs(this.state.line);
+    const defs = this.getColDefs(this.state.line);
     if (!defs.length) {
       box.innerHTML = `<div class="muted">该产品线为族级数据，暂无可筛选参数。</div>`;
       return;
@@ -81,22 +117,24 @@ window.SelectionView = {
     const prods = products.filter(p => p.line === this.state.line);
 
     let html = '';
-    for (const [field, label, type, opt] of defs) {
+    for (const col of defs) {
       let control = '';
-      if (type === 'num') {
-        control = `<input type="number" min="0" data-f="${field}" data-mode="${opt}" placeholder="不限">
-          <span class="muted">${opt === 'min' ? '以上' : ''}</span>`;
-      } else if (type === 'select') {
-        let options = opt;
-        if (Array.isArray(opt) && opt.length === 0) {
-          options = [...new Set(prods.map(p => p[field]).filter(Boolean))];
+      if (col.type === 'num') {
+        control = `<input type="number" min="0" data-f="${col.key}" placeholder="不限" title="${esc(col.label)} ≥">
+          <span class="muted">以上</span>`;
+      } else if (col.type === 'select') {
+        let options = col.options || [];
+        if (!options.length) {
+          options = [...new Set(prods.map(p => this.getVal(p, col)).filter(v => v !== '' && v != null))];
         }
-        control = `<select data-f="${field}">
+        control = `<select data-f="${col.key}">
           <option value="">不限</option>
           ${options.map(o => `<option value="${esc(o)}">${esc(o)}</option>`).join('')}
         </select>`;
+      } else {
+        continue; // text 列不筛
       }
-      html += `<div class="filter-row"><label>${esc(label)}</label>${control}</div>`;
+      html += `<div class="filter-row"><label>${esc(col.label)}</label>${control}</div>`;
     }
     box.innerHTML = html;
 
@@ -112,14 +150,15 @@ window.SelectionView = {
 
   applyFilters(prods) {
     const { filters } = this.state;
+    const defs = this.getColDefs(this.state.line);
     return prods.filter(p => {
       for (const [field, val] of Object.entries(filters)) {
         if (val === '') continue;
-        const pv = p[field];
-        const numeric = !isNaN(parseFloat(val)) && isFinite(val);
-        if (numeric) {
+        const col = defs.find(d => d.key === field);
+        const pv = this.getVal(p, col);
+        if (col && col.type === 'num') {
           const threshold = parseFloat(val);
-          const actual = (typeof pv === 'object' && pv !== null && 'min' in pv) ? pv.min : parseFloat(pv);
+          let actual = (typeof pv === 'object' && pv !== null && 'min' in pv) ? pv.min : parseFloat(pv);
           if (isNaN(actual) || actual < threshold) return false;
         } else {
           if (String(pv || '') !== val) return false;
@@ -136,22 +175,38 @@ window.SelectionView = {
     const { products } = window.VaultData;
     const prods = products.filter(p => p.line === this.state.line);
     const filtered = this.applyFilters(prods);
+    const defs = this.getColDefs(this.state.line);
 
+    // 族级数据：无参数列时显示定位/代表型号
+    if (!defs.length) {
+      let html = `<div class="result-count">${filtered.length} / ${prods.length} 条产品线记录</div>
+        <table><thead><tr><th>产品线</th><th>代表型号</th><th>第一轮筛选参数</th><th>定位</th></tr></thead><tbody>`;
+      for (const p of filtered) {
+        html += `<tr class="rowlink" data-nav="product-detail" data-line="${esc(p.line)}" data-device="${esc(p.device)}">
+          <td><strong>${esc(p.device)}</strong></td>
+          <td>${esc((p.representative_models || []).join(', '))}</td>
+          <td>${esc(p.first_filters || '')}</td>
+          <td>${esc(p.positioning || '')}</td>
+        </tr>`;
+      }
+      html += `</tbody></table>`;
+      if (!filtered.length) html = `<div class="empty">无匹配记录，请放宽筛选条件</div>`;
+      box.innerHTML = html;
+      return;
+    }
+
+    // 有参数列：动态生成表头
+    const headers = ['型号'].concat(defs.map(d => d.label));
     let html = `<div class="result-count">${filtered.length} / ${prods.length} 个型号</div>
-      <table><thead><tr>
-        <th>型号</th><th>系列</th><th>主频</th><th>Flash</th><th>RAM</th><th>ADC</th><th>封装</th><th>Gate Driver</th>
+      <table><thead><tr>${headers.map(h => `<th>${esc(h)}</th>`).join('')}
       </tr></thead><tbody>`;
     for (const p of filtered) {
+      let cells = `<td><strong>${esc(p.device)}</strong></td>`;
+      for (const col of defs) {
+        cells += `<td>${esc(this.getVal(p, col))}</td>`;
+      }
       html += `<tr class="rowlink" data-nav="product-detail" data-line="${esc(p.line)}" data-device="${esc(p.device)}">
-        <td><strong>${esc(p.device)}</strong></td>
-        <td>${esc(p.series)}</td>
-        <td class="num">${numFmt(p.freq_mhz)}</td>
-        <td class="num">${numFmt(p.flash_kb)}</td>
-        <td class="num">${numFmt(p.ram_kb)}</td>
-        <td class="num">${numFmt(p.adc_channels)}</td>
-        <td>${esc(p.package || '')}</td>
-        <td>${esc(p.gate_driver || '')}</td>
-      </tr>`;
+        ${cells}</tr>`;
     }
     html += `</tbody></table>`;
     if (!filtered.length) html = `<div class="empty">无匹配型号，请放宽筛选条件</div>`;

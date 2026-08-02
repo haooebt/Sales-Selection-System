@@ -98,9 +98,22 @@ window.ProductsView = {
       ['导通电阻', p.rdson], ['供电', p.supply], ['封装', p.package],
       ['工作温度', p.temperature],
     ];
+    const raw = (p.raw && typeof p.raw === 'object') ? p.raw : {};
+    const seen = new Set();
+    const rawPairs = Object.entries(raw).filter(([k, v]) => !['型号', '解析结果', '字符数'].includes(k) && v != null && v !== '');
     let shown = 0;
     for (const [k, v] of params) {
-      if (v != null && v !== '') { html += `<dt>${k}</dt><dd>${esc(numFmt(v))}</dd>`; shown++; }
+      if (v != null && v !== '') {
+        html += `<dt>${k}</dt><dd>${esc(numFmt(v))}</dd>`;
+        seen.add(k); shown++;
+      }
+    }
+    for (const [k, v] of rawPairs) {
+      if (shown >= 20) break;
+      if (seen.has(k)) continue;
+      seen.add(k);
+      html += `<dt>${esc(k)}</dt><dd>${esc(numFmt(v))}</dd>`;
+      shown++;
     }
     if (!shown) html += `<dt>—</dt><dd>暂无详细参数</dd>`;
     html += `</dl></div>`;
