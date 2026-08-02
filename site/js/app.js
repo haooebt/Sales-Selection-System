@@ -104,7 +104,7 @@
 
   // 表格行点击 → 型号详情
   function bindRowLinks() {
-    document.querySelectorAll('tr.rowlink').forEach(tr => {
+    document.querySelectorAll('tr.rowlink, .family-card.rowlink').forEach(tr => {
       tr.addEventListener('click', () => {
         const line = tr.dataset.line;
         const device = tr.dataset.device;

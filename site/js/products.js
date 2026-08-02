@@ -24,33 +24,53 @@ window.ProductsView = {
   renderLine(line) {
     const { products, series } = window.VaultData;
     const prods = products.filter(p => p.line === line);
-    // 按系列分组
-    const seriesMap = {};
-    for (const p of prods) {
-      (seriesMap[p.series] = seriesMap[p.series] || []).push(p);
-    }
+    const families = prods.filter(p => p.pending_param);
+    const real = prods.filter(p => !p.pending_param);
     let html = `<a href="#/products" class="back-link">← 产品库</a>
       <h2 class="view-title">${esc(lineLabel(line))}</h2>
-      <div class="view-sub">${prods.length} 个型号</div>`;
-    for (const [sname, sprods] of Object.entries(seriesMap)) {
-      const sm = (series || []).find(x => x.series === sname && x.line === line);
-      html += `<div class="card">
-        <h3>${esc(sname)}</h3>
-        ${sm && sm.positioning ? `<div class="muted" style="margin-bottom:8px">${esc(sm.positioning)}</div>` : ''}
-        <table><thead><tr>
-          <th>型号</th><th>封装</th><th>主频</th><th>Flash</th><th>RAM</th><th>关键参数</th>
-        </tr></thead><tbody>`;
-      for (const p of sprods) {
-        html += `<tr class="rowlink" data-nav="product-detail" data-line="${esc(p.line)}" data-device="${esc(p.device)}">
-          <td><strong>${esc(p.device)}</strong></td>
-          <td>${esc(p.package || p.positioning || '')}</td>
-          <td class="num">${numFmt(p.freq_mhz)}</td>
-          <td class="num">${numFmt(p.flash_kb)}</td>
-          <td class="num">${numFmt(p.ram_kb)}</td>
-          <td>${esc(summarize(p))}</td>
-        </tr>`;
+      <div class="view-sub">${prods.length} 条记录${families.length ? `（含 ${families.length} 个产品族，型号级参数待补充）` : ''}</div>`;
+
+    // 族级记录：族卡片展示代表型号
+    if (families.length) {
+      for (const p of families) {
+        const card = p.representative_models || [];
+        html += `<div class="card family-card rowlink" data-nav="product-detail" data-line="${esc(p.line)}" data-device="${esc(p.device)}">
+          <div class="family-head">
+            <h3>${esc(p.device)}</h3>
+            ${p.positioning ? `<span class="muted">${esc(p.positioning)}</span>` : ''}
+          </div>
+          ${card.length ? `<div class="family-models"><label>代表型号</label>${chips(card)}</div>` : ''}
+          ${p.first_filters ? `<div class="muted" style="margin-top:6px">第一轮筛选：${esc(p.first_filters)}</div>` : ''}
+        </div>`;
       }
-      html += `</tbody></table></div>`;
+    }
+
+    // 型号级记录：按系列分组表格
+    if (real.length) {
+      const seriesMap = {};
+      for (const p of real) {
+        (seriesMap[p.series] = seriesMap[p.series] || []).push(p);
+      }
+      for (const [sname, sprods] of Object.entries(seriesMap)) {
+        const sm = (series || []).find(x => x.series === sname && x.line === line);
+        html += `<div class="card">
+          <h3>${esc(sname)}</h3>
+          ${sm && sm.positioning ? `<div class="muted" style="margin-bottom:8px">${esc(sm.positioning)}</div>` : ''}
+          <table><thead><tr>
+            <th>型号</th><th>封装</th><th>主频</th><th>Flash</th><th>RAM</th><th>关键参数</th>
+          </tr></thead><tbody>`;
+        for (const p of sprods) {
+          html += `<tr class="rowlink" data-nav="product-detail" data-line="${esc(p.line)}" data-device="${esc(p.device)}">
+            <td><strong>${esc(p.device)}</strong></td>
+            <td>${esc(p.package || p.positioning || '')}</td>
+            <td class="num">${numFmt(p.freq_mhz)}</td>
+            <td class="num">${numFmt(p.flash_kb)}</td>
+            <td class="num">${numFmt(p.ram_kb)}</td>
+            <td>${esc(summarize(p))}</td>
+          </tr>`;
+        }
+        html += `</tbody></table></div>`;
+      }
     }
     if (!prods.length) {
       html += `<div class="empty">该产品线暂无型号数据</div>`;
