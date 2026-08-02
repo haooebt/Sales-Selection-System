@@ -1,0 +1,135 @@
+[
+  {
+    "app": "家用空调外机，单相 PFC + 双直流电机",
+    "mcu": "",
+    "driver_ipm": "LKS561",
+    "power": "BPA8618PD",
+    "note": ""
+  },
+  {
+    "app": "商用空调，两相 PFC + 双直流电机",
+    "mcu": "",
+    "driver_ipm": "LKS561",
+    "power": "BPA86526P",
+    "note": ""
+  },
+  {
+    "app": "低成本空调外机/压缩机",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA8504D / BPA85963D",
+    "note": ""
+  },
+  {
+    "app": "滚筒 BLDC/DD 洗衣机",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA861x/BPA8620/BPA86525PC/BPA86526P/BPA86015G/BPA85906D/BPA8506D",
+    "note": ""
+  },
+  {
+    "app": "波轮 DDM 洗衣机",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA8505D / BPA8506D 等",
+    "note": ""
+  },
+  {
+    "app": "干衣机 PFC 单变频",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA86525PC/BPA86526P/BPA86015G/BPA85906D/BPA8506D",
+    "note": ""
+  },
+  {
+    "app": "干衣机 PFC 双电机/热泵",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA86525PC/BPA86526P/BPA86015G/BPA85906D/BPA8506D",
+    "note": ""
+  },
+  {
+    "app": "家用冰箱压缩机",
+    "mcu": "",
+    "driver_ipm": "BP6901A + IGBT 或 IPM",
+    "power": "BPA8505",
+    "note": ""
+  },
+  {
+    "app": "集成高压预驱冰箱",
+    "mcu": "",
+    "driver_ipm": "内置 600V 6N 预驱",
+    "power": "BPA8505",
+    "note": ""
+  },
+  {
+    "app": "商用冰箱压缩机",
+    "mcu": "",
+    "driver_ipm": "BP6901 / IPM",
+    "power": "BPA8505",
+    "note": ""
+  },
+  {
+    "app": "低压车载冰箱压缩机",
+    "mcu": "",
+    "driver_ipm": "MOS x 6",
+    "power": "低压供电",
+    "note": ""
+  },
+  {
+    "app": "家用变频油烟机",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "BPA8505",
+    "note": ""
+  },
+  {
+    "app": "无电解油烟机",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "",
+    "note": ""
+  },
+  {
+    "app": "直流无刷洗碗机",
+    "mcu": "",
+    "driver_ipm": "LKS1D5007D",
+    "power": "BP86213 + BPA8504D",
+    "note": ""
+  },
+  {
+    "app": "燃热强排风机/水泵，集成预驱",
+    "mcu": "",
+    "driver_ipm": "内置 6N 预驱",
+    "power": "低压供电",
+    "note": ""
+  },
+  {
+    "app": "燃热强排风机/水泵，分立方案",
+    "mcu": "",
+    "driver_ipm": "LKS563",
+    "power": "低压供电",
+    "note": ""
+  },
+  {
+    "app": "燃热强排主变一体",
+    "mcu": "",
+    "driver_ipm": "LKS563",
+    "power": "低压供电",
+    "note": ""
+  },
+  {
+    "app": "高压风机/PFC 高压风机",
+    "mcu": "",
+    "driver_ipm": "IPM/Gate Driver",
+    "power": "视功率段选 BPA",
+    "note": ""
+  },
+  {
+    "app": "高压双电机/双变频平台",
+    "mcu": "",
+    "driver_ipm": "IPM",
+    "power": "视功率段选 BPA",
+    "note": ""
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "lines": {
+    "MCU": 77,
+    "ACDC-BP": 22,
+    "ACDC-BPA": 24,
+    "Gate Driver": 11,
+    "IPM": 24,
+    "DC-DC": 4,
+    "LED Driver": 15
+  },
+  "gaps": [],
+  "conflicts": [
+    {
+      "line": "Gate Driver",
+      "device": "BP6901A",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6911",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS563",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS571",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6901A",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6903A",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6904A",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6911",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "BP6914",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS570",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/Driver/Gate Driver.xlsx"
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS563",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/Driver/Gate Driver.xlsx"
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS523",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/Driver/Gate Driver.xlsx"
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS520",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/Driver/Gate Driver.xlsx"
+      ]
+    },
+    {
+      "line": "Gate Driver",
+      "device": "LKS513",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/Driver/Gate Driver.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D3007D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M23007",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25005",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M36003",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1S57008",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5007DT",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5005DT",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5005D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5004D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5003D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D3007D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25003L",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25005",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M23007",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        ""
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D3007D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5003D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5004D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5005D",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5005DT",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1D5007DT",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M23006",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M23007",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25003L",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25003",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25004",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    },
+    {
+      "line": "IPM",
+      "device": "LKS1M25005",
+      "reason": "重复记录，保留先出现的来源",
+      "sources": [
+        "",
+        "02_Product Knowledge Base/IPM/IPM.xlsx"
+      ]
+    }
+  ],
+  "product_count": 177,
+  "competitor_count": 8
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "line": "MCU",
+    "series": "LKS03x",
+    "positioning": "48 MHz、32 KB Flash、4 KB RAM 的入门级电机控制 MCU，覆盖大量小封装，部分型号内置 6N 或 3P3N gate driver。",
+    "suitable": [
+      "低成本三相电机控制。",
+      "小封装、外围器件少、需要内置 gate driver 的项目。",
+      "简单 Hall/无传感电机控制。",
+      "需要 CAN/QEP 的项目。",
+      "代码量或算法复杂度较高的项目。",
+      "需要较大 RAM/Flash 余量的项目。",
+      "内置 gate driver 型号的电流/供电范围需要核对 datasheet。",
+      "小封装 pinout 和 ADC/OPA/COMP 可用性需要按型号细分。"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS03x"
+  },
+  {
+    "line": "MCU",
+    "series": "LKS05x",
+    "positioning": "96 MHz、32 KB Flash 的低成本电机控制 MCU，具备 12-bit DAC，部分型号内置 6N 或 3P3N gate driver。",
+    "suitable": [
+      "需要 96 MHz 但资源需求不高的低成本电机控制。",
+      "小家电、风机、水泵等成本敏感项目。",
+      "需要 6N/3P3N 集成驱动的小型方案。",
+      "RAM 需求较高的复杂控制。",
+      "需要 CAN/QEP 的项目。",
+      "内置 gate driver 电流字段需要核对原始 Excel 显示和 datasheet。",
+      "与 LKS03x/LKS08x 的成本和性能边界需要补充。"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS05x"
+  },
+  {
+    "line": "MCU",
+    "series": "LKS06x",
+    "positioning": "96 MHz、32 KB Flash、4 KB RAM 的小中资源电机控制 MCU，目前表内型号较少，可作为 LKS05x 与 LKS08x 之间的补充。",
+    "suitable": [
+      "需要 12 路 ADC、较多 OPA，但不需要 CAN/QEP 的项目。",
+      "对 RAM 比 LKS05x 略高要求的 96 MHz 电机控制项目。",
+      "需要 CAN/QEP 或更大 Flash 的项目。",
+      "资料不充分时，不建议作为首推，需先核对 datasheet。",
+      "`LKS06系列.xlsx` 中有一个 `Gate driver supply (V)` 字段读取为 `45955`，疑似 Excel 格式问题，正式使用前需要核对原表。"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS06x"
+  },
+  {
+    "line": "MCU",
+    "series": "LKS07x",
+    "positioning": "96 MHz、64/128 KB Flash、12 KB RAM 的中端电机控制 MCU，QEP 覆盖完整，部分型号支持 CAN 和内置 gate driver。",
+    "suitable": [
+      "带编码器/位置反馈的电机控制项目。",
+      "需要 CAN 的中端电机控制项目。",
+      "需要 64/128 KB Flash 和 12 KB RAM 余量的项目。",
+      "有集成 gate driver 需求的中端方案。",
+      "需要 192 MHz 或 256 KB Flash 的高性能项目，可转 LKS45x。",
+      "极低成本、小封装简单控制，可转 LKS03x/LKS05x。",
+      "目录中有 `LKS32MC07x-MCU上电时刻IO电压异常抬升问题说明.pdf`，涉及上电时刻 IO 电压异常抬升，推荐前应阅读并确认应用风险。"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS07x"
+  },
+  {
+    "line": "MCU",
+    "series": "LKS08x",
+    "positioning": "96 MHz、32/64 KB Flash、8 KB RAM 的小中资源电机控制 MCU，封装覆盖广，部分型号支持 CAN/QEP 和内置 gate driver。",
+    "suitable": [
+      "需要比 LKS05x 更大 RAM，但不一定需要 LKS07x 128 KB Flash 的项目。",
+      "封装选择多、资源中等的电机控制项目。",
+      "需要部分 CAN/QEP 能力的小中型项目。",
+      "需要高 ADC/COMP/OPA 资源或 256 KB Flash 的项目。",
+      "需要确定全系列 QEP/CAN 覆盖的项目，需逐型号确认。",
+      "建议和 LKS07x 做“同为 96 MHz 中端系列”的边界说明。"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS08x"
+  },
+  {
+    "line": "MCU",
+    "series": "LKS45x",
+    "positioning": "192 MHz、256 KB Flash、40 KB RAM 的高资源电机控制 MCU，面向较复杂电机控制、高 ADC/COMP/OPA 资源和竞品替代需求。",
+    "suitable": [
+      "高性能电机控制。",
+      "双三相或高模拟资源需求项目。",
+      "需要 CAN/QEP、较多 ADC/COMP/OPA 的项目。",
+      "竞品替代中需要较高资源余量时优先考虑。",
+      "极低成本项目。",
+      "小 Flash/RAM 足够的简单电机控制。",
+      "需要内置 gate driver 且封装/资源不匹配时，需要改看 LKS03x/LKS05x/LKS07x/LKS08x 或外置 driver。",
+      "同封装普通版和 `L/5V Supply` 版可作为优先互看对象，例如 `LKS32MC455RCT8` 与 `LKS32MC455LRCT8`。",
+      "LQFP64 内部型号之间不能仅凭封装互替，需要逐项核对 ADC/COMP Ch./OPA 和是否 5V Supply。",
+      "`LKS45系列.xlsx`",
+      "`LKS32MC45x_DS_v1.58.pdf`",
+      "`LKS32MC45x_UM_v1.72.pdf`",
+      "`LKS32MC45x_ER_v1.1.pdf`",
+      "`LKS32MC45x_6N_DS_v1.04.pdf`"
+    ],
+    "source": "02_Product Knowledge Base/MCU/LKS45x"
+  },
+  {
+    "line": "ACDC-BP",
+    "series": "BP",
+    "positioning": "BP系列是晶丰明源的ACDC电源驱动芯片产品线，覆盖LED恒流驱动、开关电源驱动、非隔离降压恒压等应用场景，",
+    "source": "02_Product Knowledge Base/ACDC/BP"
+  },
+  {
+    "line": "ACDC-BPA",
+    "series": "BPA",
+    "positioning": "BPA系列是晶丰明源的高端ACDC电源驱动芯片产品线，以700V-825V高压MOSFET集成、超低待机功耗为特色，",
+    "source": "02_Product Knowledge Base/ACDC/BPA"
+  },
+  {
+    "line": "Gate Driver",
+    "series": "Driver",
+    "positioning": "用于电机控制和半桥/三相驱动的门极驱动器产品线，可与 MCU/IPM/电机控制方案联动选型。",
+    "source": "02_Product Knowledge Base/Driver"
+  },
+  {
+    "line": "IPM",
+    "series": "IPM",
+    "positioning": "IPM 产品线面向电机驱动功率级集成，当前资料覆盖 300 V 和 500 V、3 A 至 7 A 等级，全部表内状态为“主推”。",
+    "source": "02_Product Knowledge Base/IPM"
+  },
+  {
+    "line": "DC-DC",
+    "series": "DC-DC",
+    "positioning": "集成 Buck Converter，3-16V 或 4.5-18V 输入，6A/12A/20A/3A 等档位",
+    "source": "02_Product Knowledge Base/DC-DC"
+  },
+  {
+    "line": "LED Driver",
+    "series": "LED Driver",
+    "positioning": "色温控制、智能开关、两线无零火",
+    "source": "02_Product Knowledge Base/LED Driver"
+  },
+  {
+    "line": "Power Device",
+    "series": "Power Device",
+    "positioning": "2025Q4 手册中 `Power Device` 和 `Power` 信息与 Gate Driver/IPM 同页出现，当前适合作为器件级快速定位入口，后续需要按 datasheet 继续参数化。",
+    "source": "02_Product Knowledge Base/Power Device"
+  }
+]

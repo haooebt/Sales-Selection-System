@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MCU",
+    "entry": "MCU/MCU Family Overview.md",
+    "status": "已有 Excel 选型表，PDF datasheet 待后续解析"
+  },
+  {
+    "name": "Gate Driver",
+    "entry": "Driver/00_Product Card.md",
+    "status": "已读取 Gate Driver Excel，已形成产品卡"
+  },
+  {
+    "name": "IPM",
+    "entry": "IPM/00_Product Card.md",
+    "status": "已读取 IPM Excel，已形成产品卡"
+  },
+  {
+    "name": "ACDC (BP系列)",
+    "entry": "ACDC/BP/03_Parsed_Markdown/",
+    "status": "**已全部解析** BP系列24个型号→22个结构化Markdown"
+  },
+  {
+    "name": "ACDC (BPA系列)",
+    "entry": "ACDC/BPA/03_Parsed_Markdown/",
+    "status": "**已全部解析** BPA系列28个型号→26个结构化Markdown"
+  },
+  {
+    "name": "DC/DC",
+    "entry": "DC-DC/00_Product Card.md",
+    "status": "已从 2025Q4 Product Catalog 建立首轮产品卡"
+  },
+  {
+    "name": "LED Driver",
+    "entry": "LED Driver/00_Product Card.md",
+    "status": "已从 2025Q4 Product Catalog 建立首轮产品卡"
+  },
+  {
+    "name": "Power / Power Device",
+    "entry": "Power Device/00_Product Card.md",
+    "status": "已从 2025Q4 Product Catalog 建立轻量产品卡，需继续补 datasheet"
+  },
+  {
+    "name": "2025Q4 Product Catalog",
+    "entry": "2025Q4 Product Catalog Digest.md",
+    "status": "全产品线英文选型手册，已建立 digest"
+  },
+  {
+    "name": "Home Appliance Solutions",
+    "entry": "../03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md",
+    "status": "已内化 Q2Y26 大家电产品介绍、26Q1 Roadmap、凌鸥大家电方案介绍"
+  },
+  {
+    "name": "ACDC BP系列",
+    "entry": "",
+    "status": ""
+  },
+  {
+    "name": "ACDC BPA系列",
+    "entry": "",
+    "status": ""
+  }
+]

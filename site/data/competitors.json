@@ -1,0 +1,90 @@
+[
+  {
+    "brand": "Infineon",
+    "model": "CY8C4147AZQ-T495",
+    "replacement": "LKS32MC453RCT8",
+    "grade": "B/C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "无 CAPSENSE™；仅 2.2-3.6 V；资源过配",
+    "note": "不使用触摸时为资源覆盖主推；使用触摸时只能做方案替代",
+    "source": "04_Competitor and Replacement/Replacement Tables/Infineon_CY8C4147AZQ-T495_Replacement Summary.md"
+  },
+  {
+    "brand": "Infineon",
+    "model": "CY8C4147AZQ-T495",
+    "replacement": "LKS32MC455LRCT8",
+    "grade": "B/C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "无 CAPSENSE™；5 V 供电细节与 IO 需复核",
+    "note": "5 V 系统的 64-pin 资源覆盖备选",
+    "source": "04_Competitor and Replacement/Replacement Tables/Infineon_CY8C4147AZQ-T495_Replacement Summary.md"
+  },
+  {
+    "brand": "Infineon",
+    "model": "CY8C4147AZQ-T495",
+    "replacement": "LKS32MC070RBT8",
+    "grade": "C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "SRAM 12 KB；2 UART/1 IIC；无 CAPSENSE™",
+    "note": "128 KB Flash、64-pin、10×10 mm、0.5 mm pitch 的成本平衡候选",
+    "source": "04_Competitor and Replacement/Replacement Tables/Infineon_CY8C4147AZQ-T495_Replacement Summary.md"
+  },
+  {
+    "brand": "Infineon",
+    "model": "CY8C4147AZQ-T495",
+    "replacement": "LKS32MC032LK6T8C",
+    "grade": "C/D",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "32 KB Flash、4 KB RAM、GPIO/通信不足、无 CAPSENSE™",
+    "note": "03 系列仅在实际资源大幅低于竞品标称时评估",
+    "source": "04_Competitor and Replacement/Replacement Tables/Infineon_CY8C4147AZQ-T495_Replacement Summary.md"
+  },
+  {
+    "brand": "TI",
+    "model": "MSPM0L1304TRGER",
+    "replacement": "LKS32MC037M6S8C",
+    "grade": "C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "SSOP24；少 1 路 I2C；UART/IIC/SPI 为 1/1/1；低功耗需确认",
+    "note": "不强制 QFN 时的功能替代候选",
+    "source": "04_Competitor and Replacement/Replacement Tables/TI_MSPM0L1304TRGER_Replacement Summary.md"
+  },
+  {
+    "brand": "TI",
+    "model": "MSPM0L1304TRGER",
+    "replacement": "LKS32MC037QM6Q8C / LKS32MC037Q2M6Q8C",
+    "grade": "C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "QFN24L 但 pinout 不兼容；带 3P3N gate driver 可能过配；少 1 路 I2C",
+    "note": "强制小 QFN 时可讨论",
+    "source": "04_Competitor and Replacement/Replacement Tables/TI_MSPM0L1304TRGER_Replacement Summary.md"
+  },
+  {
+    "brand": "TI",
+    "model": "MSPM0L1304TRGER",
+    "replacement": "LKS32MC057M6S8",
+    "grade": "C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "SSOP24；ADC 通道较少；少 1 路 I2C",
+    "note": "重视 2 UART 时可讨论",
+    "source": "04_Competitor and Replacement/Replacement Tables/TI_MSPM0L1304TRGER_Replacement Summary.md"
+  },
+  {
+    "brand": "TI",
+    "model": "MSPM0L1304TRGER",
+    "replacement": "LKS32MC062K6Q8",
+    "grade": "C",
+    "pin_compatible": "否",
+    "sw_effort": "高",
+    "risk": "QFN32；封装变大；少 1 路 I2C",
+    "note": "接受更大封装和更高资源时可讨论",
+    "source": "04_Competitor and Replacement/Replacement Tables/TI_MSPM0L1304TRGER_Replacement Summary.md"
+  }
+]

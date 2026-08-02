@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "category": "MCU",
+      "line": "MCU",
+      "primary": "`MCU/MCU Family Overview.md`",
+      "aux": "`Product Line Index.md`",
+      "filters": "内核/主频、Flash/RAM、封装、ADC、PWM/Timer、OPA/COMP、通讯接口、工作电压、温度"
+    },
+    {
+      "category": "IPM",
+      "line": "IPM",
+      "primary": "`IPM/00_Product Card.md`",
+      "aux": "`IPM/IPM.xlsx`",
+      "filters": "耐压、电流、封装、桥臂结构、驱动方式、保护功能、应用功率段"
+    },
+    {
+      "category": "Gate Driver",
+      "line": "Driver",
+      "primary": "`Driver/00_Product Card.md`",
+      "aux": "`Driver/Gate Driver.xlsx`",
+      "filters": "通道数、驱动电流、耐压、隔离/非隔离、自举、保护功能、封装"
+    },
+    {
+      "category": "ACDC",
+      "line": "ACDC",
+      "primary": "`ACDC/00_Intake Notes.md`",
+      "aux": "具体 datasheet",
+      "filters": "拓扑、功率段、集成 MOS/外置 MOS、启动方式、保护功能、封装、待机功耗"
+    },
+    {
+      "category": "DC/DC",
+      "line": "DC/DC",
+      "primary": "`DC-DC/00_Product Card.md`",
+      "aux": "`2025Q4 Product Catalog Digest.md`",
+      "filters": "输入/输出电压、电流/相数、拓扑、频率、接口、封装、保护"
+    },
+    {
+      "category": "LED Driver",
+      "line": "LED Driver",
+      "primary": "`LED Driver/00_Product Card.md`",
+      "aux": "`2025Q4 Product Catalog Digest.md`",
+      "filters": "拓扑、功率、电流精度、调光方式、PF/THD、频闪、封装"
+    },
+    {
+      "category": "Power Device",
+      "line": "Power / Power Device",
+      "primary": "`Power Device/00_Product Card.md`",
+      "aux": "`2025Q4 Product Catalog Digest.md`",
+      "filters": "MOS/IGBT/Power、耐压、Rds-on/Vce(sat)、输出电流、封装"
+    }
+  ],
+  "applications": [
+    {
+      "app": "家电辅助电源",
+      "products": "`03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md`",
+      "lines": "BPA ACDC"
+    },
+    {
+      "app": "空调外机/商用空调",
+      "products": "`03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md`",
+      "lines": "LKS32MC45x、LKS32MC07x、LKS561、BPA8618PD/BPA86526P、IPM"
+    },
+    {
+      "app": "洗衣机/干衣机",
+      "products": "`03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md`",
+      "lines": "LKS32MC08x/07x/45x、BPA861x/BPA8620/BPA8652x/BPA86015G"
+    },
+    {
+      "app": "冰箱压缩机",
+      "products": "`03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md`",
+      "lines": "LKS32MC03x/07x/08x、BP6901A、BPA8505、IPM"
+    },
+    {
+      "app": "油烟机/洗碗机/强排风机/水泵",
+      "products": "`03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md`",
+      "lines": "LKS32MC03x/07x、LKS563、LKS1D5007D、BPA8504D/BP86213"
+    }
+  ]
+}
