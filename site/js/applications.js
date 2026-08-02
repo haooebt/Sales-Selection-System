@@ -1,61 +1,120 @@
-// applications.js — 应用场景入口视图
+// applications.js — 应用方案套料视图（场景 → MCU + 驱动 + 电源组合）
 window.ApplicationsView = {
+  state: { q: '', role: '' },
+
   render() {
-    const { applications, locator } = window.VaultData;
-    let html = `<h2 class="view-title">应用场景入口</h2>
-      <div class="view-sub">按终端应用场景查看产品组合方案</div>`;
-
-    // 场景卡片网格
-    html += `<div class="line-grid">`;
-    for (const a of applications) {
-      const mcu = a.mcu || '';
-      const ipm = a.driver_ipm || '';
-      const power = a.power || '';
-      html += `<a class="line-tile" href="#/applications/${encodeURIComponent(a.app)}">
-        <h3>${esc(a.app)}</h3>
-        <div class="muted" style="margin-top:6px">
-          ${mcu ? `<div>MCU: ${esc(mcu)}</div>` : ''}
-          ${ipm ? `<div>IPM/驱动: ${esc(ipm)}</div>` : ''}
-          ${power ? `<div>电源: ${esc(power)}</div>` : ''}
-        </div>
-      </a>`;
-    }
-    html += `</div>`;
-
-    // 场景→产品线快速映射
-    if (locator && locator.applications && locator.applications.length) {
-      html += `<h3 style="margin:28px 0 12px">场景 → 产品线速查</h3>
-        <table><thead><tr><th>应用场景</th><th>优先读取</th><th>典型产品线</th></tr></thead><tbody>`;
-      for (const row of locator.applications) {
-        html += `<tr><td>${esc(row.app)}</td><td class="muted">${esc(row.products || '')}</td><td>${esc(row.lines || '')}</td></tr>`;
-      }
-      html += `</tbody></table>`;
-    }
-    return html;
+    const roles = [
+      { key: '', label: '全部方案' },
+      { key: 'mcu', label: 'MCU 控制' },
+      { key: 'driver', label: '驱动 / IPM' },
+      { key: 'power', label: '电源' },
+    ];
+    return `<div class="light-zone">
+      <h2 class="view-title">应用方案套料</h2>
+      <div class="view-sub">按应用场景查看 MCU + 驱动 + 电源 整机方案，点型号直达产品详情</div>
+      <div class="app-filter">
+        <input type="text" id="app-search" placeholder="搜索应用场景，如 空调、洗衣机、冰箱…">
+        <select id="app-role">
+          ${roles.map(r => `<option value="${esc(r.key)}">${esc(r.label)}</option>`).join('')}
+        </select>
+      </div>
+      <div id="app-boms"></div>
+    </div>`;
   },
 
-  renderDetail(app) {
-    const { applications, locator } = window.VaultData;
-    const a = applications.find(x => x.app === app);
-    if (!a) return `<div class="empty">未找到场景 ${esc(app)}</div>`;
-    let html = `<a href="#/applications" class="back-link">← 应用场景</a>
-      <h2 class="view-title">${esc(a.app)}</h2>
-      <div class="detail-grid">
-        <div class="card"><h3>MCU</h3><p>${esc(a.mcu || '—')}</p></div>
-        <div class="card"><h3>Driver / IPM</h3><p>${esc(a.driver_ipm || '—')}</p></div>
-        <div class="card"><h3>辅助电源</h3><p>${esc(a.power || '—')}</p></div>
-        <div class="card"><h3>备注</h3><p class="muted">${esc(a.note || '—')}</p></div>
-      </div>`;
+  afterRender() {
+    const input = document.getElementById('app-search');
+    const select = document.getElementById('app-role');
+    const apply = () => {
+      this.state.q = input.value.trim().toLowerCase();
+      this.state.role = select.value;
+      this.renderBoms();
+    };
+    input.addEventListener('input', apply);
+    select.addEventListener('change', apply);
+    this.renderBoms();
+  },
 
-    // 关联竞品类别（通过 locator）
-    if (locator && locator.categories && locator.categories.length) {
-      html += `<h3 style="margin:24px 0 10px">相关竞品类别</h3><table><thead><tr>
-        <th>竞品类别</th><th>我司产品线</th><th>首选入口</th><th>第一轮筛选参数</th></tr></thead><tbody>`;
-      for (const row of locator.categories) {
-        html += `<tr><td>${esc(row.category)}</td><td>${esc(row.line)}</td><td class="muted">${esc(row.primary || '')}</td><td class="muted">${esc(row.filters || '')}</td></tr>`;
-      }
-      html += `</tbody></table>`;
+  renderBoms() {
+    const box = document.getElementById('app-boms');
+    if (!box) return;
+    const { applications } = window.VaultData;
+    const q = this.state.q;
+    const role = this.state.role;
+
+    const list = applications.filter(a => {
+      if (role && !this.hasRole(a, role)) return false;
+      if (q && !a.app.toLowerCase().includes(q)) return false;
+      return true;
+    });
+
+    if (!list.length) {
+      box.innerHTML = `<div class="empty">无匹配方案，请调整搜索条件</div>`;
+      return;
     }
-    return html;
+
+    // 数据源提示：部分场景 MCU 组合未录入
+    const missingMcu = applications.filter(a => !a.mcu).length;
+    let banner = '';
+    if (missingMcu > 0) {
+      banner = `<div class="banner-warn" style="margin-bottom:16px">
+        ⚠️ 数据源中 ${missingMcu} 个应用场景的 MCU 型号尚未录入，当前仅展示 驱动/IPM 与 电源 组合；MCU 部分待补充。
+      </div>`;
+    }
+
+    box.innerHTML = banner + `<div class="result-count">${list.length} 个应用场景方案</div>` +
+      list.map(a => this.bomCard(a)).join('');
+  },
+
+  hasRole(a, role) {
+    return !!(a[role] && String(a[role]).trim());
+  },
+
+  bomCard(a) {
+    const rows = [
+      { key: 'mcu', tag: 'MCU', label: 'MCU 控制' },
+      { key: 'driver_ipm', tag: 'driver', label: '驱动 / IPM' },
+      { key: 'power', tag: 'power', label: '电源' },
+    ];
+    const body = rows.map(r => {
+      const val = a[r.key] || '';
+      if (!val.trim()) return '';
+      return `<div class="bom-role">
+        <span class="role-tag ${r.tag}">${r.label}</span>
+        <span class="chips-row">${this.toChips(val, r.tag)}</span>
+      </div>`;
+    }).join('');
+
+    return `<div class="bom-card">
+      <div class="bom-head">
+        <h3>${esc(a.app)}</h3>
+        ${a.note ? `<span class="muted">${esc(a.note)}</span>` : ''}
+      </div>
+      ${body || `<div class="muted">暂未录入组合</div>`}
+    </div>`;
+  },
+
+  // 将 "BPA8504D / BPA85963D" 之类字符串拆成芯片，可跳详情则加链接
+  toChips(str, tag) {
+    const products = window.VaultData.products || [];
+    const parts = String(str).split(/[\/,、\n]+/).map(s => s.trim()).filter(Boolean);
+    return parts.map(chip => {
+      const hit = this.resolveProduct(chip, products);
+      if (hit) {
+        const href = `#/products-detail/${encodeURIComponent(hit.line)}/${encodeURIComponent(hit.device)}`;
+        return `<a class="bom-chip" href="${href}">${esc(chip)}</a>`;
+      }
+      return `<span class="bom-chip" title="库中暂无该型号详情">${esc(chip)}</span>`;
+    }).join('');
+  },
+
+  resolveProduct(chip, products) {
+    const c = chip.toLowerCase();
+    // 优先精确匹配 device
+    let hit = products.find(p => p.device && p.device.toLowerCase() === c);
+    if (hit) return hit;
+    // 其次前缀匹配（如 LKS561 → LKS561xxx）
+    hit = products.find(p => p.device && p.device.toLowerCase().startsWith(c));
+    return hit || null;
   },
 };

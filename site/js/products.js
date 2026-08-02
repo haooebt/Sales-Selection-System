@@ -1,32 +1,70 @@
 // products.js — 产品库视图（产品线 → 系列 → 型号三级 + 详情）
 window.ProductsView = {
+  // ---------- 产品线总览 ----------
   renderList() {
-    const { products, product_lines } = window.VaultData;
+    const { products } = window.VaultData;
     const lines = {};
     for (const p of products) {
       (lines[p.line] = lines[p.line] || []).push(p);
     }
-    let html = `<h2 class="view-title">产品库</h2>
-      <div class="view-sub">按产品线浏览晶丰明源全产品系列</div>
+    let html = `<div class="light-zone">
+      <h2 class="view-title">产品库</h2>
+      <div class="view-sub">按产品线浏览晶丰明源全产品系列与型号参数</div>
+      <div class="searchbar">
+        <input type="text" id="prod-search" placeholder="搜索型号，如 LKS32MC031、BP85…">
+      </div>
       <div class="line-grid">`;
     for (const [line, prods] of Object.entries(lines)) {
-      const meta = (product_lines || []).find(x => x.name === line);
       html += `<a class="line-tile" href="#/products/${encodeURIComponent(line)}">
+        <div class="accent"></div>
         <h3>${esc(lineLabel(line))}</h3>
-        <div class="count">${prods.length} 个型号</div>
-        <div class="muted">${esc((meta && meta.status) || '')}</div>
+        <div class="count">${prods.length} 条记录</div>
       </a>`;
     }
-    html += `</div>`;
+    html += `</div></div>`;
     return html;
   },
 
+  afterRenderList() {
+    const input = document.getElementById('prod-search');
+    if (!input) return;
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      if (q.length < 2) return;
+      const hits = (window.VaultData.products || [])
+        .filter(p => p.device && p.device.toLowerCase().includes(q))
+        .slice(0, 8);
+      if (!hits.length) return;
+      const targets = hits.map(p =>
+        `#/products-detail/${encodeURIComponent(p.line)}/${encodeURIComponent(p.device)}`);
+      const modal = document.createElement('div');
+      modal.className = 'search-pop';
+      modal.innerHTML = hits.map((p, i) =>
+        `<div class="sr-item" data-href="${esc(targets[i])}">
+          <strong>${esc(p.device)}</strong> <small>${esc(lineLabel(p.line))}</small>
+        </div>`).join('');
+      const wrap = input.parentElement;
+      wrap.appendChild(modal);
+      modal.querySelectorAll('.sr-item').forEach(el =>
+        el.addEventListener('click', () => {
+          location.hash = el.dataset.href;
+          input.value = '';
+          modal.remove();
+        }));
+      document.addEventListener('click', function off(e) {
+        if (!wrap.contains(e.target)) { modal.remove(); document.removeEventListener('click', off); }
+      });
+    });
+  },
+
+  // ---------- 产品线 → 系列/型号 ----------
   renderLine(line) {
     const { products, series } = window.VaultData;
     const prods = products.filter(p => p.line === line);
     const families = prods.filter(p => p.pending_param);
     const real = prods.filter(p => !p.pending_param);
-    let html = `<a href="#/products" class="back-link">← 产品库</a>
+    let html = `<div class="light-zone">
+      <a href="#/products" class="back-link">← 产品库</a>
       <h2 class="view-title">${esc(lineLabel(line))}</h2>
       <div class="view-sub">${prods.length} 条记录${families.length ? `（含 ${families.length} 个产品族，型号级参数待补充）` : ''}</div>`;
 
@@ -39,7 +77,7 @@ window.ProductsView = {
             <h3>${esc(p.device)}</h3>
             ${p.positioning ? `<span class="muted">${esc(p.positioning)}</span>` : ''}
           </div>
-          ${card.length ? `<div class="family-models"><label>代表型号</label>${chips(card)}</div>` : ''}
+          ${card.length ? `<div class="family-models"><label>代表型号</label>${chips(card, 'light-chip')}</div>` : ''}
           ${p.first_filters ? `<div class="muted" style="margin-top:6px">第一轮筛选：${esc(p.first_filters)}</div>` : ''}
         </div>`;
       }
@@ -75,16 +113,19 @@ window.ProductsView = {
     if (!prods.length) {
       html += `<div class="empty">该产品线暂无型号数据</div>`;
     }
+    html += `</div>`;
     return html;
   },
 
+  // ---------- 型号详情 ----------
   renderDetail(line, device) {
     const { products } = window.VaultData;
     const p = products.find(x => x.line === line && x.device === device);
     if (!p) return `<div class="empty">未找到型号 ${esc(device)}</div>`;
     const isFamily = p.pending_param;
 
-    let html = `<a href="#/products/${encodeURIComponent(p.line)}" class="back-link">← ${esc(lineLabel(p.line))}</a>`;
+    let html = `<div class="light-zone">
+      <a href="#/products/${encodeURIComponent(p.line)}" class="back-link">← ${esc(lineLabel(p.line))}</a>`;
 
     if (p.data_quality && p.data_quality.conflicts && p.data_quality.conflicts.length) {
       html += `<div class="banner-warn">⚠️ 数据源存在冲突，以最新 datasheet 为准。</div>`;
@@ -102,7 +143,7 @@ window.ProductsView = {
 
     // 代表型号（族级）
     if (p.representative_models && p.representative_models.length) {
-      html += `<div class="card"><h3>代表型号</h3>${chips(p.representative_models)}</div>`;
+      html += `<div class="card"><h3>代表型号</h3>${chips(p.representative_models, 'light-chip')}</div>`;
     }
     if (p.first_filters) {
       html += `<div class="card"><h3>第一轮筛选参数</h3><p class="muted">${esc(p.first_filters)}</p></div>`;
@@ -138,9 +179,9 @@ window.ProductsView = {
     if (!shown) html += `<dt>—</dt><dd>暂无详细参数</dd>`;
     html += `</dl></div>`;
 
-    html += `<div class="card"><h3>适合场景</h3>${chips(p.suitable) || '<p class="muted">暂无</p>'}</div>`;
-    html += `<div class="card"><h3>已量产应用</h3>${chips(p.applications) || '<p class="muted">暂无</p>'}</div>`;
-    html += `<div class="card"><h3>不适合场景</h3>${chips(p.unsuitable) || '<p class="muted">暂无</p>'}</div>`;
+    html += `<div class="card"><h3>适合场景</h3>${chips(p.suitable, 'light-chip') || '<p class="muted">暂无</p>'}</div>`;
+    html += `<div class="card"><h3>已量产应用</h3>${chips(p.applications, 'light-chip') || '<p class="muted">暂无</p>'}</div>`;
+    html += `<div class="card"><h3>不适合场景</h3>${chips(p.unsuitable, 'light-chip') || '<p class="muted">暂无</p>'}</div>`;
     html += `</div>`;
 
     if (p.overview) {
@@ -149,6 +190,7 @@ window.ProductsView = {
     if (p.source) {
       html += `<div class="card"><h3>数据来源</h3><p class="muted">${esc(p.source)}</p></div>`;
     }
+    html += `</div>`;
     return html;
   },
 };
