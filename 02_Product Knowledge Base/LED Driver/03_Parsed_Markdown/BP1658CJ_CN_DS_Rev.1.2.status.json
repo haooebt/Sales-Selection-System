@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:59:16+08:00",
+  "file": "BP1658CJ_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 736936,
+    "pages": 12,
+    "sha256": "9b03fa2c54774944771fb8e847c9aa93f05471243712f6dfbcda2acd7b47164d"
+  },
+  "batch_id": "64685f47-2432-4988-858e-fe16cc3036cd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:59:18+08:00",
+    "errors": [],
+    "markdown_chars": 13297,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T14:59:40+08:00"
+}

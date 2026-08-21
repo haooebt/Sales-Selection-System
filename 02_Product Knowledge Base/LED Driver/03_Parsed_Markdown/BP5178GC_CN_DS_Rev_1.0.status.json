@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:18:20+08:00",
+  "file": "BP5178GC_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 664222,
+    "pages": 9,
+    "sha256": "a7ec45f4ad3db887b7623925d459b304e00ad09679a89cefc2a1715c80c80489"
+  },
+  "batch_id": "3d7c5e66-0b7e-42b8-b642-6ad3226ed812",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:18:24+08:00",
+    "errors": [],
+    "markdown_chars": 7191,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:18:33+08:00"
+}

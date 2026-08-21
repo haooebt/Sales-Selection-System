@@ -1,0 +1,2055 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H升降压闭环可控硅调光 LED驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                83,
+                510,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                148,
+                139,
+                165
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 是一款高效率、高 PF值，支持可控硅调光的LED驱动芯片。芯片工作在电感电流临界连续模式，适用于BuckBoost结构的LED驱动电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                185,
+                485,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 芯片采用源极驱动和高压供电方式，只需要很少的外围元件，即可实现优异的恒流特性，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                253,
+                485,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 具有多重保护功能，包括LED 开路保护（过压保护)，芯片温度过热调节等。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                321,
+                485,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                368,
+                258,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eeec65addfd60483b324bef174b154ea67a08431c8e1812413d48fe158575594.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                188,
+                401,
+                277,
+                461
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                152,
+                581,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                179,
+                685,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "源极驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                200,
+                640,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "集成 650V 高压 JFET 供电，外置VCC 电容"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                219,
+                868,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高压差分采样 OVP"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                239,
+                705,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内置COMP闭环恒流控制"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                259,
+                752,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "临界连续电流控制模式"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                279,
+                732,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高精度 Tonmax"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                300,
+                687,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "± 3% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                319,
+                746,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "采用 SOP-8封装性"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                340,
+                707,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逐周期限流（OCP）"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                360,
+                741,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开路保护（OVP)"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                380,
+                727,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 过温保护(OTP)"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                401,
+                727,
+                418
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                441,
+                623,
+                460
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED球泡灯"
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                474,
+                655,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 灯丝灯"
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                495,
+                655,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其他 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                514,
+                673,
+                531
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                535,
+                156,
+                554
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/df9d0bffbee7ad555fbe8543c37a63ddfd0e6f12aafdbdb291dfe00027f05c86.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP3296H 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                99,
+                573,
+                757,
+                864
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                726,
+                63,
+                905,
+                131
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "02/2023"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                124,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                946,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                653,
+                370,
+                734,
+                386
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8ffb055b8883490ae06281becf177c211f88938d74e1a58bbb91a6f5d743d13a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP3296H</td><td>SOP8</td><td>编带4,000颗/盘</td><td>BP3296XXXXYYZZZZWWH</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                171,
+                121,
+                825,
+                212
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管腳封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                259,
+                154,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/52f8117a7d705344e6df5a149f4b83ca2da452b5a453486ca9441b5b4d5eaff8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. SOP-8 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                388,
+                288,
+                789,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                434,
+                154,
+                451
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/10b39eb46b73add14991247a12e34d2d8e002412310d835d5b8e0152cffbb01e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>HV</td><td>高压供电端</td></tr><tr><td>2</td><td>HOVP</td><td>输出电压采样负端</td></tr><tr><td>3</td><td>NC</td><td>悬空</td></tr><tr><td>4</td><td>VCC</td><td>芯片供电端</td></tr><tr><td>5</td><td>CS</td><td>电流采样端</td></tr><tr><td>6</td><td>Tonmax</td><td>最大导通时间设置</td></tr><tr><td>7</td><td>GND</td><td>芯片地</td></tr><tr><td>8</td><td>DRAIN</td><td>内置功率 MOS 管的漏极</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                461,
+                927,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出功率"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                772,
+                154,
+                790
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/25d6ab49b1ca62018e1c5f7383aa2b789547f4201aafe9cdaa5a8ff7c090a8e2.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>型号</td><td>工作特点</td><td>输出功率(175~265 VAC)开放式(注 2)</td></tr><tr><td>BP3296H</td><td>恒功率输出</td><td>8W</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                800,
+                927,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                179,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential - Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                191,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c7c7e4e393173d55737d133194203998bb87c8eb765948a0b644bfe486202dbb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：极限参数是指超出该范围，有可能导致器件永久性损坏。极限参数为器件应力的额定值，长期工作在极限参数条件可能会影响器件的可靠性。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由TJMAX，θJA,和环境温度Ta所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P _ { D M A X } = ( T _ { J M A X } - T _ { A } ) /"
+                    },
+                    {
+                        "type": "text",
+                        "content": "θA或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注3：1平方英寸双层PCB板，按照JEDEC 标准测试。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：人体模型，100pF电容通过1.5kΩ 电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{DRAIN}$ </td><td>内部高压功率管耐压</td><td>-0.3~600</td><td>V</td></tr><tr><td> $V_{HV}$ </td><td>HV引脚电压</td><td>-0.3~650</td><td>V</td></tr><tr><td> $V_{Vcc}$ </td><td>芯片供电端</td><td>-0.3~20</td><td>V</td></tr><tr><td> $V_{Tonmax}$ </td><td>最大导通时间设置</td><td>-0.3~6</td><td>V</td></tr><tr><td> $V_{CS}$ </td><td>CS引脚电压</td><td>-0.3~6</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                929,
+                443
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注5)"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                95,
+                191,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fd36f546dcdb29d708efa98737a32c331aac62b613910e1a297ca965830525d6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源</td></tr><tr><td> $I_{HV}$ </td><td>HV充电电流</td><td>VCC=VCC $_{JFET}$ -0.1V</td><td>2</td><td>5</td><td>12</td><td>mA</td></tr><tr><td> $I_{VCCQ}$ </td><td>VCC静态电流</td><td>无开关动作</td><td>98</td><td>141</td><td>184</td><td>μA</td></tr><tr><td> $VCC_{ST}$ </td><td>VCC启动阈值</td><td>-</td><td>13.5</td><td>15</td><td>16.5</td><td>V</td></tr><tr><td> $VCC_{CLAMPHYS}$ </td><td>VCC钳位电压迟滞</td><td> $VCC_{CLAMP}-VCC_{ST}$ </td><td></td><td>2</td><td></td><td>V</td></tr><tr><td> $VCC_{JFET}$ </td><td>JFET供电VCC电压</td><td>-</td><td>9.9</td><td>11</td><td>12.1</td><td>V</td></tr><tr><td> $VCC_{UVLO}$ </td><td>VCC欠压阈值</td><td>-</td><td>7.2</td><td>8</td><td>8.8</td><td>V</td></tr><tr><td colspan=\"7\">基准电压</td></tr><tr><td> $V_{CS\\_REF}$ </td><td>输出电流检测阈值</td><td> $T_J$ =25°C</td><td>388</td><td>400</td><td>412</td><td>mV</td></tr><tr><td> $V_{CS\\_LIMIT}$ </td><td>CS逐周期限流阈值</td><td> $T_J$ =25°C</td><td>1.08</td><td>1.2</td><td>1.32</td><td>V</td></tr><tr><td colspan=\"7\">时间</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td> $V_{cs}$ =0V</td><td></td><td>1.6</td><td>3</td><td>μs</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大关断时间</td><td>-</td><td>132</td><td>190</td><td>246</td><td>μs</td></tr><tr><td> $T_{ZCD\\_MASK}$ </td><td>退磁检测屏蔽时间</td><td>-</td><td></td><td>1</td><td>1.4</td><td>μs</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td>-</td><td></td><td>390</td><td></td><td>ns</td></tr><tr><td rowspan=\"2\"> $T_{ON\\_MAX}$ </td><td rowspan=\"2\">最大导通时间</td><td>Tonmax悬空</td><td>12</td><td>13.5</td><td>15</td><td>μs</td></tr><tr><td>Tonmax接50K到地</td><td>12</td><td>12.8</td><td>14</td><td>μs</td></tr><tr><td colspan=\"7\">开路保护</td></tr><tr><td> $V_{OVP\\_TRIG}$ </td><td>开路保护电压</td><td> $T_J$ =25°C</td><td>95</td><td>105</td><td>115</td><td>V</td></tr><tr><td colspan=\"7\">源级驱动</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>源级驱动MOS内阻</td><td>-</td><td></td><td>0.6</td><td></td><td>Ω</td></tr><tr><td> $V_{BV\\_SW}$ </td><td>源级驱动MOS耐压</td><td>-</td><td>30</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td>Rdson</td><td>功率管导通阻抗</td><td>VGS=10V, ID=0.7A</td><td></td><td></td><td>8</td><td>Ω</td></tr><tr><td>BVDSS</td><td>功率管的击穿电压</td><td>VGS=0V, ID=250uA</td><td>600</td><td></td><td></td><td>V</td></tr><tr><td>IDSS</td><td>功率管漏电流</td><td>VDS=600V,VGS=0V</td><td></td><td></td><td>10</td><td>μA</td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td>-</td><td>140</td><td>150</td><td>160</td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                929,
+                790
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d41b4b40e6b4e7b98bf06301e5f8efd436063bbc8ade00611f63547b1659873d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP3296H 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                154,
+                129,
+                875,
+                581
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                621,
+                154,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 是一款适用于 Buck-Boost 结构的高效率、高 PF值LED驱动芯片，采用源极驱动和高压供电方式，只需要很少的外围元件，即可实现优异的恒流特性。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                653,
+                472,
+                707
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                719,
+                109,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 系统上电后通过 HV引脚给VCC电容供电，当内部电源达到开启阈值，芯片以预设导通时间开始输出 PWM信号控制功率管开通，满载工作时VCC供电由源极驱动提供。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                747,
+                472,
+                802
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "恒流控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                814,
+                146,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H芯片逐周期采样电感峰值电流，与内部基准比较实现闭环控制，实现高精度恒流输出。可通过采样电阻Rcs设定 LED输出电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                845,
+                465,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 输出电流计算方法："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                655,
+                690,
+                670
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I o u t = \\frac {V c s \\_ r e f}{2 * R c s}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ac5498a823764f5fcc05f2e53ff44e669349e9b4fab95859faed8c1b9f7b5d0f.jpg"
+                }
+            },
+            "bbox": [
+                712,
+                677,
+                821,
+                708
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                721,
+                569,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { R E F } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是内部基准电压"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                741,
+                665,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rcs 是电流采样电阻的值"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                760,
+                695,
+                776
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                787,
+                603,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H内置高压电阻分压采样OVP 电压，HV引脚检测输出正端，HOVP 引脚检测输出负端，LED开路电压默认在105V，不受电感影响。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                816,
+                931,
+                873
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H CN DS Rev 0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                231,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tonmax 电阻可调"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                216,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H 芯片采样 Tonmax 电阻电流，与内部基准比较实现 Tonmax 控制。当 MOS 导通时间达到 Tonmax 时，芯片进入开环工作状态，此时无法实现闭环恒流。为保证芯片设定可靠性和批量一致性，Tonmax引脚对地电阻应小于80k。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                124,
+                468,
+                222
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/d3ce66661693333436eb67a2cc9491b90d0bd8bfa1638aa511c921741ef21691.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4. Tonmax 调节斜率"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                139,
+                235,
+                386,
+                356
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                400,
+                179,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                432,
+                472,
+                491
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f48c9ac118d52eaf2db969e327dd3ab142c757459ee39dbb93d26c20eea92287.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                198,
+                159,
+                426,
+                330
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/25cd7445e49b6c303d6ffbd67bc3bcbf2fefd6162f118181722ab7a9066c8d9a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                640,
+                145,
+                722,
+                309
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2fd7ea408d6a8b3ca9538dc238df85dd3aff107de994608e0842fcc33db277ac.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                210,
+                400,
+                436,
+                474
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cb103c4b25dc1a56d03259bcc4080eada8f9130a0b8fba72dcde4b4c4d48da55.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                552,
+                388,
+                800,
+                478
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8d544bd4c0fff8be49eae74f48ded22b4a01d0d5e75adf8ec8d6a3e8af85877f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                200,
+                549,
+                394,
+                753
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/706aa154c5d021aefa7113c065e6dad9df1403beb243c9b1a6b48c962f887622.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                902,
+                193
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/5c325226ccdefa8b1301f1f6c51dd7b928e3be09209e9862827d019d8d236451.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                92,
+                221,
+                889,
+                782
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                102,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                789,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性，商业上的适销性，特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                202,
+                932,
+                259
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                55,
+                181,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H"
+                    }
+                ]
+            },
+            "bbox": [
+                793,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3296H_CN_DS_Rev_0.90"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                231,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ]
+]

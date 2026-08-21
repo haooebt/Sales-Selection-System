@@ -1,0 +1,2287 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                126,
+                137,
+                145
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB是带状态记忆功能的开关调光调色控制器，有三个控制端口，可以通过调节恒流主控的限流电阻实现三段带记忆开关调光，也可以搭配线性主控控制三路光源实现三路带记忆开关调色。芯片内部设定状态切换窗口时间  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{SW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (典型值3.2S)，关灯时间超过状态切换窗口时间芯片会记住关灯前的状态，下次开灯时直接呈现关灯前的状态；关灯时间小于状态切换窗口时间开灯可以实现状态调节，增加了使用的便利性。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                158,
+                485,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB通过检测AC信号来判断输入开关的动作，并根据检测结果对三个控制端口进行开关切换。三个控制端口可以驱动MOS管和晶闸管（线性调色方案可以搭配我司内置三路晶闸管的SCR093S实现低成本解决方案）。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                329,
+                485,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                419,
+                282,
+                435
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                126,
+                561,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 状态顺序：L1→L2→L3"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                158,
+                712,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 带状态记忆功能，使用更加便利"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                179,
+                768,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 状态存储时间超过 10 年"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                199,
+                715,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 开关次数可达 10 万次以上（记忆功能正常）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                219,
+                843,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 1S 内开关两次复位"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                239,
+                684,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 状态切换窗口时间内部计时 3.2S"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                259,
+                771,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内置限压电路，适用更宽的功率范围"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                279,
+                800,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                313,
+                561,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 开关调光调色的 LED 电源"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                346,
+                727,
+                362
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b20629a8105589d19003f561919cf27dae337eda8ee75e2494169042382f13fa.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                451,
+                319,
+                492
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                245,
+                505,
+                329,
+                520
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                539,
+                179,
+                558
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/399395c1975f0f53cdae6fd1deddb98de64bc3cc363c5f85259058855500c522.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 S4723MB 调光典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                571,
+                855,
+                796
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                438,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                90,
+                890,
+                112
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                621,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                944,
+                668,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                902,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/63fee224413583b36fc9f4e648db74b9abb9471e5d3a6a435c8bbb060b5917d4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 S4723MB 搭配线性调色典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                223,
+                120,
+                783,
+                356
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                928,
+                668,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                928,
+                904,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                126,
+                178,
+                145
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e110409a8b95f45ca15257f95f7083c726bfc67bc2692ef4073833ee636b9936.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>S4723MB</td><td>SOP-8</td><td>卷盘4000 只/盘</td><td>S4723MXXXXXYZXYB</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                153,
+                904,
+                248
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                267,
+                179,
+                286
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bcbeb90dc96474b853b54b630a4e858a05babb5e4e783b67eccda5a7be6bc224.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图3管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXXY: 批次"
+                    }
+                ]
+            },
+            "bbox": [
+                347,
+                299,
+                653,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ZX: 标识"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                338,
+                796,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "YY: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                357,
+                796,
+                375
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B: 固定字符"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                379,
+                820,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                500,
+                179,
+                518
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7c7b4e6b985cd8b8726b5374bf27624b91a21d93dcd6bb11020d81e27729490d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VCC</td><td>芯片外部供电脚</td></tr><tr><td>2</td><td>CLK</td><td>信号检测脚</td></tr><tr><td>3</td><td>VDD</td><td>芯片内部供电脚</td></tr><tr><td>4</td><td>GND</td><td>信号和功率地</td></tr><tr><td>5</td><td>L3</td><td>驱动脚 3</td></tr><tr><td>6</td><td>L2</td><td>驱动脚 2</td></tr><tr><td>7</td><td>NC</td><td>空脚</td></tr><tr><td>8</td><td>L1</td><td>驱动脚 1</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                525,
+                905,
+                777
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                621,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                944,
+                668,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                127,
+                257,
+                145
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/345ec352f0ff814f1c6c413b6597f4de0589a6a9e9badccc6c6c343a41ebed42.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：最大允许功耗是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的，温度升高最大功耗一定会减小。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td>芯片 VCC 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>VDD</td><td>芯片 VDD 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>CLK</td><td>芯片 CLK 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>L1/L2/L3</td><td>驱动脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN 结到环境的热阻</td><td>150</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 ~ 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 ~ 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                152,
+                905,
+                401
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                621,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                944,
+                668,
+                957
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                904,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "规格参数(注 3,4)（无特别说明情况下，VCC=5V，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                128,
+                512,
+                145
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/70dc345eef9f67f63d9ce0c352e48fabe33d79bd4bc1824ae0bfd2abc1e3535a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试、或统计分析保证。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：该时钟信号为内部时钟，如果外围参数有差异会造成参数有波动。"
+                    }
+                ],
+                "html": "<table><tr><td>描述</td><td>符号</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td>供电脚钳位电压</td><td> $VCC_{max}$ </td><td>IVCC=1mA</td><td>4.7</td><td>5.2</td><td>5.7</td><td>V</td></tr><tr><td>内部供电电压</td><td>VDD</td><td>IVCC=1mA</td><td>4.5</td><td>5</td><td>5.5</td><td>V</td></tr><tr><td>工作电流</td><td> $I_{VCC}$ </td><td>VCC=5</td><td></td><td></td><td>0.5</td><td>mA</td></tr><tr><td>VCC开启电压</td><td>UVLO_on</td><td></td><td>3</td><td>3.6</td><td>4.2</td><td>V</td></tr><tr><td>VCC关断电压</td><td>UVLO_off</td><td></td><td>1.2</td><td>1.5</td><td>1.8</td><td>V</td></tr><tr><td>检测脚CLK阈值电压</td><td>CLK(th)</td><td></td><td></td><td>2.4</td><td></td><td>V</td></tr><tr><td>检测脚输入电阻</td><td>Rclk</td><td></td><td></td><td>20</td><td></td><td>KΩ</td></tr><tr><td>最小有效CLK脉冲宽度</td><td>Tclk</td><td></td><td></td><td>180</td><td></td><td>uS</td></tr><tr><td>L1/L2/L3的驱动电压</td><td>VDx</td><td></td><td></td><td>5</td><td></td><td>V</td></tr><tr><td>L1/L2/L3的驱动电流</td><td>IDx</td><td>VDx=1.2V</td><td></td><td>120</td><td></td><td>uA</td></tr><tr><td>判断开关闭合状态的延迟时间</td><td>Td(on)</td><td>Fsw=60KHz(注5)</td><td>60</td><td>67</td><td>74</td><td>mS</td></tr><tr><td>判断开关断开状态的延迟时间</td><td>Td(off)</td><td></td><td>26</td><td>30</td><td>34</td><td>mS</td></tr><tr><td>状态复位时间</td><td>Trs</td><td></td><td>1.0</td><td>1.2</td><td>1.4</td><td>S</td></tr><tr><td>状态复位开关次数</td><td>Treset</td><td></td><td></td><td>2</td><td></td><td>次</td></tr><tr><td>状态切换窗口</td><td>Tsw</td><td>VDD Cap=2.2uF</td><td>2.9</td><td>3.2</td><td>3.5</td><td>S</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                152,
+                905,
+                595
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "逻辑顺序及检测信号"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                675,
+                280,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 的逻辑顺序为 L1→L2→L3。S4723MB 的检测脚既可以检测高低电平，也可以检测脉冲信号（5kHz 以内频率），检测脚的有效输入波形要求如下图 4 所示。设计时为确保足够余量，CLK 脚峰值电平须大于 4V，脉宽大于 300uS。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                707,
+                904,
+                743
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/91e9a064e14fcea5911e3a05f2862f97858ea67d85f7616e0007b9de9e78404c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 检测脚波形要求示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                752,
+                900,
+                841
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                621,
+                941
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                944,
+                668,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                126,
+                179,
+                145
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                158,
+                161,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 通过 VCC 脚进行供电，在应用中通过电阻把 VCC 脚连接到输入电容的正极。芯片的工作电流大约为 0.5mA，考虑到温度等因素，设计中必须留有余量。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                179,
+                472,
+                236
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                247,
+                163,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 通过 CLK 脚检测脉冲信号来判断输入开关的通断状态。CLK 脚通过电阻连接到 AC 端（如典型应用图所示）。开关闭合，CLK 脚上产生连续脉冲信号；开关断开，CLK 脚脉冲信号消失。为了过滤掉噪声，避免造成误触发，S4723MB 内部设计了判断开关闭合状态的延迟时间 Td(on)（典型值 67mS）和判断开关断开状态的延迟时间 Td(off)（典型值 30mS），如图 4 所示。CLK 脚脉冲信号持续时间大于 Td(on)时芯片判断为开机状态；持续 Td(off)时间内 CLK 脚未检测到有效脉冲信号，芯片判断为关机状态。只有 Td(on)有效后关机（CLK 脚检测到有效脉冲信号的时间超过内部设定值），且关机满足 Td(off)有效后通电才能切换状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                269,
+                475,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为确保足够余量，设计参数时，检测电阻的选取须遵循以下要求：1）和内部下拉电阻分压后，CLK脚脉冲信号峰值电平大于4V，脉冲宽度大于300uS；2）当检测电阻的另外一端出现负压时，流经检测电阻的电流必须小于1mA。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                521,
+                472,
+                598
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3、驱动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                609,
+                163,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 可以驱动晶闸管和 MOS 管，无需增加控制电路，芯片能自动识别所连接的开关管类型。当驱动晶闸管时，L1/L2/L3 输出 120uA 左右电流触发晶闸管导通（建议选取触发电流 100uA 内的晶闸管）。当驱动 MOS 管时，L1/L2/L3 输出 5V 左右电压（建议选择 2.5V 以下阈值电压 MOS 管）。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                630,
+                475,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "鉴于 L1/L2/L3 输出电流仅 120uA，通常不建议在 L1/L2/L3 加放电电阻，否则可能出现驱动能力不足。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                760,
+                472,
+                797
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4、状态控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                156,
+                633,
+                174
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 内置 EEPROM 存储单元，关灯时会把关灯前的状态存储到存储单元中，关灯时间超过状态切换窗口时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{SW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  后再次开灯，芯片会直接调取存储单元中的状态作为输出状态（即关灯前的状态）。若用户需要切换状态，只需关灯时间小于状态切换窗口时间再开即可切换。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                179,
+                910,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 的状态切换窗口时间 Tsw 由内部时钟计时,典型值 3.2S。应用时，需要外接一个 VCC 或 VDD 电容来保证断电后芯片 VDD 电压在 UVLO_off 以上持续时间大于切换窗口时间，VCC 或 VDD 电容通常采用 2.2uF25V，若 VCC 或 VDD 电容因通过电源外围电路放电导致切换窗口时间达不到内部设定值，可在 VCC 供电线路串一个二极管，避免提前进入记忆模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                288,
+                907,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5、复位"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                438,
+                600,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB 内置快速开关两次复位功能，即从 AC 开关关断时刻算起，Trs（状态复位时间，典型值 1.2S）时间内完成两次“关灯→开灯”操作，芯片会在第二次开灯时将状态复位到第一个状态，如图 5 所示。如果后续的“关灯→开灯”仍然满足复位条件，S4723MB 将一直保持在第一状态（L1 输出高电平）。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                460,
+                907,
+                577
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4bd02b0c17b3d94489fd7f187c4b28c3b88f7c73a9a09ebb6139e99c787fe969.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5 S4723MB 复位示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                529,
+                583,
+                878,
+                659
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6、设计注意事项"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                701,
+                670,
+                717
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 PCB 板时，遵循以下原则会有更佳性能："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                722,
+                848,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VCC/VDD 电容尽量紧靠芯片 VCC/VDD 和 GND 引脚；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                741,
+                905,
+                759
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) VCC 走线尽量远离变压器等强振荡源，避免干扰；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                763,
+                890,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) CLK 脚预留滤波电容位（0805 封装即可）。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                783,
+                842,
+                799
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                621,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                944,
+                668,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                126,
+                243,
+                145
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fbb2668970633f93ac542930b371eaad655e58df7d87ab99f93ee6620e73971b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                187,
+                411,
+                381
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b7697edbffa2f5d64c741bcfa0af471da8e524b3cb2c8a9c5e8aa68ee05ecc14.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                117,
+                462,
+                423,
+                544
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e384b4f21d35838b772314ba70c55ad7f3d02f784b7b3683950be5bea2d3daec.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                653,
+                389,
+                866
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/83421061a244dfebd2dd736c9854fea84cff478b1101d23094bf3b5f89f01080.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                705,
+                170,
+                823,
+                357
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b63c616edb8f6bc0215da9aaf925c1b7274e989ef18e838f2c4dd3089158ee6f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                448,
+                922,
+                550
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                904,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                502,
+                54,
+                890,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                928,
+                668,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                126,
+                179,
+                145
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b8aee7ffdf6b2f7b4d8d560a52bd2b2d14bcd8251ea372b8be089986273fd4b6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2021/06</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                152,
+                904,
+                347
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                436,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                905,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                928,
+                668,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                445,
+                126,
+                551,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                158,
+                815,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                199,
+                907,
+                256
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                928,
+                905,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                22,
+                438,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                55,
+                884,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆三端口开关调光调色温控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                500,
+                90,
+                890,
+                111
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4723MB_CN_DS_Rev.1.0\n06/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                248,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                928,
+                668,
+                958
+            ]
+        }
+    ]
+]

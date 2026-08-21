@@ -1,0 +1,1871 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                154,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C是一款调光全程LED电流纹波消除控制芯片，主要用于配合可控硅调光、有源功率因数校正 LED 驱动器，消除输出 100/120Hz 低频纹波电流。BP5628C采用高效率的驱动机制，能够自动适应不同的LED输出电压和电流，消除 LED电流纹波的同时，确保功率MOS管的损耗最低。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                168,
+                484,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C具有多重保护功能，包括MOS管漏极过压保护，芯片过温调节保护和过热保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                280,
+                484,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                322,
+                304,
+                340
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                139,
+                566,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 集成 500V JFET 供电"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                168,
+                715,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 内置去纹波LDO"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                187,
+                677,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 固定的 DRAIN 脚 OVP 保护电压"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                205,
+                784,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 外围元器件简单"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                222,
+                678,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 芯片过温调节保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                237,
+                732,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 采用 SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                255,
+                680,
+                272
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                279,
+                566,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ LED 灯丝灯"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                309,
+                640,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ LED 球泡灯"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                328,
+                640,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                346,
+                660,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                376,
+                200,
+                399
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/435210366bf75298fa5314a4f65496bfcf40347c0cf69caf04121d3b4c11bc4a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP5628C 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                412,
+                840,
+                799
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                934,
+                895,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                119,
+                4,
+                329,
+                95
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                70,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                102,
+                327,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "可调光LED驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                102,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                200,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/90f4de8f662bbe266d1fedfcb33d02f21bd585e657b063db82bda046d56b8761.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5628C</td><td>SOP-8</td><td>-40 °C到105 °C</td><td>编带4,000颗/盘</td><td>BP5628CXXXXXYXXYWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                166,
+                902,
+                262
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                298,
+                201,
+                318
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3d4708d38b21aac53aa8d695405625f0dba113dc47f29404d7957234fbcbf721.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                344,
+                328,
+                773,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXY: lot code"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                328,
+                842,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XY: 标志"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                346,
+                771,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                365,
+                771,
+                381
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ]
+            },
+            "bbox": [
+                418,
+                486,
+                554,
+                502
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                521,
+                200,
+                541
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f0328561921f8c8952bee08e0d7b6df3554f146f0840c9455419fd16b568b8cb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>COMP</td><td>环路补偿点,接电容到地</td></tr><tr><td>2</td><td>CS</td><td>电流采样脚</td></tr><tr><td>3</td><td>DRAIN</td><td>引脚功率管漏极</td></tr><tr><td>4</td><td>HV</td><td>功率管漏极</td></tr><tr><td>5,6,7,8</td><td>GND</td><td>芯片地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                548,
+                900,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                114,
+                725,
+                228,
+                793
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C可调光 LED 驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                70,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                933,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                262,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6cc4be48bcd26c7de5bc30a0037f8d7c7bfaf7fcd317a9c9474e2a4eb422dcf9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>DRAIN</td><td>内置 MOSFET 漏极</td><td>-0.3~43</td><td>V</td></tr><tr><td>HV</td><td>芯片供电引脚</td><td>-0.3~500</td><td>V</td></tr><tr><td>COMP</td><td>环路补偿点,接电容到地</td><td>-0.3~6</td><td>V</td></tr><tr><td>CS</td><td>电流采样脚</td><td>-0.3~6</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.45</td><td>W</td></tr><tr><td> $θ_{JA}$ </td><td>PN结到环境的热阻</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                161,
+                166,
+                836,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度 T<sub>A</sub>所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { P _ { D M A X } } = \\left( \\mathrm { T _ { J M A X } } - \\mathrm { T _ { \\it A } } \\right) / \\mathrm { ~ \\theta ~ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "JA或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                442,
+                897,
+                533
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                71,
+                897,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "可调光LED驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                103,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                934,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                935,
+                603,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b0bb8d188901d32af312daf2f51c4e58796aefd0dc92266b018530c57f63b013.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 3, 4) （无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\tt V } _ { \\tt C } = 9 \\mathrm { ~ \\tt V } ,"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T _ { A } } = 2 5 \\mathrm { ~ \\textdegree C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 3：典型参数值为 25˚C 下测得的参数标准。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源供电</td></tr><tr><td> $V_{HV}$ </td><td>JFET工作电压范围</td><td></td><td>7</td><td></td><td>500</td><td>V</td></tr><tr><td> $I_{CC}$ </td><td>静态工作电流</td><td>HV=40V</td><td></td><td>140</td><td>200</td><td>uA</td></tr><tr><td colspan=\"7\">OVP保护</td></tr><tr><td> $V_{DRAIN\\_OVP}$ </td><td>DRAIN过压保护电压</td><td></td><td></td><td>10</td><td></td><td>V</td></tr><tr><td colspan=\"7\">环路补偿</td></tr><tr><td> $V_{COMP\\_MAX}$ </td><td>COMP脚最大工作电压</td><td></td><td>5.5</td><td></td><td></td><td>V</td></tr><tr><td> $Gm_{OTA}$ </td><td>OTA Gm</td><td></td><td></td><td>50</td><td></td><td>uA/V</td></tr><tr><td colspan=\"7\">电流检测</td></tr><tr><td> $V_{REF}$ </td><td>CS参考电压</td><td></td><td></td><td>240</td><td></td><td>mV</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $V_{BV}$ </td><td>MOS管击穿电压</td><td></td><td>43</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DS}$ </td><td>MOS饱和电流</td><td></td><td></td><td>500</td><td></td><td>mA</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>MOS管导通电阻</td><td> $I_{D}=100mA$ </td><td></td><td>2</td><td></td><td>Ω</td></tr><tr><td colspan=\"7\">过温调节</td></tr><tr><td> $T_{REG}$ </td><td>温度调节点</td><td></td><td></td><td>155</td><td></td><td>°C</td></tr><tr><td> $T_{SD}$ </td><td>过温保护点</td><td></td><td></td><td>175</td><td></td><td>°C</td></tr><tr><td> $T_{SD\\_Hyst}$ </td><td>过温保护迟滞</td><td></td><td></td><td>30</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                166,
+                905,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                626,
+                682,
+                642
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                233,
+                649,
+                334,
+                708
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                112,
+                708,
+                231,
+                793
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                70,
+                897,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "可调光LED驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                102,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                139,
+                248,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/adf1cff56047d64bbbbf12dd059c39c744faea886fa27bca1ec63f0b5bc01e1b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP5628C 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                285,
+                173,
+                878,
+                422
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                454,
+                201,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C是一款调光全程LED电流纹波消除控制芯片，主要用于配合可控硅调光、有源功率因数校正 LED 驱动器，消除输出 100/120Hz 低频纹波电流。BP5628C采用高效率的驱动机制，能够自动适应不同的LED输出电压和电流，消除 LED电流纹波的同时，确保功率MOS管的损耗最低。BP5628C具有多重保护功能，包括MOS管漏极过压保护，芯片过温调节保护和过热保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                483,
+                487,
+                631
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动和供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                642,
+                194,
+                658
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C 通过 HV 管脚给芯片内部 VDD 供电，当 VDD充电至启动电压时芯片开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                669,
+                485,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "采用电阻计算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                714,
+                213,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "采样电阻计算公式："
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                743,
+                253,
+                760
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "R c s \\approx \\frac {2 4 0 \\mathrm{mV} * 0 . 6}{I o u t}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/56dd4c2fa33a249efbf7fe67df06deaaf806aa6b1bd69a2574fba931245a1fe7.jpg"
+                }
+            },
+            "bbox": [
+                176,
+                781,
+                352,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，Iout是LED输出电流"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                841,
+                322,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C会自适应的调整LED 电流，使LED电流等于前级输出电流的平均值。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                873,
+                482,
+                910
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                493,
+                591,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C 具有多重保护功能，包括 MOS管漏极过压保护，芯片过温调节保护和过热保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                521,
+                897,
+                557
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片过温调节保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                567,
+                662,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片进入过温调节点后，芯片会降低内部基准，控制内部 MOS 导通程度，芯片逐渐退出去纹波功能，从而控制温升，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                595,
+                897,
+                650
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                659,
+                586,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP5628C PCB时，需要遵循以下原则："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                687,
+                860,
+                703
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "补偿电容"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                709,
+                589,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "COMP的补偿电容需要紧靠芯片 COMP 和 GND 引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                737,
+                895,
+                753
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "地线"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                765,
+                554,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能短，且要和芯片的地线及其它小信号的地线分开接到前级输出电容的地端。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                793,
+                897,
+                847
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "散热"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                858,
+                554,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "应尽可能的扩大 BP5628C DRAIN 及 GND 管脚所连接的铜箔面积，以减小热阻，增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                885,
+                897,
+                921
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C可调光 LED 驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                70,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                200,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a9689b4cde7fc18bb23459269f60d85dbf058f2ed30b55293df6b5cc3f1cd3ef.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                191,
+                544,
+                497
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/478acb51ee2dc37560f900f2a1a7a42a493c05bc23fec8de46baecc9ba27b620.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                648,
+                240,
+                789,
+                463
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/caaf4a21302c5d238da6d71454fe0ef8e2483c4d61f11faed1e097e4e60fefb0.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                501,
+                610,
+                595
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5b85a662e0949c9fbb658ed818fbb9d207ea1bec3c563c9b4d2e3d3a547abd24.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Symbol</td><td colspan=\"2\">Dimensions In Millimeters</td><td colspan=\"2\">Dimensions In Inches</td></tr><tr><td>Min</td><td>Max</td><td>Min</td><td>Max</td></tr><tr><td>A</td><td>1.350</td><td>1.750</td><td>0.053</td><td>0.069</td></tr><tr><td>A1</td><td>0.100</td><td>0.250</td><td>0.004</td><td>0.010</td></tr><tr><td>A2</td><td>1.350</td><td>1.550</td><td>0.053</td><td>0.061</td></tr><tr><td>b</td><td>0.330</td><td>0.510</td><td>0.013</td><td>0.020</td></tr><tr><td>c</td><td>0.170</td><td>0.250</td><td>0.006</td><td>0.010</td></tr><tr><td>D</td><td>4.700</td><td>5.100</td><td>0.185</td><td>0.200</td></tr><tr><td>E</td><td>3.800</td><td>4.000</td><td>0.150</td><td>0.157</td></tr><tr><td>E1</td><td>5.800</td><td>6.200</td><td>0.228</td><td>0.244</td></tr><tr><td>e</td><td colspan=\"2\">1.270 (BSC)</td><td colspan=\"2\">0.050 (BSC)</td></tr><tr><td>L</td><td>0.400</td><td>1.270</td><td>0.016</td><td>0.050</td></tr><tr><td>θ</td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                168,
+                646,
+                850,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C可调光 LED 驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                70,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/706759f2cfea7b06e4d2119bb4b6895d0a160ad842368a277d90c5ad4ffdee7a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>重要声明</td></tr><tr><td>晶丰明源尽力确保本产品规格书内容的准确和可靠,但是保留在没有通知的情况下,修改规格书内容的权利。</td></tr><tr><td>本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息,晶丰明源不做任何明示或暗示的保证,包括但不限于对规格书内容的准确性、商业上的适销性,特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证,晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                131,
+                894,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                603,
+                376,
+                707,
+                451
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                934,
+                895,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                119,
+                4,
+                329,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                71,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                124,
+                102,
+                327,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "可调光LED驱动电流纹波消除芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                102,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                708,
+                231,
+                793
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5628C_CN_DS_Rev.1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                934,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                954
+            ]
+        }
+    ]
+]

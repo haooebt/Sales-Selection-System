@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:17:42+08:00",
+  "file": "LKS1D5005C_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2657239,
+    "pages": 11,
+    "sha256": "d0ff2e24f4f07e1618dea2660b4342b7e0527f757bbb4573cccef23158789e3f"
+  },
+  "batch_id": "18e55918-e5e9-49d1-8ffc-3f254aa0f7f4",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:17:42+08:00",
+    "errors": [],
+    "markdown_chars": 11471,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-17T22:17:42+08:00"
+}

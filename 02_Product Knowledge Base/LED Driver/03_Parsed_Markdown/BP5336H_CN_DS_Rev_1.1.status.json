@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:26:11+08:00",
+  "file": "BP5336H_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 403415,
+    "pages": 7,
+    "sha256": "143a899eee3911cebeabaf85596e718e46f30487351c3fb0680f85278b1d9d14"
+  },
+  "batch_id": "a69c761e-b680-4a0d-9817-f7e8649b4361",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:26:14+08:00",
+    "errors": [],
+    "markdown_chars": 6398,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T14:26:24+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:59:13+08:00",
+  "file": "BP2628_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 2811691,
+    "pages": 11,
+    "sha256": "a98af90668dfc52a36c0434f56adba5d390d3d2957672fd46fc1df03e7eb7a32"
+  },
+  "batch_id": "aa4e44d9-539d-4725-8c1a-c17f03a62d7c",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:59:13+08:00",
+    "errors": [],
+    "markdown_chars": 12167,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-17T21:59:13+08:00"
+}

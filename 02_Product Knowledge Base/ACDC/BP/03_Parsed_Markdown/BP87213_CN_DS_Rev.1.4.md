@@ -1,0 +1,234 @@
+## 概述
+
+BP87213是一款高集成度、高效率、低待机功耗的电流模式PWM控制芯片，适用于全电压范围90\~265 VAC输入Flyback 变换器应用。
+
+芯片内部集成了660V高压 MOSFET、高压启动电路，⽀持CCM和DCM工作模式。重载下芯片工作于65 kHz固定开关频率，中等负载时由 FB 反馈电压信号控制内部振荡器工作于降频模式，减小系统开关损耗。轻载和空载时工作于跳频模式，进一步降低系统开关损耗，使待机功耗小于 75mW。
+
+BP87213通过内部的分段软驱动电路结构，并加入频率调制技术，可以达到优异的EMI性能。芯片内置有斜坡补偿电路，以改善系统的稳定性，避免次谐波振荡。系统的跳频频率设置在 22 kHz 以上，可以避免轻载音频噪声。精准的原边恒功率控制算法，轻松满足 QC 快充对输出功率曲线的要求。
+
+BP87213内置多种保护，包括逐周期限流，输出短路保护，输出过压和欠压保护，VCC过压和欠压保护，过温保护等，以及较低的输出短路功耗使系统更加安全可靠。BP87213采用ASOP-6 封装，满足MSL-3潮敏等级。
+
+![](images/4eee845a1fcd4179af86af9c0651bc39fdb4e87d4e763181b8cd276c93315d27.jpg)
+
+## 特点
+
+ 全电压范围（90\~265VAC）满足六级能效，<75mW 待机功耗
+
+ 内部集成 650 V 高压 MOSFET
+
+ 集成高压启动电路，无需外加启动电阻
+
+ 精准的原边恒功率控制
+
+ 内置软启动功能
+
+ 频率调制及分段软驱动电路，优化EMI性能
+
+ 满载固定65kHz，最低工作频率22kHz，无音频噪声
+
+ 跳频模式，改善轻载效率
+
+ 内置斜坡补偿，避免次谐波震荡
+
+ 较低的输出短路功耗
+
+ 高低压引脚之间爬电距离 >4mm
+
+ 保护功能
+
+ 逐周期限流(OCP)
+
+输出短路保护(SCP)
+
+ 输出过压、欠压保护(OVP＆UVP)
+
+ VCC过压、欠压保护
+
+ 过温保护(OTP)
+
+## 应用领域
+
+ QC / USB PD / 可编程 AC/DC 充电器
+
+ 高效率反激式AC/DC 适配器
+
+ AC/DC 辅助电源
+
+ASOP-6 封装
+
+## 典型应用
+
+![](images/d96754de31172a21ea71290ad08307b67415cf5523938aff5ce457a0fb7e6310.jpg)  
+图 1. BP87213 典型应用电路
+
+## 定购信息
+
+<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP87213</td><td>ASOP-6</td><td>卷盘5000 颗/盘</td><td>BP87213XXXXYYZZZZWWX</td></tr></table>
+
+## 管脚封装
+
+![](images/d55bd9e75cd8df3dfed43ab4237c2b8a9eb11b4d8998ce4143d085118688ae45.jpg)  
+图 2. ASOP-6 管脚封装图
+
+BP87213：产品型号
+
+XXXXXYY: 批次号
+
+ZZZZ: 内部标示
+
+WW：周号
+
+X：保留位
+
+## 管脚描述
+
+<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GND</td><td>芯片地</td></tr><tr><td>2</td><td>DEM</td><td>输出电压检测端,通过分压电阻接辅助绕组,实现输出过压和欠压保护</td></tr><tr><td>3</td><td>FB</td><td>输出反馈控制端,连接到光耦集电极。光耦发射极连接到芯片地</td></tr><tr><td>4</td><td>VCC</td><td>芯片电源端,建议接 4.7 μF 以上 VCC 电容到地</td></tr><tr><td>5</td><td>CS</td><td>电流采样输入端,电流采样电阻接 CS 引脚和地之间</td></tr><tr><td>6、7、8</td><td>DRAIN</td><td>芯片内部高压功率管,此引脚同时向芯片内部提供高压启动电流</td></tr></table>
+
+## 输出功率
+
+<table><tr><td rowspan="2">型号</td><td rowspan="2">工作特点</td><td colspan="2">输出功率(90~265 VAC)</td></tr><tr><td>适配器(注1)</td><td>开放式(注2)</td></tr><tr><td>BP87213</td><td>恒功率输出</td><td>25 W</td><td>33 W</td></tr></table>
+
+注 1： 最小连续输出功率，测试条件为封闭式塑料外壳，环境温度为45 ℃。  
+注 2： 最小连续输出功率，测试条件为开放式环境，环境温度为45 ℃。
+
+## 极限参数(注 3)
+
+<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{DRAIN}$ </td><td>内部高压 MOSFET 耐压</td><td>-0.3~650</td><td>V</td></tr><tr><td> $V_{CC}$ </td><td> $V_{CC}$  电压</td><td>-0.3~40</td><td>V</td></tr><tr><td> $I_{CC\_MAX}$ </td><td> $V_{CC}$  引脚最大电流</td><td>10</td><td>mA</td></tr><tr><td> $V_{FB}$ </td><td>FB 反馈端电压</td><td>-0.3~7</td><td>V</td></tr><tr><td> $V_{DEM}$ </td><td>DEM 引脚电压</td><td>-0.3~7</td><td>V</td></tr><tr><td> $V_{CS}$ </td><td>CS 引脚电压</td><td>-0.3-7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 3)</td><td>1.5</td><td>W</td></tr><tr><td> $\theta_{JA}$ </td><td>结到环境的热阻(注 4)</td><td>98</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>
+
+注 3：极限参数是指超出该范围，有可能导致器件永久性损坏。极限参数为器件应⼒的额定值，⻓期工作在极限参数条件可能会影响器件的可靠性。  
+注 4：温度升高最大功耗一定会减小，这也是由T<sub>JMAX</sub>,θ<sub>JA</sub>,和环境温度T<sub>A</sub>所决定的。最大允许功耗为P<sub>DMAX</sub>= (T<sub>JMAX</sub>-T<sub>A</sub>)/ θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。
+
+注 5：1平方英寸双层PCB板，按照JEDEC 标准测试。该值基于JEDEC 定义的1SOP系统，并将根据环境和应用变化。了解更多信息。参⻅ElA/JEDEC 标准。
+
+电气参数(注 6)（无特别说明情况下，V<sub>CC</sub> = 18 V, T<sub>A</sub> = 25 ℃）
+
+<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan="7">VCC供电部分</td></tr><tr><td> $V_{CC\_ON}$ </td><td>VCC启动阈值电压</td><td>VCC上升至IC开启</td><td>12.5</td><td>14</td><td>17</td><td>V</td></tr><tr><td> $V_{CC\_UVLO}$ </td><td>VCC欠压保护开启电压</td><td>VCC下降至IC关闭</td><td>5.4</td><td>6.4</td><td>7.4</td><td>V</td></tr><tr><td> $V_{CC\_HOLD}$ </td><td>VCC保持电压</td><td> $V_{FB}=0V,V_{CS}=0V$ </td><td>6.4</td><td>7.2</td><td>8.4</td><td>V</td></tr><tr><td> $V_{CC\_OV}$ </td><td>过压保护</td><td> $T_J=25°C$ </td><td>36</td><td>37.5</td><td>39</td><td>V</td></tr><tr><td> $I_{CC\_ST}$ </td><td>启动电流</td><td> $V_{CC}=12V,测试VCC端电流$ </td><td></td><td>1.6</td><td>5</td><td>μA</td></tr><tr><td> $I_{CC}$ </td><td>工作电流</td><td> $V_{CC}=18V,V_{FB}=3.7V,V_{CS}=0V$ </td><td>0.5</td><td>1</td><td>1.5</td><td>mA</td></tr><tr><td> $I_{CH}$ </td><td> $V_{CC}电容充电电流$ </td><td> $V_{CC}=0V,V_{DRAIN}=100V$ </td><td>80</td><td>110</td><td>150</td><td>μA</td></tr><tr><td colspan="7">DEM引脚</td></tr><tr><td> $V_{DEM\_UVP}$ </td><td>输出欠压保护阈值</td><td> $T_J=25°C$ </td><td></td><td>0.725</td><td></td><td>V</td></tr><tr><td> $t_{UVP\_delay}$ </td><td>欠压保护延迟</td><td> $T_J=25°C$ </td><td></td><td>32</td><td></td><td>mS</td></tr><tr><td> $V_{DEM\_OVP}$ </td><td>输出过压保护阈值</td><td> $T_J=25°C$ </td><td></td><td>2.4</td><td></td><td>V</td></tr><tr><td> $t_{OVP\_delay}$ </td><td>过压保护延时</td><td> $T_J=25°C$ </td><td></td><td>8</td><td></td><td>cycle</td></tr><tr><td colspan="7">FB反馈</td></tr><tr><td> $V_{FB\_OPEN}$ </td><td>FB开环电压</td><td> $T_J=25°C$ </td><td>5.1</td><td>5.6</td><td>6.1</td><td>V</td></tr><tr><td> $I_{FB\_SHORT}$ </td><td>FB短路电流</td><td> $T_J=25°C$ </td><td>0.14</td><td>0.19</td><td>0.26</td><td>mA</td></tr><tr><td> $V_{FB\_GREEN}$ </td><td>进入绿色模式FB阈值</td><td> $V_{CC}=18V,V_{CS}=0V,FB下降至DRAIN端频率低于35kHz$ </td><td>1.5</td><td>1.8</td><td>2.1</td><td>V</td></tr><tr><td> $V_{FB\_BURST\_L}$ </td><td>进入跳频模式电压阈值</td><td> $T_J=25°C$ </td><td>0.9</td><td>1.1</td><td>1.3</td><td>V</td></tr><tr><td> $V_{FB\_BURST\_H}$ </td><td>退出跳频模式电压阈值</td><td> $T_J=25°C$ </td><td>1</td><td>1.2</td><td>1.4</td><td>V</td></tr><tr><td colspan="7">振荡器</td></tr><tr><td> $f_{OSC}$ </td><td>振荡频率</td><td> $V_{CC}=18V,V_{FB}=3.7V,V_{CS}=0V$ </td><td>59</td><td>65</td><td>71</td><td>kHz</td></tr><tr><td> $D_{MAX}$ </td><td>最大占空比</td><td> $V_{CC}=18V,V_{FB}=3.7V,V_{CS}=0V$ </td><td>65</td><td>75</td><td>85</td><td>%</td></tr><tr><td> $f_{BURST}$ </td><td>跳频频率</td><td> $T_J=25°C$ </td><td>21.5</td><td>23.7</td><td>26</td><td>kHz</td></tr><tr><td> $f_{PK\_PK}$ </td><td>抖频范围峰-峰值</td><td> $T_J=25°C$ </td><td></td><td>10</td><td></td><td>kHz</td></tr><tr><td colspan="7">电流采样</td></tr><tr><td> $V_{CS\_INT}$ </td><td>CS初始限流值</td><td> $V_{CC}=18V,V_{FB}=3.7V,Duty=0$ </td><td>0.74</td><td>0.77</td><td>0.81</td><td>V</td></tr></table>
+
+集成 MOSFET 反激式 PWM 驱动芯片
+
+<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td> $V_{CS\_PK}$ </td><td>CS 最大限流值</td><td> $Duty = D_{MAX}$ </td><td></td><td>0.95</td><td></td><td>V</td></tr><tr><td> $t_{D\_OC}$ </td><td>过流保护延迟时间</td><td> $T_J = 25 °C$ </td><td></td><td>100</td><td></td><td>ns</td></tr><tr><td> $t_{LEB}$ </td><td>前沿消隐时间</td><td> $T_J = 25 °C$ </td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td> $t_{SS}$ </td><td>软起动时间</td><td> $T_J = 25 °C$ </td><td></td><td>4</td><td></td><td>mS</td></tr><tr><td colspan="7">功率管</td></tr><tr><td> $I_{DSS}$ </td><td>功率管关断漏电流</td><td> $V_{DS} = 650 V, V_{GS} = 0 V$ </td><td></td><td></td><td>10</td><td>μA</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管击穿电压</td><td> $V_{GS} = 0 V, I_D = 250 μA$ </td><td>650</td><td></td><td></td><td>V</td></tr><tr><td> $I_D$ </td><td>连续漏极电流</td><td> $T_J = 25 °C$ </td><td></td><td>3.9</td><td></td><td>A</td></tr><tr><td> $R_{DS\_ON}$ </td><td>功率管导通电阻</td><td> $V_{GS} = 10 V, I_D = 1.5 A$ </td><td></td><td>0.67</td><td>0.8</td><td>Ω</td></tr><tr><td> $V_{DS\_SUP}$ </td><td>漏极启动电压</td><td> $T_J = 25 °C$ </td><td></td><td></td><td>40</td><td>V</td></tr><tr><td colspan="7">过热保护</td></tr><tr><td> $T_{OTP}$ </td><td>过温保护阈值</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr></table>
+
+注 6：电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。最小值和最大值由测试保证，典型值由设计、测试或统计分析保证。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。
+
+## 内部结构框图
+
+![](images/9960a64b469aa9c2b9eb3c020c569abbe592cbdcf3ef69cdab97aabb33634fe7.jpg)  
+图 3. BP87213 内部框图
+
+## 功能描述
+
+BP87213为电流模式PWM开关电源控制芯片，内置650V高压MOSFET以及高压启动电路，不仅外围电路⾮常简洁，节省了系统成本和体积，而且省去了启动电阻的功耗，能轻松通过最新能效指标对待机功耗的要求。
+
+BP87213⽀持 CCM和DCM工作模式，低压输入时工作于CCM可以降低初级和次级电流有效值，从而提高整机效率；高压输入时工作于DCM 可以降低开关损耗和次级整流管反向恢复电流，提升效率的同时有利于通过辐射EMI测试。BP87213通过分段驱动功率管，并加入频率调制，可以达到优异的EMI性能。BP87213 提供了丰富的保护功能，使系统很容易满足各种可靠性指标要求，因此特别适用于高端适配器应用。（注7：以下描述到的参数均为电气参数列表中的典型值，除⾮特别说明是最大或最小值）
+
+## 高压启动与VCC 欠压保护
+
+BP87213 产品集成高压启动电路，无需外加启动电阻。系统上电后，当⺟线电压达到芯片漏极启动电压 V时，内部高压启动电路通过DRAIN端对VCC电容充电，充电电流为I<sub>CH</sub> 。当VCC电压上升到启动阈值电压V<sub>CC\_ON</sub>时，充电电路关闭，芯片开始工作（图4所示）。因此，启动延迟时间为：
+
+$$
+t _ {S T A R T} = C _ {V C C} * \frac {V _ {C C \_ O N} - V _ {C C \_ I N T}}{I _ {C H}}
+$$
+
+其中，C<sub>VCC</sub> 为 VCC 电容值，I<sub>CH</sub> 为充电电流，V<sub>CC\_INT</sub> 为初始VCC电压值。此时，VCC电容给芯片提供工作电流，直到辅助绕组电压建立起来给 VCC 供电。当 VCC 电压下降到欠压保护电压 $V _ { \mathsf { C C \_ U V L O } }$ 时，芯片停止工作，高压启动电路重启对VCC电容充电，直到 $V _ { \mathsf { C C } } \mathsf { _ { O N } } .$ 。因此，VCC电容需要足够大，以至于启动时在辅助绕组电压没有建立起来之前，VCC 电压不会下降到 $V _ { \mathsf { C C \_ U V L O } }$ 。然而，过大的VCC电容不仅会增加成本，也会增加启动时间，通常建议使用4.7\~22 μF / 50 V 的电解电容。很多情况下由于PCB 布局限制，电解电容离芯片较远，在干扰复杂的环境中，通常建议在 VCC 和 GND 引脚之间放置一个
+
+0.1 μF的瓷片电容，并靠近芯片，以提升芯片的抗干扰能⼒和抗ESD 能⼒。
+
+![](images/613a02625690dc999bfc9853856b4b9c70abf33690981153c1ff1fe0a5324724.jpg)  
+图4. 高压启动与VCC欠压保护时序
+
+## 软启动
+
+芯片内置4ms 软启动时间。在软启动过程中，控制电路限制 MOSFET 峰值电流，使其从零逐渐增加到最大值，以减小开机时MOSFET上的电压和电流应⼒。由于启动时输出电压一般较低，MOSFET 关断期间输出电压对变压器的去磁较少，原边电流在开通时间内逐渐累积增大，可能超过MOSFET安全工作区而导致失效。软启动电路通过控制启动过程中MOSFET峰值电流逐渐增加（图4所示），可以避免原边累积过大的电流，从而降低MOSFET 电压电流应⼒和降低次级二极管的电压尖峰。每一次重启都会经历一次软启动过程。
+
+## 频率控制
+
+BP87213采用 PWM/PFM多模式控制技术，能有效提高平均效率，降低系统待机功耗。重载下芯片工作于PWM模式，固定开关频率f<sub>OSC</sub> 。随着负载减小，FB 电压降低到一定值后，芯片进入PFM（绿色）模式，开关频率随负载减小而降低（如图5 所示）。降低开关频率的好处是减小了开关损耗，提高了轻载时的效率，从而提高系统的平均效率，满足六级能效要求。为了避免音频噪声，开关频率的最小值设定为 f 。负载继续降低时，开关频率不再继续下降，芯片进入跳频模式：当FB 电压降低到阈值 $V _ { F B \_ B U R S \top \_ L }$ 时，芯片关闭驱动信号，输出电压开始逐渐降低，FB 电压上升，当FB 电压升高到阈值 $\mathsf { V } _ { \mathsf { F B \_ B U R S T \_ H } }$ 时，芯片又开启驱动信号，如此循环。跳频模式降低了平均开关频率，进一步减小开关损耗，使得系统待机功耗很容易满足<75mW 的要求。
+
+![](images/8cb120cbd3788cffaff8375a06a6daf315bad9bd9680b7375acb9bdfc91034a3.jpg)  
+图5. 频率控制曲线
+
+## 频率调制
+
+BP87213采用了频率调制技术，对开关频率进⾏一定的调制，分散了噪声的频谱分布，可以降低EMI的平均值和准峰值。能有效降低EMI 传导干扰，简化系统EMI设计。
+
+## 电流检测
+
+BP87213 通过外部电阻采样 MOSFET 电流，对其逐周期限制，以实现电流模式控制。当CS 引脚电压超过FB引脚电压设定的限制值时，在该周期剩余阶段会关断功率 MOSFET，直到下一个开关周期开始。内置前沿消隐(Leading Edge Blanking)时间 tLEB 可以避免由于外部电路的容性或次级二极管的反向恢复导致MOSFET在开通瞬间出现的电流尖峰误触发MOSFET关断（如图6所示）。因此，CS 引脚无需外加RC滤波网络。
+
+![](images/574c21632aa72f46b5a8d8ea7001dcd394937e94efdb0eb6a5eb48545758a34e.jpg)  
+图6. 前沿消隐
+
+## 输入线电压补偿
+
+在没有输入电压补偿的情况下，由于功率管关断延迟时间的存在，初级限流值随输入电压变化差异很大，输入电压越高，初级限流值越大，最大输出功率也随着增加。同时，在相同的频率和峰值电流下，CCM输出功率也会小于DCM，导致低压输入时输出功率受限。为了实现高低压输入时最大输出功率相同，BP87213 对初级限流值进⾏了补偿，使初级限流值随功率管导通时间增加而增大（如图 7 所示）。因此，高输入电压下导通时间短，限流值低；相反，低输入电压下导通时间⻓，限流值高。这种通过检测开通时间而对初级电流的补偿，实现了全输入电压范围内功率限制值恒定。改变电流采样电阻值可以改变恒功率的大小。
+
+![](images/912da522182fb14d7e257c41ef3ede388f0b94950f89c74eabd1046de21bc536.jpg)  
+图7. 输入线电压补偿
+
+## 斜坡补偿
+
+峰值电流控制变换器工作于 CCM 模式且占空比大于 50%时，存在次谐波振荡问题，为避免此问题，芯片内置了斜坡补偿电路。斜坡补偿的方式为在电流取样信号上叠加斜坡信号。
+
+## 恒功率输出
+
+BP87213 通过检测原边电流峰值和导通时间估算输出功率，通过内部控制电路实现恒功率输出控制。可以通过改变原边电流采样电阻改变输出恒功率值。
+
+## VCC 过压保护
+
+当VCC 电压高于V<sub>CC\_OV</sub>，芯片停止开关动作。VCC 电压开始下降，当下降到 $V _ { \mathsf { C C \_ U V L O } }$ 时，系统复位，重新开始高压启动。
+
+## 输出过、欠压保护
+
+芯片DEM引脚通过辅组绕组实时检测输出电压，在反馈开路时，当检测 DEM 引脚电压达到 V<sub>DEM\_OVP</sub> 并持续$\mathrm { \sf t o v p \_ d e l a y }$ 时间后，芯片停止开关动作，防止输出电压过高；在输出电压较低，DEM 引脚电压低于 V<sub>DEM\_UVP</sub> 并持续$\tan \angle C = \angle C ( \angle A )$ 时间后，芯片停止开关动作。此功能可用于快充应用中，设置当输出电压低于协议芯片操作电压前停止开关动作，避免恒流区输出电流失控。
+
+## 过温保护
+
+BP87213芯片内置了过温保护电路，当结温达到过温保护阈值 T<sub>OTP</sub>时，芯片会停止工作。VCC 电压开始下降，当下降到 $V _ { \mathsf { C C \_ U V L O } }$ 时，系统复位，重新开始高压启动。当VCC再次达到V<sub>CC ON</sub>时，如果温度还是处于T<sub>OTP</sub>以上，那么再次停止工作，直到温度低于T<sub>OTP</sub>。
+
+## PCB Layout 指南
+
+在设计PCB 时，需要遵循以下建议：
+
+1) VCC 电容尽可能靠近VCC 和 GND引脚放置，如果由于 PCB 布局限制，电解电容离芯片较远，通常建议在 VCC 和 GND 引脚之间放置一个 0.1 μF 的瓷片电容，并靠近芯片，以提升芯片的抗干扰能⼒和抗ESD能⼒。
+
+2) 光耦的信号地走线应单点接地到芯片地。
+
+3) 连接光耦的反馈信号线不要铺大铜⽪，以避免容易受到干扰。走线尽可能短，并远离变压器、功率管DRAIN走线、初级钳位电路、辅助绕组等强干扰源。当光耦离芯片较远时，反馈信号线和信号地线应并排走线，以减小环路⾯积。
+
+4) 为了降低辐射干扰，应减小高频功率环路⾯积。初级⺟线电容、变压器绕组和芯片组成的环路⾯积尽可能小；次级绕组、二极管和输出滤波电容组成的环路⾯积尽可能小；初级绕组和钳位电路组成的环路⾯积尽可能小。
+
+5) 芯片的 DRAIN 脚能很好地起到散热作用，是器件散热的主要途径。但是由于芯片 DRAIN 属于 EMI动点，在满足散热条件下铺铜⾯积应尽量小。
+
+6) 应将Y电容放置在初级输入滤波电容正端和次级滤波电容地之间。如果在输入端使用了π型EMI滤波器，那么滤波电感应放置在输入滤波电容的负极之间。
+
+7) 辅助绕组的地端应直接连接到⺟线电容的负端。
+
+8) ESD 放电针应直接连接在初级输入滤波电容正端和次级滤波电容地或者输出正端之间，并远离芯片控制电路。
+
+## 特性曲线
+
+![](images/1478de9aa446b18e6eb1593bba5c44d2a61bbd1961f328231be9bbac76824f6f.jpg)  
+图 8. I<sub>CC\_ST</sub> vs. Temperature
+
+![](images/b598e1160132212015b5015b121fe384d8d59f45689b65f21e77358d490196d3.jpg)  
+图 9. f<sub>OSC</sub> vs. Temperature
+
+![](images/85ecc4864be8415b494523b36a0c1a50ea4e406fa8462df76fb6de77e9548d8f.jpg)  
+图 10. V<sub>CS\_INT</sub> vs. Temperature
+
+## 封装信息
+
+ASOP-6 封装外形尺寸  
+![](images/f365ae697afe78b1b79ebb7d652c5c3411dae66848180fe82ac0973d509ff58d.jpg)
+
+<table><tr><td>Unit</td><td></td><td>A</td><td>C</td><td>D</td><td>E</td><td>HE</td><td>d1</td><td>d2</td><td>e1</td><td>e2</td><td>L</td><td>L1</td><td>a</td><td>∠</td></tr><tr><td rowspan="3">mm</td><td>max</td><td>1.25</td><td>0.22</td><td>6.4</td><td>4.1</td><td>6.1</td><td>1.35</td><td>2.05</td><td>0.45</td><td>1.65</td><td>1.15</td><td>0.80</td><td rowspan="3">0.2 (ref)</td><td rowspan="6">12°</td></tr><tr><td>typ</td><td>1.15</td><td>0.20</td><td>6.2</td><td>3.9</td><td>6.0</td><td>1.30</td><td>2.00</td><td>0.40</td><td>1.60</td><td>1.05</td><td>/</td></tr><tr><td>min</td><td>1.05</td><td>0.15</td><td>6.0</td><td>3.7</td><td>5.9</td><td>1.25</td><td>1.95</td><td>0.35</td><td>1.55</td><td>0.95</td><td>0.40</td></tr><tr><td rowspan="3">mil</td><td>max</td><td>49</td><td>9</td><td>252</td><td>161</td><td>240</td><td>53</td><td>81</td><td>18</td><td>65</td><td>45</td><td>31</td><td rowspan="3">8 (ref)</td></tr><tr><td>typ</td><td>45</td><td>8</td><td>244</td><td>154</td><td>236</td><td>51</td><td>79</td><td>16</td><td>63</td><td>41</td><td>/</td></tr><tr><td>min</td><td>41</td><td>6</td><td>236</td><td>146</td><td>232</td><td>49</td><td>77</td><td>14</td><td>61</td><td>37</td><td>16</td></tr></table>
+
+## 版本信息
+
+<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2022/08</td><td>正式发行</td></tr><tr><td>Rev. 1.1</td><td>2022/10</td><td>更新输出欠压保护阈值和欠压保护延迟时间</td></tr><tr><td>Rev. 1.2</td><td>2022/11</td><td>更新 VCC 供电、FB 反馈参数及描述</td></tr><tr><td>Rev. 1.3</td><td>2024/09</td><td>增加热阻参数、增加开放式环境支持功率描述</td></tr><tr><td>Rev. 1.4</td><td>2024/10</td><td>增加潮敏等级描述</td></tr></table>
+
+## 免责声明
+
+晶丰明源尽⼒确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。
+
+本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定⽬的的适用性或者不侵犯晶丰明源或任何第三⼈知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本⾝及其使用有关的偶然或必然损失承担任何责任。

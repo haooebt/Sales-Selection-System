@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:16:34+08:00",
+  "file": "S6613SA_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1058649,
+    "pages": 9,
+    "sha256": "951a35e5c434abf77e6aca004863647c06e2e73a7ac2ffca43d56354b20650ef"
+  },
+  "batch_id": "9952b413-5507-4c26-98ca-2f561775efc5",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:16:35+08:00",
+    "errors": [],
+    "markdown_chars": 8007,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:16:44+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:23:36+08:00",
+  "file": "BP5188GSN_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 1223716,
+    "pages": 10,
+    "sha256": "dc5513f90984968470c48b64ef9cd87bac7e4eccc58173f397b2c936229cba68"
+  },
+  "batch_id": "683d14ec-342d-4dec-b531-a6b2b48c38b5",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:23:42+08:00",
+    "errors": [],
+    "markdown_chars": 7431,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:24:07+08:00"
+}

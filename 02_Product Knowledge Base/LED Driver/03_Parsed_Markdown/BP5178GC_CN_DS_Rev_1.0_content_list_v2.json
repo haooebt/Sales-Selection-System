@@ -1,0 +1,2352 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                485,
+                102,
+                905,
+                123
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                139,
+                142,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC是一款高度集成的、支持低压可控硅调光的高精度单段线性LED恒流驱动芯片。主要用于市电输入的高功率因数的各类光源和灯具的驱动，同时具有良好的可控硅调光器兼容性。基于线性恒流技术的 BP5178GC，可以省去电解电容和磁性元件，有助于 LED驱动器实现小体积、长寿命，并符合 EMI标准。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                168,
+                487,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 可以通过外部电阻精确地设定 LED 电流，芯片通过优化不同输入电压下的输入电流，可以减小芯片的损耗，优化系统效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                307,
+                484,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC通过设定泄放电流，可以实现良好的可控硅调光器兼容性。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                373,
+                484,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 具有过温调节功能。当芯片温度过高时，将降低输出电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                419,
+                480,
+                455
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                139,
+                566,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 外围电路简单，驱动器体积小"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                168,
+                784,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 良好的可控硅调光兼容性"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                186,
+                751,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 内置 350V 高压 MOS 管"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                203,
+                724,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 母线电压变化±10%仍可正常工作"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                219,
+                813,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 集成高压启动线路，超快LED 启动"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                235,
+                820,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ ±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                252,
+                741,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ LED电流可外部设定"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                269,
+                710,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 内置过温调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                285,
+                697,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 采用 ESOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                302,
+                689,
+                318
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                342,
+                564,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ GU10/E27 LED 球泡灯、筒灯"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                372,
+                769,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ LED 吸顶灯"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                391,
+                647,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                409,
+                660,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                500,
+                200,
+                521
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/13de90044de6709755c65d832084b66ff40bac7feccf53bcfba027ffd7fa97be.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP5178GC 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                109,
+                494,
+                847,
+                871
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                23,
+                455,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                685,
+                64,
+                899,
+                92
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                868,
+                931,
+                878,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                931,
+                245,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                673,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                158,
+                200,
+                178
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eba96f50ea6b0edd53b24f592011bc2fc2592e017b741584c445a8d4e072f210.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5178GC</td><td>ESOP-8</td><td>-40 °C到105 °C</td><td>编带4,000颗/盘</td><td>BP5178GXXXXXYXXYWWC</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                185,
+                902,
+                281
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                307,
+                201,
+                328
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8c6526443338c7eac1ad529603f3ae7c18e6f04633f9068cfb8d08e96db20353.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                332,
+                355,
+                700,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXY：Lot Code"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                351,
+                875,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X：预留位"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                370,
+                798,
+                386
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XY：标示"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                388,
+                793,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                406,
+                801,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ]
+            },
+            "bbox": [
+                430,
+                521,
+                566,
+                539
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                549,
+                200,
+                568
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eb61e8c5b3ff7e22b1bfc3369d786b1c0661f61c471b17960df1b8aae55abc8d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>TRIAC</td><td>可控硅调光器检测</td></tr><tr><td>2</td><td>HV</td><td>芯片高压供电输入端</td></tr><tr><td>3</td><td>CS1</td><td>Bleeder 电流采样端</td></tr><tr><td>4</td><td>CS2</td><td>LED 电流采样端</td></tr><tr><td>5</td><td>VD</td><td>输入电压检测反馈端</td></tr><tr><td>6</td><td>RTH</td><td>芯片过温度调节点设置</td></tr><tr><td>7</td><td>DRAIN</td><td>芯片内部线性恒流 MOS 漏极</td></tr><tr><td>8</td><td>VIN</td><td>芯片高压供电输入端</td></tr><tr><td>衬底</td><td>GND</td><td>芯片地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                576,
+                902,
+                869
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                23,
+                465,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                889,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                262,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7edb99c33e602f2b8b80ab347ee7d4975dd562da4cb3a30438a054494f8f5cca.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VIN</td><td>芯片高压接口</td><td>-0.3~350</td><td>V</td></tr><tr><td>DRAIN</td><td>芯片高压接口</td><td>-0.3~350</td><td>V</td></tr><tr><td>HV</td><td>芯片高压接口</td><td>-0.3~350</td><td>V</td></tr><tr><td>TRIAC, CS1, CS2, VD</td><td>芯片低压接口</td><td>-0.3~7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>1.25</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>100</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                124,
+                167,
+                870,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度 T<sub>A</sub>所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { P _ { D M X } = \\left( T _ { J M X } - T _ { A } \\right) / }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                434,
+                897,
+                524
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                889,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                23,
+                463,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                889,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                103,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Onl"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 4, 5) （无特别说明情况下，T<sub>A</sub> =25 ℃）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                140,
+                541,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3376de92a7319223650c0c34b0586724b3e30a9a707f84ae9743ca4f048a4a38.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 4：典型参数值为 25˚C 下测得的参数标准。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源</td></tr><tr><td> $I_{OP}$ </td><td>芯片工作电流</td><td></td><td></td><td>250</td><td>350</td><td>uA</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{CS1}$ </td><td>输出电流检测阈值1</td><td></td><td></td><td>240</td><td></td><td>mV</td></tr><tr><td> $V_{CS2}$ </td><td>输出电流检测阈值2</td><td></td><td></td><td>900</td><td></td><td>mV</td></tr><tr><td> $V_{CS2\\_clamp}$ </td><td>输出电流检测阈值2下钳位电压</td><td></td><td></td><td>300</td><td></td><td>mV</td></tr><tr><td colspan=\"7\">VD补偿</td></tr><tr><td> $V_{D1}$ </td><td>线补偿起点</td><td></td><td></td><td>0.5</td><td></td><td>V</td></tr><tr><td> $R_{VD}$ </td><td>VD下拉电阻</td><td></td><td></td><td>39</td><td></td><td>KΩ</td></tr><tr><td colspan=\"7\">功率MOSFET</td></tr><tr><td> $BV_{DSS\\_VIN}$ </td><td>VIN击穿电压</td><td> $V_{GS}=0V/I_{DS}=250uA$ </td><td>350</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS\\_VIN}$ </td><td>VIN饱和电流</td><td></td><td></td><td>40</td><td></td><td>mA</td></tr><tr><td> $BV_{DSS}$ </td><td>MOSFET击穿电压</td><td> $V_{GS}=0V/I_{DS}=250uA$ </td><td>350</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>MOSFET饱和电流</td><td></td><td></td><td>280</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td> $T_{REG1}$ </td><td>过热调节温度1</td><td>RTH悬空</td><td></td><td>135</td><td></td><td>°C</td></tr><tr><td> $T_{REG2}$ </td><td>过热调节温度2</td><td>RTH接地</td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                127,
+                166,
+                870,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                605,
+                690,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                117,
+                659,
+                299,
+                788
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                23,
+                465,
+                121
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                889,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                103,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Onl"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                139,
+                247,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/49d7352fadab3af5fcc97ba48f66af91c656dae999e50a311efa9d80bd468f76.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP5178GC 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                262,
+                171,
+                875,
+                500
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                550,
+                200,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 是一款高精度单段线性可控硅调光 LED恒流控制芯片，主要用于驱动由市电供电的高电压、低电流 LED 灯串。BP5178GC 也支持可控硅调光，调光过程中可实现单段 LED 灯串同步调光，从而使 LED亮度均匀变化。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                579,
+                484,
+                671
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                681,
+                159,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在系统上电后，芯片通过内部的高压 JFET给芯片内部电路供电，当内部VCC电压达到启动电压后，芯片开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                709,
+                482,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 驱动机制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                775,
+                196,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 根据母线电压变化而改变流过 LED 灯的电流，因此可以在整个交流周期内，优化电源效率，从而提高 LED 的利用率和总输出流明数。在输入电压较低时，LED电流相对较大；在输入电压较高时，LED电流相对较低。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                802,
+                484,
+                894
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 泄放电流"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                904,
+                196,
+                920
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 支持可控硅调光，芯片通过 TRIAC 引脚检测输入是否带调光器，当芯片检测到有调光器时，芯片会自动打开泄放电流，提高可控硅调光器兼容性。当芯片检测到没有调光器时，芯片会关闭泄放电流，减小损耗，提高系统效率。通过CS1管脚的电阻值，可设置所需的泄放电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                542,
+                897,
+                653
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {B L E E D I N G} = \\frac {V _ {C S 1}}{R _ {C S 1} + R _ {C S 2}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dfa01b74e9268fbd03ad89b9cf34cbd9c68fb40030f03be783c4548a48c9e37a.jpg"
+                }
+            },
+            "bbox": [
+                611,
+                671,
+                794,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                728,
+                732,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC可以通过外部电阻精确设定 LED电流。主功率管电流计算公式："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                756,
+                884,
+                801
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {L E D} = \\frac {V _ {C S 2}}{R _ {C S 2}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/14eefe78b40537967ae1aaa2d8f5b6402ff5440a0b1a4370de36e3923af5c11b.jpg"
+                }
+            },
+            "bbox": [
+                584,
+                820,
+                685,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由于散热能力的限制，120Vac 输入时，最大输入功率在 10W左右。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                866,
+                897,
+                902
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                23,
+                465,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                889,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Onl"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 VD电压大于0.5V时， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { C S 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "基准开始下降，VD电压越大， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { C S 2 } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "基准越低，最低降到 300mV。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                131,
+                484,
+                168
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/087d44ec52a999cee564d0181f08898929480f31210cbaf90bf02f921ea8d6a5.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图4 VD线补偿曲线"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                127,
+                195,
+                452,
+                315
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                361,
+                231,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。芯片过热调节点可以通过RTH引脚进行外部设定。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                387,
+                484,
+                460
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 增大输出电流"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                495,
+                231,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如需增大输出电流，可采取以下措施："
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                520,
+                394,
+                536
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ 采用铝基板PCB"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                543,
+                263,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ 增大衬底（GND）的覆铜面积"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                567,
+                361,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ 增大整个灯具的散热底座"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                590,
+                347,
+                606
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                638,
+                173,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP5178GC PCB 板时，需要注意以下事项：地线"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                662,
+                480,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能短。地/Drain 的面积要尽可能大，以减小热阻，增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                719,
+                482,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片散热片"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                765,
+                191,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC 芯片底部有增强散热能力的散热片，在芯片内部已经连接到 GND 引脚。在设计 PCB 时，将 GND 散热衬底连接到 PCB 的地。为了达到良好的散热效果，需要将 GND 衬底连接的铜皮面积尽量大。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                784,
+                485,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                933,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                23,
+                465,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                890,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                478,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Onl"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                200,
+                160
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3872affeb38bfa8b3658217d5801a45718aae0aa7e49969a62f12c573b46d80f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                174,
+                542,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e9171f240453475f892ef8c558c782f90150dd628b4d533ac7f40f0f95cbf17e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                700,
+                181,
+                853,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8259e59a83ce30c821034aa1357fc53b3bb37421cc05d47fb3575a2f8c9fba10.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                479,
+                426,
+                563
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6b27f3089fb4312e29c4d4430933a66f80c8208cf8d1566c469ad06ce87053b7.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                453,
+                868,
+                565
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/365576383eb6536a5b829089391874c10bcab5b412abf1f8df0c79dc1e6a4668.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.35</td><td>-</td><td>1.75</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.15</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.30</td><td>-</td><td>0.50</td></tr><tr><td>c</td><td>0.10</td><td>-</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>D1</td><td>3.02</td><td>-</td><td>3.50</td></tr><tr><td>E</td><td>5.80</td><td>-</td><td>6.40</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>E2</td><td>2.1</td><td>-</td><td>2.6</td></tr><tr><td>L</td><td>0.40</td><td>0.60</td><td>1.25</td></tr><tr><td>e</td><td>1.17</td><td>1.27</td><td>1.37</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                252,
+                579,
+                737,
+                883
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                23,
+                465,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                890,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bf6f1651e8c4e4908394f8d06c3f4746597e15f450a17430a34042047c69dfeb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2021/03</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                219,
+                897,
+                795
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                159,
+                188,
+                178
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                23,
+                465,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                890,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                102,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "重要声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                453,
+                224,
+                542,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                279,
+                897,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性，特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。 人"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                317,
+                897,
+                391
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                932,
+                890,
+                942
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                23,
+                465,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                64,
+                890,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "支持可控硅调光单段线性 LED恒流驱动"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                102,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5178GC_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                932,
+                255,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                322,
+                933,
+                675,
+                954
+            ]
+        }
+    ]
+]

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:58:00+08:00",
+  "file": "BP3339_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 618110,
+    "pages": 8,
+    "sha256": "2976fce95141e4cef86f122c581172bd9bce5a858d78037d1bf215ffb3dfadb3"
+  },
+  "batch_id": "75dd8b8f-52f5-4a4b-9c76-44aabf353e5b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:58:01+08:00",
+    "errors": [],
+    "markdown_chars": 8375,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T13:58:07+08:00"
+}

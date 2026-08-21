@@ -1,0 +1,2819 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                147,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 是一款外置 OVP 降压型 LED 恒流驱动芯片。芯片工作在电感电流临界连续模式，适用于 85Vac~265Vac 全范围输入电压的非隔离降压型 LED 恒流电源。芯片 ROVP 引脚带 Enable 功能，适用于开关调色和感应灯应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                146,
+                485,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 芯片内部集成 500V 功率开关，采用栅极退磁检测技术和高压 JFET 供电技术，无需 VCC 电容和启动电阻，使其外围器件更简单，节约了外围的成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                252,
+                485,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 芯片内置高精度的电流采样电路，和恒流控制技术，实现高精度的 LED 恒流输出和优异的线电压调整率。芯片工作在电感电流临界模式，输出电流不随电感量和 LED 工作电压的变化而变化，实现优异的负载调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                318,
+                487,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 具有多重保护功能，包括 LED 短路保护，芯片供电欠压保护，外置 OVP，芯片温度过热调节等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                405,
+                484,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 采用 SOP7 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                450,
+                292,
+                467
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                114,
+                561,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 与 BP2866XJ 引脚兼容"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                146,
+                710,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成 600V 超快恢复二极管"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                166,
+                732,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 无 VCC 电容、无启动电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                186,
+                727,
+                202
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成高压供电功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                206,
+                678,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 外置防潮 OVP 功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                225,
+                684,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 低母线电压下不闪灯"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                247,
+                690,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 多灯并联无闪烁"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                267,
+                662,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Enable 功能兼容开关调色和感应灯"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                287,
+                788,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ ±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                307,
+                722,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                326,
+                648,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 过热调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                347,
+                648,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 采用 SOP7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                368,
+                662,
+                384
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                394,
+                559,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 蜡烛灯"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                425,
+                633,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 球泡灯"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                445,
+                633,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                464,
+                650,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                586,
+                188,
+                604
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a468c50627b33725c1a93a3218609470e8f20250ba690f1b3ce7236eb4bf748b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2861XJ 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                252,
+                613,
+                700,
+                888
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ\n非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                49,
+                539,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                695,
+                30,
+                875,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "07/2024"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                939,
+                157,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                763,
+                939,
+                897,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片名称"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                103,
+                188,
+                121
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/752e4239c15b6f87c67d8001f5c337527f987f39d97b3f61e86b437b7fac0311.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                344,
+                143,
+                628,
+                223
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                252,
+                186,
+                269
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b87f91284f9e592dfa88e7e07e30c1e6f267bb5969120499ddb1e80aad4613bc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2861XJ</td><td>SOP7</td><td>编带4,000 颗/盘</td><td>BP2861XXXXXYZZZZWWJ</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                277,
+                880,
+                382
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                391,
+                188,
+                410
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6c87a2ef18b742151ed05189fc56cca2dc429a56c0b514489c749674391b330b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                347,
+                418,
+                823,
+                546
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                595,
+                186,
+                613
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/32a2b3a8399d75efd8f14dff255039ea23cec044c2163a2bcff63bfb5e468a2d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GND</td><td>芯片地</td></tr><tr><td>2</td><td>ROVP</td><td>OVP 设置引脚</td></tr><tr><td>3</td><td>NC</td><td>无连接</td></tr><tr><td>4</td><td>HV</td><td>芯片高压供电端</td></tr><tr><td>5,6</td><td>DRAIN</td><td>内部高压功率管漏极</td></tr><tr><td>7</td><td>CS</td><td>电流采样端,采样电阻接在 CS 和 GND 端之间</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                621,
+                900,
+                839
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                941,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                940,
+                270,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                104,
+                223,
+                121
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2ba3b029d2177ca19fa4c3291179926ae3598926f7f86b9b3c0e8b34c8ee4330.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td colspan=\"6\">参数范围</td><td>单位</td></tr><tr><td>HV</td><td>500V芯片高压供电接口</td><td colspan=\"6\">-0.3~500</td><td>V</td></tr><tr><td>DRAIN</td><td>内部高压功率管漏极到源极峰值电压</td><td colspan=\"6\">-0.3~500</td><td>V</td></tr><tr><td>ROVP</td><td>Vovp设置引脚电压限值</td><td colspan=\"6\">-0.3~8</td><td>V</td></tr><tr><td>CS</td><td>电流采样端</td><td colspan=\"6\">-0.3~8</td><td>V</td></tr><tr><td rowspan=\"2\"> $I_{DMAX}$ </td><td rowspan=\"2\">漏极最大电流@ $T_J$ =100°C</td><td>M</td><td>S</td><td>A</td><td>B</td><td>C</td><td>D</td><td rowspan=\"2\">mA</td></tr><tr><td>280</td><td>320</td><td>440</td><td>580</td><td>800</td><td>900</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td colspan=\"6\">0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻</td><td colspan=\"6\">145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td colspan=\"6\">-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td colspan=\"6\">-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                128,
+                895,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                449,
+                897,
+                483
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "工作范围"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                502,
+                186,
+                520
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a757dd611a138db0b139cb7d25a28b68ee76627228b87d9d85902c4740cfb88e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td colspan=\"6\">参数范围</td><td>单位</td></tr><tr><td colspan=\"8\">Vin=176Vac~265Vac,腔体温度 60°C</td></tr><tr><td rowspan=\"2\">ILED MAX最大输出电流</td><td>MJ</td><td>SJ</td><td>AJ</td><td>BJ</td><td>CJ</td><td>DJ</td><td rowspan=\"2\">mA</td></tr><tr><td>120</td><td>160</td><td>220</td><td>260</td><td>310</td><td>380</td></tr><tr><td rowspan=\"2\">POUT MAX最大输出功率</td><td>MJ</td><td>SJ</td><td>AJ</td><td>BJ</td><td>CJ</td><td>DJ</td><td rowspan=\"2\">W</td></tr><tr><td>14</td><td>16</td><td>17</td><td>19</td><td>21</td><td>24</td></tr><tr><td colspan=\"8\">Vin=176Vac~265Vac,腔体温度 90°C</td></tr><tr><td rowspan=\"2\">ILED MAX最大输出电流</td><td>MJ</td><td>SJ</td><td>AJ</td><td>BJ</td><td>CJ</td><td>DJ</td><td rowspan=\"2\">mA</td></tr><tr><td>100</td><td>140</td><td>190</td><td>220</td><td>280</td><td>340</td></tr><tr><td rowspan=\"2\">POUT MAX最大输出功率</td><td>MJ</td><td>SJ</td><td>AJ</td><td>BJ</td><td>CJ</td><td>DJ</td><td rowspan=\"2\">W</td></tr><tr><td>10</td><td>12</td><td>13</td><td>15</td><td>17</td><td>19</td></tr><tr><td colspan=\"8\"></td></tr><tr><td rowspan=\"2\">VLED MIN最小负载电压</td><td>MJ</td><td>SJ</td><td>AJ</td><td>BJ</td><td>CJ</td><td>DJ</td><td rowspan=\"2\">V</td></tr><tr><td>&gt;15</td><td colspan=\"2\">&gt;20</td><td colspan=\"3\">&gt;15</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                82,
+                527,
+                915,
+                843
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                941,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                213,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                941,
+                270,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d519e2bf23245dd04a0c74f50fccc95c79f49268cc100fcbc2e5044c9572528d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 4,5) （无特别说明情况下，TA=25℃）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 4: 典型参数值为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压</td></tr><tr><td> $I_{CC}$ </td><td>芯片工作电流</td><td> $F_{OP}=4kHz$ </td><td></td><td>230</td><td></td><td>μA</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{CS\\_TH}$ </td><td>电流检测阈值</td><td></td><td>360</td><td>373</td><td>386</td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>500</td><td></td><td>ns</td></tr><tr><td> $T_{DELAY}$ </td><td>芯片关断延迟</td><td></td><td></td><td>200</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">ROVP</td></tr><tr><td> $V_{EN}$ </td><td>ROVP引脚开机阈值</td><td></td><td></td><td>0.3</td><td></td><td>V</td></tr><tr><td> $I_{OVP}$ </td><td>OVP引脚电流</td><td></td><td></td><td>30</td><td></td><td>μA</td></tr><tr><td colspan=\"7\">内部时间控制</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>1.3</td><td></td><td>μs</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大关断时间</td><td></td><td></td><td>420</td><td></td><td>μs</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td></td><td>50</td><td></td><td>μs</td></tr><tr><td> $T_{OVP\\_RST}$ </td><td>OVP重启时间</td><td></td><td></td><td>10</td><td></td><td>ms</td></tr><tr><td colspan=\"7\">续流二极管</td></tr><tr><td>Vbr</td><td>击穿电压</td><td>IR=5uA</td><td>600</td><td></td><td></td><td>V</td></tr><tr><td>VF</td><td>导通压降</td><td>IF=0.5A</td><td></td><td></td><td>1.8</td><td>V</td></tr><tr><td>IF(av)</td><td>最大平均导通电流</td><td></td><td></td><td>0.5</td><td></td><td>A</td></tr><tr><td>Trr</td><td>反向恢复时间</td><td>IF=0.5AIR=1AIrr=0.25A</td><td></td><td></td><td>35</td><td>ns</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管的击穿电压</td><td> $V_{GS}=0V/ I_{DS}=250uA$ </td><td>500</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>功率管漏电流</td><td> $V_{GS}=0V/V_{DS}=500V$ </td><td></td><td></td><td>1</td><td>μA</td></tr><tr><td>MJ  $R_{DS\\_ON}$ </td><td rowspan=\"6\">功率管导通阻抗</td><td rowspan=\"6\"> $V_{GS}=10V/ I_{DS}=0.1A$ </td><td></td><td>22</td><td></td><td rowspan=\"6\">Ω</td></tr><tr><td>SJ  $R_{DS\\_ON}$ </td><td></td><td>16.5</td><td></td></tr><tr><td>AJ  $R_{DS\\_ON}$ </td><td></td><td>11</td><td></td></tr><tr><td>BJ  $R_{DS\\_ON}$ </td><td></td><td>8.5</td><td></td></tr><tr><td>CJ  $R_{DS\\_ON}$ </td><td></td><td>5.8</td><td></td></tr><tr><td>DJ  $R_{DS\\_ON}$ </td><td></td><td>4.8</td><td></td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td>IC Surface</td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                107,
+                128,
+                889,
+                797
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                941,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                940,
+                272,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                103,
+                228,
+                121
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6271c6e04fda7d2270bdefcc65ea35bc3fbd207bbd0889c212d7bc8b4c97db36.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2861XJ 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                139,
+                863,
+                558
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                604,
+                188,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 是一款专用于 LED 照明的恒流驱动芯片，应用于非隔离降压型 LED 驱动电源。采用栅极退磁检测技术和高压 JFET 供电技术，无需 Vcc 电容和启动电阻，使其外围器件更简单，节约了外围的成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                634,
+                485,
+                713
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                731,
+                142,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后，母线电压通过 HV 脚对芯片内部供电，当内部供电电压达到芯片开启阈值时，芯片内部控制电路开始工作。芯片正常工作时，所需的工作电流仍然通过内部的 JFET 对其提供。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                772,
+                485,
+                848
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                868,
+                300,
+                884
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片逐周期检测电感的峰值电流，CS 端连接到内部的峰值电流比较器的输入端，与内部 373mV 阈值电压进行比较，当 CS 电压达到内部检测阈值时，功率管关断。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                908,
+                484,
+                923
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                512,
+                636,
+                897,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电感峰值电流的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                684,
+                707,
+                700
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {P K} = \\frac {0 . 3 7 3}{R _ {C S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1336c5f8a0b8e226e1674ae6fce742c733011ad3705028b27b8f7de44481d7a6.jpg"
+                }
+            },
+            "bbox": [
+                638,
+                707,
+                744,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{CS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  为电流采样电阻阻值。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                759,
+                731,
+                774
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CS 比较器的输出还包括一个 500ns 前沿消隐时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                789,
+                855,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 输出电流计算公式为:"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                818,
+                694,
+                833
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{I} _ {\\mathrm{LED}} = \\frac {\\mathrm{I} _ {\\mathrm{PK}}}{2}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/dbc234e01024781c0772e3c36a18d3b5eac61853533f2c9ee00052e16c3e038b.jpg"
+                }
+            },
+            "bbox": [
+                658,
+                837,
+                757,
+                870
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是电感的峰值电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                882,
+                719,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                942,
+                887,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                940,
+                270,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "储能电感"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                104,
+                178,
+                120
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 工作在电感电流临界模式，当功率管导通时，流过储能电感的电流从零开始上升，导通时间为："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                143,
+                475,
+                180
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {o n} = \\frac {L \\times I _ {P K}}{V _ {I N} - V _ {L E D}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/7946086b0eed53488f165013e98e609f90ba1c64a47a39b8fbaf08158f60613a.jpg"
+                }
+            },
+            "bbox": [
+                220,
+                185,
+                351,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，L 是电感量；  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是电感电流的峰值；  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{IN}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是经整流后的母线电压；  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{LED}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是输出 LED 上的电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                229,
+                478,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当功率管关断时，流过储能电感的电流从峰值开始往下降，当电感电流下降到零时，芯片内部逻辑再次将功率管开通。功率管的关断时间为："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                278,
+                490,
+                332
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {o f f} = \\frac {L \\times I _ {P K}}{V _ {L E D}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/1e3c216fa6141163c28c9863c4861c56c75fe71ab49742e38742f0e56d1ef8b2.jpg"
+                }
+            },
+            "bbox": [
+                248,
+                344,
+                371,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "储能电感的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                388,
+                265,
+                404
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{L} = \\frac {\\mathrm{V} _ {\\mathrm{LED}} \\times \\left(\\mathrm{V} _ {\\mathrm{IN}} - \\mathrm{V} _ {\\mathrm{LED}}\\right)}{\\mathrm{f} \\times \\mathrm{I} _ {\\mathrm{PK}} \\times \\mathrm{V} _ {\\mathrm{IN}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3240a20b9136fcafdd32c95f6ab234cc38e806d0540fe57dded3cc35985a8cbf.jpg"
+                }
+            },
+            "bbox": [
+                196,
+                432,
+                376,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，f 为系统工作频率。BP2861XJ 的系统工作频率和输入电压成正比关系，设置 BP2861XJ 系统工作频率时，选择在输入电压最低时设置系统的最低工作频率，而当输入电压最高时，系统的工作频率也最高。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                476,
+                485,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 设置了系统的最小关断时间和最大关断时间，分别为 1.3us 和 420us。由   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  的计算公式可知，如果电感量很小时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  很可能会小于芯片的最小退关断时间，系统就会进入电感电流断续模式，LED 输出电流会背离设计值；而当电感量很大时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  又可能会超出芯片的最大关断时间，这时系统就会进入电感电流连续模式，输出 LED 电流同样也会背离设计值。所以选择合适的电感值很重要。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                567,
+                487,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过压保护电阻设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                724,
+                247,
+                740
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开路保护电压可以通过 ROVP 引脚电阻来设置，ROVP 引脚流出的电流约为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "30 \\mu A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                764,
+                484,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 开路时，输出电压逐渐上升，退磁时间变短。因此可以根据需要设定的开路保护电压，来计算退磁时间 Tovp。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                814,
+                489,
+                851
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{Tovp} \\approx \\frac {\\mathrm{L} \\times \\mathrm{Vcs}}{\\mathrm{Rcs} \\times \\mathrm{Vovp}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/af3cc6c735e7212f5e4acafed5c75af3474c68ecff582ebc733c2496f835a715.jpg"
+                }
+            },
+            "bbox": [
+                615,
+                114,
+                771,
+                153
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                159,
+                556,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vcs 是 CS 关断阈值 (373mV)"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                179,
+                717,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vovp 是需要设定的过压保护点"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                199,
+                726,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "然后根据 Tovp 时间来计算 Rovp 的电阻值，公式如下："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                229,
+                884,
+                244
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{Rovp} \\approx \\frac {1 5 0}{\\mathrm{Tovp}} * 1 0 ^ {- 3}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c5912df9810abd6a98c15695ac9d0743328422967a407f03627de3c3aab1eda9.jpg"
+                }
+            },
+            "bbox": [
+                596,
+                269,
+                763,
+                309
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：ROVP 脚有 EN 功能，ROVP 电压低于 0.3V，芯片进入保护 Disable，关断输出，所以 ROVP 电阻建议大于 15k；如不需要 OVP 功能，ROVP 悬空即可。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                313,
+                897,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                390,
+                591,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ 内置多种保护功能，包括 LED 短路保护，芯片供电电压欠压保护，芯片温度过热调节等。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                430,
+                895,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 短路时，系统工作在 4kHz 低频，所以功耗很低。BP2861XJ 通过过温调节电路检测芯片温度，当芯片温度超过过温保护点时，芯片进入过温调节状态，逐渐减小输出电流，从而控制输出功率和温升，使芯片温度控制在一定值，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                480,
+                899,
+                587
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                605,
+                594,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2861XJ PCB 时，需要遵循以下指南："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                646,
+                833,
+                662
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CS 采样电阻"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                669,
+                606,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能短，且要和芯片的地线及其它小信号地线分头接到母线电容的地。另外加大CS引脚的铺铜面积可以加强芯片散热。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                697,
+                899,
+                755
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "HV引脚"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                768,
+                576,
+                784
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在焊接允许的情况下，HV引脚尽量远离CS引脚和其他低压引脚。使用时尽量加大HV引脚的铺铜面积以辅助内置"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                797,
+                899,
+                834
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                942,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                940,
+                272,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "续流二极管散热。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                99,
+                218,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功率环路的面积"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                216,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "减小功率环路的面积，如功率电感、功率管、母线电容的环路面积，以及功率电感、输出电容的环路面积，以减小EMI辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                156,
+                484,
+                214
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DRAIN 引脚"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                227,
+                191,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "增加 DRAIN 引脚的铺铜面积以提高芯片散热,但是过大的铺铜面积会使 EMI 变差。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                256,
+                484,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GND 引脚"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                306,
+                179,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片 GND 引脚要接到母线电容的负端，不可以直接接在整流桥的负端。增加 GND 引脚的铺铜面积以提高芯片散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                335,
+                484,
+                392
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b1fdc4ced6b72f48738a4224a530b8cb3fcc0b86a13b4c5a1a3ac6454eaa364e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 PCB 铺铜面积优化图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                93,
+                934,
+                363
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                941,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                940,
+                270,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                506,
+                843,
+                519
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息(SOP7)"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                103,
+                253,
+                122
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/47437e8a935166ee2d34af2eaac3c147bd295ea6b3428e0dfb65bf3e96d5dc5a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-7 Package Outline Dimensions"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                156,
+                166,
+                413,
+                362
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7a6b213618d974deb6a50298bfc468cc40f0ba32da6d7753b9428f1d3492daf5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                642,
+                166,
+                739,
+                354
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8288fb0130a9862a5c0a3690495f94c17940c68d9cf086e838bf96d848cf3c53.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                171,
+                451,
+                425,
+                533
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/411b196cd607d3f3bc65352ccb406fa9e57b8c222207dcb12a3609f5cf91c8f9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                561,
+                420,
+                845,
+                520
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/658de365ed28fa57cef87a07fce45618ed7a825da9889db035f827e9c808e590.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                107,
+                602,
+                339,
+                784
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2d79fb61af8a59146156b64d368176314466050f1cd6c0f9a4e4dbe13b6591a5.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>—</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.10</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.24</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                344,
+                589,
+                650,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                941,
+                887,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                59,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                940,
+                272,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                103,
+                188,
+                121
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ff5b5e7a451901e884d715a62d31b662e24975196817dfd279c1f3f39e176d2c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.3</td><td>2021/2</td><td>格式更新,OVP重启时间由8ms更新为10ms</td></tr><tr><td>Rev. 1.4</td><td>2022/11</td><td>A档最小带载电压由“&gt;10V”改为“&gt;15V”</td></tr><tr><td>Rev. 1.5</td><td>2023/3</td><td>增加M档参数</td></tr><tr><td>Rev. 1.6</td><td>2024/7</td><td>删除ESD项,A档最小带载电压改&gt;20V</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                129,
+                895,
+                394
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                941,
+                887,
+                952
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                110,
+                940,
+                272,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                941,
+                584,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                93,
+                549,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                192,
+                823,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                233,
+                899,
+                310
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                941,
+                890,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                42,
+                215,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                60,
+                868,
+                80
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2861XJ_CN_DS_Rev.1.6"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                940,
+                268,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                941,
+                581,
+                954
+            ]
+        }
+    ]
+]

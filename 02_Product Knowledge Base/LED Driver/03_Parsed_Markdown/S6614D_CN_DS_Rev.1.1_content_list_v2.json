@@ -1,0 +1,2853 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                128,
+                137,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D是一款高精度的原边反馈LED恒流控制开关芯片，工作在电感电流断续模式，适用于85~265Vac输入电压范围的隔离反激式LED恒流电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                154,
+                475,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D内部集成高压功率三极管，无需辅助绕组检测和供电；芯片外围简洁，系统方案性价比高。芯片内置线电压补偿及高精度电流采样，无需增加电流补偿电路便可实现高电流精度。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                222,
+                475,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D内部集成了多种保护功能：欠压锁定、前沿消隐、LED开路保护、短路保护、过热调节等功能，增加了系统的稳定性。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                310,
+                477,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D采用DIP-7封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                376,
+                253,
+                393
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9c1c009ded8425d1508ff2a699e7ef9096ebf2d840d7ae0b7f7783b2d5ce011f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                414,
+                321,
+                464
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                128,
+                569,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无需辅助绕组检测和供电"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                154,
+                731,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "集成超高耐压功率三极管"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                174,
+                731,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                193,
+                729,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED开路、短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                214,
+                702,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内置输入线电压补偿"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                235,
+                700,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逐周期的电流限制及前沿消隐"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                255,
+                759,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "过热调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                275,
+                655,
+                291
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                522,
+                302,
+                608,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED筒灯、PAR灯"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                335,
+                685,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED面板灯、插地灯、防水电源"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                356,
+                776,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                376,
+                660,
+                392
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                535,
+                176,
+                552
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d19c18cbda02bc797744bdce609f6ad181e2aea0bc754250996ddac91561d41c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 S6614D 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                90,
+                555,
+                806,
+                822
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                114
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                52,
+                905,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                936,
+                591,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                952,
+                648,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                128,
+                176,
+                146
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e6c33c3176bc7c03d64d5d23546c6e5e6f57e421382ab450de911266abe3659b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>S6614D</td><td>DIP-7</td><td>管装50颗/管</td><td>S6614DXXXXXXYZXXXXYX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                148,
+                904,
+                243
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                256,
+                178,
+                274
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8ba3c92a497378911e8fe0d12dfc78c5eb31621b6541eee7e809f96488c9015f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                378,
+                279,
+                600,
+                390
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXXY：批次"
+                    }
+                ]
+            },
+            "bbox": [
+                658,
+                281,
+                771,
+                298
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ZXXX：标识"
+                    }
+                ]
+            },
+            "bbox": [
+                658,
+                303,
+                747,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "YY：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                658,
+                322,
+                727,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X:预留"
+                    }
+                ]
+            },
+            "bbox": [
+                658,
+                343,
+                717,
+                359
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                430,
+                178,
+                447
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/086b29331356cb9efbe3e4217a3466d9b794a321d873253898b63b3db8eb4ea8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>TM</td><td>测试脚,应用时接地</td></tr><tr><td>2</td><td>CS</td><td>原边电流检测管脚</td></tr><tr><td>3</td><td>VCC</td><td>供电脚(对 GND 外接 22uF 电容)</td></tr><tr><td>4</td><td>NC</td><td>悬空</td></tr><tr><td>5,6</td><td>C</td><td>内置三极管集电极</td></tr><tr><td>7</td><td>GND</td><td>信号和功率地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                456,
+                904,
+                650
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                19,
+                428,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                52,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                936,
+                648,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                213,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f171ebba0801de35112213488d7cb3b7378c17b3bea62b6306aa23cd10acf3d0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>TM</td><td>芯片 TM 引脚电压范围</td><td>-0.3~8</td><td>V</td></tr><tr><td>CS</td><td>芯片CS引脚电压范围</td><td>-1.0~8</td><td>V</td></tr><tr><td>VCC</td><td>芯片VCC引脚电压范围</td><td>-0.3~8</td><td>V</td></tr><tr><td>C</td><td>功率三极管集电极电压范围</td><td>-0.3~780</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>耗散功率(注 2)</td><td>0.9</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN 结到环境的热阻</td><td>80</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注 3)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                141,
+                905,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                426,
+                907,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由TMAx，θIA，和环境温度TA所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P _ { D M A X } = ( T _ { J M A X } - T _ { A } ) / \\theta _ { J A }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                491,
+                907,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 3：按照 JEDEC 标准测试，100pF 电容通过 1.5KΩQ 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                536,
+                445,
+                550
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                2,
+                428,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                35,
+                905,
+                55
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                928,
+                905,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                72,
+                905,
+                92
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D_CN_DS_Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                235,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                928,
+                648,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气特性(注 4， 5) (除非特别说明，VCC=5V， Ta=25°C)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                117,
+                475,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/235bca59bafbb2ce064f5a21b7e9970da7206fe9513304ba714e30afc9ad79ab.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注4：典型参数值为25℃下测得的参数标准；"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试、或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>描述</td><td>符号</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"6\">VCC管脚部分</td></tr><tr><td>启动电流</td><td> $I_{start}$ </td><td></td><td>190</td><td></td><td>uA</td></tr><tr><td>VCC启动电压</td><td> $VCC_ON$ </td><td>4.5</td><td>5</td><td>5.5</td><td>V</td></tr><tr><td>VCC关断电压</td><td> $VCC_OFF$ </td><td>3.5</td><td>4</td><td>4.5</td><td>V</td></tr><tr><td>VCC工作电压</td><td> $VCC_OP$ </td><td>4.5</td><td>5</td><td>5.5</td><td>V</td></tr><tr><td>VCC钳位电压</td><td> $VCC_CLAMP$ </td><td>5.8</td><td>6</td><td>6.4</td><td>V</td></tr><tr><td colspan=\"6\">CS管脚部分</td></tr><tr><td>过流限制电压</td><td> $V_{CS}$ </td><td>-515</td><td>-500</td><td>-485</td><td>mV</td></tr><tr><td>前沿消隐时间</td><td>LEB</td><td>400</td><td>500</td><td>720</td><td>nS</td></tr><tr><td colspan=\"6\">内部时间控制</td></tr><tr><td>最小退磁时间</td><td>TOFF_min</td><td>3.7</td><td>4.7</td><td>5.7</td><td>us</td></tr><tr><td>最大退磁时间</td><td>TOFF_max</td><td>400</td><td>450</td><td>500</td><td>us</td></tr><tr><td colspan=\"6\">功率管</td></tr><tr><td>峰值电流</td><td> $I_{peak}$ </td><td>500</td><td>850</td><td>900</td><td>mA</td></tr><tr><td>功率管击穿电压</td><td> $BV_{CBO}$ </td><td>780</td><td>850</td><td></td><td>V</td></tr><tr><td colspan=\"6\">过热调节</td></tr><tr><td>过热调节温度</td><td>Treg</td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                141,
+                905,
+                630
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a9256e87545d53bfb764aa78d9b6cd935bdfbbd18c540654de8ff96b873876f5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "推荐工作范围"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $P_{OUT}$ </td><td>输出功率(输入电压85~265Vac)</td><td>&lt;24</td><td>W</td></tr><tr><td> $F_{op}$ </td><td>推荐系统工作频率</td><td>50~70</td><td>kHz</td></tr><tr><td> $V_{OR\\_MIN}$ </td><td>原边最小反射电压</td><td>&gt;36</td><td>V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                714,
+                905,
+                824
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                2,
+                428,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                35,
+                905,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                71,
+                905,
+                92
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D_CN_DS_Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                235,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                928,
+                591,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                944,
+                648,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                907,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                128,
+                218,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/49d5d97d5de33f0128ae690f9d55c5de4d223534e8d115ac3831ed5ec824caaf.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 S6614D 内结构框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                136,
+                147,
+                867,
+                523
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                565,
+                178,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D 是一款专用于LED 照明的恒流驱动芯片，采用原边反馈拓扑架构，内置线电压补偿电路及自供电电路；采用两绕组变压器，无需辅助绕组供电；内置高耐压功率管，C 极峰值电压730V内可省吸收回路，方案成本低。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                599,
+                472,
+                676
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、启动电路"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                687,
+                183,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后，输入电压 Vcap 通过启动电阻 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R } _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "对电容 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf C _ { 1 }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "进行充电，如图4所示："
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                715,
+                472,
+                751
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/af0cbf5d9adb49e225c842de4667f41011c82f2d3be3bbb1aa6f787282dce22c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 启动电路图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                215,
+                756,
+                339,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 VCC 电容电压达到芯片启动电压VCC oN，芯片内部控制电路开始工作。电源的启动延迟时间Tsd为："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                596,
+                905,
+                632
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "T _ {s d} = R _ {1} * C _ {1} * L n \\big (1 - V C C _ {\\_ O N} \\big) / (V _ {c a p} - I _ {s t a r t} * R _ {1})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/0c0a79267ef687aaa6ddf857ef851822c779cdb94c1b76942e709684c986554c.jpg"
+                }
+            },
+            "bbox": [
+                544,
+                639,
+                882,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V C C } _ { \\mathsf { O N } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为芯片启动电压；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                665,
+                734,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { I } _ { \\mathsf { S t a r t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为芯片启动电流；"
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                686,
+                717,
+                700
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C a p } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 AC 整流后电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                706,
+                727,
+                721
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为给芯片提供稳定的工作电压，VCC 电容应选择低ESR电容，以保证芯片稳定工作及减小VCC电压纹波，推荐使用22uF温度特性好的电解电容。由于低温时电容的ESR成倍增加，为避免低温启动困难，需要在VCC引脚多并联一个约 1uF的 X7R 材质的瓷片电容。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                733,
+                907,
+                829
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、输出恒流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                841,
+                650,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片内部采用逐周期检测变压器原边峰值电流，CS 端连接到内部的峰值电流比较器输入端，与内部基准电压比较从而控制功率三极管的开关。原边峰值电流为："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                868,
+                912,
+                925
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                52,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                936,
+                591,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                952,
+                648,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {p e a k} = \\frac {V _ {c s}}{R _ {c s}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3af6620c4ea47dd242ccb61d19296fea9443a596b72ba2f26fb0f32189ac0473.jpg"
+                }
+            },
+            "bbox": [
+                240,
+                122,
+                321,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 输出电流为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                161,
+                208,
+                175
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {o u t} = \\frac {1}{4} * N _ {p s} * I _ {p e a k}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eeceff611a91d8aab5471132e50a95685789fe9fb939724c7abf57dd67a1fac4.jpg"
+                }
+            },
+            "bbox": [
+                208,
+                181,
+                351,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是 CS 脚过流限制电压"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                219,
+                307,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边电流检测电阻阻值"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                239,
+                329,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "I _ { p e a k }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边峰值电流"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                259,
+                280,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { p s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边与副边线圈匝比"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                279,
+                317,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电流可以根据合理设置原边与副边线圈匝比和电流采样电阻得到。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                305,
+                472,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3、工作频率"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                353,
+                184,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统工作在电感电流断续模式，无需任何环路补偿，最大占空比为42%左右，通常情况下，建议最大的工作频率为65~70Khz，最小频率30kHz以上，频率的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                380,
+                472,
+                436
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f = \\frac {N _ {p} ^ {2} * V _ {o u t}}{8 * N _ {s} ^ {2} * L _ {P} * I _ {o u t}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8498a7e28f4bea19a3f2441e0c9ebb5f9bfcdfb6d9d5552fded403e4d90cc9b1.jpg"
+                }
+            },
+            "bbox": [
+                208,
+                443,
+                352,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中： "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是变压器原边电感量；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                483,
+                300,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "分别是变压器原边与副边的匝数。"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                504,
+                408,
+                519
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4、过压保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                531,
+                183,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D内置过压保护(OVP)，外围无 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { O V P } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "芯片默认退磁时间 Tovp≈4.7uS，主要通过电感量调节OVP电压，OVP电压通常设置为1.5 倍满载电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                558,
+                472,
+                614
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {o v p} \\approx \\frac {L _ {p} * V _ {c s}}{N _ {p s} * R _ {c s} * T _ {o v p}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/489665e095433aa6b8c35d0b73d665d806d0bf8232aa9c3ce2fe88b78bb39d18.jpg"
+                }
+            },
+            "bbox": [
+                205,
+                618,
+                359,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是 CS 脚过流限制电压"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                659,
+                307,
+                675
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边电流检测电阻阻值"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                678,
+                329,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { o v p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是输出OVP 电压"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                697,
+                282,
+                713
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { p s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边与副边线圈匝比"
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                128,
+                751,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "L _ { p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是原边电感量"
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                146,
+                685,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tovp 的屏蔽时间是 2uS，功率管关断后 C 脚(PIN5 和PIN6)的谐振时间超过 2uS 将触发OVP，变压器须采用三明治绕法以减小漏感，确保足够余量。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                165,
+                907,
+                219
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5、保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                230,
+                618,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片内置多种保护功能，包括LED开路、短路保护以及芯片过温调节功能等。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                256,
+                905,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出LED开路时，系统会触发过压保护功能并锁死，芯片停止开关工作，直到220ms后系统复位后重新工作。当LED短路时，系统工作在2.5kHz低频，所以功耗很低。"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                305,
+                905,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片通过过温调节电路检测芯片结温，当结温超过 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 ^ { \\circ } \\mathsf C"
+                    },
+                    {
+                        "type": "text",
+                        "content": "芯片进入过温调节，逐渐减小输出电流，从而控制输出功率和温升，使芯片温度控制在一定值，以保证系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                372,
+                910,
+                429
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 布板指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                439,
+                660,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设计 S6614D PCB 板时，需要遵循以下原则："
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                474,
+                828,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1)VCC 电容的正端和负端尽量靠近芯片的 VCC 和 GND脚，并增大引线的面积(芯片的自供电电路会在充电阶段通过芯片 VCC 脚对 VCC 电容充电，过长或过细的引线将会导致芯片工作异常)。"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                501,
+                907,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2)缩小功率环路的面积，如变压器主级、功率管以及反馈电阻间的环路面积，可以有效减小EMI辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                589,
+                905,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3)CS 采样电阻两端尽量分别与芯片的 GND 脚和输入电容的地靠近，可以有效降低耦合噪声，提高采样精度。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                636,
+                905,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) 增加C脚的铺铜面积可以提高芯片的散热。"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                684,
+                836,
+                699
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                52,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                108
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                936,
+                589,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                952,
+                648,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                677,
+                492,
+                749,
+                502
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                128,
+                233,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec6a5f522ff47e493daf2e01cc211057f9501df4534341100debc6b2ebd7a821.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                240,
+                225,
+                421,
+                355
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7dc4eaa5749104ae05867304b5c528f90142c3af4eabc953b0b581d30cdc0f9a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                569,
+                242,
+                729,
+                373
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/50fb83065744ef03fcfb093d58e08fd25bc573738f657f680cecd65637492772.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                243,
+                426,
+                443,
+                525
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d5db70ef8fdd010665345436fad3ebe201e75ff9602f598b8738e1de17527d26.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BASE METAL"
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                417,
+                749,
+                505
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d3adae29d43214e4dbd1939e86b7eee0b357b80ba96e7925c9c0b0c8ce8362c4.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>—</td><td>—</td><td>4.80</td></tr><tr><td>A1</td><td>0.40</td><td>—</td><td>—</td></tr><tr><td>A2</td><td>3.10</td><td>—</td><td>3.50</td></tr><tr><td>b</td><td>0.355</td><td>—</td><td>0.559</td></tr><tr><td>B1</td><td colspan=\"3\">1.52REF</td></tr><tr><td>c</td><td>0.203</td><td>—</td><td>0.356</td></tr><tr><td>D</td><td>9.10</td><td>—</td><td>9.45</td></tr><tr><td>E</td><td>6.25</td><td>—</td><td>6.70</td></tr><tr><td>e</td><td>2.44</td><td>2.54</td><td>2.64</td></tr><tr><td>E1</td><td>7.62</td><td>—</td><td>10.90</td></tr><tr><td>L</td><td>2.92</td><td>—</td><td>3.81</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                243,
+                607,
+                490,
+                864
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                114
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                51,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                936,
+                648,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                127,
+                176,
+                145
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6aa9782b1c67642848141ffc7aaf28cf08f06a835ca0afce4e6365aedc85e2a8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2018/01</td><td>首次发行</td></tr><tr><td>Rev.1.1</td><td>2021/08</td><td>格式更新,页眉页脚更新,增加 OVP 设置参考的描述</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                147,
+                902,
+                363
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                112
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                51,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                936,
+                648,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                123,
+                549,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                152,
+                815,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                186,
+                907,
+                244
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                19,
+                428,
+                114
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                52,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "隔离反激恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                660,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S6614D CN DS Rev.1.1 08/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                235,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                421,
+                936,
+                648,
+                966
+            ]
+        }
+    ]
+]

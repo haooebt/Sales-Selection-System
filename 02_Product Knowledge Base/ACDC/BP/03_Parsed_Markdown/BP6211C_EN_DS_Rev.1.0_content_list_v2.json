@@ -1,0 +1,2734 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                143,
+                221,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C is a high-performance, high-integration, self-biased synchronous rectifier (SR) with a 60 V MOSFET integrated for flyback converters. It can replace the secondary diode rectifier for higher efficiency and power density."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                172,
+                485,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C supports discontinuous conduction mode (DCM), quasi-resonant (QR) and continuous conduction mode (CCM) operations. Robust operation in CCM is enabled with adaptive gate drive and faster turn-off speed with 4 A sink current and ultra-short turn-off delay."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                260,
+                485,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The internal ringing detection circuitry prevents the IC from falsely turning on during DCM or QR operations. The internal turn-on blanking function prevents an accidental turn-off due to parasitic ringing. Ultra-short turn-on delay increases SR MOSFET conduction time to improve efficiency."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                366,
+                485,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C generates its own supply voltage without requiring auxiliary winding for low-side or high-side rectification. This feature makes it suitable for charger applications with a very low output voltage or wide output voltage range."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                470,
+                484,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C is available in an SOP-8 package."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                558,
+                430,
+                576
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                143,
+                606,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Integrated 60 V MOSFET"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                174,
+                724,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Adaptive gate drive and faster turn-off speed"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                195,
+                868,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Supports DCM, QR and CCM operations"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                215,
+                830,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Ringing detection prevents false turn-on in DCM"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                235,
+                890,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Supports low-side and high-side rectification"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                255,
+                870,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Self-biased and no need for auxiliary winding for high-side rectification"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                275,
+                897,
+                312
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Supports wide output voltage range down to 0 V"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                316,
+                894,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 4 A sink gate driver prevent false turn-on by the miller effect"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                336,
+                897,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Ultra-short turn-on delay, increase MOSFET conduction time, optimize efficiency"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                376,
+                897,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Low quiescent current"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                417,
+                714,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Compatible with energy efficiency regulations"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                437,
+                878,
+                454
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Applications"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                512,
+                643,
+                533
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ QC, USB-PD and PPS AC-DC Chargers"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                544,
+                813,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ High Efficiency Adaptors"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                565,
+                727,
+                580
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fa837a4926888431854b8b248dfad9fd2f5d21b2d5b0726b1b14b11c428d1103.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 Package"
+                    }
+                ]
+            },
+            "bbox": [
+                240,
+                580,
+                438,
+                645
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ High Efficiency and Power Density Flyback Converters"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                585,
+                897,
+                621
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                671,
+                289,
+                692
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b2a7768b3e89b8d6b184e27902d08297560ccb21e10cf2d3b0f611ca85d5464f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1. BP6211C Typical Application"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                277,
+                700,
+                650,
+                871
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                79,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                257,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                453,
+                936,
+                579,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                952,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                143,
+                310,
+                162
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e042c731e36a0c56de1b30957da808c7dc8ffd4cd21f19c3f902205c47b7c787.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Packing</td><td>Marking</td></tr><tr><td>BP6211C</td><td>SOP-8</td><td>Tape &amp; Reel4,000 pcs/Reel</td><td>BP6211CXXXXYYZZZZWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                168,
+                892,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Configuration and Marking Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                307,
+                526,
+                329
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/31ef276b275e7ab3600e983f8c9dd0d29963fed4ee23fae07bd527547747950d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2. SOP-8 Pin Configuration"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                327,
+                340,
+                621,
+                499
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C: Part Number"
+                    }
+                ]
+            },
+            "bbox": [
+                667,
+                350,
+                840,
+                368
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXYYY: Lot Code"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                370,
+                803,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ZZZZ: Internal Code"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                391,
+                811,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW: Week Code"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                411,
+                794,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X: Reserved Code"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                431,
+                801,
+                447
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Functions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                542,
+                231,
+                560
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a37b906f8c91a484c50eb856a79c0267c1eb4d0b24e64341f3706e7b6309ccfd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin NO.</td><td>Pin Name</td><td>Description</td></tr><tr><td>1</td><td>VCC</td><td>Linear regulator output. VCC is the supply of the BP6211C.</td></tr><tr><td>2</td><td>VD</td><td>MOSFET drain voltage sensing. VD is also used as the linear regulator input.</td></tr><tr><td>3、4</td><td>S</td><td>MOSFET source. S is also used as a reference for VCC.</td></tr><tr><td>5/6/7/8</td><td>D</td><td>MOSFET drain.</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                567,
+                892,
+                736
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                936,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                443,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                892,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                475,
+                80,
+                895,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                248,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                936,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/11b4c7dd3e555d43caa0b7c7babc8dd0ba32d310a536c224c455a982c3acbe27.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings (Note 1)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note 2 The maximum power dissipation decreases if temperature rise, it is decided by   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ,   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , and environment temperature (  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ). The maximum power dissipation is the lower one between   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_{A}) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  and the number listed in the maximum table."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Value</td><td>Units</td></tr><tr><td>VCC</td><td>VCC pin voltage</td><td>-0.3~12</td><td>V</td></tr><tr><td> $V_{DRAIN}$ </td><td>D pin to S pin voltage</td><td>-0.7~60</td><td>V</td></tr><tr><td> $V_{VD}$ </td><td>VD pin voltage</td><td>-1~120</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Continuous Power Dissipation (Note 2)</td><td>0.97</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Junction-to-ambient thermal resistance (Note 3)</td><td>129</td><td>°C/W</td></tr><tr><td> $\\theta_{JC}$ </td><td>Junction-to-case thermal resistance (Note 3)</td><td>70</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Operating Junction Temperature</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage Temperature</td><td>-55 to 150</td><td>°C</td></tr><tr><td>ESD</td><td>Human Body Mode (Note 4)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                168,
+                887,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 4: 1.5kΩ in series with 100pF."
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                657,
+                290,
+                671
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                892,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                475,
+                80,
+                895,
+                124
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                936,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                248,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                936,
+                573,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                608,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c6c380bee13dff4b32227a1820c6c6a3035c51ba01fefd437da2a6a211ad5d4c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (Note 5) (  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , unless otherwise noted)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 5: The maximum and minimum parameters specified are guaranteed by test, the typical values are guaranteed by design, characterization and statistical analysis"
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Test Conditions</td><td>Min</td><td>Typ</td><td>Max</td><td>Units</td></tr><tr><td colspan=\"7\">VCC Supply</td></tr><tr><td> $V_{CC\\_ON}$ </td><td>VCC turn-on threshold</td><td></td><td>4.2</td><td>4.6</td><td>5</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>VCC UVLO threshold</td><td></td><td>3.6</td><td>4</td><td>4.4</td><td>V</td></tr><tr><td> $V_{CC\\_REG}$ </td><td>Internal regulation voltage</td><td>VD=14V</td><td>8.5</td><td>9.2</td><td>9.7</td><td>V</td></tr><tr><td> $I_{CH}$ </td><td>Charging current</td><td>VCC=7VVD=14V</td><td>37</td><td>55</td><td>71</td><td>mA</td></tr><tr><td> $I_Q$ </td><td>Quiescent current</td><td>VCC=9V</td><td>180</td><td>250</td><td>340</td><td>μA</td></tr><tr><td> $I_{CC}$ </td><td>Operation current</td><td>VCC=9VFsw=100kHz</td><td></td><td>5</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">Control Functions</td></tr><tr><td> $V_{D\\_REG}$ </td><td>VD regulation voltage</td><td></td><td></td><td>-45</td><td></td><td>mV</td></tr><tr><td> $V_{ON\\_TH}$ </td><td>Turn-on threshold</td><td></td><td></td><td>-180</td><td></td><td>mV</td></tr><tr><td> $t_{SLEW}$ </td><td>Dv/dt timer</td><td></td><td></td><td>30</td><td></td><td>nS</td></tr><tr><td> $V_{OFF\\_TH}$ </td><td>Turn-off threshold</td><td></td><td></td><td>0</td><td></td><td>mV</td></tr><tr><td> $t_{Delay\\_ON}$ </td><td>Turn-on delay</td><td></td><td></td><td>30</td><td></td><td>ns</td></tr><tr><td> $t_{Delay\\_OFF}$ </td><td>Turn-off delay</td><td></td><td></td><td>10</td><td></td><td>ns</td></tr><tr><td> $t_{B\\_ON}$ </td><td>Turn-on blanking time</td><td></td><td></td><td>1</td><td></td><td>μs</td></tr><tr><td> $V_{B\\_OFF}$ </td><td>Turn-off threshold during turn-on blanking period</td><td></td><td></td><td>2</td><td></td><td>V</td></tr><tr><td> $t_{OFF\\_MIN}$ </td><td>Minimum off time</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">Internal SR MOSFET</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>On state resistance</td><td> $V_{GS}=10V, I_D=30A$ </td><td></td><td>8.3</td><td>12</td><td>mΩ</td></tr><tr><td> $BV_{DSS}$ </td><td>Breakdown voltage</td><td> $V_{GS}=0V, I_D=250μA$ </td><td>60</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>Leakage current</td><td> $V_{DS}=60V, V_{GS}=0V$ </td><td></td><td></td><td>1</td><td>μA</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                168,
+                892,
+                728
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                443,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                475,
+                80,
+                895,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                248,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                936,
+                573,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                936,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Functional Block Diagram"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                143,
+                354,
+                162
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b64fbb39b1cea61bb39cc06e11e430a897b6f561dbbf7969890ed4e87ddd1b24.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. BP6211C functional block diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                179,
+                181,
+                875,
+                495
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Functional Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                551,
+                324,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C is a high-performance, high-integration, self-biased synchronous rectifier for flyback converters. It can replace the secondary diode rectifier with a low   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{DS\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  MOSFET to improve the system efficiency. The BP6211C supports discontinuous conduction mode (DCM), quasi-resonant (QR) and continuous conduction mode (CCM) operations. Robust operation in CCM is enabled with adaptive gate drive and faster turn-off speed with 4 A sink current and ultra-short turn-off delay."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                580,
+                485,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(Note 6: All of the parameter values used in these descriptions are typical values, unless they are specified as minimum or maximum.)"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                756,
+                485,
+                788
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Start-up and VCC Under Voltage Lockout"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                797,
+                448,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C is supplied from VCC through the internal linear regulator between VD pin and VCC pin. During start up, the internal linear regulator operates in charging mode, in which a current source   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{CH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  from VD pin charges up the VCC capacitor. Once VCC voltage rises above   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , the BP6211C exits under-voltage lockout (UVLO) and controls the switching of the SR MOSFET."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                822,
+                485,
+                907
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                580,
+                907,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When VCC voltage is above   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_REG}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , the internal linear regulator operates in regulator mode. The VCC pin is well regulated at VCC_REG. The voltage level is chosen to get a good compromise between SR conduction loss and gate drive loss."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                621,
+                907,
+                705
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C continues to operate until the VCC voltage drops below UVLO turn off level   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_UVLO}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  at which the switching is disabled."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                714,
+                907,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn-On Phase"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                772,
+                650,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When VD drops to 2 V, a turn-on timer begins. If VD reaches the   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{ON\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (turn-on threshold) from 2 V within the slew rate detection time   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{SLEW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , the SR MOSFET is turned on after a turn-on delay   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{Delay\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                799,
+                907,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To prevent false turn-on due to parasitic ringing during DCM or QR operations, SR MOSFET will not be turned on if the time of which VD reaches   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{ON\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  from 2 V is longer than   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{SLEW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                875,
+                907,
+                908
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                936,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                473,
+                80,
+                895,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                49,
+                894,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                250,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                936,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                89,
+                135,
+                484,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn-On Blanking"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                175,
+                250,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The control circuitry contains a turn-on blanking function. When SR MOSFET is turned on, the control circuitry ensures that the on state lasts for   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{B\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  at least.   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{B\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is the turn-on blanking time to prevent an accidental turn-off due to the leakage inductance ringing. However, if VD voltage reaches   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{B\\_OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  within the turn-on blanking time,   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{GS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is pulled low immediately."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                204,
+                485,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conduction Phase"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                328,
+                257,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During SR MOSFET conduction phase, the BP6211C lowers the gate voltage level to increase the on resistance of SR MOSFET if VD rises above   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{D\\_REG}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " . The   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  voltage is adjusted to be   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{D\\_REG}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  even when the current through the MOSFET is low. This function maintains the driver voltage at a very low level when the SR MOSFET is turned off. Thus boosts the turn-off speed which is important to CCM operation."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                355,
+                485,
+                488
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn-Off Phase"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                495,
+                228,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When VD voltage rises above the turn-off threshold   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OFF\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , the gate drive is pulled to low after a short turn-off delay of   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{Delay\\_OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                523,
+                485,
+                573
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Turn-Off Blanking"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                581,
+                253,
+                598
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the gate driver pulls down, a turn-off blanking time is applied. During this process, the gate driver latches off until the VD voltage exceeds   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{B\\_OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                608,
+                484,
+                658
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                675,
+                334,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6211C can replace a diode rectifier without requiring auxiliary winding for low-side or high-side rectification, as shown in Figure 4 and Figure 5. VD pin is the input of internal linear regulator and SR MOSFET drain voltage sensing. It is recommended to place a resistor externally between VD and D pin. The recommended resistance is about 300Ω."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                714,
+                485,
+                829
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3c1361de400023fe3d4b41b2d4429af8cbec0f1954cdf3caf8544db22157c66a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4. Typical application for high-side rectification"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                601,
+                137,
+                836,
+                274
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/509fd84ac8ec9cbd02d9bb3079f7d12b61bad33c7e7eeb6387a6c308c525d568.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5. Typical application for low-side rectification"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                601,
+                313,
+                848,
+                449
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout Guidelines"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                504,
+                717,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Good PCB layout is critical for stable operation. For best results, follow the below guidelines."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                531,
+                905,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Large drain copper area allows better heatsinking, but it causes more common mode EMI noise. Use the minimum copper area that is required to handle the thermal dissipation."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                567,
+                907,
+                634
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) The VCC capacitor should be located as close as possible to the VCC and S pins. A ceramic capacitor of   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 \\mu F"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is recommended."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                643,
+                907,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) A   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "300 \\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  resistance is recommended to located between VD and D pins."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                702,
+                907,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) To optimize radiated EMI, the loop between transformer secondary winding, output capacitor and BP6211C should be kept as small as possible."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                745,
+                907,
+                795
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                51,
+                905,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                79,
+                907,
+                124
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                936,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                936,
+                250,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                453,
+                936,
+                579,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Package Information"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                137,
+                312,
+                158
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/02c3f2a695eff321cd7994d15871b5b034ff5565545d941a7a75983ceab862b0.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 Package Outline"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                179,
+                210,
+                413,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/022e0e15343e5ef73c8d13ec7498e4b1b61195c6299a706be5c51cf11e0deb50.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                636,
+                195,
+                719,
+                363
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/98d64e23e619e820381fa7b24d036b3de92e6d74fe94669f052c11c4aee55ed2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                816,
+                256,
+                884,
+                343
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7c2cee432478f263cd99232685168383b2582891c9d1e789e885d6b79570f442.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                193,
+                457,
+                423,
+                533
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/52b1e0445cbaa21efdbd3ef2101e111e9fbdb243ddea4da535d18581f9b421e5.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                546,
+                447,
+                798,
+                537
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2f169e276b67c02bcb83b9e88ed486cc1bd4602a369ec39d2862ed11cc0dce78.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                715,
+                176,
+                797
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/70168f930b9ef9ce1a5ac116cd1eaeba4792cc05e935b2078fb1c286d622ce25.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.10</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                215,
+                630,
+                396,
+                822
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                394,
+                936,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                79,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                257,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                895,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Version Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                137,
+                305,
+                155
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/68f86e52a28341ca7b6d4058f61ef6b7988d1bc18068d79d30b71988df7860b4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision</td><td>Date</td><td>Notes</td></tr><tr><td>Rev. 1.0</td><td>2022/08</td><td>Initial release</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                158,
+                894,
+                253
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                936,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                80,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                257,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                936,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                436,
+                137,
+                561,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Bright Power Semiconductor (BPS) reserves the right to make changes at any time without prior notice."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                206,
+                897,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is granted under this document. BPS provides information in this datasheet “AS IS” and with all faults, and makes no warranty, express or implied, including but not limited to, the accuracy of the information provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all liabilities arising out of this datasheet or use of this datasheet, including without limitation consequential or incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                267,
+                899,
+                409
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                936,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                453,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Fast Turn-Off Synchronous Rectifier for CCM/DCM Flyback Converter"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                79,
+                897,
+                124
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211C_EN_DS_Rev.1.0\n08/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                257,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                936,
+                618,
+                966
+            ]
+        }
+    ]
+]

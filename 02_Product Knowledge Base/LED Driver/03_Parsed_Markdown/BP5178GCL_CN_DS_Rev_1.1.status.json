@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:12:41+08:00",
+  "file": "BP5178GCL_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 1036573,
+    "pages": 9,
+    "sha256": "4c023fec80185bdb3f43a3442e42960ed63682d5dd0ca18447fedd6cd903abff"
+  },
+  "batch_id": "ff0436e6-dafe-4031-a894-612a0873a8b9",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:12:43+08:00",
+    "errors": [],
+    "markdown_chars": 7210,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:12:48+08:00"
+}

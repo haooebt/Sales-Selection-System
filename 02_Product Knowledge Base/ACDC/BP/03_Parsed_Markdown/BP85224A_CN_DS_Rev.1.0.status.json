@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:53:26+08:00",
+  "file": "BP85224A_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3161901,
+    "pages": 15,
+    "sha256": "864f4659c00409f1246dfe4ea22ea3955f161087a5e42726d7268bbaf2b55192"
+  },
+  "batch_id": "41778268-c530-46df-a88f-b5a896067719",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:53:27+08:00",
+    "errors": [],
+    "markdown_chars": 18389,
+    "parsed_pages": 15,
+    "passed": true,
+    "pdf_pages": 15
+  },
+  "published_at": "2026-08-21T12:53:34+08:00"
+}

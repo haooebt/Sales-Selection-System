@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:29:45+08:00",
+  "file": "BP5628C_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 451489,
+    "pages": 7,
+    "sha256": "ee060782ee5bf24b2c887c2c214b986e6ac56aa0496a37edaf6bbf4a2b099376"
+  },
+  "batch_id": "3ca582ce-ebee-4166-961a-6294b3f3cb91",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:29:48+08:00",
+    "errors": [],
+    "markdown_chars": 6287,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T14:30:04+08:00"
+}

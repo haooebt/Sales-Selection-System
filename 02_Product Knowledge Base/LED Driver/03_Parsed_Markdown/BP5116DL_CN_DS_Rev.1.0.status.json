@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:11:29+08:00",
+  "file": "BP5116DL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 512309,
+    "pages": 8,
+    "sha256": "9b2bad5177366d076f11cb9b63be93a9f094142bb20b914b47a8e16b82632158"
+  },
+  "batch_id": "6bdb92f2-7d6f-4035-8c7b-b7be2b25972e",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:11:29+08:00",
+    "errors": [],
+    "markdown_chars": 5268,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T15:11:38+08:00"
+}

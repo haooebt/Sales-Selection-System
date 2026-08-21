@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:48:29+08:00",
+  "file": "S4525S_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 948323,
+    "pages": 8,
+    "sha256": "20ae3ea8a164049625d8b186edb299d567fd68021ce160fb8a0b3b2719c28b24"
+  },
+  "batch_id": "54a0065a-4df1-40c5-84c4-31eb0f72816f",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:48:32+08:00",
+    "errors": [],
+    "markdown_chars": 10865,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:48:44+08:00"
+}

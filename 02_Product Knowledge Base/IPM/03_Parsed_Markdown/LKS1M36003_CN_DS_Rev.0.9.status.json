@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:58:53+08:00",
+  "file": "LKS1M36003_CN_DS_Rev.0.9.pdf",
+  "pdf": {
+    "bytes": 1044726,
+    "pages": 18,
+    "sha256": "509a540bb26b66b9962f6e64512e4f050634c2acb62c7694fa0787de8ea4f936"
+  },
+  "batch_id": "f3c2d3be-b86d-4fb0-bbe6-a78fc5604d79",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:58:53+08:00",
+    "errors": [],
+    "markdown_chars": 15917,
+    "parsed_pages": 18,
+    "passed": true,
+    "pdf_pages": 18
+  },
+  "published_at": "2026-08-17T21:58:53+08:00"
+}

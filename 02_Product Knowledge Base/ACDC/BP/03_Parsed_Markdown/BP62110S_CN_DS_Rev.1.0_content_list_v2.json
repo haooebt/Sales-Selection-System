@@ -1,0 +1,2533 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 高效率DCM/QR同步整流驱动开关"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                83,
+                497,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                153,
+                114,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 是一款高集成度、高性能、自供电的同步整流控制芯片，适用于高效率、高功率密度反激变换器应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                179,
+                484,
+                216
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S支持DCM和QR工作模式，内部电路通过检测同步MOSFET 的漏极和源极之间的电压产生一个理想的驱动信号来控制MOSFET的导通与截止，实现较低的导通损耗。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                225,
+                485,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 能够自适应调节驱动关断的 V<sub>DS</sub> 阈值电压，确保在退磁结束前关断驱动。芯片内部使用了振铃检测电路，避免了在 DCM 模式下由于自由振荡引起误开通而导致的初次级共通问题。同时内置前沿消隐时间，可以防止寄生振荡误触发MOSFET提前关断，从而保证同步整流稳定工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                294,
+                485,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 采用 VD 引脚自供电的方法，无需外部供电，可灵活地选择放置在输出正端或负端。放置于正端时，不需要额外的供电绕组，外围电路非常简洁。同时，由于自供电，可以实现宽输出电压范围，输出电压可以低至0 V，非常适合充电器应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                400,
+                485,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 采用 SOT23-6 封装, 满足 MSL-3 潮敏等级。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                506,
+                430,
+                521
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3ae96f8654c255c8ad083dc9a443fe3b14b292f3858b2af68fe27392e2711395.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                543,
+                250,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SO23-6 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                595,
+                253,
+                609
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                152,
+                581,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 支持 DCM/QR 工作模式"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                179,
+                737,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 芯片自供电，正端整流无需辅助供电绕组"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                199,
+                850,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 支持宽输出电压范围，可低至0V输出"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                219,
+                835,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置振铃检测，防止DCM误开通"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                240,
+                803,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 可用于正端和负端整流"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                260,
+                732,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 支持宽输出电压范围，可低至0V输出"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                280,
+                833,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 最大4A驱动下拉电流，超低驱动内阻可避免密勒效应引起误开通"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                300,
+                924,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "超短开通延时，增加了MOSFET导通时间，优化了效率"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                341,
+                917,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 低待机功耗，满足六级能效要求"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                381,
+                791,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 集成度高，外围电路简洁"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                401,
+                746,
+                417
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                487,
+                621,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " QC/USB-PD/可编程 AC-DC 充电器"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                521,
+                808,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高效率电源适配器"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                542,
+                700,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高效率、高功率密度反激变换器"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                562,
+                791,
+                577
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                669,
+                154,
+                687
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/196a1157eb83a98a87fba9e5209379bea656eb03dfdf10e0687180885336617d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP62110S 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                366,
+                701,
+                626,
+                843
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                724,
+                55,
+                905,
+                124
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "09/2025"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                124,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                946,
+                929,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/19763296333550bc847121a015b26867975bf0792bd2740c37021328ab716a99.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP62110S</td><td>SOT23-6</td><td>卷盘3000颗/盘</td><td>62110S</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                927,
+                204
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                250,
+                154,
+                267
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a9ef577857382d9a8f00da4bc48d21345eadddceaa24f6973462d20dceaf8eda.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. SOT23-6 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S：产品型号"
+                    }
+                ]
+            },
+            "bbox": [
+                374,
+                278,
+                615,
+                410
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                449,
+                154,
+                466
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0e126099a3c399e13b95ca5e0576c2206aa4488493c9d7b3095c8b38a641dfa4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VOUT</td><td>输出电压检测端,同时也向芯片供电,可以连接到输出或者 VCC 脚</td></tr><tr><td>2</td><td>VSS</td><td>芯片地</td></tr><tr><td>3</td><td>SLEW</td><td>dv/dt timer 设定引脚</td></tr><tr><td>4</td><td>VCC</td><td>芯片供电脚</td></tr><tr><td>5</td><td>VG</td><td>驱动输出</td></tr><tr><td>6</td><td>VD</td><td>功率 MOSFET 漏极电压检测脚,同时也是自供电引脚</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                476,
+                927,
+                682
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3fa62751d5c4dca9a38c63a8283e5fa97d41a340480f8772297753779dd9fd4b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：极限参数是指超出该范围，有可能导致器件永久性损坏。极限参数为器件应力的额定值，长期工作在极限参数条件可能会影响器件的可靠性。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由T , θ ,和环境温度T 所决定的。最大允许功耗为P = (T - T )/ θ 或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 3：1平方英寸双层PCB板，按照JEDEC 标准测试。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 4：人体模型，100pF 电容通过1.5kΩ电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td> $V_{cc}$ 电压</td><td>-0.3~9</td><td>V</td></tr><tr><td> $V_D$ </td><td>VD引脚电压范围</td><td>-1~200</td><td>V</td></tr><tr><td>VG</td><td>VG引脚电压范围</td><td>-0.7~9</td><td>V</td></tr><tr><td> $V_{SLEW}$ </td><td>SLEW引脚电压范围</td><td>-0.7~9</td><td>V</td></tr><tr><td>VOUT</td><td>VOUT引脚电压范围</td><td>-0.7~30</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.97</td><td>W</td></tr><tr><td> $θ_{JA}$ </td><td>结到环境的热阻 SOT23-6(注3)</td><td>240</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注4)</td><td>1.5</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                927,
+                470
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/89ff68f3b542de0a2ce9c2a4bd132589362ff5cde7a7de28099d65a9d70fe76b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注5)（无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } = 2 5 ^ { \\circ } { \\sf C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 5：电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。最小值和最大值由测试保证，典型值由设计、测试或统计分析保证。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">VCC供电部分</td></tr><tr><td> $V_{CC\\_ON}$ </td><td>VCC启动阈值电压</td><td>VCC上升至IC开启</td><td>3.53</td><td>3.78</td><td>4</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>VCC欠压保护开启电压</td><td>VCC下降至IC关闭</td><td>3.1</td><td>3.32</td><td>3.5</td><td>V</td></tr><tr><td rowspan=\"2\"> $V_{CC\\_REG}$ </td><td rowspan=\"2\">VCC调整电压</td><td>VD供电</td><td>6.6</td><td>6.8</td><td>7.1</td><td>V</td></tr><tr><td>VOUT供电</td><td>6.83</td><td>7.1</td><td>7.35</td><td>V</td></tr><tr><td> $I_{CH}$ </td><td>VCC电容充电电流</td><td>VCC=6V,VD=14V</td><td>26</td><td>33</td><td>40</td><td>mA</td></tr><tr><td> $I_Q$ </td><td>静态工作电流</td><td>VCC=7V</td><td>190</td><td>234</td><td>270</td><td>μA</td></tr><tr><td> $I_{CC}$ </td><td>工作电流</td><td>VCC=7V, $F_{SW}=100kHz$ </td><td></td><td>2</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">控制电路</td></tr><tr><td> $V_{ON\\_TH}$ </td><td>驱动开通 $V_{DS}$ 阈值电压</td><td></td><td>-100</td><td>-160</td><td>-220</td><td>mV</td></tr><tr><td> $V_{OFF\\_TH}$ </td><td>自适应调整后的驱动关断 $V_{DS}$ 阈值电压</td><td></td><td></td><td></td><td>0</td><td>mV</td></tr><tr><td> $t_{Delay\\_ON}$ </td><td>驱动开通延时</td><td></td><td></td><td>40</td><td></td><td>ns</td></tr><tr><td> $t_{ON\\_BL}$ </td><td>开通消隐时间</td><td></td><td></td><td>700</td><td></td><td>ns</td></tr><tr><td> $t_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>1.8</td><td></td><td>us</td></tr><tr><td rowspan=\"2\"> $t_{SLEW}$ </td><td rowspan=\"2\">斜率检测时间</td><td>SLEW引脚浮空</td><td></td><td>40</td><td></td><td>ns</td></tr><tr><td>SLEW引脚接芯片地</td><td></td><td>23</td><td></td><td>ns</td></tr><tr><td> $V_{UVLO\\_ON}$ </td><td>输出欠压保护阈值</td><td></td><td></td><td>2.5</td><td></td><td>V</td></tr><tr><td> $V_{UVLO\\_HYS}$ </td><td>输出欠压保护迟滞</td><td></td><td></td><td>0.5</td><td></td><td>V</td></tr><tr><td colspan=\"7\">驱动输出</td></tr><tr><td> $V_{GL}$ </td><td>输出低电平</td><td>VCC=7V,Isink=100mA</td><td></td><td></td><td>0.08</td><td>V</td></tr><tr><td> $V_{GH}$ </td><td>输出高电平</td><td>VCC=7V,Isource=100mA</td><td>6.6</td><td></td><td></td><td>V</td></tr><tr><td> $I_{SOURCE}$ </td><td>最大驱动输出电流</td><td>VCC=7V</td><td></td><td>1</td><td></td><td>A</td></tr><tr><td> $I_{SINK}$ </td><td>最大下拉电流</td><td>VCC=7V</td><td></td><td>4</td><td></td><td>A</td></tr><tr><td> $R_L$ </td><td>下拉阻抗</td><td></td><td></td><td>0.5</td><td></td><td>Ω</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                120,
+                929,
+                725
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                89,
+                226,
+                105
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/98f9682f305f8e88d70990899849fac70d90c8bf9f2eb6621f6f6ec695f2f35b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP62110S 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                115,
+                123,
+                892,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                539,
+                186,
+                557
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S是一款用于替代反激式变换器副边整流二极管的高性能同步整流芯片。BP62110S支持DCM以及QR工作模式，适合于最大开关频率不高于200k的应用。超短的关断延时和高达4 A的驱动下拉电流，能够实现超快的关断速度，增加MOSFET导通时间，同时采用了自适应关断阈值的方式，可保证系统可靠工作并降低功耗，优化了系统效率。芯片内部使用了振铃检测电路，避免了由于自由振荡引起误开通而导致的初次级共通问题，保证芯片也能在DCM模式下可靠工作。40 ns超短开通延时缩短了体二极管的导通时间，增加了MOSFET沟道的导通时间，极大地提高了效率。（注6：以下描述到的参数均为电气参数列表中的典型值，除非特别说明是最大或最小值）"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                571,
+                475,
+                831
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动和VCC 欠压保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                841,
+                272,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统启动时，BP62110S 通过 VD 引脚对 VCC 电容充电，充电电流为 I 。当 VCC 电压上升到启动阈值电压"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                872,
+                477,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V 时，芯片退出 VCC 欠压保护状态，内部控制电路开始工作，驱动同步整流MOSFET正常导通和关断。芯片工作时，所需的工作电流仍然会通过 VD 引脚提供，内部线性调整器将 VCC 稳压到 V<sub>CC_REG</sub> 。当 VCC 电压下降到低于欠压保护阈值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { C C \\_ U V L O } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，控制器进入欠压保护状态，驱动保持低电平，同步整流MOSFET处于关断状态，直到VCC电压再次升高到V<sub>CC_ON</sub> 。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                573,
+                899,
+                709
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出欠压保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                727,
+                638,
+                743
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S放置在负端使用，当VOUT引脚接输出电压时，输出电压低于V 同步整流驱动关闭。这样可以避免开机或者输出短路时CCM过深，变压器去磁不够，原边电流累计过高而导致原副边MOSFET电压尖峰过高。放置在正端使用时，需将VOUT 引脚短接至VCC引脚（如图4所示）。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                755,
+                894,
+                868
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                953,
+                897,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                33,
+                215,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                884,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                952,
+                260,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                953,
+                611,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "漏极电压检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                87,
+                213,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 通过 VD 引脚检测同步 MOSFET 漏极电压达到检测电流的目的，从而驱动MOSFET导通和关闭实现同步整流。当原边开关管关断后，变压器次级续流，同步 MOSFET 的体二极管导通， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { D S } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压由正变为负，控制器驱动MOSFET开通。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                118,
+                473,
+                216
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "斜率检测与驱动开通"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                225,
+                265,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当检测到 MOSFET 的 V 从 2 V 下降至驱动开通阈值电"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { O N \\_ T H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的时间小于芯片内部设定的斜率检测时间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathfrak { t } _ { \\mathsf { S L E W } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，控制器驱动同步 MOSFET 导通，开通延迟时间为t<sub>Delay_ON</sub> 。如果下降到 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { O N \\_ T H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的时间超过 t<sub>SLEW</sub>，那么驱动电路保持 MOSFET 关断，防止由于 DCM 模式下的自由振荡引起误开通导致的初次级共通问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                256,
+                472,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在 DCM 模式下，当反激变压器去磁完成，次级电流下降到零后，变压器励磁电感和寄生电容产生自由振荡。由于初次级芯片通过漏极供电或者钳位电路的漏电流导致变压器中存储了能量，自由振荡幅度被增大而使得同步整流管漏极电压可能振荡到低于 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "0 \\ V _ { \\circ }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。如果没有斜率检测电路，控制器会误开通MOSFET并维持导通状态，直到开通消隐时间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tan B L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "结束。如果这段时间内原边功率开关开通，就会导致初次级共通。斜率检测电路能够有效地分辨自由振荡和初级开关关断现象，禁止控制器在自由振荡期间开通MOSFET，避免共通问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                385,
+                473,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 可通过 SLEW 引脚设定斜率检测时间 t<sub>SLEW，</sub>SLEW 引脚接 VS 时，t 为 23 nS; SLEW 引脚悬空时，芯片使用默认 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathtt { t s } \\mathtt { \\Gamma } \\mathtt { L E W }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 40 ns；当 SLEW 通过电阻 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R s L E W }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "接到到VS时："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                595,
+                472,
+                670
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {S L E W} = 2 3 \\mathrm{ns} + R _ {S L E W} \\times 0. 3 2 \\mathrm{nS/k} \\Omega",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4e277d77293b73235e099eb548f17844446c1aeeab0e32348e6a2adcd3c33141.jpg"
+                }
+            },
+            "bbox": [
+                166,
+                677,
+                406,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了避免被判断为悬空状态，R<sub>SLEW</sub>最大允许取值为150"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { k } \\Omega _ { \\circ }"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                707,
+                470,
+                740
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开通消隐时间"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                753,
+                211,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S驱动MOSFET开通后，控制器在开通消隐时间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tan B L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "内维持 MOSFET 导通，以禁止由于变压器漏感和寄生电容产生的高频振荡触发到关断阈值电压 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { O F F \\_ T H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "提前关断。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                784,
+                472,
+                860
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "关断阈值电压自适应调整"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                87,
+                727,
+                104
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当BP62110S 开始工作后，会逐步调整功率管的关断阈值，提高功率管关断时机的准确性，提高可靠性，降低功耗。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                117,
+                895,
+                171
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "驱动关断"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                181,
+                603,
+                199
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在导通时间已经超过开通消隐时间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\tan B L"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的情况下，当"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { D S } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压上升到 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { O F F \\_ T H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，控制器立即关断 MOSFET。其最大 4 A 下拉电流，可以快速拉低门极电压，同时超低驱动内阻可以消除米勒效应引起的误开通。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                214,
+                897,
+                291
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "最小关断时间"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                300,
+                638,
+                317
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "控制器一旦关断驱动，在最小关断时间 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { t } _ { 0 \\mathsf { F F \\_ M I N } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "内将锁定关断状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                329,
+                885,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                376,
+                601,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S 搭配 MOSFET 可以放置在输出正端或输出负端来取代肖特基二极管（如图4、图 5 所示），且不需要额外的辅助绕组供电。VD脚为控制器的漏极电压检测脚和内部自供电输入端。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                405,
+                890,
+                479
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6966344a1be97976fc0b4e681134dbf2338dd40ec1ac62bc86e06fe7e14c0cde.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图4. SR放置在正端典型应用电路图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                586,
+                491,
+                828,
+                621
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b4208320dcdecbcec5fe1401f06c7bcf827b4839e3fef22dfa4135bdac7a17af.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图5.SR放置在负端典型应用电路图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                581,
+                662,
+                833,
+                797
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                954,
+                897,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                33,
+                215,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                54,
+                884,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                953,
+                260,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                611,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                89,
+                263,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为保证系统可靠工作，在设计 PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                123,
+                470,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) 在VCC和S 引脚之间放置一个1μF的瓷片电容，并靠近芯片 VCC 和 S 引脚，以提升芯片的抗干扰能力"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                170,
+                472,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 为了降低辐射干扰，应减小高频功率环路面积。即BP62110S、变压器次级绕组和输出滤波电容之间的环路面积尽可能小"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                237,
+                470,
+                294
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                954,
+                895,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                33,
+                215,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                884,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                953,
+                260,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                611,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/98b25a2d94b92e97b2989973d100b0998dfe89cf8ad763d3df82e5e9be61755f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                247,
+                160,
+                489,
+                367
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOT23-6 封装外形尺寸"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                425,
+                118,
+                613,
+                136
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0a34c552a42ae87fab2578cffc323b25bccfa0ab1855299ed717726a285fed15.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                596,
+                175,
+                789,
+                354
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/910961a34578a4511800b2dda32cd01d293d7973b9aa786a5f37cb6d2941c90c.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                201,
+                434,
+                504,
+                520
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1081f2e0d59f2f554542bcd0175cc83768e1b1ac8b9f80cd511fdb1ae39436af.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DETAIL A"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                603,
+                395,
+                833,
+                530
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ede030d38277ae507ee6646d6d5852acdfa1220e5f89e329f0bff602c3e0da59.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>0.90</td><td>-</td><td>1.45</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.15</td></tr><tr><td>A2</td><td>0.90</td><td>-</td><td>1.30</td></tr><tr><td>D</td><td>2.82</td><td>-</td><td>3.03</td></tr><tr><td>E</td><td>1.50</td><td>-</td><td>1.70</td></tr><tr><td>E1</td><td>2.60</td><td>-</td><td>3.00</td></tr><tr><td>L</td><td>0.30</td><td>-</td><td>0.60</td></tr><tr><td>b</td><td>0.28</td><td>-</td><td>0.50</td></tr><tr><td>c</td><td>0.10</td><td>-</td><td>0.23</td></tr><tr><td>e</td><td colspan=\"3\">0.95 BSC</td></tr><tr><td>e1</td><td colspan=\"3\">1.90 BSC</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                257,
+                585,
+                653,
+                878
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                111
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/111d54006a95ea2b27cd7759735ab0ca2377daf01dfa990aa19878ae07e1d2d6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2025/09</td><td>正式发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                902,
+                209
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                179,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                103,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                789,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                202,
+                931,
+                259
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                49,
+                181,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                781,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子器件报废说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                103,
+                596,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该产品在生命周期结束后，由客户按照一般电子产品的报废流程进行处理。"
+                    }
+                ]
+            },
+            "bbox": [
+                245,
+                212,
+                742,
+                227
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                49,
+                181,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S"
+                    }
+                ]
+            },
+            "bbox": [
+                779,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP62110S_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                226,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ]
+]

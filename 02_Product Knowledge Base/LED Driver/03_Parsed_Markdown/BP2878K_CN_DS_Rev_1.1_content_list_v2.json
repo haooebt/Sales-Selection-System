@@ -1,0 +1,3051 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                131,
+                147,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 是一款支持 PWM 调光的高精度降压型 LED 恒流驱动芯片，全程采用模拟调光控制模式，专为无频闪无噪声 LED 智能照明应用而设计。BP2878K 能够达到优异的调光线性度和输出电流一致性，适用于 85Vac~265Vac 全压输入的非隔离降压型 LED 恒流电源。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                162,
+                485,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 芯片集成度高，无需辅助绕组，只需要很少的外围元件，即可实现优异的恒流特性，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                268,
+                484,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 芯片内部带有高精度的电流采样电路, 来实现精确的 LED 恒流输出和优异的线电压调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                334,
+                482,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 具有多重保护功能，包括 LED 开路保护、LED 短路保护、芯片温度过热调节等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                378,
+                484,
+                415
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 采用 SOP-8 的封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                423,
+                305,
+                439
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/38e68e986d14d1ff12d8f0da31eb3695d05cd8b79734106b79af897d6146e30b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                231,
+                448,
+                351,
+                530
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                544,
+                131,
+                589,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持 1%-100% 模拟调光"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                162,
+                752,
+                178
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "全程模拟调光无频闪"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                182,
+                729,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ ±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                203,
+                752,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ VCC 外部供电，支持低待机功耗设计"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                223,
+                833,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 开路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                244,
+                682,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                264,
+                682,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 过热调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                283,
+                682,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 采用 SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                304,
+                702,
+                319
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                374,
+                636,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高性能智能灯具"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                406,
+                695,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 大功率吸顶灯"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                426,
+                682,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 其它LED照明"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                446,
+                687,
+                463
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                571,
+                186,
+                589
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/30747f6f711c118adb28c1f9d7c0dbe630fe518b5145bbae9f1de3fe46dd31c4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2878K 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                247,
+                600,
+                731,
+                874
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                468,
+                87,
+                895,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                935,
+                569,
+                948
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                895,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                952,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                131,
+                176,
+                149
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9cb48f8a4398cf44f139bded656e82b1defc7ffdd90397affb044cd701925a67.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2878K</td><td>SOP-8</td><td>卷盘4,000/盘</td><td>BP2878XXXXYZXYWWK</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                156,
+                887,
+                239
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                250,
+                176,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a5d019c518e78705aa16471629416cc9652e671effeaca4eb0081835b9961189.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K: 产品型号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXXXXY: 批次"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XY: 标识"
+                    },
+                    {
+                        "type": "text",
+                        "content": "WW: 周号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Z: 预留"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                282,
+                606,
+                382
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                423,
+                176,
+                441
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8e5e8019a9ea76b06379ce8e5a4f06c180b122259c57baa06c51629d86426fff.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GND</td><td>芯片地</td></tr><tr><td>2</td><td>PWM</td><td>PWM 调光信号输入端</td></tr><tr><td>3</td><td>ROVP</td><td>开路保护电压调节端,接电阻到地。电阻越大,OVP 电压越高</td></tr><tr><td>4</td><td>VCC</td><td>芯片电源</td></tr><tr><td>5</td><td>GATE</td><td>驱动信号输出脚</td></tr><tr><td>6,7</td><td>NC</td><td>无连接</td></tr><tr><td>8</td><td>CS</td><td>电流采样脚</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                448,
+                892,
+                685
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                87,
+                892,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                935,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                131,
+                213,
+                149
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0a98e6cca6771fd2a35793aa8ba3a739e8d8b37700948890e731c1a92f3c30bf.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $I_{CC\\_MAX}$ </td><td>VCC 引脚最大电源电流</td><td>5</td><td>mA</td></tr><tr><td>CS</td><td>电流采样端</td><td>-0.3~6</td><td>V</td></tr><tr><td>ROVP</td><td>开路保护电压调节端</td><td>-0.3~6</td><td>V</td></tr><tr><td>PWM</td><td>PWM 调光信号输入端</td><td>-0.3~24</td><td>V</td></tr><tr><td>GATE</td><td>驱动信号输出脚</td><td>-0.3~24</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型ESD(注4)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                156,
+                887,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                555,
+                895,
+                610
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                619,
+                894,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注3：1平方英寸双层PCB板，按照JEDEC标准测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                665,
+                400,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 4：按照 JEDEC 标准测试，100pF 电容通过 1.5kΩ 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                690,
+                445,
+                703
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                87,
+                892,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                559,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                608,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注5)（无特别说明情况下，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                131,
+                430,
+                149
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/44a9ac19ea3351ebf68d53b4a87a961b0d1afc77479db33bfd6a411e5d3374e6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压(VCC)</td></tr><tr><td> $V_{CC\\_ON}$ </td><td>芯片启动电压</td><td> $V_{CC}$ 上升</td><td>9.3</td><td>10.4</td><td>11.5</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>芯片欠压保护阈值</td><td> $V_{CC}$ 下降</td><td>7.5</td><td>8.4</td><td>9.3</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td>芯片 VCC 钳位电压</td><td></td><td>12.7</td><td>14</td><td>17</td><td>V</td></tr><tr><td> $I_{CC}$ </td><td>芯片工作电流</td><td> $F_{OP}=3kHz$ </td><td></td><td>335</td><td>450</td><td>μA</td></tr><tr><td colspan=\"7\">电流采样(CS)</td></tr><tr><td> $V_{REF}$ </td><td>恒流电压基准</td><td></td><td>291</td><td>300</td><td>309</td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>350</td><td></td><td>ns</td></tr><tr><td> $T_{DELAY}$ </td><td>芯片关断延迟</td><td></td><td></td><td>200</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">过压保护(ROVP)</td></tr><tr><td> $K_{OVP}$ </td><td>OVP 设置系数</td><td></td><td></td><td>12.5</td><td></td><td>V/H</td></tr><tr><td> $V_{OVP}$ </td><td>ROVP 引脚电压</td><td> $R_{OVP}=10kΩ$ </td><td></td><td>1</td><td></td><td>V</td></tr><tr><td colspan=\"7\">内部时间控制</td></tr><tr><td> $T_{ZCD\\_LEB}$ </td><td>退磁检测消隐时间</td><td></td><td></td><td>2.5</td><td></td><td>μs</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大退磁时间</td><td></td><td>225</td><td>375</td><td>525</td><td>μs</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td></td><td>40</td><td></td><td>μs</td></tr><tr><td colspan=\"7\">栅极驱动(GATE)</td></tr><tr><td> $I_{SOURCE}$ </td><td>最大驱动上拉电流</td><td></td><td></td><td>40</td><td></td><td>mA</td></tr><tr><td> $I_{SINK}$ </td><td>最大驱动下拉电流</td><td></td><td></td><td>100</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">PWM 调光(PWM)</td></tr><tr><td> $V_{PWM\\_ON}$ </td><td>PWM 检测高电平</td><td> $V_{PWM}$ 上升</td><td></td><td>2</td><td>2.2</td><td>V</td></tr><tr><td> $V_{PWM\\_OFF}$ </td><td>PWM 检测低电平</td><td> $V_{PWM}$ 下降</td><td>0.9</td><td>1.3</td><td></td><td>V</td></tr><tr><td> $T_{PWM\\_ON\\_MIN}$ </td><td>PWM 检测高电平最小时间</td><td></td><td></td><td>1.3</td><td></td><td>μs</td></tr><tr><td> $F_{DIM}$ </td><td>PWM 调光频率范围</td><td></td><td>0.5</td><td></td><td>4</td><td>kHz</td></tr><tr><td colspan=\"7\">过温调节</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td></td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                157,
+                895,
+                894
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                87,
+                892,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                935,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                119,
+                894,
+                178
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                935,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                87,
+                894,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                937,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                131,
+                218,
+                149
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9e6eb85e61be4939d824af7fbaefc560a1167151e480d39c6c46584dab988c42.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2878K 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                169,
+                858,
+                533
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                586,
+                178,
+                604
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 是一款专用于 LED 照明的恒流驱动芯片，应用于 PWM 调光非隔离降压型 LED 驱动电源。采用先进的恒流架构和控制方法，无需辅助绕组，只需要很少的外围元件，即可实现优异的恒流特性，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                618,
+                484,
+                695
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动和供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                710,
+                184,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 采用外部电源供电，当 VCC 供电电压达到芯片开启阈值时，芯片内部控制电路开始工作。芯片正常工作时，所需的工作电流由外部电源供电，便于降低系统的待机功耗。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                745,
+                487,
+                802
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                815,
+                290,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 采用先进的恒流算法，将 CS 端电压采样后输入到电流控制电路，与内部基准电压进行比较，可以实现高精度输出恒流控制。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                852,
+                484,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 满载输出电流计算方法："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                618,
+                709,
+                633
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {O U T} \\approx \\frac {V _ {\\mathrm{REF}}}{R c s}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f3a07ee397e8e63de5c200df444939e99b1cd5d975f8157b705168777a128a75.jpg"
+                }
+            },
+            "bbox": [
+                663,
+                644,
+                754,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                694,
+                556,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{REF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是内部基准电压，"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                714,
+                658,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{cs}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  为电流采样电阻阻值。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                735,
+                685,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电感峰值电流   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  约为 LED 输出电流的 2 倍。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                755,
+                810,
+                770
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "储能电感"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                781,
+                591,
+                798
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 在功率管导通时，流过储能电感的电流从零开始上升，导通时间为："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                812,
+                905,
+                847
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {\\mathrm{on}} = \\frac {\\mathrm{L} \\times \\mathrm{I} _ {\\mathrm{PK}}}{\\mathrm{V} _ {\\mathrm{IN}} - \\mathrm{V} _ {\\mathrm{LED}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b5beb3de232922c2669ba452571147beb3380031c38dcfd7a95fb9818c931b5f.jpg"
+                }
+            },
+            "bbox": [
+                643,
+                862,
+                773,
+                899
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                87,
+                892,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                935,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                125,
+                134,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L 是电感量；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                150,
+                176,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是电感电流的峰值；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                176,
+                248,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{IN}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是经整流后的母线电压；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                200,
+                275,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{LED}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是输出 LED 上的电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                225,
+                272,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当功率管关断时,流过储能电感的电流从峰值开始往下降到零。功率管的关断时间为:"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                250,
+                484,
+                285
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {\\text { off }} = \\frac {L \\times I _ {\\mathrm{PK}}}{V _ {\\mathrm{LED}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/fb175348a04117263b4c6d4efe9794773f6812de4398893058b7f58f168213a8.jpg"
+                }
+            },
+            "bbox": [
+                238,
+                290,
+                332,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "储能电感的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                332,
+                255,
+                347
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{L} = \\frac {\\mathrm{V} _ {\\mathrm{LED}} \\times \\left(\\mathrm{V} _ {\\mathrm{IN}} - \\mathrm{V} _ {\\mathrm{LED}}\\right)}{\\mathrm{f} \\times \\mathrm{I} _ {\\mathrm{PK}} \\times \\mathrm{V} _ {\\mathrm{IN}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/568665df78f22b9025ee14b2d6eea095f1ddf528a181cb5d748aef4fd9839d16.jpg"
+                }
+            },
+            "bbox": [
+                200,
+                350,
+                371,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                389,
+                134,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f 为系统工作频率。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                414,
+                216,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 的系统工作频率和输入电压成正比关系，设置 BP2878K 系统工作频率时，选择在输入电压最低时设置系统的最低工作频率，而当输入电压最高时，系统的工作频率也最高。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                439,
+                484,
+                515
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 设置了系统的最小退磁时间和最大退磁时间，分别为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.5\\mu s"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  和   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "375\\mu s"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 。由   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  的计算公式可知，如果电感量很小，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  很可能会小于芯片的最小退磁时间，系统就会进入电感电流断续模式；而当电感量很大时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  又可能会超出芯片的最大退磁时间，这时系统就会进入电感电流连续模式。所以选择合适的电感值很重要。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                524,
+                485,
+                642
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过压保护电阻设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                656,
+                238,
+                672
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开路保护电压可以通过 ROVP 引脚电阻来设置，ROVP 引脚输出电流   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "100 \\mu A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                687,
+                482,
+                723
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 开路时，输出电压逐渐上升，退磁时间变短。因此可以根据需要设定的开路保护电压，来计算退磁时间 Tovp。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                732,
+                484,
+                768
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V o v p \\approx \\frac {L ^ {*} R o v p}{R c s} * K _ {o v p}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6e621cd033e95ca42b294e1180bd7814585d13f5fceff72aafe13f9f6950e69d.jpg"
+                }
+            },
+            "bbox": [
+                191,
+                774,
+                381,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                814,
+                132,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kovp 是 OVP 系数;"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                839,
+                225,
+                853
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rcs 是 CS 采样电阻;"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                125,
+                660,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vovp 是需要设定的过压保护点；"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                146,
+                734,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "L 是功率电感感量；"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                166,
+                645,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Rovp 是设置 OVP 电压的电阻；"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                186,
+                724,
+                201
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                222,
+                589,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 内置多种保护功能，包括 LED 开路/短路保护，芯片温度过热调节等。当输出 LED 开路时，系统会触发过压保护逻辑并停止开关工作。系统进入开路保护状态后，芯片内部开始计时 80ms，然后系统重启。同时系统不断的检测负载状态，如果故障解除，系统会重新开始正常工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                252,
+                907,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 短路时，系统工作在 3kHz 低频，所以功耗很低。同时系统不断地检测负载状态，如果故障解除，系统会重新开始正常工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                358,
+                907,
+                415
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                429,
+                628,
+                447
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。芯片内部设定的过热调节温度值为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "140^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                460,
+                907,
+                536
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                557,
+                601,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K 支持 500Hz-4kHz PWM 信号调光，LED 平均电流将根据 PWM 占空比从 1%-100% 变化，PWM 输入无需 RC 滤波。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                587,
+                907,
+                644
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                659,
+                675,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2878K 应用 PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                693,
+                860,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) 电流采样电阻的功率地线尽可能短，且要和芯片的地线及其它小信号的地线分别接到母线电容的地端。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                718,
+                907,
+                754
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 开路保护电压设置电阻需要尽量靠近芯片 ROVP 引脚，远离外置 MOS 的 DRAIN 等噪声走线。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                763,
+                912,
+                798
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) 减小功率环路的面积，如功率电感、功率管、母线电容的环路面积，以及功率电感、续流二极管、输出电容的环路面积，以减小EMI辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                807,
+                907,
+                864
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                51,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                905,
+                106
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                935,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                125,
+                186,
+                144
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/30bf99a2cd71579e798dbe93a51dc57982187c357b87767d11e5f7fdee7d555b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                166,
+                174,
+                455,
+                389
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c9e962f5948290c76a969693d8defce92b1b663954b05f22db37cebc3c47bf97.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                655,
+                174,
+                870,
+                397
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/24237718608799f950c07b6706b8f04ce9df943ea339aa46b5c9e8e3a6ca5ed8.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                178,
+                442,
+                480,
+                540
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/afde2a26c4c15b108f56290ed239cfc18a7390c456de8823588743bad783be93.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                569,
+                418,
+                890,
+                524
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/23525c71ade79feb33b62d24114faf2a6619878a64ec76db2fc76d8fef65d0a5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                181,
+                570,
+                477,
+                880
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                937,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                468,
+                87,
+                895,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                125,
+                186,
+                144
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/140419151e5a8e98088575962234c1c354bfd81d2563a0635635cf4fb6fdfe8f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2020/09</td><td>首次发行</td></tr><tr><td>Rev.1.1</td><td>2021/05</td><td>更新格式;增加 VCC 参数上下限</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                169,
+                894,
+                342
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                897,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                468,
+                87,
+                895,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                121,
+                549,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                197,
+                823,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                244,
+                899,
+                321
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                897,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光非隔离降压型 LED 恒流驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                467,
+                87,
+                895,
+                106
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2878K_CN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                620,
+                966
+            ]
+        }
+    ]
+]

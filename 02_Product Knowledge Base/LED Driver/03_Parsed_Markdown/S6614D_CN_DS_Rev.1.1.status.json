@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:50:30+08:00",
+  "file": "S6614D_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 1098512,
+    "pages": 9,
+    "sha256": "54f6ab701824dd04e243f89d6c3a6882ef62531970c64e0983e1244c3592173d"
+  },
+  "batch_id": "5828c5ab-c4e5-45d1-9020-481d4a2d12fb",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:50:32+08:00",
+    "errors": [],
+    "markdown_chars": 8163,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:50:38+08:00"
+}

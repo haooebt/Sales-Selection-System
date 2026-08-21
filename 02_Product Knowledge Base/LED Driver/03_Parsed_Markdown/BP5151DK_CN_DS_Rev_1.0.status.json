@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:23:32+08:00",
+  "file": "BP5151DK_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 547637,
+    "pages": 8,
+    "sha256": "2ba58a4914992cd3660da30e57f145dca8c0e73cf7e771a383ccff5b9c81816e"
+  },
+  "batch_id": "fdb54711-837d-4b7c-a0a2-95cdb892eb46",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:23:36+08:00",
+    "errors": [],
+    "markdown_chars": 5597,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T15:23:51+08:00"
+}

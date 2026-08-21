@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:29:11+08:00",
+  "file": "BP5358H_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 889417,
+    "pages": 9,
+    "sha256": "3b297682bb28b4a936b4aa9c7ba3de20a453df3890fccea432bd74bbf879536e"
+  },
+  "batch_id": "5c06887d-b2a4-418e-9e34-6aa264aa9bc5",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:29:14+08:00",
+    "errors": [],
+    "markdown_chars": 6364,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:29:24+08:00"
+}

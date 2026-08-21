@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:15:57+08:00",
+  "file": "LKS570_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 811982,
+    "pages": 15,
+    "sha256": "70695b5498d98e1feff118fe16f7938bd4da206ef5721617c7455d7d3ff088e2"
+  },
+  "batch_id": "ebb04c1f-0c4b-440d-bb86-18c103c5d4f7",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:15:57+08:00",
+    "errors": [],
+    "markdown_chars": 9221,
+    "parsed_pages": 15,
+    "passed": true,
+    "pdf_pages": 15
+  },
+  "published_at": "2026-08-17T22:15:57+08:00"
+}

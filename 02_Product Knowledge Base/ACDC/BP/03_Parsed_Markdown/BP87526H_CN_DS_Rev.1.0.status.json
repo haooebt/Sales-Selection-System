@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:04:21+08:00",
+  "file": "BP87526H_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3328401,
+    "pages": 16,
+    "sha256": "a14d2e16366e65163b3918023633acbd29c57a24ee788dd94d2584e52d810b10"
+  },
+  "batch_id": "9e33cf99-1a65-4b53-bd4b-ab04251c606e",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:04:22+08:00",
+    "errors": [],
+    "markdown_chars": 22511,
+    "parsed_pages": 16,
+    "passed": true,
+    "pdf_pages": 16
+  },
+  "published_at": "2026-08-21T13:04:27+08:00"
+}

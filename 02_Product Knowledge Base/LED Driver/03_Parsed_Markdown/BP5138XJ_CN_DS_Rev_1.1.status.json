@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:15:29+08:00",
+  "file": "BP5138XJ_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 925593,
+    "pages": 8,
+    "sha256": "456c669ca66784f04e765c8be6c398c2231cbbf858404e9b92615309c88e43c4"
+  },
+  "batch_id": "feaee8e0-0ec0-4811-8864-50a8fced6075",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:15:31+08:00",
+    "errors": [],
+    "markdown_chars": 5861,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:15:36+08:00"
+}

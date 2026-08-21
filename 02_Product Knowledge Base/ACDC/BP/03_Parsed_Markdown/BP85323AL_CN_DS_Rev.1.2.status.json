@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:56:11+08:00",
+  "file": "BP85323AL_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 3178613,
+    "pages": 17,
+    "sha256": "ce3987ded9e66edf4d0872b3811914de32b0b93c6278d448398cbf50ab623e4c"
+  },
+  "batch_id": "d5a02987-cf4d-49c0-a7fd-bf2b68c2a4cb",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:56:12+08:00",
+    "errors": [],
+    "markdown_chars": 20817,
+    "parsed_pages": 17,
+    "passed": true,
+    "pdf_pages": 17
+  },
+  "published_at": "2026-08-21T12:56:29+08:00"
+}

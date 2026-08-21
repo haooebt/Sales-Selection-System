@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:14:54+08:00",
+  "file": "BP5828CH_CN_DS_Rev_0.1.pdf",
+  "pdf": {
+    "bytes": 1315417,
+    "pages": 8,
+    "sha256": "a540e252f179a994d1d26a69ea49dde436d83151730b12fd61f896fd9a2265fa"
+  },
+  "batch_id": "be14656f-37ff-4362-ad5f-bf98071b0179",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:14:57+08:00",
+    "errors": [],
+    "markdown_chars": 6166,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T15:22:01+08:00"
+}

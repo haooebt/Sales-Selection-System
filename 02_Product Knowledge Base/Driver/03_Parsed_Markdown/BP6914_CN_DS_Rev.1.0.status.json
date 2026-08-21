@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:57:31+08:00",
+  "file": "BP6914_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 810967,
+    "pages": 9,
+    "sha256": "340a7bb172c9f25bdc01264efa86f2507f11d4fad14ee6256728665764f0cd20"
+  },
+  "batch_id": "a26125df-8dbf-4660-9ac3-ff320059a50f",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:57:31+08:00",
+    "errors": [],
+    "markdown_chars": 8055,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-17T21:57:31+08:00"
+}

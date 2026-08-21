@@ -1,0 +1,280 @@
+## 概述
+
+BP5758D是一款集成五通道可高精度调光的LED线性恒流驱动芯片。适用于五路彩色智能球泡灯。
+
+BP5758D内置五个通道(QUT1/2/3/4/5)500V/90mA的MOSFET。通过I²C协议来控制5个通道的输出电流。可实现1024级灰度的电流控制，可以消除调光过程的闪烁现象。
+
+BP5758D具有过温调节功能，当芯片的温度达到过温点，芯片的输出电流会自动减小，增加了系统的稳定性。
+
+BP5758D 采用 ESOP8 封装。
+
+## 特点
+
+五通道 OUT1\~5 高压线性调光
+
+OUT1/2/3/4/5 通道最大电流 90mA，耐压 500V
+
+支持五路最大输出电流单独设置
+
+最大输出电流设置1mA/Step
+
+支持五路输出电流单独使能控制
+
+每个通道1024级灰度调节
+
+I²C 控制智能调光
+
+超低待机功耗，Sleep Mode 工作电流小于100uA
+
+±4%的芯片间输出恒流精度
+
+过温调节功能
+
+采用 ESOP8封装
+
+![](images/b5d000f2d56651c9fe7cbfc1390136b70fc3529e1888c5b1e9956ac50d68e4a9.jpg)
+
+## 应用
+
+LED 智能球泡
+
+LED 智能彩色灯丝灯
+
+其它LED智能照明
+
+ESOP8
+
+## 典型应用
+
+![](images/b2024f7477f3e7073c416e75c18fa26c620b6cc7e36db15f25e5bdb514105c3f.jpg)  
+图 1 BP5758D 典型应用图
+
+## 定购信息
+
+<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5758D</td><td>ESOP-8</td><td>-40°C 到 105°C</td><td>编带4,000 颗/盘</td><td>BP5758XXXXXXYXXXXWWD</td></tr></table>
+
+## 管腳封装
+
+![](images/05cc75129247da27f26e9c1d88203edf1db67455f20683dc92757fb1ee1546b5.jpg)  
+图2 管脚封装图
+
+产品型号
+
+XXXXXXY：批次号
+
+标示
+
+周号
+
+## 管脚描述
+
+<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>OUT1</td><td>恒流输出端口1(推荐蓝)</td></tr><tr><td>2</td><td>HV</td><td>芯片电源输入端口</td></tr><tr><td>3</td><td>SDA</td><td>数据输入端口(外加上拉电阻到模块VCC,阻值 $1k\Omega$ )</td></tr><tr><td>4</td><td>SCL</td><td>时钟信号输入端口(外加上拉电阻到模块VCC,阻值 $1k\Omega$ )</td></tr><tr><td>5</td><td>OUT5</td><td>恒流输出端口5(推荐冷白)</td></tr><tr><td>6</td><td>OUT4</td><td>恒流输出端口4(推荐暖白)</td></tr><tr><td>7</td><td>OUT3</td><td>恒流输出端口3(推荐红)</td></tr><tr><td>8</td><td>OUT2</td><td>恒流输出端口2(推荐绿)</td></tr><tr><td>衬底</td><td>GND</td><td>芯片地</td></tr></table>
+
+极限参数(注1)
+
+<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>OUT1/2/3/4/5</td><td>OUT1/2/3/4/5 端口电压</td><td>-0.3~500</td><td>V</td></tr><tr><td>IOUT1/2/3/4/5_MAX</td><td>OUT1/2/3/4/5通道内部功率管漏极最大电流</td><td>90</td><td>mA</td></tr><tr><td>HV</td><td>芯片电源输入端口</td><td>-0.3~500</td><td>V</td></tr><tr><td>SDA</td><td>数据输入端口</td><td>-0.3~9</td><td>V</td></tr><tr><td>SCL</td><td>时钟信号输入端口</td><td>-0.3~9</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>1.25</td><td>W</td></tr><tr><td>θJA</td><td>PN结到环境的热阻</td><td>100</td><td>°C/W</td></tr><tr><td>TJ</td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td>TSTG</td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>
+
+注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。
+
+注2：温度升高最大功耗一定会减小，这也是由TJMAX，θJA,和环境温度TA所决定的。最大允许功耗为 PDMAX=(TJMAX-TA)/θJA或是极限范围给出的数字中比较低的那个值。
+
+(注 3, 4) （无特别说明情况下，HV =50 V, T<sub>A</sub> =25 ℃）
+
+<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan="7">电源电压(HV)</td></tr><tr><td>HV_OP</td><td>HV工作范围</td><td></td><td>20</td><td></td><td>500</td><td>V</td></tr><tr><td>HV_ON</td><td>供电开启电压</td><td></td><td>7.5</td><td>8.5</td><td>10</td><td>V</td></tr><tr><td>HV_OFF</td><td>供电关断电压</td><td></td><td>4.5</td><td>5.6</td><td>6.7</td><td>V</td></tr><tr><td>IOP</td><td>静态工作电流</td><td>五路lout=15mA</td><td>100</td><td>250</td><td>600</td><td>uA</td></tr><tr><td>IOP_SLEEP</td><td>Sleep mode工作电流</td><td></td><td>45</td><td>65</td><td>95</td><td>uA</td></tr><tr><td>BVDSS</td><td>功率管的击穿电压</td><td></td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan="7">功率管(OUT1/2/3/4/5)</td></tr><tr><td>IOUT</td><td>最大电流设置范围(注5)</td><td>PWM=100%</td><td>5</td><td></td><td>90</td><td>mA</td></tr><tr><td>IOUT_MIN</td><td>最低调光深度</td><td></td><td></td><td>1</td><td></td><td>%</td></tr><tr><td>VOUT</td><td>恒流拐点电压</td><td>lout=30mA</td><td></td><td></td><td>6</td><td>V</td></tr><tr><td>BVDSS</td><td>功率管的击穿电压</td><td></td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan="7">I2C接口(SDA/SCL)</td></tr><tr><td>VSUP</td><td>I2C接口的供电电压</td><td></td><td>3</td><td>3.3</td><td>3.6</td><td>V</td></tr><tr><td>R_SDA</td><td>SDA芯片内部上拉电阻</td><td></td><td>12</td><td>15</td><td>18</td><td>kΩ</td></tr><tr><td>R_SCL</td><td>SCL芯片内部上拉电阻</td><td></td><td>12</td><td>15</td><td>18</td><td>kΩ</td></tr><tr><td>VH_SDA</td><td>SDA的输入高电平</td><td></td><td>1.8</td><td></td><td>5</td><td>V</td></tr><tr><td>VL_SDA</td><td>SDA的输入低电平</td><td></td><td>0</td><td></td><td>1.6</td><td>V</td></tr><tr><td>VH_SCL</td><td>SCL的输入高电平</td><td></td><td>1.8</td><td></td><td>5</td><td>V</td></tr><tr><td>VL_SCL</td><td>SCL的输入低电平</td><td></td><td>0</td><td></td><td>1.6</td><td>V</td></tr><tr><td>F_SDA</td><td>SDA的输入频率</td><td></td><td></td><td>200</td><td>300</td><td>kHz</td></tr><tr><td>F_SCL</td><td>SCL的输入频率</td><td></td><td></td><td>200</td><td>300</td><td>kHz</td></tr><tr><td>T_LOW</td><td>SCL低电平的宽度</td><td></td><td>1.5</td><td></td><td></td><td>uS</td></tr><tr><td>T_HIGH</td><td>SCL高电平的宽度</td><td></td><td>1.5</td><td></td><td></td><td>uS</td></tr><tr><td>T_N</td><td>噪声消除时间</td><td></td><td></td><td>100</td><td></td><td>nS</td></tr><tr><td>T_AA</td><td>SCL下降沿到输出有效输出时的时间</td><td></td><td></td><td></td><td>100</td><td>nS</td></tr><tr><td>T_HD.STA</td><td>起始条件的保持时间</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_SU.STA</td><td>起始条件的建立时间</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_HD.DAT</td><td>数据输入的保持时间</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_SU.DAT</td><td>数据输入的建立时间</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>TR</td><td>输入上升时间</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TF</td><td>输入下降时间</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TSU.STO</td><td>停止条件建立时间</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td colspan="7">过温保护</td></tr><tr><td>TSD</td><td>过热保护温度</td><td>结温</td><td></td><td>145</td><td></td><td>°C</td></tr></table>
+
+注 3：典型参数值为25˚C 下测得的参数标准。  
+注 4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。  
+注 5：最大电流输出时的测试条件是 VD=15V（VD 为功率管 Drain 端的电压）
+
+![](images/537c745773df421fba12be136bf09d107e46b2b3f3fe7b8c5cda955cb5dacdd6.jpg)  
+图 3：SCL，SDA 的输入波形
+
+## 内部结构框图
+
+![](images/88ce8cea4e6cd7980a1bfdd7bc4f8be109dd4f9e6be7bbe70328faaa5e759993.jpg)  
+图 4 BP5758D 内部框图
+
+## 应用信息
+
+BP5758D 是一款集成五通道可高精度调光的LED 线性恒流驱动芯片。适用于调光调色需求的智能球泡灯。
+
+## 1 启动
+
+芯片在启动过程会有1mA左右的下拉电流，当 HV电压大于8V，SDA，SCK 的供电模块开始工作。HV 大于 9.8V时，芯片才正式开始工作，等待SDA，SCL的输入信号。如果 SDA、SCL 并没有任何信号，芯片会进入 SleepMode，此时芯片的工作电流约 85uA。当 SDA、SCL 有调光信息输入，芯片才从 Sleep Mode跳出，执行 I2C 协议进行智能调光控制。
+
+## 2 12C 协议说明
+
+芯片集成了I2C通信协议模块，该协议为双线通信协议控制信号分别是时钟信号SCL和传输数据信号 SDA。芯片的两个管脚分别集成了15KΩ的上拉电阻。用户可以通过控制两个信号线的信号进行智能调光控制，该协议具体包括了起始、停止状态控制、数据的传输和应答控制。详细的协议规则如下。
+
+![](images/3583f831f2164fa650f9bae7821664c0c3fa47d4fe71d52f0e55fc3e791b8ce4.jpg)  
+图5：SCL，SDA输入信号示意图
+
+## 2.1 起始，停止状态控制
+
+数据信号(SDA)和时钟信号（SCI）都是高电平则称为空闲状态。当 SCL 为高电平时 SDA 为下降沿（电平由高变低）这时为控制的起始条件(START），当 SCL 为高电平时SDA为上升沿（电平由低变高）这时为控制的停止条件(STOP)。如下图所示。SCL输入9个周期(8Bit+1ACK)就完成一个字节(Byte)的传输，如果不做寻址处理，一共可输入 17 个字节(Byte)。其中 Tsu.sta，Thd.sta，Tsu.sto，Thd.sto 的最小值为 250nS，
+
+![](images/26dc0b9c847d97b94507c885505dd60095187900372ee03a219ae921c0e90d60.jpg)  
+图6：起始，停止状态控制示意图
+
+## 2.2 数据的传输控制
+
+I²C 通信协议执行的是串行的位传输，每个时钟脉冲传送一位数据(BIT)。SCL. 为高电平时 SDA 必须保持稳定，只有当 SCL 为低电平时，SDA 才能变状态。当 SCL 由低变高时（上升沿），数据写入寄存器。每完成8位数据的传输，在第9个时钟，芯片的内部会产生应答信号ACKACK 信号会将 SDA 管脚拉低。即芯片每完成一个字节(8bit) 的数据传输就会产生一个对应的额外应答信号。详见图5。为了防止信号的于扰。芯片在读入SDA的信号时，DATAIN才是有效的读入信号。读入的信号必须经过寄存器的锁存，其锁存的控制信号为 DATA LATCH。Tsam.dat 为抗噪音时间，约 200nS。Tlat.dat 为锁存的抗噪声干扰时间约200nS。根据以上的设计要求，Tsu.dat，Thd.dat 都必须大于 250nS，推荐 Tlow 大于1.5us，Thigh 大于1.5uS。
+
+![](images/6ac726d0711d356dd4e98985e05d645092e25f19f29b65ba0f1c30ad77313b24.jpg)
+
+## 图7：传输数据控制示意图
+
+传输数据时，每8bit的数据就是一个字节。下表是协议中每个字节对应的控制信息。由下表可见，输入的所有信息通过17个字节去完成。第18 个字节(Byte17)其实是跳转到Byte1的设置信息。Byte17后面的设置信息是Byte1-Byte16的重复设置而已。所以，在不执行停止控制操作时，有效的输入字节是17个字节
+
+<table><tr><td>字节顺序</td><td>主要操作的内容</td></tr><tr><td>Byte0</td><td>标识位+sleep mode+下一 byte 寻址</td></tr><tr><td>Byte1</td><td>OUT1-OUT5 输出电流使能设置</td></tr><tr><td>Byte2</td><td>OUT1 电流量程(最大输出电流)设置</td></tr><tr><td>Byte3</td><td>OUT2 电流量程设置</td></tr><tr><td>Byte4</td><td>OUT3 电流量程设置</td></tr><tr><td>Byte5</td><td>OUT4 电流量程设置</td></tr><tr><td>Byte6</td><td>OUT5 电流量程设置</td></tr><tr><td>Byte7-8</td><td>OUT1 电流灰度设置</td></tr><tr><td>Byte9-10</td><td>OUT2 电流灰度设置</td></tr><tr><td>Byte11-12</td><td>OUT3 电流灰度设置</td></tr><tr><td>Byte13-14</td><td>OUT4 电流灰度设置</td></tr><tr><td>Byte15-16</td><td>OUT5 电流灰度设置</td></tr><tr><td>Byte17</td><td>跳转到 Byte1:输出电流使能设置</td></tr><tr><td>Byte18</td><td>OUT1 电流量程设置</td></tr><tr><td>Byte19</td><td>OUT2 电流量程设置</td></tr></table>
+
+……….  
+Byte0（寻址字节）设置说明
+
+![](images/4e2d6e10feffba6309523255de15de470ef47e9b447335192eee2f14f1b36868.jpg)  
+图8：Byte0 设置信息
+
+Byte0 主要是芯片的模式设置和寻址。其中 B[7:6]=10 是Byte0字节的标识位，B[5:4]为模式控制位，B[5:4]同时为0时进入睡眠模式，进入睡眠模式后，后面的Byte1\~Byte16会被禁止写入，所以在写程序时需要注意进入睡眠模式前先把 OUT1\~OUT5 输出关断后再写睡眠模式；B[4:0]为寻址位。详细的说明如上图所示。
+
+Byte1（输出使能设置字节）设置说明  
+![](images/0d0e102f6d3b7e7fb810ef7b593a5d6090b7245d32face9d7549a73aa0a7ddb2.jpg)  
+图 9：Byte1 设置信息
+
+Byte1 是 OUT1-OUT5 这五个通道的使能设置字节，其中B[7:5]为无效Bit，可以任意输入。B[4:0]的具体含义如上图所示，其中1代表允许该通道工作，如果是0代表该通道不工作。
+
+## Byte2（电流量程设置字节）设置说明
+
+![](images/b91a9c21c5ec066853c57b185f90dc4cf10a3e72a9d78331635ffc55735e9ae5.jpg)  
+图 10：Byte2 设置信息
+
+Byte2 为 OUT1量程电流(最大输出电流)的设置字节。具体的设置方法如上图所示。这里B[7:0]的具体含义需要特别说明：其中 B[5:0]都为 1则分别代表32mA，16mA，8mA，4mA，2mA，1mA。B[6]为 1只是代表 30mA（不是64mA)。B[7]的设置不会影响到量程电流的设置。OUT1的量程电流默认值为 10mA。
+
+## Byte3-Byte6(OUT2-5量程电流设置字节）设置说明
+
+Byte3-Byte6 分别对应 OUT2-OUT5 的量程电流(最大输出电流）的设置字节。其设置方法如 Byte2的说明一样，如图 10 所示。QUT2-5 的量程电流默认值为 10mA
+
+Byte7-8（OUT1 电流灰度设置字节）设置说明  
+![](images/7cc9e5090cdfdcad9dd364bf3692ce69a1f61bb171d2356cd03776d3db9cb248.jpg)  
+图 11：Byte7-Byte8 设置信息
+
+上图为Byte7-Byte8两个字节的详细设置说明。Byte7-Byte8 为 OUT1 灰度设置字节。OUT1 的灰度可以有 1024 级可调节，它是由 Byte8 的 B[4:0]和 Byte7 的B[4:0]共同决定 OUT1 的输出灰度。具体的灰度参数参考上图的说明。其中默认的输出灰度为0。
+
+## Byte9-Byte16(OUT2\~5 灰度设置字节) 设置说明：
+
+Byte9-Byte10为 OUT2 输出电流灰度设置字节，Byte11-Byte12 为OUT3 输出电流灰度设置字节，Byte13-Byte14 为OUT4 输出电流灰度设置字节，Byte15-Byte16 为 OUT5 输出电流灰度设置字节。它们灰度的设置方法和OUT1的灰度设置方法一样。具体参数参考 Byte7-Byte8（OUT1灰度设置字节) 设置说明，如图11所示。
+
+## 2.3 应用程序实例
+
+芯片由正常工作转入 Sleep Mode 时，需要注意进 SleepMode 前必须先关掉通道的输出，因为进 Sleep Mode 以后后面的 Byte1\~Byte16 会被禁止写入，如果前面没有关掉通道，输出会出现不定态输出，所以进 Sleep Mode的程序写法如下：
+
+MCU的输入程序如下：
+
+Start1：10110000(写入 byte0，正常模式，选择 byte1)
+
+00000000 (写入 byte1，设置 OUT1\~5 输出使能无效)Stop1。
+
+Start2:10000000(写入 byte0,其中 B5B4=00 进入 sleepmode)
+
+Stop2。
+
+选择 OUT1\~5 路同时输出，OUT1\~3 最大电流 40mA，1022/1024，OUT4\~5 最大电流 60mA，OUT4 灰度512/1024，OUT5 灰度 1022/1024:
+
+Start：10110000（写入byte0，正常模式，选择 byte1)00011111 (写入 bvte1，设置QUT1\~5 输出使能有效)00101000 (写入 byte2，设置 OUT1 量程电流 40mA)00101000 （写入 byte3，设置 OUT2 量程电流 40mA）00101000 (写入 byte4，设置 OUT3 量程电流 40mA)00111100 (写入 byte5，设置 OUT4 量程电流 60mA)00111100 (写入 byte6，设置 OUT5 量程电流 60mA)10100010(写入 byte7)
+
+10100000(写入 byte8，byte7 和 byte8 共同设置 OUT1灰度2/1024)
+
+10100000(写入 byte9)
+
+10110000（写入 byte10，byte9 和 byte10 共同设置OUT2 灰度 512/1024)
+
+10111110(写入 byte11
+
+10111111(写入 byte12，byte11 和 byte12 共同设置OUT3 灰度 1022/1024)
+
+10100000(写入 byte13)
+
+10110000（写入 byte14，byte13 和 byte14 共同设置OUT4 灰度 512/1024)
+
+10111110(写入 byte15)
+
+10111111(写入 byte16，byte15 和 byte16 共同设置OUT5 灰度 1022/1024)
+
+Stop。
+
+选择 OUT4\~5 路输出，OUT4\~5 最大电流 60mA，OUT4灰度 2/1024，OUT5 灰度512/1024，1mS后，OUT4 灰度 512/1024，OUT5 灰度 2/1024:
+
+Start1：10110000(写入 byte0，正常模式，选择 byte1)00011000(写入 byte1,设置 OUT1\~3 输出无效,OUT4\~5输出有效)
+
+00000000 (写入 byte2，设置 OUT1 量程电流 0mA)
+
+00000000 (写入 byte3，设置 OUT2 量程电流 0mA)
+
+00000000(写入 byte4，设置 OUT3 量程电流 0mA)
+
+00111100 (写入 byte5，设置 OUT4 量程电流 60mA)
+
+00111100 (写入 byte6，设置 OUT5 量程电流 60mA)Stop1
+
+Start2: 10111100(写入 byte0，正常模式，选择 byte13 10100010(写入 byte13)
+
+10100000（写入 byte14，byte13 和 byte14 共同设置OUT4 灰度 2/1024)
+
+10100000(写入 byte15)
+
+10110000（写入 byte16，byte15 和 byte16 共同设置OUT5 灰度 512/1024)
+
+Stop2
+
+Start3:10111100(写入 byte0，正常模式，选择 byte13)10100000(写入 byte13)
+
+10110000（写入 byte14，byte13 和byte14 共同设置OUT4 灰度 512/1024)
+
+10100010(写入 byte15)
+
+10100000(写入 byte16，byte15 和 byte16 共同设置
+
+OUT5 灰度 2/1024
+
+Stop3
+
+## 3 过温调节功能
+
+BP5758D具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性
+
+## 4 PCB 设计
+
+在设计 BP5758D PCB 时，需要注意以下事项：
+
+地线 GND
+
+芯片底部GND的散热铜片面积要尽可能大，以减小热阻增强散热能力。
+
+## SDA、SCL信号线
+
+从 MCU 的信号输出到 BP5758D 的 SDA、SCL 引脚走线尽量短，与地线形成的回路尽量小，减小其它干扰噪声的耦合，避免 PCB 上其他噪声信号对数字信号的干扰。SDA 和 SCL 避免从模块下面走线，尽量远离模块上的射频区域。
+
+## HV高压引脚走线
+
+Pin2 HV引脚为高压，需要注意跟低压信号走线，比如SDA、SCL等走线的间距。
+
+## 封装信息
+
+![](images/6ac0535cbd2016e65577cc190233be7ab90d8ce0d71e839198aacca189624ae9.jpg)
+
+![](images/af76384fc1ba8a05488412d2a3608ad61995f06086983c4563f8402be0d23a79.jpg)
+
+![](images/20cadd20edfca774b03e6fd19a185d897e94bb76593ae0ac205508f180a99f41.jpg)
+
+![](images/c1cc2e65244b5bb4ecd32887f38f7775979af6b59e6798f6279ae0107b60478e.jpg)
+
+<table><tr><td rowspan="2">SYMBOL</td><td colspan="3">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.35</td><td>-</td><td>1.75</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.15</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.30</td><td>-</td><td>0.50</td></tr><tr><td>c</td><td>0.10</td><td>-</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>D1</td><td>3.02</td><td>-</td><td>3.50</td></tr><tr><td>E</td><td>5.80</td><td>-</td><td>6.40</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>E2</td><td>2.1</td><td>-</td><td>2.6</td></tr><tr><td>L</td><td>0.40</td><td>0.60</td><td>1.25</td></tr><tr><td>e</td><td>1.17</td><td>1.27</td><td>1.37</td></tr></table>
+
+## 版本信息
+
+<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 0.9</td><td>2020/11</td><td>首次发行</td></tr><tr><td>Rev. 0.91</td><td>2021/01</td><td>1. SCL 和 SDA 分别加入上拉电阻到 Vcc,阻值建议 1kΩ~4.3 kΩ2. 更新封装信息</td></tr><tr><td>Rev. 0.92</td><td>2021/01</td><td>1. SCL 和 SDA 分别加入上拉电阻到 Vcc,阻值建议 1kΩ2. 更新 SCL 和 SDA 走线注意事项</td></tr><tr><td>Rev. 1.0</td><td>2021/05</td><td>1.更新 ECTABLE</td></tr><tr><td>Rev. 1.0</td><td>2021/07</td><td>1.SCL,SDA 输入低电平下限更新为 0V</td></tr><tr><td></td><td></td><td></td></tr></table>
+
+## 免责声明
+
+晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。
+
+本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。

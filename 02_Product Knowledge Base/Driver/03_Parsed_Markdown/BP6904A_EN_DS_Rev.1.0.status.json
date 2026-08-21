@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:15:25+08:00",
+  "file": "BP6904A_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 479913,
+    "pages": 8,
+    "sha256": "ca70da2e41c124f841dcfab52f96af38b019859ce0b1167ad6ab04eab56f7f9a"
+  },
+  "batch_id": "6a1ccaf0-a933-49f6-9ed2-2a8e67d7a522",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:15:25+08:00",
+    "errors": [],
+    "markdown_chars": 10624,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-17T22:15:25+08:00"
+}

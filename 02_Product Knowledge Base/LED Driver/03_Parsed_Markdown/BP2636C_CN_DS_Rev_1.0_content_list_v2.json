@@ -1,0 +1,3060 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                133,
+                147,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 是一款高效率、高 PF 值、低 THD 的升压型 PFC 恒压驱动芯片。芯片工作在电感电流临界连续模式，有助于优化 EMI 和效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                163,
+                485,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 通过 MOSFET 的栅极检测过零,无需辅助绕组。同时采用高压供电，内置环路补偿、内置 MOSFET，只需要很少的外围元件，即可实现优异的恒压特性，极大地节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                229,
+                484,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 具有多重保护功能, 包括输出过压保护 (OVP)、MOSFET 过流保护、芯片温度过热保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                315,
+                475,
+                352
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 采用 SOP-8 封装，引脚排布优化了散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                359,
+                472,
+                377
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b9ca6dadb82f5dd1866a76ae4acbc1e46f4b8d84e7c853acefde97d31787c852.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                231,
+                385,
+                351,
+                467
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                542,
+                131,
+                589,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 全压范围内 PF>0.9, THD<10%"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                163,
+                794,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 单绕组电感，外围精简"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                185,
+                744,
+                201
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 内置 500V MOSFET"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                205,
+                722,
+                220
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 临界连续电流控制模式"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                225,
+                742,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高压快速启动"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                245,
+                682,
+                261
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ ±2%输出电压精度"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                264,
+                719,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 内部集成保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                286,
+                714,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- 输出过压保护"
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                306,
+                717,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- MOSFET 过流保护"
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                326,
+                749,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片供电欠压保护"
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                346,
+                747,
+                362
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片温度过热保护"
+                    }
+                ]
+            },
+            "bbox": [
+                584,
+                366,
+                747,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 采用 SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                385,
+                704,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                437,
+                636,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST APFC 恒压电路"
+                    }
+                ]
+            },
+            "bbox": [
+                581,
+                467,
+                749,
+                485
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                562,
+                186,
+                583
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/38314f84c5b0ad20a12479fd9e28d8d6a74ae428eb8268823b60c686ad67e22e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2636C 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                102,
+                600,
+                882,
+                840
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                610,
+                87,
+                895,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                620,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                895,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                176,
+                150
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a562fc049328f3041b3e0e70157f5c0450ad62696582266dabc0e75825c4594e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2636C</td><td>SOP-8</td><td>卷盘4,000/盘</td><td>BP2636XXXXXYZXYYWWC</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                159,
+                887,
+                242
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                252,
+                176,
+                270
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fed3d2fbf05462cb249debfcf753b7cc368a7f6ecc07bf46ebb487847094cc0d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C: 产品型号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXXXXYZ: 批次"
+                    }
+                ]
+            },
+            "bbox": [
+                374,
+                283,
+                638,
+                402
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                444,
+                176,
+                461
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0f8dfca11cc64a1f9491381e13e5f345794816bba3c7c8927be8325064867166.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>FB</td><td>Boost 输出电压和过压保护设置脚</td></tr><tr><td>2</td><td>GND</td><td>芯片地</td></tr><tr><td>3</td><td>VCC</td><td>芯片供电脚</td></tr><tr><td>4</td><td>CS</td><td>Boost 开关管电流采样脚</td></tr><tr><td>5, 6, 7, 8</td><td>DRAIN</td><td>内置 MOSFET 漏极</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                470,
+                892,
+                647
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                892,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                87,
+                892,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                559,
+                948
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                935,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                134,
+                213,
+                150
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b8b57acdb6155e125d981ae5a18f597cca292d1d2b6eab6332b1797434481076.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td>芯片供电</td><td>-0.3~20</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td>VCC内部钳位电压</td><td>15</td><td>V</td></tr><tr><td>CS</td><td>电流采样端</td><td>-0.3~6</td><td>V</td></tr><tr><td>FB</td><td>输出电压和过压保护信号采样端</td><td>-0.3~6</td><td>V</td></tr><tr><td>DRAIN</td><td>内置 MOSFET 漏极</td><td>-0.3~500</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注 4)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                157,
+                887,
+                511
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                557,
+                895,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                622,
+                894,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注3：1平方英寸双层PCB板，按照JEDEC标准测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                667,
+                400,
+                680
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注4：按照JEDEC标准测试，100pF电容通过  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.5\\mathrm{K}\\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                692,
+                445,
+                705
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                892,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                87,
+                892,
+                108
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                559,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                608,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0acc4ef890d9e58e4da9d8afddffcbb008470b356e88d7c7c8263eeccb9e3215.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注5)（无特别说明情况下，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">输入部分</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$ 钳位电压</td><td> $I_{CC}=1mA$ </td><td>14</td><td>15</td><td>16</td><td>V</td></tr><tr><td> $V_{CC\\_ON}$ </td><td> $V_{CC}$ 启动电压</td><td> $V_{CC}$ 上升</td><td>11</td><td>12.5</td><td>14</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$ 欠压保护阈值</td><td> $V_{CC}$ 下降</td><td>7</td><td>8</td><td>9</td><td>V</td></tr><tr><td> $I_{OP}$ </td><td>静态工作电流</td><td>无开关动作</td><td>285</td><td>380</td><td>475</td><td>uA</td></tr><tr><td colspan=\"7\">MOSFET过流保护</td></tr><tr><td> $V_{CS\\_LIM}$ </td><td>CS限流电压</td><td></td><td>450</td><td>500</td><td>550</td><td>mV</td></tr><tr><td colspan=\"7\">输出电压控制</td></tr><tr><td> $V_{FB\\_REF}$ </td><td>FB引脚基准电压</td><td></td><td>2.45</td><td>2.5</td><td>2.55</td><td>V</td></tr><tr><td> $V_{OVP\\_REF}$ </td><td>OVP过压保护阈值</td><td></td><td>2.64</td><td>2.7</td><td>2.76</td><td>V</td></tr><tr><td> $V_{OVP\\_REL}$ </td><td>退出OVP阈值</td><td></td><td>2.5</td><td>2.575</td><td>2.65</td><td>V</td></tr><tr><td colspan=\"7\">内部时间控制</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>3.3</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX1}$ </td><td>最大关断时间1</td><td> $V_{FB} \\leqslant 1.7V$ </td><td></td><td>25</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX2}$ </td><td>最大关断时间2</td><td> $V_{FB}>1.7V$ </td><td>35</td><td>50</td><td>65</td><td>us</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>350</td><td></td><td>ns</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td>30</td><td>35</td><td>40</td><td>us</td></tr><tr><td> $T_{DET\\_BLANKING}$ </td><td>退磁检测屏蔽时间</td><td></td><td></td><td>1.3</td><td></td><td>us</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>内置MOS导通阻抗</td><td> $V_{GS}=10V/ I_{DS}=1.0A$ </td><td></td><td>3</td><td></td><td>Ω</td></tr><tr><td> $BV_{DSS}$ </td><td>内置MOS击穿电压</td><td> $V_{GS}=0V/ I_{DS}=250uA$ </td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">过热保护</td></tr><tr><td> $T_{OTP}$ </td><td>过热保护温度</td><td></td><td></td><td>160</td><td></td><td>°C</td></tr><tr><td> $T_{OTP\\_HYS}$ </td><td>过热保护迟滞</td><td></td><td></td><td>15</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                99,
+                157,
+                905,
+                866
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                606,
+                87,
+                892,
+                108
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                218,
+                150
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bdda8d21065134e5b2e5f175ba15b508ca34343b384e8e047e780fc2a8a6f61d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2636C 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                171,
+                165,
+                833,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                606,
+                178,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 是一款高效率、高 PF 值、低 THD 的升压型 PFC 恒压驱动芯片。芯片工作在电感电流临界连续模式，有助于优化 EMI 和效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                638,
+                484,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 通过 MOSFET 的栅极检测过零，无需辅助绕组。同时采用高压供电，内置环路补偿、内置 MOS 管，只需要很少的外围元件，即可实现优异的恒压特性，极大地节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                704,
+                484,
+                781
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                796,
+                132,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后，母线电压通过内部高压 JFET 给 VCC 电容充电，当 VCC 电压达到芯片开启阈值时，芯片内部控制电路开始工作。BP2636C 内置 15V 稳压管，用于钳位 VCC 电压。为了降低芯片功耗，也可以外加电阻从输入母线给 VCC补电，减小 JFET 的供电电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                831,
+                485,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                512,
+                638,
+                717,
+                654
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出恒压&输出 OVP 设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                674,
+                717,
+                691
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压由 FB 直接采样控制,芯片通过调节导通时间将 FB 电压控制在 2.5V。输出过压保护 (OVP) 也由 FB 采样控制,当 FB 电压达到 2.7V 时,系统触发 OVP。图 4 显示的是 FB 引脚外围电路。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                705,
+                907,
+                783
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                443,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                51,
+                892,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                606,
+                87,
+                892,
+                108
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                937,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ae9c6408c11eda0809f5a10213f9ce14d44f5d43c6f6807bb40cd98e965cedea.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 FB 引脚应用示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                206,
+                133,
+                396,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压平均值和过压保护值可以设置为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                387,
+                376,
+                402
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O U T} = \\frac {R _ {1} + R _ {2} + R _ {3}}{R _ {3}} \\times 2. 5 V",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/9437ab97efcfecd12a71a8a9ab0789af0ead700d99a62ee2d8097158457c6d62.jpg"
+                }
+            },
+            "bbox": [
+                191,
+                410,
+                381,
+                441
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O V P} = \\frac {R _ {1} + R _ {2} + R _ {3}}{R _ {3}} \\times 2. 7 V",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a1f15d16bc865e548749a913ab599f9f683cc0516e1caff78b5cb6284015c82e.jpg"
+                }
+            },
+            "bbox": [
+                191,
+                448,
+                379,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                486,
+                134,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{3}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是反馈网络的下分压电阻；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                511,
+                287,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  和   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是反馈网络的上分压电阻；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                536,
+                322,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OUT}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是输出电压；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                561,
+                208,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OVP}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是输出电压过压保护设定点；"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                586,
+                314,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了提高系统效率，FB 下分压电阻可以设置在 5~10KΩ 左右。为提高抗干扰性，FB 引脚可并联滤波电容。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                610,
+                482,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MOSFET 过流保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                662,
+                242,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片逐周期检测电感的峰值电流，CS 端连接到内部的峰值电流比较器的输入端，与内部阈值电压进行比较，当 CS 电压达到内部检测阈值时，功率管保护并关断。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                692,
+                482,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电感峰值限流保护值的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                757,
+                331,
+                771
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm{PK} \\_ \\mathrm{LMT}} = \\frac {5 0 0}{R _ {C S}} (m A)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ed317b5f47c0057728d8000bdf82f82c9b591f0be4f12b7cbd1f7725b309cd87.jpg"
+                }
+            },
+            "bbox": [
+                206,
+                777,
+                364,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{cs}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  为电流采样电阻阻值。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                820,
+                307,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CS 过流保护比较器的输出还包括一个 300ns 前沿消隐时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                844,
+                490,
+                859
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Boost 电感"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                135,
+                608,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 工作在电感电流临界模式，当功率管导通时，流过 Boost 电感的电流从零开始上升，导通时间为："
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                165,
+                907,
+                201
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {o n} = \\frac {L \\times I _ {P K}}{V _ {I N}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a6a280f7ae3bbaa037650b7e8dc28c37ca72919ff4651745be53cbd24324db37.jpg"
+                }
+            },
+            "bbox": [
+                660,
+                214,
+                757,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，L 是电感量；"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                266,
+                643,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是电感电流的峰值；"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                290,
+                670,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{IN}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是经整流后的母线电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                315,
+                697,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片内部设定最大导通时间为 35us。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                340,
+                757,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当功率管关断时，流过 Boost 电感的电流从峰值开始往下降，当电感电流下降到零时，芯片内部逻辑再次将功率管开通。功率管的关断时间为："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                365,
+                905,
+                421
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "t _ {o f f} = \\frac {L \\times I _ {P K}}{V _ {\\mathrm{OUT}} - V _ {I N}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/eb0694a8c4eef9e7f735f1261951cecc2313ec01b007ba17b8fb1c93ad3658c6.jpg"
+                }
+            },
+            "bbox": [
+                636,
+                435,
+                779,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Boost 电感的计算公式为:"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                486,
+                690,
+                500
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "L = \\frac {\\left(V _ {\\mathrm{OUT}} - V _ {I N}\\right) \\times V _ {I N}}{f \\times I _ {P K} \\times V _ {\\mathrm{OUT}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/608551719cb66362c28b086548b067af239b7119211698270c700482ad8c9de5.jpg"
+                }
+            },
+            "bbox": [
+                626,
+                513,
+                789,
+                552
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                567,
+                556,
+                581
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "f 为系统最小开关频率。BP2636C 的开关频率和输入电压有关。一般情况下，选择在输入电压有效值最低时的波峰处来设置系统的最低工作频率。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                591,
+                905,
+                647
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                662,
+                591,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C 内置多种保护功能，包括输出过压保护（OVP）、VCC 欠压保护、MOSFET 过流保护、芯片过热保护、FB 短路保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                693,
+                907,
+                749
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出过压保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                764,
+                613,
+                780
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出负载开路时，随着输出电压的上升，OVP引脚电压同时上升。当OVP引脚电压达到2.7V时以上，会触发芯片过压保护逻辑并停止开关工作。当OVP电压降低到2.575V以下，芯片重新开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                795,
+                907,
+                872
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                442,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                51,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                87,
+                905,
+                108
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                935,
+                561,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MOSFET 过流保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                135,
+                223,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输入电压降低时，电感峰值电流上升，电压越低峰值电流越大，芯片通过设置 CS 电阻来限制电感电流峰值，防止电流过大。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                165,
+                473,
+                220
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                236,
+                159,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当芯片结温超过   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "160^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C，会触发过温保护，芯片停止工作，当结温低于   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "145^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C 时，芯片恢复工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                267,
+                460,
+                304
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FB 短路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                319,
+                181,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 FB 短路时，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{FB}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  掉到 0.5V 以下，会触发芯片 FB 短路保护逻辑，并停止开关动作。故障撤除后，芯片恢复正常工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                349,
+                475,
+                406
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                134,
+                675,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2636C 应用 PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                167,
+                860,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VCC 的旁路电容需要紧靠芯片 VCC 和 GND 引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                192,
+                878,
+                207
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) FB 采样电阻需要尽量靠近芯片 FB 引脚，且 FB 节点要远离高压节点和噪声源。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                217,
+                905,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) 电流采样电阻的功率地线尽可能粗，且要离芯片的 GND 脚尽量近。另外，CS, FB 引脚的电阻到芯片 GND 脚的连线应尽可能短。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                262,
+                907,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) CS 引脚与采样电阻的连线需要尽量短，且靠近芯片，远离高压节点和噪声源。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                327,
+                905,
+                364
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) 减小功率环路的面积，如功率管、母线电容和续流二极管的环路面积，以减小 EMI 辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                372,
+                905,
+                409
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                769,
+                51,
+                905,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                127,
+                186,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c3921596988e0aa43d2662a6cdfaf0d665f33e4dc367bef5f4cb3cce18390e57.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                142,
+                200,
+                473,
+                446
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/749608e36e0f21a1bb8103b113d7cb511804b991f0feb0411f0cbd0a00aa63b1.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                652,
+                181,
+                764,
+                413
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cb91ba87c68f637444cf111ebab33f65e2faa2605bfa3b3ea7ec7ff498630a0e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                159,
+                461,
+                522,
+                579
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/21d5a46cd66c8190e1557c3b9d28f521ec0646dad64d90454515de4b84a3ed08.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                588,
+                461,
+                867,
+                560
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e02932669de4a1468dd2d030b702a0932fda64506a87257bc58706bdeb142f3e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                114,
+                714,
+                142,
+                755
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6e47c55ad1c38668e67f725afe7ed241a775c6443a07f7a1ba36babf46ff73f9.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                152,
+                590,
+                452,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C\nBOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                49,
+                897,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                186,
+                146
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9542786a4d91cabdfd3c02ae01809b7ca763c6bc94db18891b9353ba50a65705.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2020/12</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                171,
+                894,
+                344
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                87,
+                895,
+                108
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                897,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                123,
+                549,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                199,
+                823,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                245,
+                899,
+                324
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOOST PFC 恒压驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                87,
+                895,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2636C_CN_DS_Rev.1.0\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                620,
+                966
+            ]
+        }
+    ]
+]

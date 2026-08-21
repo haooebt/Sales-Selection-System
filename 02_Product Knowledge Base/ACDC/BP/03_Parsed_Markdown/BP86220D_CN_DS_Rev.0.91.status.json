@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:51:57+08:00",
+  "file": "BP86220D_CN_DS_Rev.0.91.pdf",
+  "pdf": {
+    "bytes": 3266868,
+    "pages": 16,
+    "sha256": "f021b6ede3f59bc09b943fccff4194c467a6ca8be7bfe232fe80148550578e70"
+  },
+  "batch_id": "9b26ffbe-f177-4059-8ad7-d7eb7280da18",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:52:33+08:00",
+    "errors": [],
+    "markdown_chars": 21473,
+    "parsed_pages": 16,
+    "passed": true,
+    "pdf_pages": 16
+  },
+  "published_at": "2026-08-17T21:52:44+08:00"
+}

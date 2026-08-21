@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:14:49+08:00",
+  "file": "BPA86526P_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 3663668,
+    "pages": 18,
+    "sha256": "8bef0572e48133df48d40d87f1a852e2c04d763eb392f62ee06b1a2746ecb241"
+  },
+  "batch_id": "a5c1b0a8-184b-4eed-b856-475d39c498f2",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:14:49+08:00",
+    "errors": [],
+    "markdown_chars": 22611,
+    "parsed_pages": 18,
+    "passed": true,
+    "pdf_pages": 18
+  },
+  "published_at": "2026-08-17T22:14:49+08:00"
+}

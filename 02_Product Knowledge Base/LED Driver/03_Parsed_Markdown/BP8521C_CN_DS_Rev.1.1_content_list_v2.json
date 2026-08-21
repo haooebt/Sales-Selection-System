@@ -1,0 +1,3032 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C超高集成度开关电源驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                91,
+                420,
+                143
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                162,
+                114,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 是一款高性能、高集成度、低待机功耗的开关电源驱动芯片，适用于全电压 85~265VAC 输入的 Buck、Buck-Boost 拓扑应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                187,
+                485,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 芯片内部集成 550V 高压 MOSFET、高压启动和自供电电路、电流采样电路、电压反馈电路以及续流二极管，无需外部VCC电容和环路补偿即可实现优异的恒压输出特性，极大地减少外围器件数量，节省系统成本和体积，同时提高可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                256,
+                489,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 提供丰富的保护功能，使系统更加安全可靠。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                344,
+                433,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                370,
+                258,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9d0eecda6ca74f24b03071da9796c3c05c71961534dbbaf5d8df0d729c573a8d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                235,
+                407,
+                295,
+                447
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                162,
+                581,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 无 VCC 电容"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                187,
+                662,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 低待机功耗 ＜50mW"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                208,
+                719,
+                224
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 固定 3.3V 输出电压"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                229,
+                710,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内部集成 550V 功率管"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                249,
+                727,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 集成高压启动和供电电路"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                269,
+                746,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 减小音频噪声的降幅调制技术"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                288,
+                776,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 改善 EMI 的抖频技术"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                307,
+                719,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                329,
+                640,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输出过载保护(OLP)"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                349,
+                746,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                369,
+                678,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逐周期限流"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                388,
+                690,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "迟滞过温保护(OTP)"
+                    }
+                ]
+            },
+            "bbox": [
+                608,
+                409,
+                744,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                436,
+                621,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "辅助电源"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                463,
+                638,
+                479
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                512,
+                152,
+                531
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/adfa0cf405b9860f39ad8838798d58e1850b9d9d0aef5904f2e1520ba9139ad6.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP8521C 典型 Buck 应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                142,
+                545,
+                806,
+                711
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                721,
+                61,
+                902,
+                131
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2025/12"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                124,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                946,
+                929,
+                960
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                111
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8c78d85a56e331e8742ef78f7ace878dbb74c4e4ec45a522f8f28a327c3f6d8b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP8521C</td><td>SOP-8</td><td>卷盘4,000只/盘</td><td>BP8521XXXXXYZZZZWWC</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                927,
+                198
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                217,
+                154,
+                235
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f0aa219a4de141398abae7edf626bf76a769857e67e1882621be43fb42ccaba4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                326,
+                243,
+                873,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521: 产品型号XXXXXYX: 批次号ZZZZ: 标示WW: 周号C: 封装代码"
+                    }
+                ]
+            },
+            "bbox": [
+                722,
+                265,
+                855,
+                366
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                432,
+                154,
+                449
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ace9fe351ed421d58f68b324eefd74c604576c8438cf4cfb6e4a111e6c8a85aa.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VOUT</td><td>输出电压端,内置反馈二极管阳极</td></tr><tr><td>2</td><td>GND</td><td>输出电压参考地,内置续流二极管阳极</td></tr><tr><td>3、6、7</td><td>NC</td><td>无连接</td></tr><tr><td>4</td><td>DRAIN</td><td>内置 MOSFET 漏极,此引脚也向芯片内部提供自供电电流</td></tr><tr><td>5</td><td>IC-GND</td><td>芯片地,内置 MOSFET 源极,内置续流二极管阴极</td></tr><tr><td>8</td><td>VFB</td><td>反馈电压采样端,内置反馈二极管阴极,外部无需连接</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                458,
+                927,
+                668
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出规格表(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                688,
+                211,
+                705
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1906501d3d95e0a289a25026c9d3528ba0085cf75d6de807b7e42bad83045df0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：表中的推荐最大输出电流是在充分散热的条件下，外围参数设计合理，非隔离 Buck 或者 Buck-Boost电路应用。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">型号</td><td colspan=\"2\">输出规格</td></tr><tr><td>输出电压(V)</td><td>最大连续输出电流(mA)</td></tr><tr><td>BP8521C</td><td>3.3</td><td>60</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                715,
+                927,
+                795
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fe6515dfad8138fe5fd521fd7e97ca1976188d190483a1ed9417c5057fde9547.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 2) （无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } = 2 5 ^ { \\circ } { \\sf C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 2：极限参数是指超出该工作范围，芯片有可能损坏。除非特殊说明，电压值均参考 IC-GND。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 3：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度 T<sub>A</sub>所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { P } _ { \\mathsf { D M A X } } = ( \\mathsf { T } _ { \\mathsf { J M A X } } - \\mathsf { T } _ { \\mathsf { A } } ) /"
+                    },
+                    {
+                        "type": "text",
+                        "content": "θ 或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 4：1平方英寸双层 PCB板，按照JEDEC 标准测试。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{DRAIN}$ </td><td>内部高压 MOSFET 漏极到源极电压</td><td>-0.3~550</td><td>V</td></tr><tr><td> $V_{FB}$ </td><td>VFB 引脚电压(以 IC-GND 引脚为参考)</td><td>-0.3~7</td><td>V</td></tr><tr><td> $V_{GND}$ </td><td>GND 到 IC-GND 引脚电压</td><td>-550~0.3</td><td>V</td></tr><tr><td> $V_{OUT}$ </td><td>VOUT 引脚电压(以 GND 引脚为参考)</td><td>-0.3~7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 3)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注 4)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注 5)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                117,
+                929,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 5：按照 JEDEC 标准测试, 100pF 电容通过 1.5kΩ 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                535,
+                420,
+                549
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ef0e90ba665ca5a5cc74575ddd1f5e3289ed921377e7969e787172d56cc1443e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 6) （无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } = 2 5 ^ { \\circ } { \\sf C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注8：漏极最大直流电流基于抽测 IC测试所得，不同批次 IC 存在一定差异。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压</td></tr><tr><td> $V_{DRAIN_ON}$ </td><td> $V_{DRAIN}$ 开启电压</td><td>Rising</td><td>12</td><td>15</td><td>18</td><td>V</td></tr><tr><td> $I_Q$ </td><td> $V_{DRAIN}$ 静态电流</td><td> $V_{DRAIN}=11V$ </td><td></td><td>70</td><td>150</td><td>μA</td></tr><tr><td colspan=\"7\">采样电压</td></tr><tr><td> $V_{FB}$ </td><td> $V_{FB}$ 引脚采样电压</td><td></td><td>3.69</td><td>3.8</td><td>3.91</td><td>V</td></tr><tr><td> $V_{FB\\_OLP}$ </td><td> $V_{FB}$ 引脚过载保护电压</td><td>续流状态</td><td></td><td>1.8</td><td></td><td>V</td></tr><tr><td colspan=\"7\">振荡器</td></tr><tr><td> $F_{OSC\\_MAX}$ </td><td>最大开关频率</td><td></td><td>25</td><td>30</td><td>35</td><td>kHz</td></tr><tr><td> $t_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td></td><td>3</td><td></td><td>μs</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $I_{LIMIT\\_MAX}$ </td><td>最大电流限值(注7)</td><td> $V_{FB}=3.2V$ </td><td>165</td><td>190</td><td>215</td><td>mA</td></tr><tr><td> $t_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>260</td><td></td><td>ns</td></tr><tr><td> $t_{ILD}$ </td><td>电流限流延迟</td><td></td><td></td><td>50</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $R_{DS_ON}$ </td><td>功率管导通阻抗</td><td> $V_{FB}=3.2V, I_{DS}=100mA$ </td><td></td><td>30</td><td></td><td>Ω</td></tr><tr><td> $I_D$ </td><td>漏极最大直流电流(注8)</td><td></td><td></td><td>0.42</td><td></td><td>A</td></tr><tr><td> $I_{DSS}$ </td><td>功率管关断漏极漏电流</td><td> $V_{DS}=550V$ </td><td></td><td></td><td>30</td><td>μA</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管击穿电压</td><td> $V_{GS}=0V, I_{DS}=250μA$ </td><td>550</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">续流二极管</td></tr><tr><td> $V_{BR1}$ </td><td>二极管击穿电压</td><td> $I_R=5μA$ </td><td>600</td><td></td><td></td><td>V</td></tr><tr><td> $V_{F1}$ </td><td>二极管导通压降</td><td> $I_F=200mA$ </td><td></td><td></td><td>1.6</td><td>V</td></tr><tr><td> $I_{FAV1}$ </td><td>最大平均导通电流</td><td></td><td>300</td><td></td><td></td><td>mA</td></tr><tr><td> $t_{RR1}$ </td><td>反向恢复时间</td><td> $I_F=500mA, I_R=1A, I_{RR}=250mA$ </td><td></td><td></td><td>35</td><td>ns</td></tr><tr><td colspan=\"7\">FB采样二极管</td></tr><tr><td> $V_{BR2}$ </td><td>二极管击穿电压</td><td> $I_R=5μA$ </td><td>600</td><td></td><td></td><td>V</td></tr><tr><td> $V_{F2}$ </td><td>二极管导通压降</td><td> $I_F=1mA$ </td><td></td><td></td><td>0.9</td><td>V</td></tr><tr><td colspan=\"7\">过热保护</td></tr><tr><td> $T_{SD}$ </td><td>过热调节温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr><tr><td> $T_{SD\\_HYS}$ </td><td>过温保护温度迟滞</td><td></td><td></td><td>40</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                115,
+                929,
+                844
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2283a0dc7cd974131246ae3870e6737792b1bd4ba4d74e6c87a2fff6a1ca2ec4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP8521C 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                80,
+                123,
+                917,
+                457
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                493,
+                154,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 是一款高压输入具有恒压输出特性的驱动芯片，无需外部补偿电路。芯片无需外部 VCC 电容，内部集成 550V 功率开关、续流二极管、高压自供电电路、电流采样电路、电压反馈电路，以及丰富的保护功能，只需要少量的外围器件就可以实现恒压输出。此外，BP8521C 具有较低的待机功耗、良好的输出电压调整率和较低的输出电压纹波。（注 9：以下描述到的参数均为电气参数列表中的典型值，除非特别说明是最大或最小值）"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                519,
+                487,
+                657
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "高压启动供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                675,
+                179,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 集成了高压启动与自供电电路，无需外部 VCC 电容。系统上电后，母线电压上升，内部高压启动电路通过 DRAIN端对内置 VCC 电容充电。当内置 VCC 电容电压达到芯片启动阈值时，芯片内部控制电路开始工作。当内置VCC电容电压降低到欠压保护阈值时，芯片关断内部 MOSFET。芯片正常工作时，在 MOSFET 关断期间自供电电路通过 DRAIN 端对内置VCC 电容供电。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                715,
+                487,
+                853
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "软启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                525,
+                573,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 具有软启动功能，在软启动过程中，MOSFET 峰值电流（限流点）保持不变，开关频率随着输出电压的升高而逐渐升高。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                565,
+                931,
+                621
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/1f07ff91b10fcc021ec10a542cfed0118a1744c15d92ec3ce28180ecb2f9fe1e.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4. 软启动过程"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                584,
+                627,
+                858,
+                747
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压采样"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                790,
+                625,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 通过 VOUT 引脚采样输出电压，经过内置反馈二极管到达 FB引脚，FB电压经内部电阻分压后与内部基准电压进行运算实现恒压控制。输出电压采样仅在续流状态 3μs 时进行，电感设计时建议保证续流时间大于 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 \\mu \\mathsf { s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，以防止无法正确采样输出电压导致工作异常。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                831,
+                936,
+                888
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                65,
+                95,
+                482,
+                130
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d062818ee4ce1e4d2fed0868badddd4e43cfb470ab698214956475dc28945f4f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5. 输出电压采样示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                78,
+                142,
+                465,
+                305
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多模式控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                354,
+                161,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 采用频率自适应控制技术，如图 6 所示。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                394,
+                403,
+                409
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/53bfcea9ac8a6187a1f9bf00e2f3800322f21a67130b4d0dceeb8185f394846d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                77,
+                418,
+                500,
+                600
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6de69a86c95b797f36ceab51a3080e4dbb086165a42e9a5d0c146d1489cc68f8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 6. 控制模式"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                121,
+                620,
+                354,
+                764
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电流检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                99,
+                591,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 内部集成电流采样电路，对 MOSFET 电流逐周期限制，无需外置电流采样电阻。当一个开关周期开始时，控制电路开通 MOSFET，漏极电流上升，当电流上升达到内部限制值时，控制电路关断 MOSFET，直到下一个开关周期开始。内置前沿消隐(Leading Edge Blanking)时间，tLEB 可以避免由于外部电路的容性或二极管的反向恢复导致MOSFET在开通瞬间出现的电流尖峰误触发 MOSFET关断。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                131,
+                931,
+                269
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压过压/过载、短路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                288,
+                756,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 通过 VFB 引脚来实现输出电压的过载与短路保护，当 VFB 电压低于设定电压且保持 220ms，芯片即实现输出过载保护。保护后，功率管 MOS 关断，芯片振荡器工作在最低频率为 4KHz，保护发生后，芯片会定时 1s 重新检测 VFB 电压，如果过载、短路解除，则正常工作，如未解除，继续保护。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                328,
+                934,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温保护（OTP）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                444,
+                648,
+                461
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 内置了过温保护电路。当结温达到过温调节温度"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf S D } ( 1 5 0 ^ { \\circ } { \\sf C } )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，芯片会停止工作，MOSFET 关断，直到结温下"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { S D - H Y S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，芯片重新启动。T<sub>SD-HYS</sub>(40℃)为温度迟滞，较大的温度迟滞有利于把系统整体温度控制在较低水平。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                485,
+                931,
+                562
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                99,
+                154,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电感的选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                147,
+                196,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "根据系统所需的电流输出能力，BP8521C 的输出电感可以选用 1mH。选型时请注意电感的最大饱和电流等参数，以避免电感持续工作在严重饱和状态。此外，所选择的电感需要保证芯片工作在最低限流点时的续流时间大于 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "7 \\mu \\mathsf { s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，以保证芯片可以正常反馈采样，即"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                187,
+                484,
+                284
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "L \\geq \\frac {V _ {O U T} * 7 \\mu s}{I _ {L I M I T \\_ M I N}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8ebef6e13c6ffb7a269f2fa96342f78e3dcbdfcb5823466425809b3f9387e429.jpg"
+                }
+            },
+            "bbox": [
+                215,
+                294,
+                336,
+                329
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输入电容的选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                350,
+                196,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入滤波电容对工频电压纹波、传导 EMI、以及电源抵抗Surge 的能力都起到关键的作用。电容量的选择要保证直流母线电压不能过低(通常不要低于 70V)，因此电容量取决于输出功率和电源效率。 全电压 85~265VAC 输入时，如果使用全波整流，一般取≥3μF/W；对于半波整流，电容量一般取≥6μF/W。 单高压 176~265VAC 输入时，在满足 EMI 和 Surge 的前提下容量可以减半。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                390,
+                484,
+                527
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电容的选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                546,
+                196,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电容的作用是滤除电感电流中的交流成分，提供稳定的直流电压给负载，一般根据输出电压纹波要求来选取合适的电容。当输出电流恒定时，输出纹波主要由输出电容的ESR以及容量决定。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                588,
+                489,
+                663
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta V _ {O U T} = \\Delta V _ {E S R} + \\Delta V _ {C}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/aa899a84465adbcd4943064185925fe82bfbabce7bfcc61766d130c6386113ee.jpg"
+                }
+            },
+            "bbox": [
+                189,
+                673,
+                357,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CCM 模式下，由容性产生的纹波电压为："
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                703,
+                342,
+                718
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta V _ {C} = \\frac {\\Delta I _ {L}}{8 * C _ {O U T} * f _ {S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3510d50b3029ed3cc622e2dfd78c4eae7913a64693e7aaee3e1269c9607e2ceb.jpg"
+                }
+            },
+            "bbox": [
+                200,
+                728,
+                351,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DCM 模式下，由容性产生的纹波电压为："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                778,
+                342,
+                793
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta V _ {C} = \\frac {I _ {O U T} * (I _ {L I M I T \\_ M A X} - I _ {O U T}) ^ {2}}{C _ {O U T} * f _ {S} * I _ {L I M I T \\_ M A X} ^ {2}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/78e96aa8b0961a565a551f912a30bcee79136cbb9c52994f6770d175245c2043.jpg"
+                }
+            },
+            "bbox": [
+                144,
+                804,
+                403,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实际应用中，为了得到较小的 ESR，电容量相对比较大，由容量 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sharp ^ { \\sharp }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "生的输出电压纹波很小，几乎可以忽略，因此电压纹波主要由电容的 ESR 产生："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                854,
+                484,
+                910
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta V _ {E S R} = \\Delta I _ {L} * E S R (\\mathsf {C C M})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/c28b110512e0aedd60895dd91c1e5f0bce71c8b366186ca15151738bfa2584ef.jpg"
+                }
+            },
+            "bbox": [
+                616,
+                93,
+                825,
+                111
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\Delta V _ {E S R} = I _ {L I M I T \\_ M A X} * E S R (\\mathrm{DCM})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6d17a55ae14d64c451bc53bf41ba038a44f9e0ac065a2d529f329534a0dcbd93.jpg"
+                }
+            },
+            "bbox": [
+                591,
+                123,
+                850,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "过大的 ESR 不仅产生较大的输出电压纹波，还可能导致电容产生损耗而发热，缩短电解电容的寿命。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                153,
+                917,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C 的输出电容值，建议选取 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 0 0 \\mu \\mathsf { F } _ { \\mathrm { c } }"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                203,
+                805,
+                218
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "假负载计算"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                237,
+                608,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出空载时，需要一个假负载为电感电流提供回路，从而稳定输出电压，电感的平均电流即为假负载的电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                279,
+                929,
+                315
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {A V G} = \\frac {1}{2} * I _ {L} * (T _ {O N} + T _ {O F F}) * f _ {S \\_ M I N}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f6e0ae6d95153bbd86ab3dbfed821efb20238841c7cb451c522c28c92bba5c4e.jpg"
+                }
+            },
+            "bbox": [
+                583,
+                326,
+                858,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，I<sub>L</sub>为空载时电感峰值电流："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                375,
+                734,
+                390
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {V _ {I N \\_ M A X}}{L} * t _ {D e l a y} + I _ {L I M I T}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/d2cc6cf8624518d5504787714a2677d5cff7b42befb5ce9ef9799fc65baf5439.jpg"
+                }
+            },
+            "bbox": [
+                645,
+                404,
+                833,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I<sub>LIMIT</sub> 为空载工作时的限流值，f<sub>S_MIN</sub> 为芯片最低频率， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { T } } _ { { \\mathsf { O N } } } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "T<sub>OFF</sub>分别为空载时 MOSFET开通和关断时间："
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                451,
+                919,
+                486
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "T _ {O N} = \\frac {L * I _ {L}}{V _ {I N \\_ M A X}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b38f69d3aab818ac52f8b277cb33763af46746dbd8e28210bd47b60e4e1b6495.jpg"
+                }
+            },
+            "bbox": [
+                663,
+                497,
+                779,
+                532
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "T _ {O F F} = \\frac {L * I _ {L}}{V _ {O U T} + V _ {D i o d e}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3d90e1484affbeea62f635d19574dd49579bc6880c549c884e8c5f00d745c38f.jpg"
+                }
+            },
+            "bbox": [
+                638,
+                544,
+                803,
+                579
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "R _ {L} = \\frac {V _ {O U T}}{I _ {A V G}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4d590e8aa7e31411501d2658c95ad88e1e45e969ebf3e15159a02ca285d2103e.jpg"
+                }
+            },
+            "bbox": [
+                678,
+                590,
+                764,
+                625
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以上计算未考虑芯片自供电电流通过假负载，实际需要的假负载电流稍大。BP8521C 的假负载电流建议 3.3mA 左右，即选取 1kΩ电阻。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                639,
+                931,
+                695
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                101,
+                210,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP8521C 应用 PCB时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                141,
+                413,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VOUT 和 FB 引脚应避免铺铜，且远离母线电压、母线地和输出电感，以防止反馈信号受到干扰。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                164,
+                484,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) IC-GND引脚能很好地起到散热作用，可以在PCB上铺铜来降低芯片的温度，但是IC-GND为电压动点（相对母线地电压），在满足散热的条件下，铺铜面积应尽量小以减少噪声辐射。同时建议IC-GND引脚远离交流输入端，以避免耦合产生的 EMI 问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                212,
+                484,
+                311
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Buck 变换器中，DRAIN 引脚是芯片内部 MOSFET 的漏极，接输入电容正端，为电压静点。建议铺铜以提高芯片的散热能力。同时建议注意 DRAIN 脚与其他引脚的走线距离。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                323,
+                485,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                547,
+                95,
+                931,
+                151
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) 为了达到较好的 EMI 表现，建议尽可能减小功率环路的面积。以 Buck 变换器为例，输入母线电容、芯片内部MOSFET、芯片内部续流二极管形成的环路容易产生辐射噪声，因此母线电容应尽量靠近芯片漏极以缩小此环路面积。芯片内部续流二极管、输出电感、输出电容形成的环路面积也应尽量减小。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                164,
+                932,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) 输出电感容易产生电磁干扰，建议远离芯片 FB 和 VOUT引脚，同时远离交流输入端以避免 EMI 问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                294,
+                931,
+                331
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                565,
+                863,
+                577
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad06bf55cfbd6527e2d5d9391539da235549dae4328304a1bba94a5d43db5daf.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                193,
+                411,
+                400
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/62df2273b54e998447c1383b005706b46b6176aad8b83180fdcddffc7fefb397.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                151,
+                487,
+                421,
+                560
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1651d158f55ffa9885e89adffdb730e244c58ad6287ab85a354054e7602ad682.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                566,
+                474,
+                865,
+                580
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/981e4e2de1a56576b91c089bfa7010039fc0e0e6155f2b138b07db24d3d440f1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>__</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>__</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>__</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>__</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.30</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>__</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                159,
+                633,
+                374,
+                860
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                34,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/a51a575193ff0b1935764cb882cc7ea0bda98ca492cdccabdfb65899c553bf6c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                104,
+                229,
+                884,
+                769
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/24f2301ad83f3385db1260293be726298ef982d245d3c4dce5e96e6e1428a505.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2021/08</td><td>首次发行</td></tr><tr><td>Rev.1.1</td><td>2025/12</td><td>改基本电气性能参数,增加 $I_D$ 参数</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                927,
+                196
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                34,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                220,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                549,
+                946
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                935,
+                929,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                102,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                789,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。 。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                202,
+                931,
+                259
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                48,
+                181,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                70,
+                929,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                221,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                551,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子器件报废说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                102,
+                596,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该产品在生命周期结束后，由客户按照一般电子产品的报废流程进行处理。"
+                    }
+                ]
+            },
+            "bbox": [
+                245,
+                173,
+                742,
+                189
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                48,
+                181,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C"
+                    }
+                ]
+            },
+            "bbox": [
+                806,
+                70,
+                929,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP8521C_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                221,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                934,
+                551,
+                946
+            ]
+        }
+    ]
+]

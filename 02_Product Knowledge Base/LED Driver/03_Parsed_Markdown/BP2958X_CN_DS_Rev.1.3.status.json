@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:33:17+08:00",
+  "file": "BP2958X_CN_DS_Rev.1.3.pdf",
+  "pdf": {
+    "bytes": 1694804,
+    "pages": 11,
+    "sha256": "a0fcefaf4599fd3f4f4cad58ee8bc5895d6d4ce12abddcc573d3ef486bd3a1ab"
+  },
+  "batch_id": "15b177aa-b98a-41a0-afc4-735d8b209f5b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:33:18+08:00",
+    "errors": [],
+    "markdown_chars": 10900,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-21T13:33:35+08:00"
+}

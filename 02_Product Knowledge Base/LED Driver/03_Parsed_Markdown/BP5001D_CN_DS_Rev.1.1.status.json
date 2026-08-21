@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:11:01+08:00",
+  "file": "BP5001D_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 3100863,
+    "pages": 9,
+    "sha256": "e9c521181d47436cb722f8a76ff75ce257948079eca7d8dabd115b50f790a9b1"
+  },
+  "batch_id": "0c20fb8c-2ccb-4567-964e-a9d0002e2890",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:11:04+08:00",
+    "errors": [],
+    "markdown_chars": 8882,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:11:10+08:00"
+}

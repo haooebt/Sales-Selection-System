@@ -1,0 +1,1642 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 满足 ERP 无频闪线性恒流 LED 控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                83,
+                547,
+                136
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                152,
+                114,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 是一款无频闪的线性恒流 LED 控制芯片，集成了高压 MOS 管和 JFET 高压供电功能。主要用于高压输入的各类光源和灯具的驱动，能满足欧洲最新 ERP 标准。由于不需要磁性元件，LED 驱动器可以实现小体积、长寿命，并符合 EMI 规定。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                179,
+                485,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 可以通过外部电阻精确的设定 LED 电流 BP5218FCL 具有高精度的过温调节功能。当输入电压过高，或者 LED 电流过大时，此功能将降低输出电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                284,
+                485,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 采用 HSOP7 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                349,
+                310,
+                365
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e7c444152ec59885c49a8b90f2e5834826fd394053aee251f21891ec542190e2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "HSOP7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                233,
+                368,
+                327,
+                418
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                152,
+                559,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 满足欧洲新 ERP 标准"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                179,
+                699,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ PF>0.5，无频闪"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                199,
+                665,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 无需压敏，抗浪涌 800V 以上"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                219,
+                749,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 外围电路非常简单，驱动器体积非常小"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                239,
+                813,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 无需磁性元件"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                260,
+                648,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 超快LED启动"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                280,
+                653,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ ±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                300,
+                719,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 电流可外部设定"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                319,
+                694,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 过温调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                340,
+                648,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 采用 HSOP7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                360,
+                673,
+                376
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                397,
+                601,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ GU10/E27 LED 球泡灯、射灯"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                423,
+                751,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 蜡烛灯、灯丝灯"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                443,
+                694,
+                461
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                463,
+                653,
+                480
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                483,
+                154,
+                502
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4ae4e076cf5884561943eadfafe7cbbfcea9ee657383b828ff960107ee9dd21d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP5218FCL 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                70,
+                485,
+                843,
+                801
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                726,
+                60,
+                905,
+                128
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "05/2024"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                124,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                946,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/afee176fd005676d8a61bdf51e59fc3eba0f13cc04ec082b3547616b323e54b7.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5218FCL</td><td>HSOP7</td><td>编带5000颗/盘</td><td>BP5218FXXXXYCWXYYL</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                927,
+                224
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                253,
+                154,
+                271
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1597de2ecf61461af7e592324acc6e72d3810ab2278c9a31fc39be0d809686e1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 BP5218FCL 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXY: 批次号"
+                    }
+                ]
+            },
+            "bbox": [
+                295,
+                274,
+                621,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WX: 标示"
+                    }
+                ]
+            },
+            "bbox": [
+                673,
+                319,
+                761,
+                337
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "YY: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                675,
+                338,
+                763,
+                357
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                463,
+                154,
+                480
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0e534952d466767b2a9fe580ebe4c72108d300984c694e6497d2fc61bf5ea1c6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>HV</td><td>芯片电解电容正端接口</td></tr><tr><td>2</td><td>CS2</td><td>电流采样端 2</td></tr><tr><td>3</td><td>GND</td><td>芯片地</td></tr><tr><td>4</td><td>CS1</td><td>电流采样端 1</td></tr><tr><td>5,6</td><td>NC</td><td>空脚</td></tr><tr><td>7</td><td>BUS</td><td>母线</td></tr><tr><td></td><td>衬底</td><td>芯片地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                483,
+                927,
+                760
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                179,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                57,
+                902,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                238,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1,2,3)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                223,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c24871551cb435c149144cae665047d2a8538d7336c6cb11d18e4290685f4e81.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMA}X = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>HV,BUS</td><td>500V芯片高压接口</td><td>-0.3~500</td><td>V</td></tr><tr><td>CS1,CS2</td><td>芯片低压接口</td><td>-0.3~6</td><td>V</td></tr><tr><td> $I_{BUS\\_MAX}$ </td><td>漏极最大饱和电流@  $T_{J\\_max}$ </td><td>60</td><td>mA</td></tr><tr><td> $I_{HV to CS2\\_MAX}$ </td><td>漏极最大饱和电流@  $T_{J\\_max}$ </td><td>60</td><td>mA</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr><tr><td></td><td>ESD (注3)</td><td>2</td><td>KV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                114,
+                927,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注3：按照JEDEC标准测试，100pF电容通过  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.5\\mathrm{K}\\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                489,
+                425,
+                502
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                57,
+                902,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                238,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a3cbae3cd802c207f3a85b47ab7a2393c72cbd1e1e95b11f41b4296bc377f692.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 4,5)（无特别说明情况下，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注4：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">工作电流</td></tr><tr><td> $I_{CC}$ </td><td>静态工作电流</td><td>HV=30V</td><td></td><td>135</td><td></td><td>uA</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{REF1}$ </td><td>电流基准1</td><td>BUS=HV=30V, $R_{CS1}$ =120Ω</td><td>860</td><td>890</td><td>920</td><td>mV</td></tr><tr><td> $V_{REF2}$ </td><td>电流基准2</td><td>HV=30V, $R_{CS2}$ =120Ω</td><td></td><td>600</td><td></td><td>mV</td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td>TREG</td><td>过热调节温度</td><td>-</td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                75,
+                118,
+                937,
+                360
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                57,
+                904,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                238,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dd647ac33889c1b72e5cc650f0bd40f362c88bc085827a00b14108b528e92719.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP5218FCL 内部结构框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                114,
+                877,
+                659
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                689,
+                154,
+                707
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 是一款无频闪的线性恒流 LED 控制芯片，主要用于高压输入的各类光源和灯具的驱动，能够满足欧洲新 ERP 标准。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                715,
+                484,
+                772
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                782,
+                131,
+                799
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在系统上电后，HV 通过内部的高压 JFET 给芯片供电，当 HV 的电压超过 10V 之后芯片开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                807,
+                484,
+                843
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                854,
+                297,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 可以通过外部电阻精确设定 LED 电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                878,
+                410,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当母线电压大于 LED 电压，母线给 LED 提供电流；当母线电压小于灯珠电压时，电解电容给 LED 放电。输出电流计算公式："
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                715,
+                929,
+                752
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm{LED}} = \\frac {\\mathrm{Vref2}}{\\mathrm{Rcs2}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/aeb44e3838ea1b6c8fcf062aaee3e2a6dca0e71e75a36126e8dca60c8e0c1f29.jpg"
+                }
+            },
+            "bbox": [
+                677,
+                757,
+                766,
+                785
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                793,
+                653,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                819,
+                929,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS 晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                57,
+                902,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                238,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3712f89f7840239fa1c516cff9caa5e416ec46d5bd411fc1b62058a31d515027.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                194,
+                128,
+                436,
+                211
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/218675227a0e365d331c821a9fd3dea8e12e1184d8a724524b25aff43076d7e7.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                157,
+                282,
+                457,
+                470
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8286f903abe947a1121a751936694e8fabf7518f5eaced93700c819160b3f70.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "背面\nBottom View"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                556,
+                134,
+                823,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ef045fc548343accf96d04c53b9c025ef4780d18039098bff2002dd64e9a7a24.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                99,
+                696,
+                144,
+                753
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1da889610c595a14b9398113af95076ff4bf316145334c49d4a7c90de9afb265.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>min</td><td>typ</td><td>max</td><td>min</td><td>typ</td><td>max</td></tr><tr><td>A</td><td>1.05</td><td>1.15</td><td>1.25</td><td>e1</td><td>0.35</td><td>0.40</td><td>0.45</td></tr><tr><td>C</td><td>0.15</td><td>0.20</td><td>0.22</td><td>e2</td><td>0.46</td><td>0.51</td><td>0.56</td></tr><tr><td>D</td><td>6.0</td><td>6.2</td><td>6.4</td><td>e3</td><td>0.50</td><td>0.55</td><td>0.60</td></tr><tr><td>E</td><td>3.70</td><td>3.9</td><td>4.1</td><td>e4</td><td>0.75</td><td>0.80</td><td>0.85</td></tr><tr><td>HE</td><td>5.9</td><td>6.0</td><td>6.1</td><td>L</td><td>0.95</td><td>1.05</td><td>1.15</td></tr><tr><td>d1</td><td>2.46</td><td>2.51</td><td>2.56</td><td>L1</td><td>0.40</td><td>/</td><td>0.80</td></tr><tr><td>d2</td><td>1.28</td><td>1.33</td><td>1.38</td><td>f1</td><td>0.61</td><td>0.66</td><td>0.71</td></tr><tr><td>d3</td><td>1.22</td><td>1.27</td><td>1.32</td><td>f2</td><td>0.80</td><td>0.85</td><td>0.90</td></tr><tr><td>d4</td><td>2.18</td><td>2.23</td><td>2.28</td><td>f3</td><td>2.25</td><td>2.30</td><td>2.35</td></tr><tr><td>d5</td><td>2.68</td><td>2.73</td><td>2.78</td><td>a</td><td colspan=\"3\">0.2(ref)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                215,
+                519,
+                778,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                953,
+                929,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                38,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                902,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                952,
+                238,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                89,
+                549,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                162,
+                791,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                204,
+                932,
+                261
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                954,
+                931,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                38,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                54,
+                902,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5218FCL_CN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                238,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                613,
+                966
+            ]
+        }
+    ]
+]

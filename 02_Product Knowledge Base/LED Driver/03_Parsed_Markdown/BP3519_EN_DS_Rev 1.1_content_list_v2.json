@@ -1,0 +1,2678 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                221,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519 is PSR isolated CCCV driver IC. The device operates in discontinued conduction mode and is suitable for 85Vac~265Vac universal input offline LED lighting. The BP3519 can perform in high accurate CCCV without external compensation capacitor, benefit to save the BOM size and cost."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                151,
+                485,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3519 supports multiple control mode of PWM and PFM, which contribute to very low standby power, high efficiency and minimum no load noise."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                277,
+                485,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3519 offers rich protection functions to improve the system reliability, including cycle by cycle peak current control, load open/short protection, VCC under/over voltage protection, and over temperature protection."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                344,
+                485,
+                442
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                114,
+                608,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ PSR Isolated CCCV control"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                145,
+                739,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ PWM/PFM multiple mode control"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                170,
+                789,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Standby power <100mW"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                193,
+                729,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ ±5% Output Accuracy"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                216,
+                715,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Internal soft startup"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                237,
+                697,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Load open protection"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                260,
+                707,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Load short protection"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                282,
+                709,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ VCC under voltage protection"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                304,
+                761,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Over temperature protection"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                326,
+                759,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Cycle by cycle peak current control"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                349,
+                801,
+                367
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Available in SOT23-5L package"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                370,
+                771,
+                388
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Applications"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                401,
+                645,
+                422
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Chargers"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                432,
+                621,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Standby/auxiliary power"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                458,
+                729,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED driving model"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                483,
+                685,
+                501
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                492,
+                297,
+                514
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ae41eb74b5b0851a5ee1a857b067941080def55e3239041b404457c4397bbcb6.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig1 Typical application circuit for BP3519"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                545,
+                882,
+                824
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                895,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                938,
+                576,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                952,
+                620,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                319,
+                134
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/54e6396e2dff4e90bfcae090d601940f0ec60115d761f566b61d90ef8a67e3ac.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Operating Temperature</td><td>Packing Method</td><td>Marking</td></tr><tr><td>BP3519</td><td>SOT23-5L</td><td>-40°C to 105°C</td><td>Tape3,000 Piece/Reel</td><td>3519</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                139,
+                894,
+                235
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Configuration and Marking Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                271,
+                534,
+                292
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ab7998b206e179a7527d45dfcb9e5da3488fa9a6048ab5b885b38276a2950e98.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                304,
+                325,
+                700,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Fig2 Pin configuration"
+                    }
+                ]
+            },
+            "bbox": [
+                411,
+                538,
+                569,
+                555
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a778204a6f662312eb4a2fded8a883a5622c14530427b38506c4d6f880c6ca21.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Pin Definition"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin No.</td><td>Name</td><td>Description</td></tr><tr><td>1</td><td>GATE</td><td>Gate Driver Pin. Connect it to the gate of external power MOSFET</td></tr><tr><td>2</td><td>GND</td><td>Ground</td></tr><tr><td>3</td><td>CS</td><td>Current Sense Pin. Connect a sense resistor between this pin and GND pin.</td></tr><tr><td>4</td><td>FB</td><td>Feedback pin</td></tr><tr><td>5</td><td>VCC</td><td>Power Supply Pin</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                595,
+                900,
+                771
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                936,
+                897,
+                950
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                445,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings (note1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                114,
+                452,
+                133
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/faa7a73f9792f44fe1dee1bb2b13d51ffd779866fb5e0cac24034ffe70104368.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Range</td><td>Units</td></tr><tr><td> $V_{CC}$ </td><td>VCC pin voltage</td><td>-0.3~30</td><td>V</td></tr><tr><td> $I_{CC\\_MAX}$ </td><td>VCC pin maximum sink current</td><td>10</td><td>mA</td></tr><tr><td> $V_{FB}$ </td><td>Feedback Voltage detection Pin</td><td>-0.3~6</td><td>V</td></tr><tr><td> $V_{CS}$ </td><td>Voltage on Current sense pin</td><td>-0.3~6</td><td>V</td></tr><tr><td> $V_{GATE}$ </td><td>Gate driver of external power MOSFET</td><td>-0.3~30</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Power dissipation (note2)</td><td>0.3</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Thermal resistance (Junction to Ambient)</td><td>240</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Operating junction temperature</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage temperature range</td><td>-55 to 150</td><td>°C</td></tr><tr><td></td><td>ESD (note3)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                161,
+                139,
+                835,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some particular parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                466,
+                887,
+                587
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 2: The maximum power dissipation decrease if temperature rise, it is decided by   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ,   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " , and environment temperature (  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ). The maximum power dissipation is the lower one between   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_{A}) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  and the number listed in the maximum table."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                613,
+                892,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 3: Human Body mode, 100pF capacitor discharge on 1.5kΩ resistor."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                674,
+                680,
+                692
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/487d74261f5c58107ff93dada8414c723ed07d17f6b18755eddb38b1fc58bc9e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Recommended Operation Conditions"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Range</td><td>Unit</td></tr><tr><td> $V_{CC}$ </td><td>Supply voltage</td><td>10~25</td><td>V</td></tr><tr><td> $F_{OSC\\_MAX}$ </td><td>Max. operation frequency</td><td>65k</td><td>Hz</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                163,
+                725,
+                833,
+                815
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                897,
+                950
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/61c4bec1496dc3fc35824ae61cec9468952e5299f40e75c34d16e9f8dc4e9b65.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (Notes 4, 5) (Unless otherwise specified,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC} = 16V"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A = 25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 4: production testing of the chip is performed at   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Conditions</td><td>Min</td><td>Typ</td><td>Max</td><td>Units</td></tr><tr><td colspan=\"7\">Supply Voltage Section</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$  Clamp Voltage</td><td>5mA</td><td></td><td>27</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_OVP}$ </td><td> $V_{CC}$  OVP Threshold</td><td></td><td></td><td>29</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_ON}$ </td><td> $V_{CC}$  Turn On Threshold</td><td> $V_{CC}$  Rising</td><td></td><td>15.3</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$  Turn Off Threshold</td><td> $V_{CC}$  Falling</td><td></td><td>7.6</td><td></td><td>V</td></tr><tr><td> $I_{ST}$ </td><td> $V_{CC}$  Startup Current</td><td> $V_{CC}=V_{CC-ON}-1V$ </td><td></td><td>12</td><td></td><td>uA</td></tr><tr><td> $I_{OP}$ </td><td> $V_{CC}$  Operating Current</td><td> $V_{FB}=3V,V_{CS}=0$ </td><td></td><td>240</td><td></td><td>uA</td></tr><tr><td colspan=\"7\">Current Sense Section</td></tr><tr><td> $V_{CS\\_TH}$ </td><td>CS Peak Threshold</td><td></td><td>582</td><td>600</td><td>618</td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>Leading Edge Blanking</td><td></td><td></td><td>500</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">Feedback Section</td></tr><tr><td> $V_{FB\\_EA\\_REF}$ </td><td>Internal EA Reference Voltage</td><td></td><td>2.91</td><td>3</td><td>3.09</td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>FB OVP Threshold</td><td></td><td></td><td>4</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_DEM}$ </td><td>FB ZCD Threshold</td><td></td><td></td><td>0.1</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_SHORT}$ </td><td>Output short protection Threshold</td><td></td><td></td><td>0.58</td><td></td><td>V</td></tr><tr><td> $F_{OSC\\_SHORT}$ </td><td>Clamp frequency for output short</td><td></td><td></td><td>20</td><td></td><td>kHz</td></tr><tr><td> $T_{SAMPLE\\_BIG}$ </td><td>Samples time</td><td> $V_{CS\\_TH}=600mV$ </td><td></td><td>5.8</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>Max. OFF time</td><td></td><td></td><td>1</td><td></td><td>ms</td></tr><tr><td> $T_{DEM}/T_{SW}$ </td><td>Time ratio of CC mode</td><td></td><td></td><td>0.5</td><td></td><td></td></tr><tr><td colspan=\"7\">Driver Section</td></tr><tr><td> $V_{GATE-CLAMP}$ </td><td>Gate clamping voltage</td><td></td><td></td><td>13</td><td></td><td>V</td></tr><tr><td> $I_{SOURCE\\_MAX}$ </td><td>GATE pin Maximum Sourcing Current</td><td></td><td></td><td>60</td><td></td><td>mA</td></tr><tr><td> $I_{SINK\\_MAX}$ </td><td>GATE pin Maximum Sinking Current</td><td></td><td></td><td>300</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">Thermal Regulation Section</td></tr><tr><td> $T_{SD}$ </td><td>Thermal shunt down</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr><tr><td> $T_{SD\\_HYS}$ </td><td>Hysteretic temperature for thermal recover</td><td></td><td></td><td>30</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                109,
+                129,
+                887,
+                781
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 5: the maximum and minimum parameters specified are guaranteed by test, the typical value are guaranteed by design, characterization and statistical analysis"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                831,
+                882,
+                870
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                445,
+                95
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519"
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                52,
+                897,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                78,
+                897,
+                97
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                938,
+                895,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Internal Block Diagram"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                112,
+                368,
+                135
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/87644c83351827ac57817ff0a7677424d3187c38bd3218d753b7ef25540c01d0.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig3 BP3519 Internal Block Diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                131,
+                199,
+                907,
+                659
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                897,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                114,
+                346,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519 is primary side regulation isolated CCCV driver IC, operating in DCM mode. BP3519 can work in multiple control mode of PFM and PWM providing high accurate constant current control and constant voltage control. There is very few external components required in bill of material. BP3519 provides the popular solutions for chargers, standby power, LED drivers and any CCCV request."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                146,
+                485,
+                305
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Start Up"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                317,
+                168,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After system powered on, the capacitor on VCC pin is charged up by the startup resistor. When the VCC pin voltage reaches the turn on threshold, the internal circuits start working. Once the start level has been reached the start-up current source is switched off. During switching operation it is supplied by the regulated source from auxiliary winding."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                346,
+                475,
+                485
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Soft start is also implemented during startup within 1ms timeslot, and activated to increase the primary side peak current in steps. The soft start is available in every restart cycle."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                493,
+                470,
+                571
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constant Current Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                583,
+                292,
+                599
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The peak current of primary side inductor is sensed cycle by cycle. The CS pin monitors the peak level and inputs into the internal comparator with converted voltage of the switching status; once the voltage above the reference threshold, the switching would be stopped."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                613,
+                485,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The peak current for full load is defined as:"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                739,
+                405,
+                755
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm {P\\_PK}} = \\frac {6 0 0}{R _ {C S}} (m A)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3629fdc7f948618172c9199ebb1e57e0fbfec0220e1a1107f57c1d9e1c1c0197.jpg"
+                }
+            },
+            "bbox": [
+                201,
+                753,
+                349,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The peak detection has a fixed 500ns lead edge blanking time on CS."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                804,
+                484,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The LED current is defined as:"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                848,
+                315,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where,"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                879,
+                156,
+                895
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {O U T} = \\frac {I _ {\\mathrm{P} \\_ \\mathrm{PK}}}{4} \\times \\frac {N _ {P}}{N _ {S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f27d57663e0aab6842e34c0ce26fe801b922e3d1179d1e66552c9e4de6326b7e.jpg"
+                }
+            },
+            "bbox": [
+                563,
+                109,
+                731,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Np is the primary side windings;"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                155,
+                746,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ns is the secondary side windings."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                180,
+                759,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{P\\_PK}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " is the primary side peak current."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                206,
+                776,
+                223
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constant Voltage Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                231,
+                704,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519 senses the reflection voltage from auxiliary winding by divider resistor on FB pin. The constant output voltage is ensured by this sense voltage and internal reference in close loop."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                261,
+                897,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The output voltage   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OUT}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is defined as:"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                351,
+                779,
+                369
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O U T} = \\frac {3 * \\left(R _ {F B L} + R _ {F B H}\\right)}{R _ {F B L}} * \\frac {N _ {S}}{N _ {\\text {aux}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ca9e85ccd7a649096222ecbc549edc98b7ddefefab0cac934a97a07d23d5158d.jpg"
+                }
+            },
+            "bbox": [
+                552,
+                388,
+                811,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where,"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                439,
+                569,
+                456
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{FBL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is pull down resistor on FB pin;"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                466,
+                764,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{FBH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is pull high resistor on FB pin;"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                492,
+                757,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Naux is the auxiliary winding."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                517,
+                726,
+                533
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multiple mode control: PWM/PFM"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                546,
+                764,
+                563
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519 is to use multiple mode control to improve the performance on efficiency, standby power, and audible noise in low load condition."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                576,
+                897,
+                633
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/01ebd34d5946a341db03f7427b88978523c927416a8d34b37cb50cfdb9b2e946.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                515,
+                649,
+                878,
+                887
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Protections"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                904,
+                605,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519"
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                51,
+                897,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                78,
+                897,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                897,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                967
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519 offers rich protections to improve the system reliability, including output overvoltage protection, load short protection, Vcc under voltage lock out protection, over temperature protection."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                109,
+                485,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This sense voltage on FB is also serve for load over voltage protection. The detection threshold is 4V on FB, and the Vovp defined as:"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                199,
+                489,
+                256
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O V P} = \\frac {4 * (R _ {F B L} + R _ {F B H})}{R _ {F B L}} * \\frac {N _ {s}}{N _ {a u x}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4dc4fef4f78191e0451411044ec047f93e29b140706a46cd6db936d4c9d31256.jpg"
+                }
+            },
+            "bbox": [
+                152,
+                272,
+                400,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where Vovp is the design expectation on OVP."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                326,
+                423,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When the sense voltage on FB is under 0.58V, as default the system would open guard for short protection and operating frequency clamped to 20kHz, which could save the stress on MOSFET. The system will restart after 48ms timeout."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                353,
+                487,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During any fault condition, the Vcc voltage would be discharged. As well the Vcc voltage under UVLO threshold, the system will restart till shift to normal condition once the fault condition removed."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                464,
+                485,
+                542
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Design Guide"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                554,
+                238,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Suggestions for PCB layout of BP3519 application: 1. Bypass Capacitor on Vcc:"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                583,
+                484,
+                620
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The bypass capacitor on   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{cc}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  pin should be as close as possible to the   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{cc}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  Pin and GND pin."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                629,
+                485,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Divider resistor for FB pin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                675,
+                300,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Put the divider resistor close to the FB pin as possible, and keep the trace away to the switching node."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                703,
+                484,
+                741
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. GND"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                753,
+                154,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Keep a short and wide ground path for current sense resistor, especially for the main current loop. The IC signal ground for FB components should be connected to the IC GND."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                784,
+                485,
+                860
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. The Area of Power Loop"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                869,
+                289,
+                884
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The area of main current loop should be as small as"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                897,
+                485,
+                913
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "possible to reduce EMI radiation."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                108,
+                749,
+                124
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                245,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                938,
+                897,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Physical Dimensions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                312,
+                133
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/80d686c46bb0cba08fdcdde19fdece96108b8c6962b728ed9e7d0371b6cb3d4e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                282,
+                159,
+                497,
+                343
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7465ba22f3789ad7dd7dd7f726cd70524ac7a22a43ddea07c75336a94c173b1e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                635,
+                172,
+                806,
+                332
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/83e146426a52067b29d3036338df2e00238af7566e7c240e31d2376efff269ef.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                240,
+                432,
+                512,
+                508
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7f9fed50e813462fdfe276aa034bb21137be4616b4c68b371a0ec81297e8df05.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DETAIL A"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                620,
+                404,
+                823,
+                524
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/84f4e42faeea0f5da6535ec0e056d75dbca4f412287ee10ada99bfc11b242aaa.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                683,
+                171,
+                739
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b97245c933bb48a7ea21b16dbaec5e9d3d300a6a631aa4c66aa0cfe2e368e007.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>-</td><td>-</td><td>1.45</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.15</td></tr><tr><td>A2</td><td>0.90</td><td>-</td><td>1.30</td></tr><tr><td>D</td><td>2.82</td><td>-</td><td>3.03</td></tr><tr><td>E</td><td>1.50</td><td>-</td><td>1.73</td></tr><tr><td>E1</td><td>2.60</td><td>-</td><td>3.00</td></tr><tr><td>L</td><td>0.30</td><td>-</td><td>0.60</td></tr><tr><td>b</td><td>0.33</td><td>-</td><td>0.50</td></tr><tr><td>c</td><td>0.10</td><td>-</td><td>0.20</td></tr><tr><td>e</td><td>0.85</td><td>-</td><td>1.05</td></tr><tr><td>e1</td><td>1.80</td><td>-</td><td>2.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                265,
+                563,
+                539,
+                873
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                936,
+                897,
+                950
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                5,
+                445,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Revision Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                114,
+                315,
+                133
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5a2d66147899314c1a4b7d7a62a2c8f7950d5ef978f9a226fb3562e1d99cd46b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision</td><td>Date</td><td>Notes</td></tr><tr><td>Rev.1.0</td><td>2018/7</td><td>Preliminary</td></tr><tr><td>Rev.1.1</td><td>2021/5</td><td>Format adjustment</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                164,
+                914,
+                324
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                5,
+                447,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                243,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                620,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                936,
+                897,
+                950
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                436,
+                129,
+                563,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Bright Power Semiconductor (BPS) reserves the right to make changes at any time without prior notice."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                211,
+                899,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is granted under this document. BPS provides information in this datasheet “AS IS” and with all faults, and makes no warranty, express or implied, including but not limited to, the accuracy of the information provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all liabilities arising out of this datasheet or use of this datasheet, including without limitation consequential or incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                282,
+                902,
+                403
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                4,
+                448,
+                96
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519\nPSR Isolated CCCV Driver IC"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                51,
+                899,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3519_EN_DS_Rev.1.1\n05/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                936,
+                245,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                936,
+                897,
+                950
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                938,
+                621,
+                967
+            ]
+        }
+    ]
+]

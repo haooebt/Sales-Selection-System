@@ -1,0 +1,1483 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                137,
+                223,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP6904A is a high voltage, high speed halfbridge pre-driver for power MOSFET and IGBT. It has one input for high side and low side, and two output channels with internal dead time to avoid cross-conduction."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                167,
+                485,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The input logic level is compatible with 3.3V/5V/15V signal. The floating high side channel can drive a Nchannel power MOSFET or IGBT up to 600V."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                259,
+                485,
+                315
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                137,
+                608,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Floating channel operation up to 600V"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                167,
+                831,
+                184
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Single input for high side and low side"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                185,
+                831,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Shut down input turns off both channels"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                204,
+                840,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Robust at negative transient voltage"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                223,
+                810,
+                240
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Gate drive supply range from 10V to 20V"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                241,
+                850,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> 3.3V, 5V and 15V input logic compatible"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                259,
+                848,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> UVLO for both high side and low side"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                278,
+                828,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Built-in dead time"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                297,
+                685,
+                313
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "<sup>◼</sup> Available in SOP8 package"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                315,
+                749,
+                332
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                360,
+                302,
+                382
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8167614285e13a11311f24e72b81efd42ee261980344bd87d2f0bf31b6c03f9f.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1. Typical application circuit"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                403,
+                858,
+                686
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                934,
+                875,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                95
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                122,
+                101,
+                329,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                71,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                103,
+                897,
+                122
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                605,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                137,
+                329,
+                158
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/57403e4b2f9be56842f538d232d1781a8cda735b3f45f9d17691b6d41a3e4b87.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Operation Temperature</td><td>Package Method</td><td>Marking</td></tr><tr><td>BP6904A</td><td>SOP8</td><td>-40 °C to 105 °C</td><td>Tape4,000 Piece/Roll</td><td>BP6904XXXXYAXXWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                162,
+                895,
+                259
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Configuration and Marking Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                297,
+                556,
+                318
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/955755ef6395fb20cbe55c30ee75b86a5b18de6ff3fc50962ee33f14b52472bf.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                359,
+                329,
+                709,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXYA: lot code XX: Fab code WW：Week X: Special code"
+                    }
+                ]
+            },
+            "bbox": [
+                719,
+                335,
+                880,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2. Pin configuration"
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                502,
+                623,
+                519
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Definition"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                565,
+                245,
+                585
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1187a00dbac64a43aed1a3eaf0969cd25f6f6de6388ac770e48e49041dbcf9ae.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin No.</td><td>Name</td><td>Description</td></tr><tr><td>1</td><td>VCC</td><td>Low side and logic supply voltage</td></tr><tr><td>2</td><td>IN</td><td>Logic input for high side and low side, in phase with HO</td></tr><tr><td>3</td><td>SDb</td><td>Logic input for shut down</td></tr><tr><td>4</td><td>COM</td><td>Logic ground and low side driver return</td></tr><tr><td>5</td><td>LO</td><td>Low side driver output</td></tr><tr><td>6</td><td>VS</td><td>High side driver return</td></tr><tr><td>7</td><td>HO</td><td>High side driver output</td></tr><tr><td>8</td><td>VB</td><td>High side floating supply</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                161,
+                590,
+                833,
+                797
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                934,
+                877,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                899,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6a4198c9cafe5a6d3f652cbecf249dfc93b97f2e4ece52bd212eef0bc325f9ba.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings (note 1)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Min.</td><td>Max.</td><td>Unit</td></tr><tr><td> $V_B$ </td><td>High side floating supply voltage</td><td>-0.3</td><td>625</td><td>V</td></tr><tr><td> $V_S$ </td><td>High side offset voltage</td><td> $V_B - 25$ </td><td> $V_B + 0.3$ </td><td>V</td></tr><tr><td> $V_{HO}$ </td><td>High side driver output voltage</td><td> $V_S - 0.3$ </td><td> $V_B + 0.3$ </td><td>V</td></tr><tr><td> $V_{CC}$ </td><td>Low side and logic supply voltage</td><td>-0.3</td><td>25</td><td>V</td></tr><tr><td> $V_{LO}$ </td><td>Low side driver output voltage</td><td>-0.3</td><td> $V_{CC} + 0.3$ </td><td>V</td></tr><tr><td> $V_{IN}$ </td><td>Logic input voltage (IN/ SDb)</td><td>-0.3</td><td> $V_{CC} + 0.3$ </td><td>V</td></tr><tr><td> $dV_s/dt$ </td><td>Allowable offset voltage slew rate</td><td>--</td><td>50</td><td>V/ns</td></tr><tr><td> $P_{DMAX}$ </td><td>Package power dissipation (note 2)</td><td>--</td><td>0.625</td><td>W</td></tr><tr><td> $θ_{JA}$ </td><td>Thermal resistance, junction to ambient</td><td>--</td><td>200</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Junction temperature</td><td>-40</td><td>150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage temperature</td><td>-55</td><td>150</td><td>°C</td></tr><tr><td></td><td>ESD (note 3)</td><td colspan=\"2\">2</td><td>KV</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                164,
+                899,
+                535
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some particular parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                548,
+                899,
+                637
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 2: The maximum power dissipation decrease if temperature rise, it is decided by TJMAX, θJA, and environment temperature (TA). The maximum power dissipation is the lower one between PDMAX = (TJMAX – TA) /θJA and the number listed in the maximum table. Note 3: Human Body mode, 100pF capacitor discharge on 1.5k <sup>Ω</sup> resistor."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                640,
+                894,
+                693
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                934,
+                875,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BRS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2bf0292e1b366e98c9352597eb77efe4bcdbcc86bd8d7c49543ca13b62e105e0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Recommended Operation Conditions"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Min.</td><td>Max.</td><td>Unit</td></tr><tr><td> $V_B$ </td><td>High side floating supply voltage</td><td> $V_S + 10$ </td><td> $V_S + 20$ </td><td>V</td></tr><tr><td> $V_S$ </td><td>High side offset voltage</td><td>-5</td><td>600</td><td>V</td></tr><tr><td> $V_{HO}$ </td><td>High side driver output voltage</td><td> $V_S$ </td><td> $V_B$ </td><td>V</td></tr><tr><td> $V_{CC}$ </td><td>Low side and logic supply voltage</td><td>10</td><td>20</td><td>V</td></tr><tr><td> $V_{LO}$ </td><td>Low side driver output voltage</td><td>0</td><td> $V_{CC}$ </td><td>V</td></tr><tr><td> $V_{IN}$ </td><td>Logic input voltage (IN/ SDb)</td><td>0</td><td> $V_{CC}$ </td><td>V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                162,
+                899,
+                366
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                934,
+                877,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                71,
+                897,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                103,
+                897,
+                122
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e16b03a037b11c081b6ff3d34acba940a74825a081b97eeb03e08af3e7d946d7.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (note 4) (Unless otherwise specified, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { C C } = V _ { B S } = } 1 5 \\mathrm { V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { \\mathrm { A } } { = } 2 5"
+                    },
+                    {
+                        "type": "text",
+                        "content": "℃)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 4: The maximum and minimum parameters specified are guaranteed by test, the typical value are guaranteed by design, characterization and statistical analysis."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Condition</td><td>Min.</td><td>Typ.</td><td>Max.</td><td>Unit</td></tr><tr><td colspan=\"7\">Static Electrical Characteristics</td></tr><tr><td> $V_{CC\\_ON}$ </td><td rowspan=\"2\"> $V_{CC}$  and  $V_{BS}$  under voltage rising threshold</td><td rowspan=\"2\"></td><td rowspan=\"2\">8</td><td rowspan=\"2\">8.8</td><td rowspan=\"2\">9.8</td><td rowspan=\"2\">V</td></tr><tr><td> $V_{BS\\_ON}$ </td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td rowspan=\"2\"> $V_{CC}$  and  $V_{BS}$  under voltage falling threshold</td><td rowspan=\"2\"></td><td rowspan=\"2\">7.2</td><td rowspan=\"2\">8.0</td><td rowspan=\"2\">8.8</td><td rowspan=\"2\">V</td></tr><tr><td> $V_{BS\\_UVLO}$ </td></tr><tr><td> $V_{CC\\_HYS}$ </td><td rowspan=\"2\"> $V_{CC}$  and  $V_{BS}$  under voltage hysteresis voltage</td><td rowspan=\"2\"></td><td rowspan=\"2\">0.5</td><td rowspan=\"2\">0.8</td><td rowspan=\"2\">1.2</td><td rowspan=\"2\">V</td></tr><tr><td> $V_{BS\\_HYS}$ </td></tr><tr><td> $I_{QCC}$ </td><td>Quiescent  $V_{CC}$  supply current</td><td> $V_{IN}=0V$ </td><td>-</td><td>200</td><td>300</td><td>uA</td></tr><tr><td> $I_{QBS}$ </td><td>Quiescent  $V_{BS}$  supply current</td><td> $V_{IN}=0V$ </td><td>-</td><td>50</td><td>100</td><td>uA</td></tr><tr><td> $I_{LK}$ </td><td>Offset supply leakage current</td><td> $V_{B}=V_{S}=620V$ </td><td>-</td><td>-</td><td>50</td><td>uA</td></tr><tr><td> $V_{IH}$ </td><td>Logic “1” input voltage</td><td></td><td>2.8</td><td>-</td><td>-</td><td>V</td></tr><tr><td> $V_{IL}$ </td><td>Logic “0” input voltage</td><td></td><td>-</td><td>-</td><td>0.45</td><td>V</td></tr><tr><td> $I_{ISOURCE}$ </td><td>Logic “1” input bias current</td><td> $V_{IN}=5V$ </td><td>-</td><td>5</td><td>10</td><td>uA</td></tr><tr><td> $I_{ISINK}$ </td><td>Logic “0” input bias current</td><td> $V_{IN}=0V$ </td><td>-</td><td>-</td><td>1</td><td>uA</td></tr><tr><td> $V_{OH}$ </td><td>High level output voltage</td><td> $I_{O}=20mA$ </td><td>-</td><td>-</td><td>1.0</td><td>V</td></tr><tr><td> $V_{OL}$ </td><td>Low level output voltage</td><td> $I_{O}=20mA$ </td><td>-</td><td>-</td><td>1.0</td><td>V</td></tr><tr><td> $I_{O+}$ </td><td>Output high short circuit pulse current</td><td> $V_{O}=0V, V_{IN}=5V$ , Pulse Width &lt; 10uS</td><td>130</td><td>210</td><td>-</td><td>mA</td></tr><tr><td> $I_{O-}$ </td><td>Output low short circuit pulse current</td><td> $V_{O}=15V, V_{IN}=0V$ , Pulse Width &lt; 10uS</td><td>240</td><td>320</td><td>-</td><td>mA</td></tr><tr><td colspan=\"7\">Dynamic Electrical Characteristics ( $C_L=1nF$ )</td></tr><tr><td> $t_{on}$ </td><td>Turn-on propagation delay</td><td> $V_{S}=0V$ </td><td>-</td><td>680</td><td>820</td><td rowspan=\"7\">ns</td></tr><tr><td> $t_{off}$ </td><td>Turn-off propagation delay</td><td> $V_{S}=0V or 600V$ </td><td>-</td><td>160</td><td>250</td></tr><tr><td> $t_{sd}$ </td><td>Shut down propagation delay</td><td></td><td>-</td><td>160</td><td>250</td></tr><tr><td> $t_r$ </td><td>Turn-on rise time</td><td></td><td>-</td><td>100</td><td>170</td></tr><tr><td> $t_f$ </td><td>Turn-off fall time</td><td></td><td>-</td><td>50</td><td>90</td></tr><tr><td>DT</td><td>Dead time</td><td></td><td>400</td><td>520</td><td>650</td></tr><tr><td>MT</td><td>Delay match</td><td>HS-LS  $t_{on} \\& t_{off}$ </td><td>-</td><td>-</td><td>60</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                164,
+                882,
+                765
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                934,
+                875,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Internal Block Diagram"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                137,
+                347,
+                158
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/17bf265bcb8eb427d6e4fe0ca9b49fc72d452db6354428b6e2ce1c3840bc645d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. Internal block diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                112,
+                178,
+                877,
+                414
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BRS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                899,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                605,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                934,
+                877,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Waveforms"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                137,
+                223,
+                156
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/36ef302695a84082ec471cda49045d67a1ef834a9811b36fc6f966307bcbf085.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4. Input/ Output Timing Diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                175,
+                877,
+                385
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0db314bf0014f07fc57896e877f8ee2b6677f749a7ffd5cc8e900636a5a91ef2.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5. Switching Timing Definition"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                142,
+                414,
+                880,
+                621
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e4f17c323fb501086d020c5b9b031aa382a1d328050ad77669b467c298327157.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                119,
+                656,
+                300,
+                788
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                3,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                899,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                605,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                934,
+                877,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Physical Dimensions"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                137,
+                312,
+                158
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fb7875c467f18e871de373cf8aac04469a13358ede361f8f1befb0bf8fca9e91.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                218,
+                187,
+                537,
+                494
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/24e89dcd86b14184a8eaac8d333369eff67e3f127d00bbaafe9c966870400751.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                640,
+                237,
+                783,
+                460
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/64ba559072bab081ac5fd84544bfd7675313594be769944891d85b1792a4dc2e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                238,
+                499,
+                605,
+                592
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8804f8fd63e43c7ca797e3d5da56db45baef92e2dae92c3e69727a48c1ee6471.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Symbol</td><td colspan=\"2\">Dimensions In Millimeters</td><td colspan=\"2\">Dimensions In Inches</td></tr><tr><td>Min</td><td>Max</td><td>Min</td><td>Max</td></tr><tr><td>A</td><td>1.350</td><td>1.750</td><td>0.053</td><td>0.069</td></tr><tr><td>A1</td><td>0.100</td><td>0.250</td><td>0.004</td><td>0.010</td></tr><tr><td>A2</td><td>1.350</td><td>1.550</td><td>0.053</td><td>0.061</td></tr><tr><td>b</td><td>0.330</td><td>0.510</td><td>0.013</td><td>0.020</td></tr><tr><td>c</td><td>0.170</td><td>0.250</td><td>0.006</td><td>0.010</td></tr><tr><td>D</td><td>4.700</td><td>5.100</td><td>0.185</td><td>0.200</td></tr><tr><td>E</td><td>3.800</td><td>4.000</td><td>0.150</td><td>0.157</td></tr><tr><td>E1</td><td>5.800</td><td>6.200</td><td>0.228</td><td>0.244</td></tr><tr><td>e</td><td colspan=\"2\">1.270 (BSC)</td><td colspan=\"2\">0.050 (BSC)</td></tr><tr><td>L</td><td>0.400</td><td>1.270</td><td>0.016</td><td>0.050</td></tr><tr><td>θ</td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                161,
+                645,
+                843,
+                881
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "7BDS晶丰明源半导体"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                4,
+                329,
+                122
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A 600V Half-Bridge Pre-Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                586,
+                71,
+                899,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6904A_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                605,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                863,
+                934,
+                877,
+                945
+            ]
+        }
+    ]
+]

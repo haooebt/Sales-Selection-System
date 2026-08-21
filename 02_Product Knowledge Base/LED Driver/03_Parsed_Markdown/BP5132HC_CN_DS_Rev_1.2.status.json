@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:11:59+08:00",
+  "file": "BP5132HC_CN_DS_Rev_1.2.pdf",
+  "pdf": {
+    "bytes": 356488,
+    "pages": 7,
+    "sha256": "661621829c1de5ac9a5eab63b1af6c3dd1d685485e55736e3cdabccef2eef769"
+  },
+  "batch_id": "e48c0a18-b4f1-4b83-88a2-aa0593cd238c",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:12:00+08:00",
+    "errors": [],
+    "markdown_chars": 5144,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T15:12:07+08:00"
+}

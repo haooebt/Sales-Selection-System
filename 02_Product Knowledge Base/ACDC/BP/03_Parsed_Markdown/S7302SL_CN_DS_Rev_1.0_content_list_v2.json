@@ -1,0 +1,1921 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                137,
+                138
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL是一款高性能高集成度单片式次级同步整流控制芯片，内部集成一个超低导通阻抗的N沟道MOSFET以及一个同步整流的驱动及控制电路。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                153,
+                472,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL被设计在非连续开关模式(DCM)下工作，内部集成的高性能N沟道MOSFET具有低开启阀值电压、超低导通阻抗，超快速开关特性。同时本体寄生的二极管具备超快速的反向恢复时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                223,
+                472,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL可应用在输出为5V标准的反激控制开关电源系统中，以替代次级整流二极管。S7302SL能有效的降低次级整流管的功率损耗，内部电路通过检测MOSFET的VDS之间的电压变化产生一个理想的驱动信号来控制内部MOSFET的导通与截止。非常适合要求尺寸小、转换效率高的应用中。S7302SL将为客户提供优异的解决方案。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                313,
+                472,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL采用SOP-8封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                444,
+                265,
+                459
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4b273c61b857fe77412d42aadd4a8bd7d0d141730f373c849facd2640bf165fb.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                240,
+                478,
+                321,
+                532
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                121,
+                573,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持非连续模式（DCM）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                153,
+                726,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持准谐振模式（QRM）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                173,
+                727,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 内部集成高性能功率MOSFET"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                193,
+                763,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高度集成，只需极少外围器件"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                213,
+                766,
+                229
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用范围"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                248,
+                613,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 充电器和适配器的同步整流"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                280,
+                747,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 反激式控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                300,
+                658,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 主要用于5V2A输出"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                320,
+                690,
+                334
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                598,
+                178,
+                617
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/955609c6b75d8525d02e0fef5d463b53015f6647147b664da836ce08937a3a30.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 S7302SL 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                119,
+                622,
+                800,
+                862
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                935,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL"
+                    }
+                ]
+            },
+            "bbox": [
+                774,
+                51,
+                904,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                81,
+                904,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                436,
+                935,
+                559,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                952,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                178,
+                138
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/044daab969a06f8ea497d20182bf125390e05014f334d5fb7e0d765ec35fac18.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>S7302SL</td><td>SOP-8</td><td>卷盘4000 颗/盘</td><td>S7302SLXXXXXXYZXXXXYX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                147,
+                902,
+                244
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                263,
+                179,
+                282
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e26357eeeab7af8630449ab9efdd8c3c1439ee4e25ef98b8166bf60db2b205a4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 封装管脚图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXXY: 批次"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ZXXX: 标识"
+                    },
+                    {
+                        "type": "text",
+                        "content": "YY: 周号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "X: 预留"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                295,
+                552,
+                452
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                497,
+                179,
+                515
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f2adae3b53121a27ed4bcb4c0028328f55250f3279b67e997e6c655edc2266ad.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1、2、3</td><td>GND</td><td>芯片地脚</td></tr><tr><td>4</td><td>VCC</td><td>芯片电源端</td></tr><tr><td>5、6、7、8</td><td>SW</td><td>集成功率MOSFET的漏极</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                522,
+                902,
+                634
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                216,
+                138
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6b41694d8bfe000561edc6f16dd55c4fde7f32983b4df76d367cb46fee868692.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td>芯片电源端</td><td>-0.3~7</td><td>V</td></tr><tr><td>SW</td><td>集成功率MOSFET的漏极</td><td>-0.3~40</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>150</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                147,
+                902,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX},\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A)/\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                416,
+                905,
+                452
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                610,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                103
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 3,4)（无特别说明情况下，VCC=5V,T_A=25°C）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                122,
+                504,
+                138
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8defca64f360d5afbd734d434c6f07823477d6a0d5112a48773dd73e217757bf.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ} \\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>描述</td><td>符号</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源部分</td></tr><tr><td>静态工作电流</td><td>Iop</td><td>VCC=5V</td><td>150</td><td>176</td><td>200</td><td>uA</td></tr><tr><td>启动电压</td><td>VCC_ON</td><td></td><td>3</td><td>3.25</td><td>3.5</td><td>V</td></tr><tr><td>欠压保护迟滞</td><td>VCC_OFF_HYS</td><td></td><td></td><td>0.27</td><td></td><td>V</td></tr><tr><td colspan=\"7\">同步电压检测部分</td></tr><tr><td>同步管开启电压</td><td>VON_SR</td><td></td><td></td><td>-150</td><td></td><td>mV</td></tr><tr><td>同步管关闭电压</td><td>VOFF_SR</td><td></td><td></td><td>-3</td><td></td><td>mV</td></tr><tr><td>同步管开启延时</td><td>Tdon</td><td></td><td></td><td>100</td><td></td><td>nS</td></tr><tr><td>同步管关断延时</td><td>Tdoff</td><td></td><td></td><td>20</td><td></td><td>nS</td></tr><tr><td>同步管最小开启时间</td><td>Ton_min</td><td></td><td></td><td>1</td><td></td><td>uS</td></tr><tr><td>同步管最小关闭时间</td><td>Toff_min</td><td></td><td></td><td>1</td><td></td><td>uS</td></tr><tr><td colspan=\"7\">功率 MOSFET 部分</td></tr><tr><td>功率管导通阻抗</td><td>RDS_ON</td><td>VGS=10V, ID=6A</td><td></td><td>22</td><td>26</td><td>mΩ</td></tr><tr><td>功率管耐压</td><td>BVDSS</td><td>VGS=0V, ID=250uA</td><td>40</td><td></td><td></td><td>V</td></tr><tr><td>开启门槛电压</td><td>VGS_TH</td><td>VDS=VGS, ID=250uA</td><td>1.0</td><td>1.6</td><td>1.9</td><td>V</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                147,
+                905,
+                589
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL"
+                    }
+                ]
+            },
+            "bbox": [
+                774,
+                51,
+                904,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                709,
+                81,
+                904,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                438,
+                935,
+                559,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                220,
+                138
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2c9dcab2b2eb7c5f5c9f0e91a8fbeaf320e4097b87088d1deb2cc53be6e75d79.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 S7302SL 内部结构图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                159,
+                873,
+                458
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特性参数温度曲线"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                260,
+                140
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/03f11f591878ca9e5da6ad8bb41ae5909cc4f0228f110fd3ff9c22796f4cc0e3.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                117,
+                157,
+                495,
+                362
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                380,
+                179,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL 是一个应用于开关电源系统的高性能同步整流芯片，此芯片用来取代反激变换器中的肖特基二极管，可以提高效率，降低温度损耗。S7302SL 可支持 DCM 和 QR 工作模式满足 5V 充电器、适配器系统。其供电方式是通过系统输出直接供电。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                412,
+                472,
+                509
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、VCC 欠压锁定（UVLO）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                521,
+                309,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL 在芯片上电过程中应用了 UVLO 功能，当 VCC 引脚的电压上升到 VCC 的启动电压时，芯片从 LATCH 模式中恢复过来进入正常工作模式，此时功率管可以被正常开启；当 VCC 电压下降到 VCC 欠压锁定电压时芯片再次进入欠压锁定模式，功率管处于关断状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                552,
+                472,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、最小开启时间"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                661,
+                233,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL 控制电路可以控制同步管具有最小导通功能。在功率管开启时，次边寄生元件会产生高频噪声，而这些高频噪声可能会引起功率管被误关断，而此最小导通时间可以有效屏蔽误关断信号，保证功率管可以维持 1uS 的开启时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                691,
+                472,
+                788
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3、同步整流管开启"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                800,
+                250,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片通过检测功率管的 VDS 电压来控制其开启。当反激转换器原边关断，次边开始消磁时，次边电流首先通过功率管的体二极管开始续流并产生一个 Vbe 压降，这样功率管的漏极电压将下降到 -0.7V 左右。如图 4 所示，S7302SL如果首先检测到功率管的漏极是大于 0.7V，然后又检测到其电压下降到 -0.15V，则会在 100nS 左右的延时之后，开启功率管。另外，为了避免 DCM 下同步整流 SW 引脚的谐振电压误开启同步整流芯片，S7302SL 内置伏秒乘积判断功能。为了使同步整流能正常响应原边控制器的开关，系统需满足以下要求："
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                831,
+                472,
+                908
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/65c1ad8d1a2ab213371b97e75f1c89c5fdf072b655c6118bfdc14f3c461d2ec0.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                514,
+                157,
+                899,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                524,
+                412,
+                907,
+                529
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {I _ {\\text { peak\\_min }} \\times L _ {p \\_ \\min}}{N _ {P S}} \\geq 9 (V * u s)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/31982f2ee25e27c59aff7892e5ff5a1cbd6d8b93e9c62fd83bae72ff6bf17ca4.jpg"
+                }
+            },
+            "bbox": [
+                605,
+                536,
+                825,
+                578
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{peak\\_min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "L_{p\\_min}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，和   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{PS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  分别表示原边最小峰值电流，变压器原边电感最小值和原副边匝数比。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                589,
+                905,
+                625
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4、同步整流管关断"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                637,
+                687,
+                654
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当同步管开启之后，随着次边续流电流的逐渐减小，同步管的漏端电压会逐渐上升。如图4所示，S7302SL检测到次边电流小于其内部设置的关断电流后，会迅速关断功率管。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                668,
+                907,
+                744
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/60e6e1d51590eac5eb8b74f96aba5006836c7da1393e5f43816857d32e74524d.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 同步整流开启与关断时序"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                616,
+                752,
+                825,
+                878
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                11,
+                440,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                242,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/42b59768456333e79ad17833bb1f77d04737371fb34045eb27b0a4f2f8afcfa2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                228,
+                231,
+                877,
+                602
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                243,
+                140
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6db86b941605b6dd752652849367ba2f3faa6e914706c76828cf08495881919a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                257,
+                605,
+                426,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                0,
+                440,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                49,
+                905,
+                103
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                935,
+                242,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                121,
+                179,
+                140
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b04835ef385491f2c75b7f15e93e5da699dd5036857062f56bb1a1e543299b41.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2021/12</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                147,
+                902,
+                342
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                935,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                0,
+                440,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                242,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                935,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                119,
+                549,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                153,
+                815,
+                169
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                193,
+                907,
+                251
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                935,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                95,
+                0,
+                440,
+                92
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL\n同步整流控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                707,
+                51,
+                905,
+                102
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S7302SL_CN_DS_Rev.1.0\n12/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                243,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                935,
+                610,
+                966
+            ]
+        }
+    ]
+]

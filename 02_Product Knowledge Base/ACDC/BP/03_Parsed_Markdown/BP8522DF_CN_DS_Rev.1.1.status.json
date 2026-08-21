@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:54:32+08:00",
+  "file": "BP8522DF_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 714761,
+    "pages": 16,
+    "sha256": "63e48a822be906da23485f44cf7840b1770b7893df51d0f5ab8b5ab4d0d84190"
+  },
+  "batch_id": "6b77a1eb-9dbb-4dbe-bca6-d96cccf43671",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:54:37+08:00",
+    "errors": [],
+    "markdown_chars": 18064,
+    "parsed_pages": 16,
+    "passed": true,
+    "pdf_pages": 16
+  },
+  "published_at": "2026-08-21T12:54:47+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:51:33+08:00",
+  "file": "BP84136_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1227247,
+    "pages": 10,
+    "sha256": "58184e89819faf511ba52e44f9a4163309cbdf3c698c7139ad9c61da3ad6ae60"
+  },
+  "batch_id": "6615f27a-6c36-4dec-a045-1e576a2ac4fd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:51:34+08:00",
+    "errors": [],
+    "markdown_chars": 9871,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T12:51:39+08:00"
+}

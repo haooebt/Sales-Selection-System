@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:03:48+08:00",
+  "file": "BP2868FN_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 608771,
+    "pages": 10,
+    "sha256": "256bb7187cdb8c0975ce3bf39c685c6c757425bacf0daa800ac43ebab6bd5103"
+  },
+  "batch_id": "564d360c-b914-433b-92f4-8afd79b2f825",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:03:51+08:00",
+    "errors": [],
+    "markdown_chars": 10712,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:04:04+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:09:30+08:00",
+  "file": "BP1389_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 4158867,
+    "pages": 10,
+    "sha256": "25e6fd0f5f45b4ae9225d177a18d4e182a70a1b1f1697f067a968be847bbe061"
+  },
+  "batch_id": "b7384cd9-1cc8-4ded-8a26-7e39579ee97b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:09:32+08:00",
+    "errors": [],
+    "markdown_chars": 10991,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:09:36+08:00"
+}

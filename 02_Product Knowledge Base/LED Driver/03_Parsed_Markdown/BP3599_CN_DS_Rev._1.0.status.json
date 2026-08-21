@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:10:24+08:00",
+  "file": "BP3599_CN_DS_Rev._1.0.pdf",
+  "pdf": {
+    "bytes": 699704,
+    "pages": 13,
+    "sha256": "14b973d0df53bb76e30068d5bbf8f8f68631260e6f8af1d43308412bebe9b9dc"
+  },
+  "batch_id": "63c2080f-8c36-40ad-bfdd-c1cd2c39edab",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:10:25+08:00",
+    "errors": [],
+    "markdown_chars": 15289,
+    "parsed_pages": 13,
+    "passed": true,
+    "pdf_pages": 13
+  },
+  "published_at": "2026-08-21T15:10:36+08:00"
+}

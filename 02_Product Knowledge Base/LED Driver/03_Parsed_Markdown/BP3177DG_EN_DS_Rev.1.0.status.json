@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:04:43+08:00",
+  "file": "BP3177DG_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3100361,
+    "pages": 12,
+    "sha256": "6e7fbcca82cc47a53110e2f78e84db4db598c17b8af8da4cd1c721f31f43d45e"
+  },
+  "batch_id": "e60618bf-5de3-4fa4-84e7-e43c1e97e70f",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:04:47+08:00",
+    "errors": [],
+    "markdown_chars": 14517,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T15:04:54+08:00"
+}

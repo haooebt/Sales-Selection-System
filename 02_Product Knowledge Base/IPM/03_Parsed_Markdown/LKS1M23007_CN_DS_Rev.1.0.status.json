@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:57:57+08:00",
+  "file": "LKS1M23007_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1581505,
+    "pages": 17,
+    "sha256": "3f1d0cbe7e2a47ee8809bd50f9426fa14b0b45e565dfa97111922eed4d03666b"
+  },
+  "batch_id": "93903b37-51ff-4e12-a645-53f313a431cf",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:57:57+08:00",
+    "errors": [],
+    "markdown_chars": 14502,
+    "parsed_pages": 17,
+    "passed": true,
+    "pdf_pages": 17
+  },
+  "published_at": "2026-08-17T21:57:57+08:00"
+}

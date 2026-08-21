@@ -1,0 +1,1991 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1.图中，所示采样方式为单电阻采样，采样方式可以根据实际情况⾃⾏选择。2.图中，对于VCCB脚串联的电阻，采用三个IPM的VCCB脚共用一个电阻方式，但是需要考虑到所选用的的电阻是否能满足功率要求。"
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                826,
+                816,
+                863
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                149,
+                114,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C\u0000是高压单相 IPM（智能功率模块）,内部集成高压 IC 以及高性能 MOSFET 适用于直流无刷BLDC 和永磁同步 PMSM\u0000电机。低侧 MOSFET 的源极可以用于电流采样。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                179,
+                485,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入端包含史密斯触发器并且逻辑电平兼容 3.3V/5V/15V。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                266,
+                480,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C 采用 ESOP13 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                313,
+                324,
+                332
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f47db66e163645b56b74d5876a3fa1e9c4c58e246f649049741cb0576729c236.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "ESOP13 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                221,
+                337,
+                327,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                152,
+                561,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置高性能 500V/5A\u0000MOSFET"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                177,
+                786,
+                195
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置自举二极管"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                198,
+                680,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 对于负的瞬态电压具有高鲁棒性"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                217,
+                803,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " ⻔极驱动电压范围⽀持 10V~20V\u0000"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                237,
+                806,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输入逻辑电平兼容 3.3V,\u00005V\u0000以及\u000015V\u0000"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                258,
+                838,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高侧和低侧均⽀持 UVLO"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                279,
+                747,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置死区避免上下管直通"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                298,
+                749,
+                316
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                325,
+                559,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高速⻛筒"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                353,
+                625,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " ⻛扇\u0000"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                374,
+                591,
+                391
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 电动工具"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                394,
+                626,
+                411
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                439,
+                152,
+                457
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e735bcaa4f721cce7e1b3c24859f610a2788020356d621d5e9f1ac157f4bba3.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. LKS1D5005C 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                110,
+                463,
+                895,
+                864
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C 500V/5A IPM"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                85,
+                240,
+                134
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                82,
+                922,
+                137
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10/2024"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                912,
+                124,
+                927
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com www.lksmcu.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                912,
+                931,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/46993089c975b811a4379670b905f88e660a43de3ce05b814318586bd1097e69.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                102,
+                229,
+                880,
+                774
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f628651b69e6dbac9e038bf2ca55845a5c7aa96274b1e09df5485fda8cf20d84.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>印章</td></tr><tr><td>LKS1D5005C</td><td>ESOP13</td><td>编带2500PCS/盘</td><td>LKS LKS1D5005C YYWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                927,
+                204
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                240,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4023756ac3206e6a07f524364a7d5156b0a4f97777b674a05e05c088ffb92553.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. LKS1D5005C 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "LKS：标识"
+                    }
+                ]
+            },
+            "bbox": [
+                356,
+                126,
+                643,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C：产品型号"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                164,
+                889,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "YY：年号"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                186,
+                771,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                208,
+                783,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "X：MOS 代码"
+                    }
+                ]
+            },
+            "bbox": [
+                689,
+                231,
+                806,
+                249
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                462,
+                154,
+                481
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/129a1f6a935022281f483a8598629a45cd44fad93211f38120dc42856758c4e5.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VB</td><td>高侧驱动供电端</td></tr><tr><td>2</td><td>VCCB</td><td>内置二极管输入端</td></tr><tr><td>3</td><td>VCC</td><td>逻辑和低侧驱动供电端</td></tr><tr><td>4~5</td><td>GND</td><td>逻辑信号参考地</td></tr><tr><td>6</td><td>HIN</td><td>高侧逻辑信号输入端</td></tr><tr><td>7</td><td>LIN</td><td>低侧逻辑信号输入端</td></tr><tr><td>8~9</td><td>N</td><td>负端参考和低侧 MOSFET 返回脚</td></tr><tr><td>10~11</td><td>VS</td><td>输出端和高侧 MOSFET 返回脚</td></tr><tr><td>12~13</td><td>P</td><td>直流电压输入端</td></tr><tr><td>14</td><td>VS</td><td>输出端和高侧 MOSFET 返回脚</td></tr><tr><td>15</td><td>P</td><td>直流电压输入端</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                489,
+                927,
+                843
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                242,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)(无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { A } = 2 5 ^ { \\circ } C )"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                394,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逆变部分"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                126,
+                142,
+                142
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ccb959a10596b4cf470fae917aec4b46bf70282e9a405c31af70294cc7b8ad9d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>条件</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{DSS}$ </td><td>MOSFET的漏源电压</td><td> $I_{DSS}=250uA$ </td><td>500</td><td>V</td></tr><tr><td rowspan=\"2\"> $I_D$ </td><td rowspan=\"2\">MOSFET连续工作电流(注2)</td><td> $T_C=25°C$ </td><td>5</td><td>A</td></tr><tr><td> $T_C=100°C$ </td><td>3.16</td><td>A</td></tr><tr><td> $I_{DM}$ </td><td>脉冲电流(注2)</td><td> $T_C=25°C$ ,脉冲宽度≤100us</td><td>10</td><td>A</td></tr><tr><td> $P_D$ </td><td>最大功耗</td><td>单颗MOSFET( $T_C=100°C$ )</td><td>50</td><td>W</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                156,
+                927,
+                353
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b738bcfac1ee6ec306ded99f41475e9981648630ef794101dcd52be883b6b8c2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "控制部分"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>条件</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{CC}$ </td><td>控制侧供电</td><td>VCC和GND两端电压</td><td>-0.3~20</td><td>V</td></tr><tr><td> $V_{BS}$ </td><td>高侧偏置电压</td><td>VB和VS两端电压</td><td>-0.3~20</td><td>V</td></tr><tr><td> $V_{LIN/HIN}$ </td><td>输入信号电压</td><td>LIN/HIN和GND两端电压</td><td>-0.3~ $V_{CC}$ +0.3</td><td>V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                387,
+                929,
+                524
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ddebd8c5cfdc26cb0588487f437430744b1b392b29959764356d01b1c3ed8756.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "热阻"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>条件</td><td>参数范围</td><td>单位</td></tr><tr><td> $R_{th(j-c)T}$ </td><td>结到顶部壳的热阻</td><td>同逆变部分操作条件</td><td>20</td><td>°C/W</td></tr><tr><td> $R_{th(j-c)B}$ </td><td>结到底部壳的热阻</td><td>同逆变部分操作条件</td><td>1</td><td>°C/W</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                558,
+                927,
+                663
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/37a7a5f41199bb63bb5e22cc5891d7c6226d8d46d8919162604662c2cb2a9482.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "系统"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：极限参数是指超出该范围，有可能导致器件永久性损坏。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 2：受最大结温限制。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>条件</td><td>参数范围</td><td>单位</td></tr><tr><td> $T_{J}$ </td><td>工作结温</td><td></td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度</td><td></td><td>-40~125</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                697,
+                927,
+                803
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                240,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/73b320551fc4c1479c2eb49eba82db2ac2ba321b9f141548565c7c4492ce6175.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "推荐工作条件(注 3) (无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } { = } 2 5 ^ { \\circ } { \\sf C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 3：在推荐的工作条件下，可以保证器件的正常工作，但是某些特殊的参数可能无法实现。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 4：IPM 内置预驱包含内置死区时间(典型值参考电气参数表格中的数据)，控制算法在设置死区时间时，需要考虑这段内置的死区时间。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td> $V_{PN}$ </td><td>功率部分供电电压</td><td>PN 脚之间</td><td>-</td><td>300</td><td>400</td><td>V</td></tr><tr><td> $V_{CC}$ </td><td>控制部分供电电压</td><td>VCC 和 GND 脚之间</td><td>12.0</td><td>15.0</td><td>18.0</td><td>V</td></tr><tr><td> $V_{BS}$ </td><td>高侧偏置电压</td><td>VB 和 VS 脚之间</td><td>12.0</td><td>15.0</td><td>18.0</td><td>V</td></tr><tr><td> $V_{LIN/HIN(ON)}$ </td><td>输入开通电压阈值</td><td>LIN/HIN 和 GND 脚之间</td><td>3.0</td><td>-</td><td> $V_{CC}$ </td><td>V</td></tr><tr><td> $V_{LIN/HIN(OFF)}$ </td><td>输入关断电压阈值</td><td>LIN/HIN 和 GND 脚之间</td><td>0</td><td>-</td><td>0.4</td><td>V</td></tr><tr><td> $T_{DEAD}$ </td><td>防止桥臂直通的死区时间(注 4)</td><td> $V_{CC}=V_{BS}=12.0\\sim18.0V,T_{J}<150°C$ </td><td>1.0</td><td>-</td><td>-</td><td>us</td></tr><tr><td> $F_{PWM}$ </td><td>PWM 开关频率</td><td> $T_{J}<150°C$ </td><td>-</td><td>20</td><td>-</td><td>kHz</td></tr><tr><td> $T_{C(MAX)}$ </td><td>工作时的最大壳温</td><td> $T_{J}<150°C$ </td><td></td><td>120</td><td></td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                929,
+                384
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                240,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eaa5539b3fac9a08d326b913e4d8aec7fd0ad6e2bb145208e1229a2f593bb058.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 5) (无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { A } = 2 5 ^ { \\circ } C )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 5: 电气特性表定义器件的工作范围，并且由测试程序保证。对于电气特性表中未定义的最大值和最小值的情况，其典型值仅用于定义器件的工作范围，规格书不保证其精度。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">逆变部分</td></tr><tr><td> $BV_{DSS}$ </td><td>MOS管漏源极击穿电压</td><td> $V_{LIN/HIN}=0V, I_D=250uA$ </td><td>500</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>MOS管截止时的漏电流</td><td> $V_{LIN/HIN}=0V, V_{DS}=500V$ </td><td></td><td></td><td>10</td><td>μA</td></tr><tr><td> $V_{SD}$ </td><td>体二极管正向导通电压</td><td> $V_{CC}=V_{BS}=15V, V_{LIN/HIN}=0V, I_D=-5A$ </td><td></td><td></td><td>1.4</td><td>V</td></tr><tr><td> $R_{DS(ON)}$ </td><td>MOS管导通阻抗</td><td> $V_{CC}=V_{BS}=15V, V_{LIN/HIN}=5V, I_D=0.5A$ </td><td></td><td>1.5</td><td>1.9</td><td>Ω</td></tr><tr><td> $T_{ON}$ </td><td rowspan=\"8\">开关过程</td><td rowspan=\"8\"> $V_{PN}=400V, V_{CC}=V_{BS}=15V, I_D=5A, V_{LIN/HIN}=0~5V,$ 感性负载L=2.8mH高侧和低侧MOSFET开关</td><td></td><td>630</td><td></td><td>ns</td></tr><tr><td> $T_{OFF}$ </td><td></td><td>220</td><td></td><td>ns</td></tr><tr><td>Irr</td><td></td><td>6.0</td><td></td><td>A</td></tr><tr><td>Trr</td><td></td><td>85</td><td></td><td>ns</td></tr><tr><td> $T_r$ </td><td></td><td>40</td><td></td><td>ns</td></tr><tr><td> $T_f$ </td><td></td><td>10</td><td></td><td>ns</td></tr><tr><td> $E_{ON}$ </td><td></td><td>250</td><td></td><td>μJ</td></tr><tr><td> $E_{OFF}$ </td><td></td><td>15</td><td></td><td>μJ</td></tr><tr><td colspan=\"7\">控制部分</td></tr><tr><td> $I_{QCC}$ </td><td>静态 $V_{CC}$ 供电电流</td><td> $V_{CC}=15V, V_{LIN/HIN}=0V$ </td><td>15</td><td>50</td><td>80</td><td>μA</td></tr><tr><td> $I_{SW}$ </td><td>正常开关时, $V_{CC}$ 提供的电流</td><td> $V_{CC}=15V, F_{LIN/HIN}=15kHz$ </td><td></td><td>0.4</td><td></td><td>mA</td></tr><tr><td> $I_{QB}$ </td><td>静态 $V_{BS}$ 供电电流</td><td> $V_{BS}=15V, V_{LIN/HIN}=0V$ </td><td>15</td><td>40</td><td>70</td><td>μA</td></tr><tr><td> $V_{CC_ON}$ </td><td rowspan=\"2\"> $V_{CC}$ 和 $V_{BS}$ 正常工作电压阈值</td><td rowspan=\"2\"></td><td>8.0</td><td>8.6</td><td>9.8</td><td>V</td></tr><tr><td> $V_{BS_ON}$ </td><td>8.0</td><td>8.8</td><td>9.8</td><td>V</td></tr><tr><td> $V_{CC_UVLO}$ </td><td rowspan=\"2\"> $V_{CC}$ 和 $V_{BS}$ 欠压保护电压阈值</td><td rowspan=\"2\"></td><td>7.0</td><td>7.6</td><td>8.6</td><td>V</td></tr><tr><td> $V_{BS_UVLO}$ </td><td>7.2</td><td>7.8</td><td>8.8</td><td>V</td></tr><tr><td> $V_{CC_HYS}$ </td><td rowspan=\"2\"> $V_{CC}$ 和 $V_{BS}$ 电压滞环</td><td rowspan=\"2\"></td><td>0.5</td><td>1.0</td><td>1.5</td><td>V</td></tr><tr><td> $V_{BS_HYS}$ </td><td>0.5</td><td>1.0</td><td>1.5</td><td>V</td></tr><tr><td> $V_{IH}$ </td><td>开通电压阈值</td><td>逻辑高电平</td><td>2.4</td><td>-</td><td></td><td>V</td></tr><tr><td> $V_{IL}$ </td><td>关断电压阈值</td><td>逻辑低电平</td><td></td><td>-</td><td>0.6</td><td>V</td></tr><tr><td>DT</td><td>为了防止桥臂直通,预驱内置的死区时间</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">自举二极管</td></tr><tr><td> $V_{FB}$ </td><td>前向导通电压</td><td> $I_F=0.2A$ </td><td></td><td></td><td>1.4</td><td>V</td></tr><tr><td> $T_{RRB}$ </td><td>反向恢复时间</td><td> $I_F=0.5A$ </td><td></td><td>40</td><td></td><td>ns</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                929,
+                850
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                240,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "真值表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                92,
+                134,
+                109
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4d1edf8b7a1d5cb5a21d58b776ce029717aae98c9084215e38461c4ecad22692.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>HIN</td><td>LIN</td><td>输出(U/V/W)</td><td>描述</td></tr><tr><td>0</td><td>0</td><td>Hi-Z</td><td>高阻态</td></tr><tr><td>0</td><td>1</td><td>0</td><td>低侧 MOS 导通,高侧 MOS 关断</td></tr><tr><td>1</td><td>0</td><td> $V_P$ </td><td>高侧 MOS 导通,低侧 MOS 关断</td></tr><tr><td>1</td><td>1</td><td>Hi-Z</td><td>禁止输入,高阻态</td></tr><tr><td>开路</td><td>开路</td><td>Hi-Z</td><td>内部下拉电阻 100KΩ</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                927,
+                294
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开关过程定义"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                348,
+                194,
+                366
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/41600c295edf7924f0ff547584a1463834687618c0dfcbf88ddf7c50d9a3147c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3.开关过程时间定义"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                378,
+                915,
+                670
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                242,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/59f0a58f0bfb7b490ce03324e7d5efd428adb1cfc5fbe136de10a1957fe7b105.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "ESOP13 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                75,
+                149,
+                739,
+                475
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1a567bf65cb758da02d9a87594a955ac8bff5e18ba8fa24b2850e6ef3230aae2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "COMMON DIMENSIONS (UNITS OF MEASURE=MILLIMETER)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>SYMBOL</td><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.3</td><td>1.4</td><td>1.50</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.12</td></tr><tr><td>A2</td><td>1.40</td><td>1.55</td><td>1.70</td></tr><tr><td>A3</td><td>0.60</td><td>-</td><td>0.70</td></tr><tr><td>b</td><td>0.37</td><td>-</td><td>0.47</td></tr><tr><td>b1</td><td>0.35</td><td>-</td><td>0.45</td></tr><tr><td>b2</td><td>2.05</td><td>2.10</td><td>2.15</td></tr><tr><td>c</td><td>0.17</td><td>-</td><td>0.27</td></tr><tr><td>c1</td><td>0.15</td><td>-</td><td>0.25</td></tr><tr><td>D</td><td>8.8</td><td>9.0</td><td>9.2</td></tr><tr><td>D1</td><td>3.0</td><td>-</td><td>3.3</td></tr><tr><td>D2</td><td>1.3</td><td>-</td><td>1.6</td></tr><tr><td>D3</td><td>0.3</td><td>-</td><td>0.5</td></tr><tr><td>D4</td><td>0.9</td><td>-</td><td>1.1</td></tr><tr><td>D5</td><td>0.7</td><td>-</td><td>1.0</td></tr><tr><td>E</td><td>7.4</td><td>7.5</td><td>7.7</td></tr><tr><td>E1</td><td>10.1</td><td>10.3</td><td>10.6</td></tr><tr><td>E2</td><td>3.0</td><td>-</td><td>3.3</td></tr><tr><td>E3</td><td>3.3</td><td>-</td><td>3.6</td></tr><tr><td>E4</td><td>4.0</td><td>-</td><td>4.3</td></tr><tr><td>E5</td><td>3.2</td><td>-</td><td>3.5</td></tr><tr><td>E6</td><td>2.9</td><td>-</td><td>3.2</td></tr><tr><td>E7</td><td>2.2</td><td>-</td><td>2.5</td></tr><tr><td>E8</td><td>0.9</td><td>-</td><td>1.2</td></tr><tr><td>E9</td><td>1.7</td><td>1.8</td><td>1.9</td></tr><tr><td>e</td><td colspan=\"3\">0.80 BSC</td></tr><tr><td>e1</td><td colspan=\"3\">2.40 BSC</td></tr><tr><td>e2</td><td colspan=\"3\">4.19 BSC</td></tr><tr><td>e3</td><td>4.89</td><td>4.99</td><td>5.09</td></tr><tr><td>F</td><td>9.0</td><td>-</td><td>9.4</td></tr><tr><td>F1</td><td>2.25</td><td>2.35</td><td>2.40</td></tr><tr><td>F2</td><td>0.6</td><td>0.7</td><td>0.8</td></tr><tr><td>F3</td><td>1.35</td><td>1.40</td><td>1.45</td></tr><tr><td>L</td><td>0.62</td><td>0.72</td><td>0.82</td></tr><tr><td>L1</td><td>1.32</td><td>1.42</td><td>1.52</td></tr><tr><td>L2</td><td colspan=\"3\">0.25 BSC</td></tr><tr><td>R</td><td>0.07</td><td>/</td><td>/</td></tr><tr><td>h</td><td>0.25</td><td>0.35</td><td>0.45</td></tr><tr><td> $\\theta 1$ </td><td>15°</td><td>17°</td><td>19°</td></tr><tr><td> $\\theta 2$ </td><td>11°</td><td>13°</td><td>15°</td></tr><tr><td> $\\theta 3$ </td><td>15°</td><td>17°</td><td>19°</td></tr><tr><td> $\\theta 4$ </td><td>11°</td><td>13°</td><td>15°</td></tr><tr><td> $\\theta 5$ </td><td>0°</td><td>3°</td><td>6°</td></tr><tr><td>Pin1 $\\emptyset$ </td><td>0.9</td><td>1.0</td><td>1.1</td></tr><tr><td>x1</td><td>1.5</td><td>1.6</td><td>1.7</td></tr><tr><td>y1</td><td>1.7</td><td>1.8</td><td>1.9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                746,
+                162,
+                915,
+                508
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                242,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/cef05aab73d0191d121547ef8db63b4d6a78138287fcc3b380a5f7e006ab938c.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                95,
+                223,
+                877,
+                772
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac1d235ee3dae528dafd3e2feefe891450c88afb890b11d61c09e1923911bfd8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2024/10</td><td>首次发行</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                122,
+                902,
+                171
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFIK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                36,
+                253,
+                80
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                240,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                102,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽⼒确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                789,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定⽬的的适用性或者不侵犯晶丰明源或任何第三⼈知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本⾝及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                202,
+                931,
+                259
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFLK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                51,
+                253,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                242,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子器件报废说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                400,
+                101,
+                596,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该产品在生命周期结束后，由客户按照一般电子产品的报废流程进行处理。"
+                    }
+                ]
+            },
+            "bbox": [
+                203,
+                206,
+                781,
+                224
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NOW PART OFLK 'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                49,
+                253,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS1D5005C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                242,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\u0000Confidential\u0000–\u0000Customer\u0000Use\u0000Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                613,
+                947
+            ]
+        }
+    ]
+]

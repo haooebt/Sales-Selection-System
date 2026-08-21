@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:28:22+08:00",
+  "file": "BP5356HB_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 844133,
+    "pages": 10,
+    "sha256": "18bb185a44b96024400933b4881d160dd5a8ceb762568cb0437f5397a7a95e61"
+  },
+  "batch_id": "3f560589-8bf5-4d89-a101-45f92771f511",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:28:24+08:00",
+    "errors": [],
+    "markdown_chars": 5552,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:28:32+08:00"
+}

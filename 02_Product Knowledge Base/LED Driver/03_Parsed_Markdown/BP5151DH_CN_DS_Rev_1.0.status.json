@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:16:09+08:00",
+  "file": "BP5151DH_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 525328,
+    "pages": 8,
+    "sha256": "51d75cb2ec3294be658828b8b124312f24fa76efd7830538773e4d2370a3adaf"
+  },
+  "batch_id": "2caf057f-7cab-4ea0-afbd-6875048faafd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:16:13+08:00",
+    "errors": [],
+    "markdown_chars": 5704,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:16:24+08:00"
+}

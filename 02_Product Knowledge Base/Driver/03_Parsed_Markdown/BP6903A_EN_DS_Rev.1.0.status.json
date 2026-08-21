@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:15:07+08:00",
+  "file": "BP6903A_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 480689,
+    "pages": 8,
+    "sha256": "d5f7cb7c7046b78bc7a646a7b929fb91b261966df3ffdb688487915d1d7d868c"
+  },
+  "batch_id": "bf065fff-f992-4c80-be71-96c2f42c3427",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:15:07+08:00",
+    "errors": [],
+    "markdown_chars": 10703,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-17T22:15:07+08:00"
+}

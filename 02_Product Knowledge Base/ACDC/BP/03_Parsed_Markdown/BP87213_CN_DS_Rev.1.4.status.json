@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:02:41+08:00",
+  "file": "BP87213_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 3097779,
+    "pages": 13,
+    "sha256": "555459f77d8cb29e9866e283b8b76c2ed1f68494413cb3b25e99fd1a06d2f6ba"
+  },
+  "batch_id": "048cb671-fbb4-4b41-95d4-fac7dc03eff8",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:02:44+08:00",
+    "errors": [],
+    "markdown_chars": 14423,
+    "parsed_pages": 13,
+    "passed": true,
+    "pdf_pages": 13
+  },
+  "published_at": "2026-08-21T13:02:51+08:00"
+}

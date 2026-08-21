@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:06:45+08:00",
+  "file": "BP3286JL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1095305,
+    "pages": 10,
+    "sha256": "4a5162273996761e9f3b524dc8efcb6960eb38645caf03dec8acddfea0a660f9"
+  },
+  "batch_id": "47af299b-8872-4507-a8d7-f1b54db463f0",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:06:47+08:00",
+    "errors": [],
+    "markdown_chars": 8466,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:06:57+08:00"
+}

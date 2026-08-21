@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:28:30+08:00",
+  "file": "BP2863XK_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 1398160,
+    "pages": 9,
+    "sha256": "9ee7ef2445ded42f10ca3e247bf8e5aad09b619ebb7d41065fa69e7405d939ab"
+  },
+  "batch_id": "f26b061c-8128-47be-9185-380a8618bd48",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:28:31+08:00",
+    "errors": [],
+    "markdown_chars": 10812,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T13:28:40+08:00"
+}

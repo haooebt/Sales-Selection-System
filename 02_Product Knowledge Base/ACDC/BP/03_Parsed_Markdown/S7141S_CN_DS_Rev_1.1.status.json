@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:05:26+08:00",
+  "file": "S7141S_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 4534855,
+    "pages": 9,
+    "sha256": "c6f74bd6235e48e54d7a12de224a69464fd80112b04bfd1cce1b0655db4e5500"
+  },
+  "batch_id": "b09c058d-98ef-434e-8334-7028c8f486f9",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:05:27+08:00",
+    "errors": [],
+    "markdown_chars": 8471,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T13:05:30+08:00"
+}

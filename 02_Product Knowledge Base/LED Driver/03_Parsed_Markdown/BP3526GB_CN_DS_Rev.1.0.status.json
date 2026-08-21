@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:00:07+08:00",
+  "file": "BP3526GB_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3357832,
+    "pages": 12,
+    "sha256": "902a4cf3247fa2f4c4b8ed010480de10ca79da77cca19a922d91b3da41893e5d"
+  },
+  "batch_id": "d5c4b362-06f3-44fc-8180-0225a6d99592",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:00:08+08:00",
+    "errors": [],
+    "markdown_chars": 13060,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-17T22:00:08+08:00"
+}

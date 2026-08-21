@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:12:05+08:00",
+  "file": "BP2362JHL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1223887,
+    "pages": 10,
+    "sha256": "d420e17b2e4c18d46d6282e6c5db93fa3837bf000db5f691099ee8be991e3b91"
+  },
+  "batch_id": "a964f7a9-d32e-40bf-b324-730954aa224b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:12:06+08:00",
+    "errors": [],
+    "markdown_chars": 7376,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:12:09+08:00"
+}

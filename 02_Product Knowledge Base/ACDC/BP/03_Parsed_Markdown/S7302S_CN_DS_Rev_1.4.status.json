@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:06:21+08:00",
+  "file": "S7302S_CN_DS_Rev_1.4.pdf",
+  "pdf": {
+    "bytes": 1053724,
+    "pages": 9,
+    "sha256": "031cd6b6de238440d023a009a6f52a37c2ac183e7e18e86e1c7b448fd2ae44c8"
+  },
+  "batch_id": "1ab9a37c-c0a8-41ce-9279-90cc99ae5b28",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:06:22+08:00",
+    "errors": [],
+    "markdown_chars": 5908,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T13:06:26+08:00"
+}

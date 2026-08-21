@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:44:57+08:00",
+  "file": "S4225MB_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 1158728,
+    "pages": 8,
+    "sha256": "51544a418c01681d0e10d80891537ac84283b4023a61639c9e3c1c4d88e64a3b"
+  },
+  "batch_id": "e47e1d45-e23b-443f-b994-ddd7e70889cd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:44:59+08:00",
+    "errors": [],
+    "markdown_chars": 7105,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:45:10+08:00"
+}

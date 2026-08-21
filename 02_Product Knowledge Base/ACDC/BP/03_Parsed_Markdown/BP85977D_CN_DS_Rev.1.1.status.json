@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:59:55+08:00",
+  "file": "BP85977D_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 3075691,
+    "pages": 14,
+    "sha256": "af76b944ab4fb1457ac13bbb403be4f2717918d756e4a1f6f4f9b55c7cb30cd3"
+  },
+  "batch_id": "fb40ce45-89f4-4415-a3e1-c10b5952bebf",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:59:56+08:00",
+    "errors": [],
+    "markdown_chars": 16560,
+    "parsed_pages": 14,
+    "passed": true,
+    "pdf_pages": 14
+  },
+  "published_at": "2026-08-21T13:00:04+08:00"
+}

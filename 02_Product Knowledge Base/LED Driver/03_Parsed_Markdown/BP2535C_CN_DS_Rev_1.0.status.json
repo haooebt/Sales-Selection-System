@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:22:38+08:00",
+  "file": "BP2535C_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 399498,
+    "pages": 8,
+    "sha256": "311302975d37ae9183afaea26fe63bbfbcae2936e70fbf79442e05e87e75ebc1"
+  },
+  "batch_id": "82cd5631-e977-454b-b7d1-c473a91ed49d",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:22:39+08:00",
+    "errors": [],
+    "markdown_chars": 10095,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T15:22:42+08:00"
+}

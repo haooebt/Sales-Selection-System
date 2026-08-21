@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:25:32+08:00",
+  "file": "BP5228DS_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 477355,
+    "pages": 10,
+    "sha256": "4475f1ce9da6ac346b795c466b62dbb3a9a4d4fd48b25e96ed90f7815b7508f8"
+  },
+  "batch_id": "e397cd74-fd3d-43bc-a2a1-76679af78580",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:25:32+08:00",
+    "errors": [],
+    "markdown_chars": 6050,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:25:37+08:00"
+}

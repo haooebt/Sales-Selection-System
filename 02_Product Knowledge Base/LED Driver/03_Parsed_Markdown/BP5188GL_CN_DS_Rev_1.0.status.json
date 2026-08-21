@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:22:55+08:00",
+  "file": "BP5188GL_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 552970,
+    "pages": 9,
+    "sha256": "b75d315111d8d8fbde889a8d890e85cbd22a3aec6fc328f3a1de7992e4ecef58"
+  },
+  "batch_id": "0a11dc8e-41c0-44f0-91df-caaf3adb0dc9",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:22:58+08:00",
+    "errors": [],
+    "markdown_chars": 7105,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:23:10+08:00"
+}
