@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:52:11+08:00",
+  "file": "BP84145_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3006737,
+    "pages": 9,
+    "sha256": "eac44788a9e32bd8bb1b6c3950a38e7239f99908b25c6fda131330c6ed8a8b05"
+  },
+  "batch_id": "311b58f9-c788-4314-9ea0-faac4da3cffd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:52:11+08:00",
+    "errors": [],
+    "markdown_chars": 10083,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T12:52:18+08:00"
+}

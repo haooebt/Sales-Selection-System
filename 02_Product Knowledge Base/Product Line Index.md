@@ -7,12 +7,12 @@
 | 产品线 | 首选入口 | 原始资料目录 | 当前状态 |
 |---|---|---|---|
 | MCU | `MCU/MCU Family Overview.md` | `MCU/` | 已有 Excel 选型表，PDF datasheet 待后续解析 |
-| Gate Driver | `Driver/00_Product Card.md` | `Driver/` | 已读取 Gate Driver Excel，已形成产品卡 |
-| IPM | `IPM/00_Product Card.md` | `IPM/` | 已读取 IPM Excel，已形成产品卡 |
-| ACDC (BP系列) | `ACDC/BP/03_Parsed_Markdown/` | `ACDC/BP/01_Raw_Materials/datasheet/` | **已全部解析** BP系列24个型号→22个结构化Markdown |
-| ACDC (BPA系列) | `ACDC/BPA/03_Parsed_Markdown/` | `ACDC/BPA/01_Raw_Materials/datasheet/` | **已全部解析** BPA系列28个型号→26个结构化Markdown |
+| Gate Driver | `Driver/Datasheet Index.md` | `Driver/01_Raw_Materials/datasheet/` | 9 个选中版本已入库（3 current + 6 added）；3 无规格书 |
+| IPM | `IPM/Datasheet Index.md` | `IPM/01_Raw_Materials/datasheet/` | 12 个选中版本已入库（3 current + 3 replaced + 6 added）；3 待处理 |
+| ACDC (BP系列) | `ACDC/BP/Datasheet Index.md` | `ACDC/BP/01_Raw_Materials/datasheet/` | 19 个选中版本已入库（14 current + 2 replaced + 3 added）；38 待处理、5 人工复核、14 无规格书 |
+| ACDC (BPA系列) | `ACDC/BPA/Datasheet Index.md` | `ACDC/BPA/01_Raw_Materials/datasheet/` | 23 个选中版本已入库（11 current + 9 replaced + 3 added）；3 人工复核、2 无规格书 |
 | DC/DC | `DC-DC/00_Product Card.md` | `DC-DC/` | 已从 2025Q4 Product Catalog 建立首轮产品卡 |
-| LED Driver | `LED Driver/00_Product Card.md` | `LED Driver/` | 已从 2025Q4 Product Catalog 建立首轮产品卡 |
+| LED Driver | `LED Driver/Datasheet Index.md` | `LED Driver/01_Raw_Materials/datasheet/` | 4 个新规格书已入库；137 待处理，70 无规格书 |
 | Power / Power Device | `Power Device/00_Product Card.md` | `Power Device/` | 已从 2025Q4 Product Catalog 建立轻量产品卡，需继续补 datasheet |
 | 2025Q4 Product Catalog | `2025Q4 Product Catalog Digest.md` | `2025Q4晶丰明源选型手册EN (1).pdf` | 全产品线英文选型手册，已建立 digest |
 | Home Appliance Solutions | `../03_Solutions and Applications/Home Appliance/Home Appliance Solution Map.md` | `../03_Solutions and Applications/Home Appliance/` | 已内化 Q2Y26 大家电产品介绍、26Q1 Roadmap、凌鸥大家电方案介绍 |

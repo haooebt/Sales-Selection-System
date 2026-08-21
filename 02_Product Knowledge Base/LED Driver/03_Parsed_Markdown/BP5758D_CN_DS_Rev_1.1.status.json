@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:14:32+08:00",
+  "file": "BP5758D_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 1918637,
+    "pages": 14,
+    "sha256": "f5acd42501aa059d030e1d954b1571d8faa79af893106d23f2ff2413f66dcb42"
+  },
+  "batch_id": "d9e56983-aead-463c-aa2f-4e0e65e47d7b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:14:33+08:00",
+    "errors": [],
+    "markdown_chars": 13923,
+    "parsed_pages": 14,
+    "passed": true,
+    "pdf_pages": 14
+  },
+  "published_at": "2026-08-21T15:14:40+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:50:00+08:00",
+  "file": "BP3287HL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1183434,
+    "pages": 12,
+    "sha256": "a388523a55b11bd5846504d0ccbc1239923f54d0386df1671f9901f35ee184ac"
+  },
+  "batch_id": "04295aa0-cf06-42f3-8054-7c4161389094",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:50:06+08:00",
+    "errors": [],
+    "markdown_chars": 9164,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T13:50:42+08:00"
+}

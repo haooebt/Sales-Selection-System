@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:59:27+08:00",
+  "file": "BP2863X_CN_DS_Rev 1.2.pdf",
+  "pdf": {
+    "bytes": 1629712,
+    "pages": 9,
+    "sha256": "4e4c2d3f60bd69e66ddf538c571c8061874e59364ea1d114a69d251188b30c4b"
+  },
+  "batch_id": "d095f01e-00d7-41aa-abe7-ad20c9d1e5a1",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:59:27+08:00",
+    "errors": [],
+    "markdown_chars": 10963,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-17T21:59:27+08:00"
+}

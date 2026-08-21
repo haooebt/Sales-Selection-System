@@ -1,0 +1,175 @@
+## 概述
+
+BP2519 是一款高精度恒压恒流控制芯片。适用于85Vac\~265Vac 全范围输入电压的非隔离电源。
+
+BP2519 芯片采用独有的电压电流控制技术，不需要环路补偿电容，即可实现优异的恒压恒流特性，极大的节约了系统成本和体积。
+
+BP2519 芯片采用 PWM/PFM 多模式控制技术，能有效降低系统待机功耗，提高效率和动态性能，并减小系统工作在轻载时的噪声。
+
+BP2519 具有多重保护功能，包括输出开路/短路保护，芯片供电欠压/过压保护，逐周期限流，过温保护等。
+
+BP2519 采用 SOT23-5L 封装。
+
+## 特点
+
+ 非隔离系统恒压恒流输出
+
+ PWM/PFM 多模式控制
+
+ 待机功耗<200mW
+
+ ±5%输出电压/电流精度
+
+ 内置软启动
+
+ 输出开路保护
+
+ 输出短路保护
+
+ 芯片供电欠压/过压保护
+
+ 过温保护
+
+ 逐周期限流
+
+ 采用 SOT23-5L 封装
+
+## 应用
+
+ 非隔离电源
+
+ 辅助电源
+
+ LED 驱动电源
+
+## 典型应用
+
+![](images/30009051ebd59b05a5c014b015891419584541410fccec4cfdd1c772b609444a.jpg)  
+图 1 BP2519 典型应用图
+
+## 定购信息
+
+<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2519</td><td>SOT23-5L</td><td>-40°C 到 105°C</td><td>编带3,000 颗/盘</td><td>2519</td></tr></table>
+
+## 管脚封装
+
+![](images/0b3fd370753f110123a3c1eb1c9ade7709beefa054bb90c9d71052089c0bd26b.jpg)  
+图2 管脚封装图
+
+## 管脚描述
+
+<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GATE</td><td>外部功率 MOS 管栅极驱动</td></tr><tr><td>2</td><td>GND</td><td>芯片地</td></tr><tr><td>3</td><td>CS</td><td>电流采样端,采样电阻接在CS与GND之间</td></tr><tr><td>4</td><td>FB</td><td>反馈电压输入端</td></tr><tr><td>5</td><td>VCC</td><td>芯片电源,必须就近接旁路电容</td></tr></table>
+
+## 极限参数(注 1)
+
+<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{CC}$ </td><td>VCC电压</td><td>-0.3~30</td><td>V</td></tr><tr><td> $I_{CC\_MAX}$ </td><td>VCC引脚最大电源电流</td><td>10</td><td>mA</td></tr><tr><td> $V_{FB}$ </td><td>辅助绕组反馈端电压</td><td>-0.3~6</td><td>V</td></tr><tr><td> $V_{CS}$ </td><td>电流采样端电压</td><td>-0.3~6</td><td>V</td></tr><tr><td> $V_{GATE}$ </td><td>外部功率MOS管栅极驱动电压</td><td>-0.3~30</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.52</td><td>W</td></tr><tr><td> $\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>240</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr><tr><td></td><td>ESD(注3)</td><td>2</td><td>KV</td></tr></table>
+
+注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。
+
+注2：温度升高最大功耗一定会减小，这也是由T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度T<sub>A</sub>所决定的。最大允许功耗为 $\mathrm { { P _ { D M A X } } \ = \ \left( T _ { \mathrm { { J M A X } } } \ - \ \bar { \ T } _ { \mathrm { { A } } } \right) / }$ $\theta _ { \mathrm { \ J A } }$ 或是极限范围给出的数字中比较低的那个值。
+
+注3：人体模型，100pF电容通过1.5KΩ电阻放电。
+
+## 推荐工作范围
+
+<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{cc}$ </td><td>芯片电源电压</td><td>10~25</td><td>V</td></tr><tr><td> $F_{osc\_MAX}$ </td><td>最大工作频率</td><td>100K</td><td>Hz</td></tr></table>
+
+电气参数(注 5, 6) （无特别说明情况下， $\mathtt { V } _ { \mathtt { C } } = 1 6 \ \mathtt { V } , \mathtt { T } _ { \mathtt { A } } = 2 5 \ \mathtt { C } \ )$
+
+<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan="7">电源电压</td></tr><tr><td> $V_{CC\_CLAMP}$ </td><td> $V_{CC}$ 钳位电压</td><td>5mA</td><td></td><td>26.5</td><td></td><td>V</td></tr><tr><td> $V_{CC\_OVP}$ </td><td> $V_{CC}$ 过压保护阈值</td><td></td><td></td><td>28</td><td></td><td>V</td></tr><tr><td> $V_{CC\_ON}$ </td><td> $V_{CC}$ 启动电压</td><td> $V_{CC}$ 上升</td><td></td><td>15.3</td><td></td><td>V</td></tr><tr><td> $V_{CC\_UVLO}$ </td><td> $V_{CC}$ 欠压保护阈值</td><td> $V_{CC}$ 下降</td><td></td><td>7.6</td><td></td><td>V</td></tr><tr><td> $I_{ST}$ </td><td> $V_{CC}$ 启动电流</td><td> $V_{CC}= V_{CC-ON}- 1V$ </td><td></td><td>120</td><td></td><td>uA</td></tr><tr><td> $I_{OP}$ </td><td> $V_{CC}$ 工作电流</td><td> $V_{FB}=3V, V_{CS}=0$ </td><td></td><td>240</td><td></td><td>uA</td></tr><tr><td colspan="7">电流采样</td></tr><tr><td> $V_{CS\_TH}$ </td><td>电流检测阈值</td><td></td><td></td><td>600</td><td></td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>350</td><td></td><td>ns</td></tr><tr><td colspan="7">FB反馈</td></tr><tr><td> $V_{FB_EA\_REF}$ </td><td>内部误差放大器基准</td><td></td><td></td><td>3</td><td></td><td>V</td></tr><tr><td> $V_{FB\_OVP}$ </td><td>FB过压保护阈值</td><td></td><td></td><td>4</td><td></td><td>V</td></tr><tr><td> $V_{FB_DEM}$ </td><td>FB过零检测阈值</td><td></td><td></td><td>0.1</td><td></td><td>V</td></tr><tr><td> $V_{FB_SHORT}$ </td><td>输出短路阈值</td><td></td><td></td><td>0.5</td><td></td><td>V</td></tr><tr><td> $F_{OSC\_SHORT}$ </td><td>输出短路钳位频率</td><td></td><td></td><td>20</td><td></td><td>KHz</td></tr><tr><td> $T_{SAMPLE\_BIG}$ </td><td>采样时间</td><td> $T_{CS\_TH}=600mV$ </td><td></td><td>5.8</td><td></td><td>uS</td></tr><tr><td> $T_{OFF\_MAX}$ </td><td>最大关断时间</td><td></td><td></td><td>1</td><td></td><td>mS</td></tr><tr><td> $T_{ON\_MAX}$ </td><td>最大开通时间</td><td></td><td></td><td>40</td><td></td><td>uS</td></tr><tr><td colspan="7">驱动级</td></tr><tr><td> $T_{GATE\_CLAMP}$ </td><td>栅极钳位电压</td><td></td><td></td><td>13</td><td></td><td>V</td></tr><tr><td> $I_{SOURCE\_MAX}$ </td><td>最大驱动上拉电流</td><td></td><td></td><td>60</td><td></td><td>mA</td></tr><tr><td> $I_{SINK\_MAX}$ </td><td>最大驱动下来电流</td><td></td><td></td><td>600</td><td></td><td>mA</td></tr><tr><td colspan="7">过温保护</td></tr><tr><td>TSD</td><td>过热保护温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr></table>
+
+注5：典型参数值为25˚C下测得的参数标准。  
+注6：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。
+
+## 内部结构框图
+
+![](images/2dcba5ef647c096b9db4da604b056c9cf21990a91434e37aede2c38c130e7916.jpg)  
+图 3 BP2519 内部框图
+
+## 应用信息
+
+BP2519 是一款非隔离具有恒压恒流输出特性的控制芯片。采用特有的多模式控制以及环路补偿技术，只需要极少的外围组件就可以达到优异的恒压恒流特性。特别适合于有恒压恒流需求的LED驱动器，非隔离电源以及辅助电源。
+
+## 启动
+
+芯片需要 120uA 的启动电流，系统上电后启动电阻对 Vcc 的电容进行充电，当 Vcc 电压达到芯片开启阈值时，芯片内部控制电路开始工作。系统启动后，Vcc 由输出端通过二极管进行供电。
+
+芯片具有软启动功能，在 1mS 软启动过程中，会分段增加原边峰值电流以减小开关应力，每一次重启都会经历软启动的过程。
+
+## 恒流控制，输出电流设置
+
+芯片逐周期检测电感的峰值电流，CS 端连接到内部的峰值电流比较器的输入端，与内部阈值电压进行比较，当 CS 外部电压达到内部检测阈值时，功率管关断。
+
+满载时电感峰值电流的表达式为：
+
+$$
+I _ {\mathrm{PK}} = \frac {6 0 0}{R _ {C S}} (m A)
+$$
+
+CS比较器的输出还包括一个350nS前沿消隐时间。当系统工作于恒流模式时，芯片采用电感电流临界连续控制方式。LED 输出电流计算方法：
+
+$$
+I _ {O U T} = \frac {I _ {\mathrm{PK}}}{2}
+$$
+
+## 恒压控制，输出电压设置
+
+BP2519 通过采样电感两端压降，分压后与内部基准比较形成闭环后，来恒定输出电压 Vo。
+
+$$
+V _ {O} = \frac {(R _ {F B L} + R _ {F B H})}{R _ {F B L}} * 3
+$$
+
+其中， $\mathrm { R } _ { \mathrm { F B L } }$ 是 FB 下拉电阻， $\mathrm { R } _ { \mathrm { F B H } }$ 是FB上拉电阻。
+
+## PWM/PFM 多模式控制
+
+BP2519 芯片采用 PWM/PFM 多模式控制技术，能有效降低系统待机功耗，提高效率，并减小系统工作在轻载时的噪声。
+
+![](images/5469a5ff0b89baf176458e763760c8125d98476ba26654037322b1d127246409.jpg)  
+过压保护电阻设置
+
+当FB检测到的平台电压达到内部设定的开路保护阈值4V时，系统进入开路保护。
+
+$$
+V _ {O V P} = \frac {4 * (R _ {F B L} + R _ {F B H})}{R _ {F B L}}
+$$
+
+其中，Vovp是需要设定的过压保护点
+
+## 保护功能
+
+BP2519 内置多种保护功能，包括输出开路/短路保护， $\mathrm { V _ { C C } }$ 欠压/过压保护，过温保护等。
+
+当输出短路时，FB 检测到的电压低于 0.5V 时，系统进入短路保护，工作时的开关频率被钳位在20KHz,能有效降低开关管应力。短路工作48ms后，系统重启。
+
+系统进入保护状态后， $\mathrm { V _ { C C } }$ 电压开始下降；当 V<sub>CC</sub>到达欠压保护阈值时，系统将重启。同时系统不断的检测负载状态，如果故障解除，系统会重新开始正常工作。
+
+## PCB 设计
+
+在设计 BP2519 PCB 时，需要遵循以下指南：旁路电容
+
+V<sub>CC</sub>的旁路电容需要紧靠芯片 $\mathrm { V _ { C C } }$ 和GND 引脚。
+
+## FB 引脚
+
+接到 FB 的分压电阻必须靠近 FB 引脚，且节点要远离功率电感的动点。
+
+## 地线
+
+电流采样电阻的功率地线尽可能短，且要和芯片的地线及其它小信号的地线分头接到母线电容的地端。
+
+## 功率环路的面积
+
+减小功率环路的面积，如功率电感、功率管、母线电容的环路面积，以及功率电感、续流二极管、输出电容的环路面积，以减小 EMI 辐射。
+
+## 封装信息
+
+SOT-23-5L PACKAGE OUTLINE DIMENSIONS  
+![](images/7b6f64ba2e34bbe21fe4abc3f6e4f30d7d1073effd41720e9715cb7f3d098dcc.jpg)
+
+![](images/e0240b3fe06143399264ecd1c2662192a0bc7f7fc1b49e1f675e7795d1ed7ce3.jpg)
+
+![](images/c88c93da3d814c9c9490ae42ee18e85e5f2894aa83c54fcb8bbed8dc6b306f46.jpg)
+
+<table><tr><td rowspan="2">Symbol</td><td colspan="2">Dimensions In Millimeters</td><td colspan="2">Dimensions In Inches</td></tr><tr><td>Min</td><td>Max</td><td>Min</td><td>Max</td></tr><tr><td>A</td><td>1.050</td><td>1.250</td><td>0.041</td><td>0.049</td></tr><tr><td>A1</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.004</td></tr><tr><td>A2</td><td>1.050</td><td>1.150</td><td>0.041</td><td>0.045</td></tr><tr><td>b</td><td>0.300</td><td>0.500</td><td>0.012</td><td>0.020</td></tr><tr><td>c</td><td>0.100</td><td>0.200</td><td>0.004</td><td>0.008</td></tr><tr><td>D</td><td>2.820</td><td>3.020</td><td>0.111</td><td>0.119</td></tr><tr><td>E</td><td>1.500</td><td>1.700</td><td>0.059</td><td>0.067</td></tr><tr><td>E1</td><td>2.650</td><td>2.950</td><td>0.104</td><td>0.116</td></tr><tr><td>e</td><td colspan="2">0.950(BSC)</td><td colspan="2">0.037(BSC)</td></tr><tr><td>e1</td><td>1.800</td><td>2.000</td><td>0.071</td><td>0.079</td></tr><tr><td>L</td><td>0.300</td><td>0.600</td><td>0.012</td><td>0.024</td></tr><tr><td>θ</td><td> $0^{\circ}$ </td><td> $8^{\circ}$ </td><td> $0^{\circ}$ </td><td> $8^{\circ}$ </td></tr></table>

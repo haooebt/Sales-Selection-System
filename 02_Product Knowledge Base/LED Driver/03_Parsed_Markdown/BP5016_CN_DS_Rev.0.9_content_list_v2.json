@@ -1,0 +1,2200 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                152,
+                114,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016 是一款高集成度，兼容 DALI 2.0 协议，支持 Push 调光功能的 DALI 通讯接口控制器。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                175,
+                485,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016 芯片集成高压供电方式，只需要很少的外围元件，即可实现电平转换功能，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                215,
+                485,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016具有多重保护功能，包括总线输入过压保护、CS过流保护和芯片温度过热调节等。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                256,
+                485,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                297,
+                250,
+                313
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f416139e0faf05c3e8d38ebe1570561f86d04be03a884ccae5c2d1fb3c5746ae.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                318,
+                297,
+                400
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                152,
+                581,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 兼容 DALI 2.0 协议"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                177,
+                710,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 支持 Push 调光功能"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                197,
+                715,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 集成 700V 高压 JFET 供电"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                217,
+                754,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 集成 650V 高压 MOS"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                237,
+                726,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 高精度电流设置"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                258,
+                687,
+                274
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ DALI 总线输入过压保护"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                278,
+                739,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ CS过流保护"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                298,
+                663,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 芯片温度过热调节"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                318,
+                700,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 采用 SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                338,
+                694,
+                355
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                379,
+                621,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ DALI 调光"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                410,
+                648,
+                428
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 室内照明"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                431,
+                642,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 户外照明"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                450,
+                642,
+                468
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                470,
+                675,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                568,
+                154,
+                589
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fee75e21526159de1bfb1b5462edc23e2a881b8aad05b5f8e0bb5dfb09c836d5.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP5016 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                556,
+                852,
+                883
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016DALI 通讯接口控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                83,
+                329,
+                136
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                726,
+                61,
+                905,
+                131
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "05/2023"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                947,
+                129,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                946,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4f8cae849a11bbb3cf74039f366455a6a7d42f78db067af33d8d9e0b9d7be525.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5016</td><td>SOP-8</td><td>卷盘4000颗/盘</td><td>BP5016XXXXXYZXYYYWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                927,
+                203
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                246,
+                154,
+                263
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/477be32046d83dba3c838a5273bc602cc78727c763ebb3ad9adf2c51908bf690.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP5016：产品型号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXXXXYZ: 批次号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXYY: 标识"
+                    },
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "X：预留"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                272,
+                611,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 2. SOP-8 管脚封装图"
+                    }
+                ]
+            },
+            "bbox": [
+                413,
+                387,
+                581,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                414,
+                154,
+                432
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2101d6273d20530bb597363f3ac7de70e181de58d4e4582c35b47bedfeb72c7f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>RX</td><td>信号接收端</td></tr><tr><td>2</td><td>DRAIN</td><td>内置高压 MOS 漏极</td></tr><tr><td>3</td><td>HV</td><td>高压供电输入端</td></tr><tr><td>4</td><td>VS</td><td>输入电压检测输入端</td></tr><tr><td>5</td><td>TX</td><td>信号发送端</td></tr><tr><td>6</td><td>VCC</td><td>芯片电源</td></tr><tr><td>7</td><td>GND</td><td>芯片地</td></tr><tr><td>8</td><td>CS</td><td>电流采样端</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                441,
+                927,
+                706
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                915,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                191,
+                111
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/40b1f58010a02d15c6fd347ff0b298b409b74b525d76534ac13eef9f4afcf502.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>HV</td><td>高压供电输入端</td><td>-0.3~700</td><td>V</td></tr><tr><td>DRAIN</td><td>内置高压 MOS 漏极</td><td>-0.3~650</td><td>V</td></tr><tr><td>RX</td><td>信号接收端</td><td>-0.3~500</td><td>V</td></tr><tr><td>TX</td><td>信号发送端</td><td>-0.3~40</td><td>V</td></tr><tr><td>VCC</td><td>芯片电源端</td><td>-0.3~40</td><td>V</td></tr><tr><td>CS</td><td>电流采样端</td><td>-0.3~7</td><td>V</td></tr><tr><td>VS</td><td>输入电压信号采样端</td><td>-0.3~7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻(注3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                929,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 大极 值 指超出该 作范 芯片有 能损坏 推荐 作范 指在该范 内 件功能 常 但并 完全保证满 别性能指标 电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                533,
+                929,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度T<sub>A</sub>所决定的。最大允许功耗为P<sub>DMAX</sub> = (T<sub>JMAX</sub> - T<sub>A</sub>)/ θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                589,
+                929,
+                623
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 3：1 平方英寸双层PCB 板，按照JEDEC标准测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                629,
+                374,
+                643
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                915,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                935,
+                215,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                935,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/17e3d009b92a4d2c832c1fec91587378ccf429380aa24e61c2c718261b70e808.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 4) （无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { V C C } } = 8 { \\mathsf { V } } _ { \\cdot }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\bar { \\mathsf { T } } } _ { \\mathsf { A } } = 2 5 ^ { \\circ } { \\mathsf { C } } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 4：电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流电参数规范。最小值和最大值由测试保证，典型值由设计、测试或统计分析保证。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源</td></tr><tr><td> $I_{OP}$ </td><td>HV工作电流</td><td>无信号传输</td><td>210</td><td>240</td><td>270</td><td>μA</td></tr><tr><td> $V_{CC_ON}$ </td><td>VCC启动阈值</td><td></td><td>6.2</td><td>6.6</td><td>7.0</td><td>V</td></tr><tr><td> $V_{CC_UVLO}$ </td><td>VCC欠压阈值</td><td></td><td>4.8</td><td>5.1</td><td>5.4</td><td>V</td></tr><tr><td colspan=\"7\">电流采样基准</td></tr><tr><td> $V_{CS_REF}$ </td><td>电流检测基准电压</td><td></td><td>0.47</td><td>0.5</td><td>0.53</td><td>V</td></tr><tr><td> $V_{CS_OCP}$ </td><td>CS逐周期限流阈值</td><td></td><td>0.7</td><td>0.8</td><td>0.9</td><td>V</td></tr><tr><td colspan=\"7\">检测保护阈值</td></tr><tr><td> $V_{VS_OVP}$ </td><td>VS过压保护阈值</td><td></td><td>2.7</td><td>3</td><td>3.3</td><td>V</td></tr><tr><td> $V_{VS_TH}$ </td><td>VS信号检测阈值</td><td></td><td>0.5</td><td>0.53</td><td>0.56</td><td>V</td></tr><tr><td colspan=\"7\">驱动</td></tr><tr><td> $I_{RX}$ </td><td>RX内置下拉电流</td><td></td><td>1.08</td><td>1.2</td><td>1.32</td><td>mA</td></tr><tr><td colspan=\"7\">功率MOSFET</td></tr><tr><td> $R_{DS_ON}$ </td><td>功率管导通阻抗</td><td> $V_{GS}=10V/ I_{DS}=1.0A$ </td><td></td><td></td><td>5.7</td><td>Ω</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管的击穿电压</td><td> $V_{GS}=0V/ I_{DS}=250μA$ </td><td>650</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>功率管漏电流</td><td> $V_{GS}=0V/V_{DS}=650V$ </td><td></td><td></td><td>1</td><td>μA</td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td> $T_{REG}$ </td><td>过热调节点</td><td></td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                111,
+                929,
+                532
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                915,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                935,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/773eb7c045951400e20f7914aa412dbc8d60adc450317f387f24be0ab6e4c6b9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP5016 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                223,
+                121,
+                880,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                407,
+                154,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016是一款高集成度，兼容DAL2.0协议，支持Push调光功能的 DALI 通讯接口控制器。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                437,
+                472,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016 芯片集成高压供电方式，只需要很少的外围元件，即可实现电平转换功能，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                478,
+                460,
+                512
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                523,
+                110,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后，DALI 总线电压经整流后通过集成高压 JFET 给VCC 电容充电，当 VCC 电压达到芯片开启阈值时 ，芯片开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                550,
+                473,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一旦 VCC 电压掉到 UVLO 电压，芯片停止工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                609,
+                393,
+                625
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "信号传输"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                636,
+                144,
+                653
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片主要通过RX信号接收引脚和TX信号发送引脚的逻辑控制经光耦隔离后实现 DALI 总线和单片机之间的信号传输。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                663,
+                472,
+                697
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "CS 脚电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                708,
+                189,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片CS脚用于设置高压功率MOS的导通工作电流，工作电流由外部 CS脚采样电阻决定。工作电流的计算公式为："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                736,
+                472,
+                769
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm{DRAIN}} = \\frac {V _ {C S \\_ R E F}}{R _ {C S}} (m A)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/94dd6e820af90f97b2db21e33a2bef1bdcf008e953dcf1b25d47be5505b84c0e.jpg"
+                }
+            },
+            "bbox": [
+                184,
+                770,
+                351,
+                802
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { C S \\_ R E F }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为电流检测基准电压；"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                804,
+                307,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为电流采样电阻阻值。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                822,
+                240,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入过压保护电阻设置"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                848,
+                250,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VS 引脚用来检测输入过压保护。OVP 的上下分压电阻比例可以设置为："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                875,
+                472,
+                909
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O V P} = \\frac {R 1 + R 2}{\\mathrm{R} 2} \\times V _ {V S \\_ O V P}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/792670ba6c64d167560edca1a0bf665efc2e23df3694e61e34cf1976e1c9e5ce.jpg"
+                }
+            },
+            "bbox": [
+                623,
+                434,
+                826,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，R2 是 VS 下分压电阻；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                464,
+                724,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "R1 是 VS 上分压电阻；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                483,
+                678,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V<sub>VS_OVP</sub> 是芯片 VS 引脚过压保护阈值；"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                502,
+                781,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V 是输入电压过压保护设定点。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                520,
+                752,
+                535
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f4c5d20cacda960d9a6adfd33faeba8aaeeecf8f97257063e8350b73028bcb7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4. VS输入过压保护线路图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                529,
+                537,
+                867,
+                676
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "过热保护"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                706,
+                603,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016 内部集成过热保护功能，一旦芯片触发过热保护，CS限流基准电压会降低，通过减小功率MOS的工作电流以降低芯片的损耗。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                734,
+                929,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                797,
+                668,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP5016 PCB 时，需要遵循以下指南："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                825,
+                830,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VCC电容需要尽量靠近芯片 VCC 和 GND 引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                850,
+                884,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 信号传输光耦引脚尽量靠近芯片 RX和 TX引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                875,
+                882,
+                891
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                55,
+                915,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) VS 引脚电阻到芯片 GND 脚的连线应尽可能短，考虑Push 调光时 DRAIN 和 HV 端高压因素，VS 引脚电阻尽量远离 HV 和 DRAIN 引脚及走线。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                91,
+                473,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) 电流采样电阻到芯片 CS引脚的走线尽量短。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                154,
+                396,
+                168
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                179,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                57,
+                915,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                935,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                935,
+                616,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                936,
+                929,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/82b5f0275a48bdbea41944872acc9f02e223cdb4a50ed7c54f555be401babb1d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                147,
+                423,
+                363
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cd4abb9071a4040298e7ccba8ae3f1c1acc0216e6dfdb14f37bf8ca0756709e1.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                144,
+                407,
+                448,
+                504
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/27f7c7327390625bb0e58f4392f30ad50903d9f3372f44420ecb9e47dbceb257.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                520,
+                443,
+                829
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4b914ef97251dc47b1c1ea0e914fc6c316262d906949fc9b3407ac817b94ffbc.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    },
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                557,
+                146,
+                882,
+                491
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                55,
+                915,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/7c6197c8f65b4a16b8dfd104ca0cf2633be6f3e424ea37270ec477b18e4a9561.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                92,
+                243,
+                895,
+                784
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0ae70347ccf35343afff7ee54d5a1ef7f01aaf7a33f3f1de91344ebc68630a6c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 0.9</td><td>2023/05</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                902,
+                236
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                42,
+                181,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                55,
+                915,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                935,
+                216,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                935,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                447,
+                102,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                158,
+                789,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                199,
+                932,
+                256
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                82,
+                55,
+                181,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                70,
+                915,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5016_CN_DS_Rev_0.9"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                216,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                618,
+                947
+            ]
+        }
+    ]
+]

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:08:49+08:00",
+  "file": "BP1362_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 1302261,
+    "pages": 12,
+    "sha256": "d6aaf294bbdc29942bbbcae40daa77de3c8156a99faac7719551d3f4bc44b0f7"
+  },
+  "batch_id": "2095bc0e-e590-4a95-b0aa-ae0b7dd7bc5e",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:08:50+08:00",
+    "errors": [],
+    "markdown_chars": 10522,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T13:09:01+08:00"
+}

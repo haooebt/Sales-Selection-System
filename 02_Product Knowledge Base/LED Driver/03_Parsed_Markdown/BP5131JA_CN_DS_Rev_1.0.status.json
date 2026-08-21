@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:13:18+08:00",
+  "file": "BP5131JA_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 386178,
+    "pages": 6,
+    "sha256": "422cc74c25973306b44ace07ef491654fb5c1f1af4fc5e307b938b7dbb90c064"
+  },
+  "batch_id": "b513f2e9-1a2a-4e70-9ed5-dbd0da9b8ec4",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:13:22+08:00",
+    "errors": [],
+    "markdown_chars": 5086,
+    "parsed_pages": 6,
+    "passed": true,
+    "pdf_pages": 6
+  },
+  "published_at": "2026-08-21T14:13:37+08:00"
+}

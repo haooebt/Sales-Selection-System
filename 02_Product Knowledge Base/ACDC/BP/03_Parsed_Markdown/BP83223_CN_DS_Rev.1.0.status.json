@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:53:05+08:00",
+  "file": "BP83223_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3141940,
+    "pages": 14,
+    "sha256": "4b3ec6c77e175db5732e2e3bccdc8fa797f6ea3fbacc749e46084bd064000a1c"
+  },
+  "batch_id": "409a6536-3994-4ec3-a43e-79bfb903b7e8",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:53:07+08:00",
+    "errors": [],
+    "markdown_chars": 19645,
+    "parsed_pages": 14,
+    "passed": true,
+    "pdf_pages": 14
+  },
+  "published_at": "2026-08-21T14:53:38+08:00"
+}

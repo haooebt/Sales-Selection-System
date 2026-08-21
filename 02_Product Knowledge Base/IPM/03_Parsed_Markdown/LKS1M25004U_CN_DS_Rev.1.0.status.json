@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:08:21+08:00",
+  "file": "LKS1M25004U_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1563704,
+    "pages": 17,
+    "sha256": "bfd233a4a4d6d7e2e7672f8ed1062045d0bd9c43b811820401c3f53098013d36"
+  },
+  "batch_id": "1218ba8e-9a3a-47ce-89f8-d8a4cd07ddc3",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:08:21+08:00",
+    "errors": [],
+    "markdown_chars": 14686,
+    "parsed_pages": 17,
+    "passed": true,
+    "pdf_pages": 17
+  },
+  "published_at": "2026-08-21T13:08:28+08:00"
+}

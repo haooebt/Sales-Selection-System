@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:27:37+08:00",
+  "file": "BP2861XJ_CN_DS_Rev.1.6.pdf",
+  "pdf": {
+    "bytes": 1704518,
+    "pages": 10,
+    "sha256": "66e16fd7f021c2072b9b8bec9614e72d0016ca4f1c0e4fd8ab3264f89a67ee04"
+  },
+  "batch_id": "a8fc77fe-e0b0-46ff-8014-427d5c4e52db",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:27:39+08:00",
+    "errors": [],
+    "markdown_chars": 11208,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:27:51+08:00"
+}

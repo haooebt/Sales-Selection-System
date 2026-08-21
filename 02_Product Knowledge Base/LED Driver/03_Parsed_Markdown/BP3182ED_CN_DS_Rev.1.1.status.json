@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:37:14+08:00",
+  "file": "BP3182ED_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 2941394,
+    "pages": 10,
+    "sha256": "217ce7d8c8bb1562becd8f57e3d321014adfd1b19a78ddce99240bb8d58fa44e"
+  },
+  "batch_id": "6eb062fe-35ad-4ed5-b0e8-695a0b86a47b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:37:14+08:00",
+    "errors": [],
+    "markdown_chars": 10114,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:37:19+08:00"
+}

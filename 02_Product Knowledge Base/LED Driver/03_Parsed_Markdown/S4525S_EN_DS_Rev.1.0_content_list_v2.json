@@ -1,0 +1,1769 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                122,
+                208,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S is a CCT controller with two integrated 400V thyristors and high-voltage JFET power supply circuits. It does not need the VCC capacitor and startup resistor, so as to reduce the system cost and size greatly."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                147,
+                485,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S utilizes stable ON-OFF detection technology to ensure the state consistency in multi-module applications. S4525S is also compatible with Flyback, Buck, Buck-Boost, and other LED driving applications."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                231,
+                485,
+                312
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9cfaacd1808b30764141b61624d30a4dcb9eee2fc48470d247296bce51a6f2e5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SOP8 Package"
+                    }
+                ]
+            },
+            "bbox": [
+                238,
+                350,
+                336,
+                413
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                542,
+                122,
+                633,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Three states loop: L1→L2→(L1+L2)/2"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                147,
+                850,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ High integration and clean periphery"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                168,
+                850,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Integrates two 400V Thyristors"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                187,
+                805,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Built-in clock timing reset for good consistency"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                208,
+                905,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ Built in voltage limiting circuit, suitable for wide range output power"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                248,
+                907,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ compatible with isolated, non-isolated and high PF switching power supply applications"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                288,
+                905,
+                326
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Applications"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                336,
+                677,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ CCT applications"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                362,
+                710,
+                380
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d8303954cd9f9401a24c6700726cb01ed11e7b4ac3c8bea0cffd0e5bb70cf3a7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Figure 1 S4525S Typical Application"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                104,
+                539,
+                858,
+                755
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S\nCCT controller"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                48,
+                280,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                749,
+                26,
+                929,
+                93
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "08/2024"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                951,
+                147,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                950,
+                905,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1def9cb07d36d56c3fdac677935df3b224b4b3181cdee81269e0dd146b4e23b2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Package Method</td><td>Marking</td></tr><tr><td>S4525S</td><td>SOP8</td><td>Tape4,000 pcs/Reel</td><td>S4525XXXXXXYZXXXYYX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                142,
+                905,
+                240
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Configuration"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                253,
+                265,
+                273
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8e59717dbc7bedc78b0872879d419e3564071e47e68adfe7b10bb0412e4f9ff.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXXY : Lot code"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ZXXX: sign"
+                    },
+                    {
+                        "type": "text",
+                        "content": "YY:week"
+                    },
+                    {
+                        "type": "text",
+                        "content": "X : reversed"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                275,
+                601,
+                386
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6d4f068d56385b420483f31b1a41bae7c2e506793e0b9c7a90390bd3e4d7776d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2 Pin Configuration"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Pin Definition"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin No.</td><td>Name</td><td>Description</td></tr><tr><td>1</td><td>HV</td><td>Power supply pin of the chip</td></tr><tr><td>2</td><td>CLK</td><td>Signal detecting pin</td></tr><tr><td>3</td><td>NC</td><td>NC</td></tr><tr><td>4</td><td>GND</td><td>Ground</td></tr><tr><td>5, 6</td><td>D2</td><td>Connect to the negative pole of the  $2^{nd}$  group LED string</td></tr><tr><td>7, 8</td><td>D1</td><td>Connect to the negative pole of the  $1^{st}$  group LED string</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                451,
+                902,
+                656
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f140807284583fb6752ff05dbf33793293551dfa534e38dc34d35342dea407f2.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                99,
+                670,
+                252,
+                802
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d009a743f699f19a29d32546e35d590e15a2bf931d5a29ef2c2db40c5ab3427a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings (Note1)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note 2: The maximum power dissipation decreases if temperature rises, it is decided by  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ",  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and environment temperature ( "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). The maximum power dissipation is the lower one between  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " and the number listed in the maximum table."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Range</td><td>Units</td></tr><tr><td>HV</td><td>Internal power supply</td><td>-0.3~500</td><td>V</td></tr><tr><td>CLK</td><td>Signal detecting</td><td>-400~400</td><td>V</td></tr><tr><td>D1/D2</td><td>Connect to the negative pole of LED string</td><td>0~400</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Power dissipation (Note 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Thermal resistance of junction to ambient</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Operating junction temperature</td><td>-40~125</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage temperature range</td><td>-40~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                141,
+                904,
+                400
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d2a3083472ba911543b2ffb4ec1c91aa00def7baa72cbbd52eb3c265d54a2a4c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (Note 3 4) (Unless otherwise specified, HV=50V,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": ")"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 3: Typical parameters are measured under   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C temperature."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note4: The maximum and minimum parameters specified are guaranteed by test, the typical value is guaranteed by design, characterization and statistical analysis."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note 5: The peak voltage of the CLK pin should be controlled within -350 to 400V in application."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Description</td><td>Condition</td><td>Min</td><td>Typ</td><td>Max</td><td>Units</td></tr><tr><td>HV_max</td><td>Maximum HV voltage</td><td></td><td></td><td></td><td>500</td><td>V</td></tr><tr><td>IHV</td><td>Operation current</td><td>HV = 50V</td><td></td><td></td><td>0.5</td><td>mA</td></tr><tr><td>Vclk(+)</td><td>Maximum HV positive voltage</td><td></td><td></td><td></td><td>400</td><td>V</td></tr><tr><td>Vclk(-)</td><td>Maximum HV negative voltage (note 5)</td><td></td><td>-400</td><td></td><td></td><td>V</td></tr><tr><td>CLKth</td><td>Threshold voltage of CLK pin</td><td></td><td></td><td></td><td>18</td><td>V</td></tr><tr><td>Tclk</td><td>Delay time to detect clk signal</td><td></td><td></td><td>3.2</td><td>4</td><td>μs</td></tr><tr><td>IHV(h)</td><td>Operation current in state hold time</td><td></td><td></td><td></td><td>1</td><td>μA</td></tr><tr><td>TDon</td><td>Delay time to Judge switch on</td><td></td><td></td><td>46</td><td></td><td>ms</td></tr><tr><td>TDoff</td><td>Delay time to Judge switch off</td><td></td><td></td><td>24</td><td></td><td>ms</td></tr><tr><td>Trs</td><td>Time for state reset operation</td><td></td><td></td><td>11</td><td></td><td>s</td></tr><tr><td>HV(rst)</td><td>State reset voltage at HV pin</td><td></td><td></td><td>1.7</td><td></td><td>V</td></tr><tr><td>VDx</td><td>Saturate voltage of D1/D2</td><td></td><td></td><td>1.4</td><td></td><td>V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                141,
+                905,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Requirements of Signal Detection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                589,
+                420,
+                607
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The logical state sequence of S4525S is L1→L2→(L1+L2)/2, L1 and L2 represent the LED strings connected to D1 and D2 pin respectively. The effective input signal for the detecting pin CLK should meet following requirements as Figure 3 shows. To leave enough margin, the amplitude should be above 18, and the pulse width should be larger than 5uS at 18V."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                618,
+                907,
+                695
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2674278edb843a911f3739fe7d15f7cfd4506313c8f5fdc4ce741dc87dc935cc.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3. The requirements for effective signal of CLK pin"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                697,
+                905,
+                800
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                131,
+                327,
+                149
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Power Supply"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                164,
+                243,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S is powered though HV pin. The HV pin is integrated with high-voltage JFET for internal power supply."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                193,
+                485,
+                252
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Signal Detection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                262,
+                265,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S judges ON/OFF state of the switch by detecting pulse signal through CLK pin. CLK pin is connected to an oscillation signal point by resistor. When the switch is ON state, continuous pulse signal is detected by CLK. When the switch is OFF state. Pulse signal on the CLK pin disappears. To filter noise and avoid false triggering, delay time is adopted. Delay time   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{on}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (Typical value 46mS) is adopted to judge switch ON state. Delay time   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{off}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (Typical value 24mS) is adopted to judge switch OFF state. When the duration time of continuous pulse signal of CLK pin is larger than   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{on}"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", the chip judges it is ON. When CLK pin detects no effective signal over   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{off}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  time, the chip judges it is OFF. The chip can switch state only after the   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{on}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  and   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{off}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  is valid."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                292,
+                485,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The CLK pin integrates a 4M pull-down resistor to GND. The threshold voltage of CLK is about 18V, and internal filter time is about 3.2uS. To leave enough margin, The pulse width should be larger than 5uS at 18V"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                595,
+                485,
+                671
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Loading Ability"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                702,
+                253,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S integrates two 400V thyristors, and the saturate voltage of the thyristor is about 1.4V. The maximum current that S4525S can be supported is about 280mA."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                733,
+                485,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                512,
+                158,
+                900,
+                173
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. State Hold Time"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                184,
+                685,
+                200
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S's operating current is less than 1uA to hold the state for the required time after power off. The state hold time is timed by the chip's internal clock and is about 11s (at  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "). if the output capacitance is too small, the chip will resets when the HV pin voltage drops to 1.7V. So it is necessary to select suitable output capacitance to maintain the HV pin voltage above 2V for more than 11s after power off."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                214,
+                909,
+                372
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Application Notes"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                382,
+                700,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When designing S4525S application, following these rules will get better performance:"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                413,
+                907,
+                450
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Put HV input capacitor close to HV and GND pin as close as possible."
+                    }
+                ]
+            },
+            "bbox": [
+                505,
+                453,
+                907,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) The HV pin string a resistor can meet the higher surge requirements, but the HV resistor will shorten the reset time. So we need to combine the surge capacity and reset time, choose the right resistor."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                494,
+                907,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) The state switch speed in low temperature is affected by the start-up delay of S4525S, the system switching frequency and the output electrolytic. Choosing the right output capacitor is recommended."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                575,
+                909,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) There may be a short reset time problem with non-SDS chips. Refer to the application guide for measures to deal with the problem."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                676,
+                909,
+                732
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                953,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP8 Configuration"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                118,
+                292,
+                137
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eff9d12fcd490d68bd826928af783e78a150b2affceac85b31c8cfb8d54411bf.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                144,
+                173,
+                411,
+                372
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7e39c710da00e2d3811beb1390815b3b3c6a8f28c12f8f0e2d1f9561552397aa.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                668,
+                155,
+                764,
+                348
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/291e30f16c3ae7564e38c06bcd0a6dcd95f1ea7e0029982b7ba6e8e9c448dea3.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                161,
+                456,
+                421,
+                539
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e0dae8462ff3a193511b85b3376c0d8849edb5750302a9b3c4f6b66f2ae0c714.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                439,
+                850,
+                546
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/42485adf2120c0577b7be706afd5d9e1b1e18cccb1a93332b71ed2a7fb91a9ef.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.30</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                186,
+                653,
+                394,
+                871
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                611,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d6e6189e76cac21c5cb5e0fbe5a5cc39fc1f202bf543457496bfa9d3a3e51dea.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Revision Information"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision</td><td>Date</td><td>Notes</td></tr><tr><td>Rev. 1.0</td><td>2024/08</td><td>First Release</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                141,
+                885,
+                315
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                102
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                613,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                435,
+                117,
+                564,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Bright Power Semiconductor (BPS) reserves the right to make changes at any time without prior notice."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                156,
+                907,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is granted under this document. BPS provides information in this datasheet “AS IS” and with all faults, and makes no warranty, express or implied, including but not limited to, the accuracy of the information provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all liabilities arising out of this datasheet or use of this datasheet, including without limitation consequential or incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                211,
+                909,
+                329
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                952,
+                905,
+                964
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                64,
+                205,
+                103
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S"
+                    }
+                ]
+            },
+            "bbox": [
+                823,
+                83,
+                902,
+                99
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4525S_EN_DS_Rev_1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                952,
+                238,
+                964
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                613,
+                965
+            ]
+        }
+    ]
+]

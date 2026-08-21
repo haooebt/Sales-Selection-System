@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:01:04+08:00",
+  "file": "BP8522D_CN_DS_Rev.1.3.pdf",
+  "pdf": {
+    "bytes": 3497468,
+    "pages": 17,
+    "sha256": "2acf205f0f07d13eaa95b357802d8fec1ebcb10b8a57d180f68a8d2793376aff"
+  },
+  "batch_id": "0464674f-f3e3-4563-98aa-3243036a2210",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:01:04+08:00",
+    "errors": [],
+    "markdown_chars": 19313,
+    "parsed_pages": 17,
+    "passed": true,
+    "pdf_pages": 17
+  },
+  "published_at": "2026-08-17T22:01:04+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:15:56+08:00",
+  "file": "BP8521C_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 2648481,
+    "pages": 12,
+    "sha256": "b44d008523308cf6e0ec65aa25aef81830944beb9aec34618cd2bcb6d502a5e1"
+  },
+  "batch_id": "cd6fc63f-eb4f-4afb-86d3-aa04a3e138bb",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:15:57+08:00",
+    "errors": [],
+    "markdown_chars": 11476,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T15:16:04+08:00"
+}

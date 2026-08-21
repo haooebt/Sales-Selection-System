@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:02:08+08:00",
+  "file": "BP2630G_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2955404,
+    "pages": 9,
+    "sha256": "aca9f1a829d1ef893d61740d0b4a845bf9c2428ec49a25571a800016f90b2e1d"
+  },
+  "batch_id": "03548d8d-455e-4770-ad51-eabc60d7399f",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:02:10+08:00",
+    "errors": [],
+    "markdown_chars": 10132,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:02:16+08:00"
+}

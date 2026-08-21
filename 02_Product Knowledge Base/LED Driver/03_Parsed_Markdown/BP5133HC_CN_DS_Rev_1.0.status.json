@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:14:43+08:00",
+  "file": "BP5133HC_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 307036,
+    "pages": 8,
+    "sha256": "a76fcdc42a0d6c1ad73019c922d0b17a2ce8da6aec4dc7fe1ee5dd40ccc41d13"
+  },
+  "batch_id": "be62b744-b11a-4564-8cd6-bd4cfd9458ed",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:14:48+08:00",
+    "errors": [],
+    "markdown_chars": 5898,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:15:00+08:00"
+}

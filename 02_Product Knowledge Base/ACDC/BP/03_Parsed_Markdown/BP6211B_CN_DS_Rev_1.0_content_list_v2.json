@@ -1,0 +1,2807 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                127,
+                147,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 是一款高集成度、高性能、自供电的同步整流控制芯片，内置功率 MOSFET，支持 CCM、DCM 和 QR 工作模式，适用于高效率、高功率密度反激变换器应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                157,
+                484,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 采用预关断工作模式，驱动电压根据功率 MOSFET 压降自适应调整，加上超短的关断延时和高达 4A 的驱动下拉电流，能够实现超快的关断速度，使得系统能可靠工作于 CCM 模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                223,
+                485,
+                298
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 芯片内部使用了振铃检测电路，避免了在 DCM 模式下由于自由振荡引起误开通而导致的初次级共通问题。同时内置前沿消隐时间，可以防止寄生振荡误触发 MOSFET 提前关断，从而保证同步整流稳定工作。超短的开通延时可以增加 MOSFET 导通时间以获得尽可能高的效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                308,
+                485,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 采用功率管漏极引脚自供电的方法,无需外部供电,可灵活地选择放置在输出正端或负端。放置于正端时,不需要额外的供电绕组,外围电路非常简洁。同时,由于自供电,可实现宽范围输出电压,输出电压可以低至 0 V,非常适合充电器应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                429,
+                482,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                534,
+                290,
+                549
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2d243dcb3bf16e8aabd8b798bcad50dcf1f5c083fcc13d3d595796407e8e0e81.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                245,
+                557,
+                327,
+                612
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                547,
+                127,
+                594,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成 60 V 同步整流 MOSFET"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                161,
+                781,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持 CCM/DCM/QR 工作模式"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                181,
+                786,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 自适应驱动电压，超快关断速度，防止 CCM 模式初次级共通"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                201,
+                882,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 内置振铃检测，防止 DCM 误开通"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                242,
+                813,
+                257
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 可用于正端和负端整流"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                262,
+                742,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片自供电，正端整流无需辅助供电绕组"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                282,
+                862,
+                296
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持宽输出电压范围，可低至 0 V 输出"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                302,
+                845,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 最大 4 A 驱动下拉电流，超低驱动内阻可避免密勒效应引起误开通"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                321,
+                890,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 超短开通延时，增加 MOSFET 导通时间，优化了效率"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                363,
+                884,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 低待机功耗，满足六级能效要求"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                403,
+                803,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成度高，外围电路简洁"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                423,
+                757,
+                439
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                482,
+                636,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ QC/USB-PD/可编程 AC-DC 充电器"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                513,
+                821,
+                529
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高效率电源适配器"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                533,
+                710,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高效率、高功率密度反激变换器"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                554,
+                803,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                240,
+                627,
+                324,
+                642
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                678,
+                186,
+                697
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56f77ea7bb918b0bbce1c5d7c1a7cde6267b114de1e7514c6fa9e94cfbe1a132.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP6211B 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                309,
+                712,
+                655,
+                875
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                613,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                186,
+                146
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bda5ee357dda7a962f7283ad8f57a8f6b7d41c8fe8038ad0416be73b8dcdedaa.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP6211B</td><td>SOP-8</td><td>卷盘4,000 颗/盘</td><td>BP6211BXXXXXXXXYZZZZWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                155,
+                892,
+                238
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                283,
+                188,
+                302
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5e5fda931620653c7043885ca8b52de1f75a0adcf9f27f21c2435c6bc6115fac.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. SOP-8 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                332,
+                312,
+                818,
+                471
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                542,
+                186,
+                559
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6768e1b6946e6f90a006787141c308d888f1fef1461c65b8018f1560cadfc0ff.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VCC</td><td>芯片供电引脚,内部自供电输出端,推荐使用 $1 \\mu F$ 瓷片电容到芯片地</td></tr><tr><td>2</td><td>VD</td><td>功率 MOSFET 漏极电压检测引脚,同时也是内部自供电输入端</td></tr><tr><td>3/4</td><td>S</td><td>芯片同步整流管源极,芯片地</td></tr><tr><td>5/6/7/8</td><td>D</td><td>芯片内部同步整流管漏极</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                568,
+                890,
+                716
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                935,
+                611,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数（注1）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                235,
+                144
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a14861924f06ce6e082d5c387d484dbd385c09a190b5eceba886dec2f3754d80.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：极限参数是指超出该范围，有可能导致器件永久性损坏。极限参数为器件应力的额定值，长期工作在极限参数条件可能会影响器件的可靠性。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注3：1平方英寸双层PCB板，按照JEDEC标准测试。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：人体模型，100pF电容通过  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.5\\mathrm{k}\\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td> $V_{CC}$ 电压</td><td>-0.3~12</td><td>V</td></tr><tr><td> $V_D$ </td><td>同步整流管漏极到源极耐压</td><td>-0.7~60</td><td>V</td></tr><tr><td> $V_{VD}$ </td><td>VD引脚电压范围</td><td>-1~120</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.97</td><td>W</td></tr><tr><td> $θ_{JA}$ </td><td>结到环境的热阻(注3)</td><td>129</td><td>°C/W</td></tr><tr><td> $θ_{JC}$ </td><td>结到芯片表面的热阻(注3)</td><td>70</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注4)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                155,
+                890,
+                433
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                935,
+                611,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 5)（无特别说明情况下，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                458,
+                144
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cdd17fa77cc4ce7211b347e168d0e29620f6f2ab5c77eb3533a9d2e508668fa1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注5：电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。最小值和最大值由测试保证，典型值由设计、测试或统计分析保证。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">VCC供电部分</td></tr><tr><td> $V_{CC\\_ON}$ </td><td>VCC启动阈值电压</td><td>VCC上升至IC开启</td><td>4.2</td><td>4.6</td><td>5</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>VCC欠压保护开启电压</td><td>VCC下降至IC关闭</td><td>3.6</td><td>4</td><td>4.4</td><td>V</td></tr><tr><td> $V_{CC\\_REG}$ </td><td>VCC调整电压</td><td> $V_{VD}=14V$ </td><td>8.5</td><td>9.2</td><td>9.7</td><td>V</td></tr><tr><td> $I_{CH}$ </td><td>VCC电容充电电流</td><td>VCC=7V, $V_{VD}=14V$ </td><td>37</td><td>55</td><td>71</td><td>mA</td></tr><tr><td> $I_Q$ </td><td>静态工作电流</td><td>VCC=9V</td><td>180</td><td>250</td><td>340</td><td>μA</td></tr><tr><td> $I_{CC}$ </td><td>工作电流</td><td>VCC=9V, $F_{SW}=100kHz$ </td><td></td><td>5</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">控制电路</td></tr><tr><td> $V_{DS\\_REG}$ </td><td>MOSFET  $V_{DS}$ 电压调整值</td><td></td><td></td><td>-45</td><td></td><td>mV</td></tr><tr><td> $V_{ON\\_TH}$ </td><td>驱动开通 $V_{DS}$ 阈值电压</td><td></td><td></td><td>-180</td><td></td><td>mV</td></tr><tr><td> $t_{SLEW}$ </td><td>斜率检测时间</td><td></td><td></td><td>30</td><td></td><td>ns</td></tr><tr><td> $V_{OFF\\_TH}$ </td><td>驱动关断 $V_{DS}$ 阈值电压</td><td></td><td></td><td>0</td><td></td><td>mV</td></tr><tr><td> $t_{Delay\\_ON}$ </td><td>驱动开通延时</td><td></td><td></td><td>30</td><td></td><td>ns</td></tr><tr><td> $t_{Delay\\_OFF}$ </td><td>关断延时</td><td></td><td></td><td>10</td><td></td><td>ns</td></tr><tr><td> $t_{ON\\_BL}$ </td><td>开通消隐时间</td><td></td><td></td><td>1</td><td></td><td>μs</td></tr><tr><td> $V_{OFF\\_BL}$ </td><td>消隐时间内关断 $V_{DS}$ 阈值</td><td></td><td></td><td>2</td><td></td><td>V</td></tr><tr><td> $t_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>功率管导通阻抗</td><td> $V_{GS}=10V, I_D=30A$ </td><td></td><td>14</td><td>20</td><td>mΩ</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管击穿电压</td><td> $V_{GS}=0V, I_D=250μA$ </td><td>60</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>功率管关断漏电流</td><td> $V_{DS}=60V, V_{GS}=0V$ </td><td></td><td></td><td>1</td><td>μA</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                100,
+                147,
+                890,
+                649
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                109,
+                17,
+                452,
+                108
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                445,
+                935,
+                566,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                611,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                937,
+                897,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                226,
+                146
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/105d377b2cc79196e02743476f82094a62d9f581885997a7361f7e57f8457e7c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP6211B 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                160,
+                880,
+                494
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                547,
+                186,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 是一款用于替代反激式变换器副边整流二极管的高性能同步整流芯片。内置低导通阻抗功率 MOSFET，降低了副边整流管的压降，以提高系统效率。BP6211B 支持 CCM、DCM 以及 QR 工作模式，采用预关断技术，驱动电压随 MOSFET 漏极到源极的电压升高而降低。同时超短的关断延时和高达 4 A 的驱动下拉电流，能够实现超快的关断速度，使得系统能可靠工作于 CCM 模式。芯片内部使用了振铃检测电路，避免了由于自由振荡引起误开通而导致的初次级共通问题，保证芯片也能在 DCM 模式下可靠工作。30 ns 超短开通延时减短了体二极管的导通时间，增加了 MOSFET 沟道的导通时间，极大地提高了效率。（注 6：以下描述到的参数均为电气参数列表中的典型值，除非特别说明是最大或最小值）"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                580,
+                473,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "启动和 VCC 欠压保护"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                849,
+                272,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统启动时，BP6211B 通过 VD 引脚对 VCC 电容充电，充电电流  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I_{CH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 为 55 mA。当 VCC 电压上升到启动阈值电压  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "（4.6V）时，芯片退出 VCC 欠压保护状态，内部控制电路开始工作，驱动同步整流 MOSFET 正常导通和关断。芯片工作时，所需的工作电流仍然会通过 VD 引脚提供，内部线性调整器将 VCC 稳压到  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_REG}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "（9.2V）。当 VCC 电压下降到低于欠压保护阈值  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_UVLO}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "（4V）时，控制器进入欠压保护状态，驱动保持低电平，同步整流 MOSFET 处于关断状态，直到 VCC 电压再次升高到  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{CC\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                580,
+                899,
+                777
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "漏极电压检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                788,
+                638,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 通过 VD 引脚检测同步 MOSFET 漏极电压达到检测电流的目的，从而驱动 MOSFET 导通和关闭实现同步整流。当原边开关管关断后，变压器次级续流，同步 MOSFET 的体二极管导通，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  电压由正变为负，控制器驱动 MOSFET 开通。由于体二极管导通时有比较大的正向压降，导致 VD 引脚存在负电流，过大的负电流可能会导致控制电路的地不稳定使得驱动提前关断，降低效率。为了减小 VD 引脚负电流，建议在 VD 引脚串接一个电阻，推荐典型阻值为 300 Ω。电阻太大会影响 VCC 供电和漏极电压斜率检测，因此不建议使用超过 500 Ω 的电阻。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                819,
+                899,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                445,
+                935,
+                566,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                952,
+                611,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                937,
+                897,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                97,
+                128,
+                472,
+                264
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "斜率检测与驱动开通"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                276,
+                265,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 VD 引脚检测到 MOSFET 的   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  从 2 V 下降至驱动开通阈值电压   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{ON\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (-180 mV) 的时间小于芯片内部设定的斜率检测时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{SLEW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (30 ns) 时，控制器驱动同步 MOSFET 导通，开通延迟时间为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{DELAY\\_ON}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (30 ns)。如果下降到   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{ON\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  的时间超过   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{SLEW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，那么驱动电路保持 MOSFET 关断，防止由于 DCM 模式下的自由振荡引起误开通导致的初次级共通问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                306,
+                472,
+                444
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在 DCM 模式下，当反激变压器去磁完成，次级电流下降到零后，变压器励磁电感和寄生电容产生自由振荡。由于初次级芯片通过漏极供电或者钳位电路的漏电流导致变压器中存储了能量，自由振荡幅度被增大而使得同步整流管漏极电压可能振荡到低于 0 V。如果没有斜率检测电路，控制器会误开通 MOSFET 并维持导通状态，直到开通消隐时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{ON\\_BL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  结束。如果这段时间内原边功率开关开通，就会导致初次级共通。斜率检测电路能够有效地分辨自由振荡和初级开关关断现象，禁止控制器在自由振荡期间开通 MOSFET，避免共通问题。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                454,
+                472,
+                653
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "开通消隐时间"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                663,
+                211,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 驱动 MOSFET 开通后，控制器在开通消隐时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{ON\\_BL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  内（1 μs）维持 MOSFET 导通，以禁止由于变压器漏感和寄生电容产生的高频振荡触发到关断阈值电压   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OFF\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " （0 mV）提前关断。但是如果在消隐时间内   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  向上穿过消隐关断阈值   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OFF\\_BL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " （2 V），则控制器立即关断 MOSFET。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                694,
+                472,
+                809
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "自适应驱动电压"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                821,
+                230,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 采用预关断技术，驱动电压随 MOSFET 漏极到源极的电压差自适应调整。在一个开关周期内，当次级电流下降，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  电压高于调整值   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS\\_REG}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  （-45 mV）时，"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                852,
+                472,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 降低驱动电压，增加 MOSFET 的导通内阻，使   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  电压维持到 -45 mV 直到通过 MOSFET 的电流下降到零。这样做的好处是在 MOSFET 关断时，门极电压很低，可以实现较快的关断速度。在 CCM 模式下这个功能显得尤其重要，较快的关断速度可以减小次级的反向电流，从而降低同步整流管的电压尖峰。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                128,
+                897,
+                245
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "驱动关断"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                255,
+                603,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在导通时间已经超过开通消隐时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{ON\\_BL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  的情况下，当   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  电压上升到   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OFF\\_TH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  （0 mV）时，控制器立即关断 MOSFET。其最大 4 A 下拉电流，可以快速拉低门极电压，同时超低驱动内阻可以消除密勒效应引起的误开通。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                286,
+                897,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "最小关断时间"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                372,
+                638,
+                389
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "控制器一旦关断驱动，在最小关断时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{OFF\\_MIN}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  内（300 ns）将锁定关断状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                404,
+                897,
+                439
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                527,
+                452,
+                611,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B 可以放置在输出正端或负端来取代次级整流二极管（如图 4、5 所示），且不需要额外的辅助绕组供电。VD 引脚为控制器的漏极电压检测脚和内部自供电输入端，VD 引脚需要通过 300 Ω电阻与漏极相连。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                485,
+                897,
+                561
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90b0985b3f5d7ce6127fa344ae2e40c31a06dd2683c1ff7dceaffbe5ee5631e1.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                603,
+                572,
+                826,
+                694
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/92fda780e96f538e16379a56676e54f3b6584e7994e4ce0dcaa3977e60498ff7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4. 正端整流应用电路"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 5. 负端整流应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                603,
+                728,
+                840,
+                864
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                445,
+                935,
+                566,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                52,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                895,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                611,
+                965
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                937,
+                897,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                128,
+                263,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为保证系统可靠工作，在设计 PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                161,
+                472,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) BP6211B 的 S 和 D 引脚做覆铜散热。芯片的 D 脚（MOSFET 漏极）能很好地起到散热作用，是器件散热的主要途径。但是由于漏极属于 EMI 动点，在满足散热的条件下铺铜面积应尽量小。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                207,
+                472,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 在 VCC 和 S 引脚之间放置一个 1 μF 的 VCC 瓷片电容，并靠近芯片，以提升芯片的抗干扰能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                296,
+                470,
+                333
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) 为了降低辐射干扰，应减小高频功率环路面积。BP6211B、变压器次级绕组和输出滤波电容之间的环路面积尽可能小。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                344,
+                470,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) BP6211B 的 VD 引脚连接 300 Ω电阻到 D 引脚，该电阻应该靠近 VD 引脚端。一般而言，电阻与 D 引脚采用单点连接，连接位置为 D 引脚的焊盘。以避免引入 PCB 走线上的寄生电感。引入 PCB 寄生电感后，由于电流斜率为负，寄生电感上的电压降方向与 MOSFET 压降相反。VD 引脚实际检测到的电压是在 MOSFET 的   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{DS}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  上叠加了一个正的直流偏置（如图 6）。因此，自适应驱动电压偏低，MOSFET 损耗增加，降低了系统效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                412,
+                472,
+                589
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e09fd7a9950f3766e6e196ca5427d775508c9f7834498fde385524fbd8468904.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 6. MOSFET 导通时漏极 PCB 寄生电感的电压"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                157,
+                598,
+                426,
+                679
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) 但是引入适量的寄生电感，有利于 CCM 模式下快速关断，减小反向电流，从而降低同步整流管的电压尖峰。如图 7 所示，在 CCM 模式当原边功率管开通时，次级电流迅速减小，寄生电感上的感应电压增加，VD 对地电压变为正电压，控制器将快速关断 MOSFET，使反向电流尽可能减小。因此，必要时可以尝试将 VD 电阻与漏极连接点放置在变压器引脚端，达到降低漏极电压尖峰的目的。参考图 8 中 Layout 实例。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                718,
+                473,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                559,
+                128,
+                845,
+                163
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/304351fbcc211c20a2ae8251a70d4ea762ed3b618552d063c93b6b36ecae8fcb.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 7. CCM 模式下寄生电感帮助快速关断"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                563,
+                176,
+                875,
+                492
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3635a6b912b02a342c8f535df8a7ebf2e235006611ea4fd51e2769c00b478b79.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 8. Layout 实例"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                564,
+                574,
+                855,
+                796
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                445,
+                935,
+                566,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                611,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8b8055367de4f9344dff4146710144e334d807fd714924875d8232392ac04b51.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                159,
+                186,
+                858,
+                793
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                127,
+                186,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NOTE:\n1) ALL DIMENSIONS ARE IN MILLIMETERS.\n2) EXPOSED PADDLE SIZE DOES NOT INCLUDE MOLD FLASH.\n3) LEAD COPLANARITY SHALL BE 0.10 MILLIMETER MAX.\n4) DRAWING CONFORMS TO JEDEC MO-229, VARIATION VEED-5.\n5) DRAWING IS NOT TO SCALE."
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                646,
+                847,
+                716
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                613,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                127,
+                186,
+                146
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3ed8ffb6b11c22d15615c33a0960ae34722ace9a4c01d4276c4acd4fb76b4c0a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2022/05</td><td>正式发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                155,
+                894,
+                250
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                613,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                129,
+                549,
+                149
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                188,
+                823,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                228,
+                899,
+                306
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "超快关断 CCM/DCM 同步整流驱动开关"
+                    }
+                ]
+            },
+            "bbox": [
+                477,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP6211B_CN_DS_Rev_1.0\n05/2022"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                258,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                935,
+                613,
+                966
+            ]
+        }
+    ]
+]

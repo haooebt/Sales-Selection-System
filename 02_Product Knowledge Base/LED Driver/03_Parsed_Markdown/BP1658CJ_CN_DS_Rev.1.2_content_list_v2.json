@@ -1,0 +1,3157 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                121,
+                147,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ是一款集成五通道可高精度调光的LED线性恒流驱动芯片。适用于五路彩色智能球泡灯。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                153,
+                485,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ 内 置 三 通 道 （ OUT1/2/3 ） 40V/150mA 的MOSFET，两通道（OUT4/5）500V/75mA的MOSFET。通过I2C协议来控制5个通道的输出电流。可实现1024级灰度的电流控制，可以消除调光过程的闪烁现象。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                198,
+                485,
+                277
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ具有过温调节功能，当芯片的温度达到过温点，芯片的输出电流会自动减小，增加了系统的稳定性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                285,
+                480,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ 采用 ESOP8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                331,
+                302,
+                347
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/47777334e69ea80500ae818322ca58328e2aabbbb3a7abd082ad70f7a8709f29.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "ESOP8 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                252,
+                379,
+                334,
+                432
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点·"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                121,
+                569,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 五通道 OUT1~5 线性调光"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                153,
+                731,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ I2C 控制智能调光"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                173,
+                675,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 单通道 1024 级灰度调节"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                193,
+                719,
+                209
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ OUT1/2/3 通道最大电流 150mA，耐压 40V"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                214,
+                855,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ OUT4/5 通道最大电流 75mA，耐压 500V"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                234,
+                840,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 超低待机功耗，Sleep Mode 工作电流小于 100uA"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                253,
+                892,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 支持五路同时输出"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                274,
+                677,
+                290
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ ±4%的芯片间输出恒流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                294,
+                742,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 过温调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                315,
+                648,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 采用 ESOP8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                335,
+                672,
+                350
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                360,
+                559,
+                379
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ LED 智能球泡"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                391,
+                648,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 其它 LED 智能照明"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                412,
+                682,
+                428
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                474,
+                186,
+                493
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/24929d70a6053f5ef09d3da81d44adb0d8715418b2fc331540ea9673463740a3.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP1658CJ 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                524,
+                850,
+                778
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ五路线性LED 调光控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                45,
+                436,
+                99
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                759,
+                26,
+                939,
+                93
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "01/2024"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                939,
+                163,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                939,
+                897,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                102,
+                188,
+                120
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/360161612bf3c3b3fd0246e9f69f0b95a72b6872620a6b41f7b2be84adeae509.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP1658CJ</td><td>ESOP-8</td><td>-40°C 到 105°C</td><td>编带4,000 颗/盘</td><td>BP1658XXXXXYCXXXXWWJ</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                127,
+                894,
+                223
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                252,
+                188,
+                269
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c21157a7fb150cc17c1da1c617bd737970860a110aee91b1541ff93144a44e75.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                305,
+                279,
+                618,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658：产品型号XXXXXY: 批次号XX: 标示WW: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                704,
+                307,
+                842,
+                385
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                458,
+                186,
+                476
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4d8912f4cf2ff9c0c287e876e1121010f9a0d09a823f4fb4179452a13530c95d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>OUT1</td><td>恒流输出端口 1(推荐蓝)</td></tr><tr><td>2</td><td>VCC</td><td>芯片电源输出端口</td></tr><tr><td>3</td><td>SDA</td><td>数据输入端口(外加上拉电阻到模块VCC,阻值 $1k\\Omega$ )</td></tr><tr><td>4</td><td>SCL</td><td>时钟信号输入端口(外加上拉电阻到模块 VCC,阻值  $1k\\Omega$ )</td></tr><tr><td>5</td><td>OUT5</td><td>恒流输出端口 5(推荐冷白)</td></tr><tr><td>6</td><td>OUT4</td><td>恒流输出端口 4(推荐暖白)</td></tr><tr><td>7</td><td>OUT3</td><td>恒流输出端口 3(推荐红)</td></tr><tr><td>8</td><td>OUT2</td><td>恒流输出端口 2(推荐绿)</td></tr><tr><td>衬底</td><td>GND</td><td>芯片地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                482,
+                895,
+                741
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                941,
+                897,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                102,
+                225,
+                120
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/927cc588f346b43694035c999aad385033d6c424d61b87d4abd31a7e277c36aa.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保其精度 但其典 值 映 件性能"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 TIMAX， θJA,和环境温度 TA 所决定的，最大允许功耗为 PDMAX = (TJMAX - TA)/ θJA 或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 3：人体模型，100pF电容通过 1.5KΩ 电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>OUT4/5</td><td>OUT4/5 端口电压</td><td>-0.3~500</td><td>V</td></tr><tr><td>OUT1/2/3</td><td>OUT1/2/3 端口电压</td><td>-0.3~40</td><td>V</td></tr><tr><td>IOUT1/2/3_MAX</td><td>OUT1/2/3通道内部功率管漏极最大电流</td><td>150</td><td>mA</td></tr><tr><td>IOUT4/5_MAX</td><td>OUT4/5通道内部功率管漏极最大电流</td><td>75</td><td>mA</td></tr><tr><td>VCC</td><td>芯片电源输入端口</td><td>-0.3~40</td><td>V</td></tr><tr><td>SDA,</td><td>数据输入端口</td><td>-0.3~9</td><td>V</td></tr><tr><td>SCL</td><td>时钟信号输入端口</td><td>-0.3~9</td><td>V</td></tr><tr><td>PDMAX</td><td>功耗(注 2)</td><td>1.25</td><td>W</td></tr><tr><td>θJA</td><td>PN结到环境的热阻</td><td>100</td><td>°C/W</td></tr><tr><td>TJ</td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td>TSTG</td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                161,
+                127,
+                835,
+                481
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                942,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7ef54def571ee060e6636767a0947111d5de49d64275011df3020db04c2f2228.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 5, 6) （无特别说明情况下，VCC =16 V, TA =25 ℃）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 5：典型参数值为 25˚C下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 6：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压 (VCC)</td></tr><tr><td>VCC_OP</td><td>VCC 工作范围</td><td></td><td>10</td><td></td><td>40</td><td>V</td></tr><tr><td>VCC_ON</td><td>VCC 开启电压</td><td></td><td>7</td><td>8.1</td><td>9</td><td>V</td></tr><tr><td>VCC_OFF</td><td>VCC 关断电压</td><td></td><td>4.2</td><td>5</td><td>6.2</td><td>V</td></tr><tr><td>IOP</td><td>静态工作电流</td><td>IOUT=15mA</td><td></td><td>0.4</td><td></td><td>mA</td></tr><tr><td>IOP_SLEEP</td><td>Sleep mode 工作电流</td><td></td><td>50</td><td>65</td><td>95</td><td>uA</td></tr><tr><td colspan=\"7\">功率管 (OUT1/2/3)</td></tr><tr><td>IOUT</td><td>OUT1/2/3 最大电流设置范围</td><td>PWM=100%</td><td>10</td><td></td><td>150</td><td>mA</td></tr><tr><td>IOUT_MIN</td><td>最低调光深度</td><td></td><td></td><td>1</td><td></td><td>%</td></tr><tr><td>VOUT</td><td>恒流拐点电压</td><td>Iout=150mA</td><td></td><td>1</td><td></td><td>V</td></tr><tr><td>BVDSS</td><td>功率管的击穿电压</td><td></td><td>40</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">功率管 (OUT4/5)</td></tr><tr><td>IOUT</td><td>OUT4/5 最大电流设置范围</td><td>PWM=100%</td><td>5</td><td></td><td>75</td><td>mA</td></tr><tr><td>IOUT_MIN</td><td>最低调光深度</td><td></td><td></td><td>1</td><td></td><td>%</td></tr><tr><td>VOUT</td><td>恒流拐点电压</td><td>Iout=30mA</td><td></td><td></td><td>6</td><td>V</td></tr><tr><td>BVDSS</td><td>功率管的击穿电压</td><td></td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">I2C</td></tr><tr><td>VSUP</td><td>I2C 接口的供电电压</td><td></td><td>3</td><td>3.3</td><td>3.6</td><td>V</td></tr><tr><td>R_SDA</td><td>SDA 的上拉电阻</td><td></td><td></td><td>15</td><td></td><td>kOhm</td></tr><tr><td>R_SCL</td><td>SCL 的上拉电阻</td><td></td><td></td><td>15</td><td></td><td>kOhm</td></tr><tr><td>VH_SDA</td><td>SDA 的输入高电平</td><td></td><td>1.8</td><td></td><td>5</td><td>V</td></tr><tr><td>VL_SDA</td><td>SDA 的输入低电平</td><td></td><td>0</td><td></td><td>0.5</td><td>V</td></tr><tr><td>VH_SCL</td><td>SCL 的输入高电平</td><td></td><td>1.8</td><td></td><td>5</td><td>V</td></tr><tr><td>VL_SCL</td><td>SCL 的输入低电平</td><td></td><td>0</td><td></td><td>0.5</td><td>V</td></tr><tr><td>F_SDA</td><td>SDA 的输入频率</td><td></td><td></td><td></td><td>200</td><td>kHz</td></tr><tr><td>F_SCL</td><td>SCL 的输入频率</td><td></td><td></td><td></td><td>200</td><td>kHz</td></tr><tr><td>T_LOW</td><td>SCL 低电平的宽度</td><td></td><td>2.5</td><td></td><td></td><td>uS</td></tr><tr><td>T_HIGH</td><td>SCL 高电平的宽度</td><td></td><td>2.5</td><td></td><td></td><td>uS</td></tr><tr><td>T_N</td><td>噪声消除时间</td><td></td><td></td><td>100</td><td></td><td>nS</td></tr><tr><td>T_AA</td><td>SCL 下降沿到输出有效输出时的时间</td><td></td><td></td><td></td><td>100</td><td>nS</td></tr><tr><td>T_HD.STA</td><td>起始条件的保持时间</td><td></td><td>2</td><td></td><td></td><td>uS</td></tr><tr><td>T_SU.STA</td><td>起始条件的建立时间</td><td></td><td>2</td><td></td><td></td><td>uS</td></tr><tr><td>T_HD.DAT</td><td>数据输入的保持时间</td><td></td><td>500</td><td></td><td></td><td>nS</td></tr><tr><td>T_SU.DAT</td><td>数据输入的建立时间</td><td></td><td>500</td><td></td><td></td><td>nS</td></tr><tr><td>TR</td><td>输入上升时间</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TF</td><td>输入下降时间</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TSU.STO</td><td>停止条件建立时间</td><td></td><td>2</td><td></td><td></td><td>uS</td></tr><tr><td colspan=\"7\">过温保护</td></tr><tr><td>TSD</td><td>过热保护温度</td><td></td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                110,
+                128,
+                902,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                942,
+                897,
+                952
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                618,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                109,
+                90,
+                900,
+                241
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/12752e7e7e3db66f44bde37146bc0bb6b2070838daf614391eae644bfd2518d8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3：SCL，SDA 的输入波形"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                164,
+                303,
+                870,
+                443
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                942,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                102,
+                228,
+                120
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a1ea9eee2739e1a85774b81448b2816436aa4e16a0772edcc911492aa9411c3b.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 BP1658CJ 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                147,
+                161,
+                890,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                546,
+                188,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ是一款集成五通道可高精度调光的LED线性恒流驱动芯片。适用于调光调色需求的智能球泡灯。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                577,
+                484,
+                615
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                627,
+                157,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片在启动过程会有 1mA 左右的下拉电流，当 VCC=6V左右，SDA，SCK 的供电模块开始工作。VCC>8.5V 时，芯片才正式开始工作，等待 SDA，SCL 的输入信号。如果SDA、SCL 并没有任何信号，芯片会进入 Sleep Mode，此时芯片的工作电流为 90uA。当 SDA、SCL 有调光信息输入，芯片才从 Sleep Mode 跳出，执行 I2C 协议进行智能调光控制。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                657,
+                485,
+                795
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 I2C 协议说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                807,
+                226,
+                824
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片集成了 I2C 通信协议模块，该协议为双线通信协议，控制信号分别是时钟信号 SCL 和传输数据信号 SDA。芯片的两个管脚分别集成了 15Kohm 的上拉电阻。用户可以通过控制两个信号线的信号进行智能调光控制，该协议具体包括了起始、停止状态控制、数据的传输和应答控制。详细的协议规则如下。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                837,
+                485,
+                915
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                510,
+                577,
+                895,
+                615
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b848b8e99cd44206c7a6e38fa997c404dfe8fc0112447fb2342f6c0883ac9559.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图5：SCL，SDA输入信号示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                532,
+                638,
+                900,
+                730
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 起始，停止状态控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                766,
+                712,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数据信号（SDA）和时钟信号（SCL）都是高电平则称为空闲状态。当 SCL 为高电平时 SDA 为下降沿（电平由高变低）这时为控制的起始条件（START）, 当 SCL 为高电平时 SDA 为上升沿（电平由低变高）这时为控制的停止条件（STOP）。如下图所示。SCL 输入 9 个周期（8Bit+1ACK）就完成一个字节（Byte）的传输，如果不做寻址处理，一共可输入 11 个字节（Byte）。其中 Tsu.sta，Thd.sta，Tsu.sto，Thd.sto 的最小值为 250nS，"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                797,
+                899,
+                914
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                942,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                618,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                99,
+                89,
+                473,
+                124
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0854ba681a5e44d803086f414b8e801c885162194d92b1c1d0a115c4acea04e1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 6：起始，停止状态控制示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                117,
+                143,
+                475,
+                262
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 数据的传输控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                304,
+                263,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I2C 通信协议执行的是串行的位传输，每个时钟脉冲传送一位数据（BIT）。SCL 为高电平时 SDA 必须保持稳定，只有当 SCL 为低电平时，SDA 才能变状态。当 SCL 由低变高时（上升沿），数据写入寄存器。每完成 8 位数据的传输，在第 9 个时钟，芯片的内部会产生应答信号 ACK。ACK 信号会将 SDA 管脚拉低。即芯片每完成一个字节（8bit）的数据传输就会产生一个对应的额外应答信号。详见图 5。为了防止信号的干扰。芯片在读入 SDA 的信号时，DATA_IN 才是有效的读入信号。读入的信号必须经过寄存器的锁存，其锁存的控制信号为 DATA_LATsam.dat 为抗噪音时间，约 200nS。Tlat.dat 为锁抗噪声干扰时间约 200nS。根据以上的设Thigh大于 1.5uS。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                335,
+                485,
+                614
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/46062f04fd71ef00227806b032ff285ef505c79062056317f57a8db88913edec.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 7：传输数据控制示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                102,
+                631,
+                499,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "传输数据时，每 8bit 的数据就是一个字节。下表是协议中每个字节对应的控制信息。由下表可见，输入的所有信息通过 11 个字节去完成。第 12个字节其实是跳转到第 1 个字节的设置信息。12 个字节后面的设置信息是 1-11 字节的重复设置而已。所以，在不执行停止控制操作时，有效的输入字节是 11 个字节。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                803,
+                485,
+                920
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b8c154f5c0025f31742a35ad23bb9409ba01502630b94379397e705707688acd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>字节顺序</td><td>主要操作的内容</td></tr><tr><td>Byte0</td><td>标识位+OUT4~5 和 OUT1~3 选择 +sleep mode+下一 byte 寻址</td></tr><tr><td>Byte1</td><td>最大输出电流设置</td></tr><tr><td>Byte2</td><td>OUT1 电流设置</td></tr><tr><td>Byte3</td><td>OUT1 电流设置</td></tr><tr><td>Byte4</td><td>OUT2 电流设置</td></tr><tr><td>Byte5</td><td>OUT2 电流设置</td></tr><tr><td>Byte6</td><td>OUT3 电流设置</td></tr><tr><td>Byte7</td><td>OUT3 电流设置</td></tr><tr><td>Byte8</td><td>OUT4 电流设置</td></tr><tr><td>Byte9</td><td>OUT4 电流设置</td></tr><tr><td>Byte10</td><td>OUT5 电流设置</td></tr><tr><td>Byte11</td><td>OUT5 电流设置</td></tr><tr><td>Byte12</td><td>跳转到 Byte1:最大输出电流设置</td></tr><tr><td>Byte13</td><td>OUT1 电流设置</td></tr><tr><td>Byte14</td><td>OUT1 电流设置</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                515,
+                83,
+                887,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte0（寻址字节） 设置说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                450,
+                752,
+                467
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/692b8e78651e823823a054eb7cec95c992b4de156a144228f9440632e2a56705.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 8：Byte0 设置信息"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                519,
+                483,
+                887,
+                678
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte0 主要是芯片的模式设置和寻址。其中 B[7:6]=10 是Byte0 字节的标识位，B[5:4]为模式控制位，B[4:0]为寻址位。详细的说明如上图所示。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                731,
+                897,
+                788
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte1（最大电流设置字节） 设置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                800,
+                823,
+                816
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                941,
+                897,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9ccf2f55fe269791072022d66bfa92f97a26275ff2c2da63cb6251490fd6933e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 9：Byte1 设置信息"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                107,
+                96,
+                460,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte1 为 OUT1~5 五路最大输出电流的设置字节。具体的设置方法如上图所示。其中 OUT1~3 的最大输出电流的默认值为 40mA，OUT4~5 的最大输出电流默认值为30mA。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                441,
+                484,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte2-Byte3（OUT1 灰度设置字节）设置说明"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                530,
+                473,
+                548
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f7e3a7232001c480efcc08d5ea20d7a2c052db4f1d91e81b9be5e048949237e5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                577,
+                494,
+                783
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "上图为 Byte2-Byte3 两个字节的详细设置说明。Byte2-Byte3 为OUT1灰度设置字节。OUT1的灰度可以有1024级可调节，它是由 Byte3 的 B[4:0]和 Byte2 的 B[4:0]共同决定 OUT1 的输出灰度。具体的灰度参数参考上图的说明。其中默认的输出灰度为 0。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                810,
+                487,
+                908
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte4-Byte11（OUT2~5 灰度设置字节） 设置说明："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                87,
+                897,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte4-Byte5 为 OUT2 灰度设置字节，Byte6-Byte7 为OUT3 灰度设置字节，Byte8-Byte9 为 OUT4 灰度设置字节，Byte10-Byte11 为 OUT5 灰度设置字节。它们灰度的设置方法和 OUT1 的灰度设置方法一样。具体参数参考Byte2-Byte3（OUT1 灰度设置字节） 设置说明。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                137,
+                899,
+                237
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 应用程序实例"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                247,
+                660,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片进入 Sleep Mode，不进行调光操作："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                278,
+                798,
+                294
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MCU 的输入程序如下："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                307,
+                672,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start：10000000（写入 byte0，其中 B5B4=00 进入 sleepmode）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                337,
+                897,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop。"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                387,
+                559,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "选择 OUT1~5 路同时输出，OUT1~3 最大电流 40mA，OUT1 灰度 2/1024， OUT2 灰度 512/1024，OUT3 灰度1022/1024，OUT4~5 最大电流 60mA，OUT4 灰度512/1024，OUT5 灰度 1022/1024："
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                416,
+                897,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start：10110000（写入 byte0，5 路电流输出，选择 byte1）01001100（写入 byte1，设置 OUT1~3 最大电流 40mA，OUT4~5 最大电流 60mA）"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                506,
+                894,
+                573
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010（写入 byte2）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                585,
+                687,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte3，byte2 和 byte3 共同设置 OUT1灰度 2/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                614,
+                895,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte4）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                664,
+                687,
+                681
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000（写入 byte5，byte4 和 byte5 共同设置 OUT2灰度 512/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                693,
+                897,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111110（写入 byte6）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                743,
+                687,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111111（写入 byte7，byte6 和 byte7 共同设置 OUT3灰度 1022/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                772,
+                897,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte8）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                822,
+                687,
+                840
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000（写入 byte9，byte8 和 byte9 共同设置 OUT4灰度 512/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                852,
+                897,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111110（写入 byte10）"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                902,
+                695,
+                917
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                942,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                39,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111111（写入 byte11，byte10 和 byte11 共同设置OUT5 灰度 1022/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                89,
+                485,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                139,
+                146,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "选择 OUT4~5 路输出，OUT4~5 最大电流 60mA，OUT4灰度 2/1024，OUT5 灰度 512/1024，1mS 后，OUT4 灰度 512/1024，OUT5 灰度 2/1024："
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                168,
+                485,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start1：10100000（写入 byte0，2 路电流输出，选择byte1）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                237,
+                485,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00001100（写入 byte1，设置 OUT1~3 最大电流 0mA，OUT4~5 最大电流 60mA）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                287,
+                475,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                338,
+                147,
+                354
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start2：10100111（写入 byte0，2 路电流输出，选择byte8）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                367,
+                484,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010（写入 byte8）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                416,
+                273,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte9，byte8 和 byte9 共同设置 OUT4灰度 2/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                445,
+                484,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte10）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                495,
+                282,
+                512
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000（写入 byte11，byte10 和 byte11 共同设置OUT5 灰度 512/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                524,
+                485,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                575,
+                149,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start3：10100111（写入 byte0，2 路电流输出，选择byte8）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                604,
+                484,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte8）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                653,
+                273,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000（写入 byte9，byte8 和 byte9 共同设置 OUT4灰度 512/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                683,
+                484,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010（写入 byte10）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                733,
+                282,
+                749
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000（写入 byte11，byte10 和 byte11 共同设置OUT5 灰度 2/1024）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                762,
+                484,
+                797
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop3"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                812,
+                149,
+                828
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                835,
+                231,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                865,
+                485,
+                922
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                83,
+                613,
+                99
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP1658CJ PCB 时，需要注意以下事项："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                112,
+                833,
+                129
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "地线 GND"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                141,
+                589,
+                158
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片底部 GND 的散热铜片面积要尽可能大，以减小热阻，增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                171,
+                895,
+                208
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SDA、SCL 信号线"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                219,
+                643,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从 MCU 的信号输出到 BP1658CJ 的 SDA、SCL 引脚走线尽量短，与地线形成的回路尽量小，减小其它干扰噪声的耦合，避免 PCB 上其他噪声信号对数字信号的干扰。SDA和 SCL 避免从模块下面走线，尽量远离模块上的射频区域。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                250,
+                900,
+                328
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                941,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/150971fe0118debbcb902a00d42596f86cabd586623d5854d92451cd3551e1f1.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                826,
+                244,
+                884,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                93,
+                188,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d8708589e62947270e1e67112fdc420250bfd5dd5803b8a66437a88cbe085b5b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                136,
+                510,
+                338
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc422591805f0c16b1cdde1eec3674c810a030f152e04dc25de04500650914ae.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                626,
+                142,
+                742,
+                340
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6cab7b6ed3f1bbbfa235af898276ccc43d3e9699723774f89253471387432f58.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                208,
+                388,
+                445,
+                462
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ae1e9cb6e66f821782cc94aede54b56e1f36c824d1c80cf24997a06f7e8b7b67.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                605,
+                380,
+                816,
+                463
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/83ce8929bfc319ec34256647bab94699d0c3505114573af4c09ed0c976c3d79b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                99,
+                697,
+                171,
+                774
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6349d4acf32146474bac88bae3641ac572712bc5eb8a366b61a5cac10c7faecc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>-</td><td>1.75</td></tr><tr><td>A1</td><td>0.00</td><td>-</td><td>0.15</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.30</td><td>-</td><td>0.50</td></tr><tr><td>c</td><td>0.10</td><td>-</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>D1</td><td>3.02</td><td>-</td><td>3.50</td></tr><tr><td>E</td><td>5.80</td><td>-</td><td>6.40</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>E2</td><td>2.1</td><td>-</td><td>2.6</td></tr><tr><td>L</td><td>0.40</td><td>0.60</td><td>1.00</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                275,
+                506,
+                690,
+                768
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                942,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                616,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                85,
+                186,
+                102
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9b28d04e3446172545f72fa978a40c31f590592854f4d7fdc776f5630bd45d0e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 0.9</td><td>2020/10</td><td>首次发行</td></tr><tr><td>Rev. 1.0</td><td>2020/11</td><td>转 1.0,更新了最新格式</td></tr><tr><td>Rev. 1.1</td><td>2021/3</td><td>1. SCL 和 SDA 分别加入上拉电阻到 Vcc,阻值建议 1kΩ2. 更新 SCL 和 SDA 走线注意事项</td></tr><tr><td>Rev. 1.2</td><td>2024/1</td><td>1、更新了 EC-table</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                139,
+                895,
+                368
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                941,
+                897,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                618,
+                953
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                105,
+                549,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                149,
+                823,
+                166
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                190,
+                899,
+                268
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                878,
+                941,
+                897,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                40,
+                240,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1658CJ_CN_DS_Rev_1.2"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                941,
+                263,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                941,
+                618,
+                954
+            ]
+        }
+    ]
+]

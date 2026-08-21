@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:36:39+08:00",
+  "file": "BP5929_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 509352,
+    "pages": 7,
+    "sha256": "375714d05f4bb45090ce05b9fb65106e613c6560839417b467cc663b86fb5f9a"
+  },
+  "batch_id": "80200325-8782-41d1-a528-ef828984d77f",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:36:41+08:00",
+    "errors": [],
+    "markdown_chars": 7251,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T14:37:14+08:00"
+}

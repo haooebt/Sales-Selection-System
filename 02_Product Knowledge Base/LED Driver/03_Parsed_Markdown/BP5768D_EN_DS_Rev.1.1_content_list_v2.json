@@ -1,0 +1,4032 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                149,
+                221,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP5768D is a five-channel high -precisio dimmable constant -current linear LED driver. It is targeted for tunable warm/cold/color smart lightin application，B P5768D m eets the new European ERP standards"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                181,
+                487,
+                279
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP5768D integrates five-channel (OUT1 /2/3/4/5) 500V/90mA MOSFET. It achieves output current adjustment with 1024 gray-scale level and eliminat flicker during dimming proces"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                282,
+                485,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP5768D integrates thermal regulation functi to reduce output current at hot temperature, make system reliable and prevent overheatin."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                368,
+                485,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP5768D is available in ESOP-8 package."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                434,
+                420,
+                453
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c8957fcf8bc68753bb15adce75e787cfcbca36fbf9ce488d84ef4e0f5cda9471.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "ESSOP -10"
+                    }
+                ]
+            },
+            "bbox": [
+                262,
+                482,
+                334,
+                530
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                544,
+                149,
+                638,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ M eets the new European ERP standards"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                181,
+                870,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Pst LM<1 ，SVM <0.4，D F>0.7"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                202,
+                793,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Support 0.1% dimming"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                222,
+                757,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Five channelswith separate contro"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                242,
+                838,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Integrated with 90mA/500V MOS FET fo each channel"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                262,
+                863,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Independent maximum output current setting for each channel"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                303,
+                863,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1024 gray-scalelevel output current adjustment for each channel"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                343,
+                840,
+                380
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ I2C controlled for smart dimmin g"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                382,
+                821,
+                400
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ultralow quiescent current with 100uA in"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                404,
+                873,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Thermal regulation function"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                444,
+                789,
+                462
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Available in ESSOP -10 package"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                464,
+                805,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Applications"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                547,
+                489,
+                680,
+                510
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "- Smart LED bulbs"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                521,
+                707,
+                538
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Smart filament LED bulb"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                542,
+                769,
+                558
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                568,
+                297,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ O ther smart LED lamps"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                562,
+                754,
+                577
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ea6a0c292c9b166dbdaaed102ce0828c5fc9e0cee79a0ac0ebed0eb93ba6f087.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Figure1. BP5768D Typical Applicati"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                614,
+                801,
+                862
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                55,
+                236,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                690,
+                20,
+                873,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ERP-5channel High Voltage Dimmable Linear LED Driver"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                91,
+                783,
+                114
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2/2026"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                951,
+                151,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                761,
+                950,
+                897,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/be46f4c28ee8b09c97d58941df16e2072fc021c2cbf0e4fb3f9c6a89d44b0aa9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Package Method</td><td>Marking</td></tr><tr><td>BP5768D</td><td>ESSOP-10</td><td>Tape4,000 pcs/Reel</td><td>BP5768XXXXXYXXXXWWD</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                164,
+                128,
+                820,
+                223
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "P in Configuration and Marking Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                243,
+                526,
+                263
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/116162c29b4d3b6176337425edc9fa72069131e8e757d852034055c4d324bd2a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure2: Pin configurati"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                329,
+                271,
+                648,
+                436
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "P in Definitio"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                494,
+                233,
+                511
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b17c18a547edf8abb78b9bac327e85fdf24ffe783383b05e19ed104e29ef8293.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin NO.</td><td>Name</td><td>Description</td></tr><tr><td>1</td><td>OUT2</td><td>Constant current output pin 2 (Green recommended)</td></tr><tr><td>2</td><td>OUT1</td><td>Constant current output pin 1 (Blue recommended)</td></tr><tr><td>3</td><td>RCAP</td><td>Current sense, connect resistor to GND</td></tr><tr><td>4</td><td>SDA</td><td>Data input pin (1kΩ external pull-up resistor to Vcc required)</td></tr><tr><td>5</td><td>SCL</td><td>Clock input pin (1kΩ external pull-up resistor to Vcc required)</td></tr><tr><td>6</td><td>COUT</td><td>Drain for COUT Current sense</td></tr><tr><td>7</td><td>HV</td><td>High voltage power supply input pin</td></tr><tr><td>8</td><td>OUT5</td><td>Constant current output pin 5 (Cold-white recommended)</td></tr><tr><td>9</td><td>OUT4</td><td>Constant current output pin 4 (Warm-white recommended)</td></tr><tr><td>10</td><td>OUT3</td><td>Constant current output pin 3 (Red recommended)</td></tr><tr><td>EPAD</td><td>GND</td><td>Ground</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                89,
+                519,
+                895,
+                778
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                953,
+                855,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                53,
+                868,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                953,
+                248,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                953,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dd89da20e251a06192ce92ed890399a982a441a1823a6e87cd50e7b5430387a8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings ( N ote 1)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Range</td><td>Units</td></tr><tr><td>OUT1/2/3/4/5</td><td>OUT1/2/3/4/5 pin voltage</td><td>-0.3~500</td><td>V</td></tr><tr><td>IOUT1/2/3/4/5_MAX</td><td>OUT1/2/3/4/5 pin current</td><td>90</td><td>mA</td></tr><tr><td>ID_COUT_MAX</td><td>COUT pin current</td><td>250</td><td>mA</td></tr><tr><td>HV</td><td>High voltage power supply input pin</td><td>-0.3~500</td><td>V</td></tr><tr><td>COUT</td><td>COUT pin voltage</td><td>-0.3~550</td><td>V</td></tr><tr><td>SDA</td><td>Data input pin</td><td>-0.3~7</td><td>V</td></tr><tr><td>Rcap</td><td>Low voltage pins</td><td>-0.3~7</td><td>V</td></tr><tr><td>SCL</td><td>Clock input pin</td><td>-0.3~7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Power dissipation (note2)</td><td>1.22</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Thermal resistance (Junction to Ambient)</td><td>102</td><td>°C/W</td></tr><tr><td> $\\theta_{JC}$ </td><td>Thermal resistance from junction to the case (note3)</td><td>45</td><td>°C/W</td></tr><tr><td>TJ</td><td>Operating junction temperature</td><td>-40 to 150</td><td>°C</td></tr><tr><td>TSTG</td><td>Storage temperature range</td><td>-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                127,
+                890,
+                649
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some particular parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                655,
+                897,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 2: The maximum power dissipation decrease if temperature rise, it is decided by TJMAX, θJA, and environment temperature (TA). The maximum power dissipation is the lower one between PDMAX = (TJMAX - TA)/ 0JA and the number listed in the maximum table."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                755,
+                895,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 3: The thermal resistance data from the chip junction to the housing is a simulated value, typically on the high side, and is provided for reference only"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                816,
+                895,
+                853
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                746,
+                54,
+                868,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                953,
+                248,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                953,
+                616,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                954,
+                855,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bf7843d41ac2a4d7ac6c8aaa3fd5ce48ad340f007c1a63b0bdb66d310b3f1dcc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (Notes 4, 5) (Unless otherwise specified, HV =50 V and TA =25 ℃)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Conditions</td><td>Min</td><td>Typ</td><td>Max</td><td>Units</td></tr><tr><td colspan=\"7\">Supply Voltage Section (HV)</td></tr><tr><td>HV_OP</td><td>HV operation range</td><td></td><td>15</td><td></td><td>500</td><td>V</td></tr><tr><td>HV_ON</td><td>HV supply on voltage</td><td></td><td>5.5</td><td>7.1</td><td>8.5</td><td>V</td></tr><tr><td>IOP</td><td>Quiescent current in operation mode</td><td>Iout1/2/3/4/5=1 5mA</td><td>230</td><td>285</td><td>345</td><td>μA</td></tr><tr><td>IOP_SLEEP</td><td>Quiescent current in sleep mode</td><td></td><td>30</td><td>60</td><td>91</td><td>μA</td></tr><tr><td>BVDSS</td><td>Breakdown voltage</td><td></td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">Current Sense</td></tr><tr><td>VREF_RCAP</td><td>Ref. for Rcap</td><td>HV=30V, RRCAP=300Ω</td><td>623</td><td>660</td><td>696</td><td>mV</td></tr><tr><td colspan=\"7\">Power MOSFET(OUT1/2/3/4/5)</td></tr><tr><td>IOUT</td><td>Maximum current range (Note 6)</td><td>PWM=100%</td><td>5</td><td></td><td>90</td><td>mA</td></tr><tr><td>IOUT_MIN</td><td>Minimum dimming percentage</td><td></td><td></td><td>0.1</td><td></td><td>%</td></tr><tr><td>VOUT</td><td>Inflection point voltage for constant current</td><td>Iout=30mA</td><td></td><td></td><td>6</td><td>V</td></tr><tr><td>BVDSS</td><td>Breakdown voltage</td><td></td><td>500</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">I2C Interface Section</td></tr><tr><td>VSUP</td><td>I2C interface supply voltage</td><td></td><td>3.1</td><td>3.3</td><td>3.5</td><td>V</td></tr><tr><td>R_SDA</td><td>SDA internal pullup resistor</td><td></td><td>12</td><td>15</td><td>18</td><td>kΩ</td></tr><tr><td>R_SCL</td><td>SCL internal pullup resistor</td><td></td><td>12</td><td>15</td><td>18</td><td>kΩ</td></tr><tr><td>VH_SDA</td><td>SDA high logic level</td><td></td><td>1.8</td><td></td><td></td><td>V</td></tr><tr><td>VL_SDA</td><td>SDA low logic level</td><td></td><td>0</td><td></td><td>1.6</td><td>V</td></tr><tr><td>VH_SCL</td><td>SCL high logic level</td><td></td><td>1.8</td><td></td><td></td><td>V</td></tr><tr><td>VL_SCL</td><td>SCL low logic level</td><td></td><td>0</td><td></td><td>1.6</td><td>V</td></tr><tr><td>F_SDA</td><td>SDA input frequency</td><td></td><td></td><td>200</td><td>300</td><td>kHz</td></tr><tr><td>F_SCL</td><td>SCL input frequency</td><td></td><td></td><td>200</td><td>300</td><td>kHz</td></tr><tr><td>T_LOW</td><td>SCL low logic level time</td><td></td><td>1.5</td><td></td><td></td><td>μS</td></tr><tr><td>T_HIGH</td><td>SCL high logic level time</td><td></td><td>1.5</td><td></td><td></td><td>μS</td></tr><tr><td>T_N</td><td>Noise elimination time</td><td></td><td></td><td>100</td><td></td><td>nS</td></tr><tr><td>T_AA</td><td>SCL time between falling edge and effective output</td><td></td><td></td><td></td><td>100</td><td>nS</td></tr><tr><td>T_HD.STA</td><td>Start hold time</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_SU.STA</td><td>Start setup time</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_HD.DAT</td><td>Data hold time</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>T_SU.DAT</td><td>Data setup time</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td>TR</td><td>Input rising time</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TF</td><td>Input falling time</td><td></td><td></td><td></td><td>150</td><td>nS</td></tr><tr><td>TSU.STO</td><td>Stop setup time</td><td></td><td>250</td><td></td><td></td><td>nS</td></tr><tr><td colspan=\"7\">Thermal Regulation Section</td></tr><tr><td> $T_{REG}$ </td><td>Thermal Regulation Temperature</td><td>Junction temperature</td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                100,
+                127,
+                894,
+                892
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                54,
+                868,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                953,
+                248,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                953,
+                616,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                954,
+                855,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                100,
+                90,
+                892,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 4: production testing of the chip is performed at 25C"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                319,
+                495,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 5: the maximum and minimum parameters specified are guaranteed by test, the typical value are guaranteed by design, characterization and statistical analysis"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                361,
+                890,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 6: the maximum output current is tested under VD=15V (VD refers to the drain voltage of MOSFET)"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                420,
+                791,
+                437
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0f70f3f2ee4a2746f5174a536cd82a57ae3fa29eb831888ba607d7f4e6c7b5fa.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure3:SCL and SDA input waveform"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                137,
+                470,
+                922,
+                629
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                954,
+                855,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                54,
+                868,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                953,
+                248,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                953,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Internal Block Diagram"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                102,
+                327,
+                121
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/22a62fc144f39e471b15e092340b4cdab095a5e46392c51baead4857319f7343.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure4:Internal Block Diagra"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                119,
+                143,
+                873,
+                460
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                508,
+                337,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP5768D is a five-channel high -precision dimmable constant -current linear LED driver which is targeted for tunable warm/cold/color smart lighting applicatio."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                537,
+                473,
+                615
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Start Up"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                621,
+                210,
+                639
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The IC has 1mA pull -down current during start-up process. When the HV voltage is higher than 8V, t supply module of SDA and SCK starts to work. Whe the HV voltage is higher than 9.8V, the IC start work and wait for the signal of SDA and SCL. If there’s no signal of SDA and SCL, the IC enters mode and the quiescent currentis about 85μA. If th signal of SDA and SCL is effective, the IC quits from sleep mode and achieve s smart dimming via I <sup>2</sup>C protocol."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                650,
+                473,
+                848
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. The D escription of I<sup>2</sup>C P rotocol"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                856,
+                408,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The IC integrates I<sup>2</sup>C protocol module and it is a t line communication protocol. It has two control signals: clock signal SCL and data signal SDA. SCL and SDA pins of BP5857D integrate 15kΩpull-up resistors.The user can configuratethe two signals achieve smarting dimming control. The protocol contains start, stop, data transmission and acknowledgment control. The detailed protocol as following"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                884,
+                472,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                522,
+                530,
+                899,
+                689
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/af84ce5b5bf9ba124704934f3663ac43b64c49f32f91bb7d7534f77dde2a8ce8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure5:SCL, SDA input signa"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                532,
+                736,
+                885,
+                816
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 Start and Stop Status Contro"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                846,
+                774,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The IC are in idle statuswhen data signal (SDA) and clock signal (SCL)at high logic level. When SCL i high logic level and SDA is at falling edge (log high→low), it is the START condition. Otherwise, w hen SCL is at high logic level and SDA is at ri edge (logic level: low →high), it is the STOP condit As shown in figure 6, 9 periods (8Bit+1ACK) of S compose one Byte transmission. If addressing is processed, total 17 bytes can be input. The minimum time for Tsu.sta，Thd.sta，Tsu.sto，Thd.sto is 250ns."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                873,
+                899,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                954,
+                855,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                744,
+                53,
+                868,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                953,
+                248,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                953,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                97,
+                96,
+                473,
+                275
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/fb93f6441cb94183b95d67ce117192a82a184ba3008d75129c62c6009ddd4539.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure6:START, STOP status"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                110,
+                294,
+                462,
+                411
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 Data Transmission Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                449,
+                327,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "I<sup>2</sup>C is a serial bit transmission protocol and it transfers one bit by every clock pulse. When SCL i high logic level, SDA must keep stable. When SCL at low logic level, SDA could change status. When SCL is at the rising edge, the data is written in register. The IC generates the acknowledgement signal ACK at the 9<sup>th</sup> clock after 8 bits transmissi The ACK signal will pulldown the SDA pin. In othe words, the IC internally generates an extra resp signal after every byte transmission. As shown i figure 7, In order to avoid signal disturbance, Data_IN is on ly effective when IC is reading SDA signal. The signal must be latched by register a the latching control signal is DATA_LATCH. Tsam.d is the sampling anti-noise time, which is about 200n Tlat.dat is the latching anti-noise time, which is about 200ns. Tsu.dat and Thd.dat must be larger than 250ns. Both Tlow and Thigh higher than 1.5μs i recommended."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                476,
+                475,
+                857
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cef88fe4380db1df38cd4c9f29348db0d0468fa4b2eb8ee99d931ee68a087c68.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure7:Transmission control diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                544,
+                101,
+                922,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Every 8 bits compose one Byte during transmission. The following table shows the control signal for every bit.All the effective information is execut the top 17 bytes. The 18 <sup>th</sup> (Byte17 ) is the setup information for skipping to Byte1. The bytes after Byte17 are the repeating setup of Byte1-Byte16. I conclusion, the effective bytes are 17 bytes befo STOP action."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                259,
+                899,
+                418
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/df9ecc1a8d59edf4e1fa134607aba183ddb5889669c574a021192858ed374bbb.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "1.B yte0 (addressing byte) descriptio"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Byte sequence</td><td>Operation content</td></tr><tr><td>Byte0</td><td>Identification bit+sleep mode+addressing for next byte</td></tr><tr><td>Byte1</td><td>OUT1-OUT5 output current enable setup</td></tr><tr><td>Byte2</td><td>OUT1 current range (maximum output current) setup</td></tr><tr><td>Byte3</td><td>OUT2 current range setup</td></tr><tr><td>Byte4</td><td>OUT3 current range setup</td></tr><tr><td>Byte5</td><td>OUT4 current range setup</td></tr><tr><td>Byte6</td><td>OUT5 current range setup</td></tr><tr><td>Byte7-8</td><td>OUT1 current gray-level setup</td></tr><tr><td>Byte9-10</td><td>OUT2 current gray-level setup</td></tr><tr><td>Byte11-12</td><td>OUT3 current gray-level setup</td></tr><tr><td>Byte13-14</td><td>OUT4 current gray-level setup</td></tr><tr><td>Byte15-16</td><td>OUT5 current gray-level setup</td></tr><tr><td>Byte17</td><td>Skip to Byte1: output current enable setup</td></tr><tr><td>Byte18</td><td>OUT1 current range setup</td></tr><tr><td>Byte19</td><td>OUT2 current range setup</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                527,
+                422,
+                922,
+                858
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                953,
+                865,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                240,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                952,
+                258,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                952,
+                625,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3d66758344682806e3d9328c578a61e9ad5818ac9bf7385838620a81c86e0c6e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure8:Byte0 setup informatio"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                109,
+                107,
+                502,
+                326
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte0 is mainly the mode setting and addressing the chip. B[7:6] = 10 are the identification bits of byte0 . B[5:4]are the mode control bits . The IC ente sleep mode when B[5:4]=00. Byte1~Byte16 are forbidden to write in sleep mode, so it isnecessary to turn off OUT1~OUT5 before setting the sleep mode. B[4:0] is the addressing byte. The detaile instruction is shown in figur"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                360,
+                473,
+                520
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/68fcb6c38eb651e7dd36645dcdd72ca34abc192edfd4c7f2705810ba43128f85.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "2.B yte1 (output enable byte) descriptio"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Figure9:Byte1 setup information"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                134,
+                548,
+                448,
+                734
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte1 is the enable byte of the OUT 1-OUT 5 channels. B[7:5] is invalid bit which can be any input. The description of B[4:0] is given in fi"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                766,
+                473,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3.B yte2 (output current range setup) descriptio"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                834,
+                463,
+                851
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/878cfd54df139e531d5fc9fd5002fbafb40e3a8a9e9c1daf078a845387ccc637.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure10: Byte2 setup informatio"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                561,
+                108,
+                878,
+                499
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte2 is the setting byte of OUT1 current range (maximum output current) and the setup rules ar presented in figure 10. If B[5]~B[0] =1, it represen 32mA, 16mA, 8 mA , 4mA, 2mA and 1mA respectively. If B[6]=1, it refers to 30mA(not 64mA). The setting o B[7] will not affect the setting of currentrange . Th default current range of out1 is 10mA."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                533,
+                899,
+                673
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.B yte3-Byte6 (OUT2~OUT5 output current range setup bytes) descriptio"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                682,
+                897,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Byte3 -B yte6 are the setting bytes of current rang (maximum output current) of OUT 2-OUT 5 correspondingly. Same as the description of Byte figure 10, the default current range of OUT2-OUT 5 i 10mA."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                730,
+                899,
+                828
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.B yte7-8 (OUT1 current grey -scale level setup byte) description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                837,
+                897,
+                875
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                953,
+                865,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                240,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                952,
+                258,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                952,
+                625,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f8ad4cecfd943731d76c344df1dedba7322ebf9275007395352ddbaf4a87d854.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure11: Byte7 -Byte8 setup informatio"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                92,
+                97,
+                478,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In figure11, the detailed setup information of By-Byte8 is presented. Byte7 -byte8 set gray-scale leve of OUT1. The grayscale of OUT1 can be adjusted by 1024 levels. B[4:0] of Byte8 and B[4:0] of Byte7 determine the output grayscale of OUT1 together. Shown in figure 11, the default output grayscale zero."
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                315,
+                473,
+                453
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6.B yte9-16 (OUT2~5 current grey -scale level setu byte ) description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                464,
+                472,
+                501
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "B yte9-10 are thecurrent grey-scale level setup by of OUT2. B yte11-12 are the current grey-scale leve setup byte of OUT3. B yte13-14 are thecurrent greyscale level setup byteof OUT4. B yte15-16 are the current grey-scale level setup byteof OUT5. Their gray-scale level setting method is as same as OUT 1 in figure 1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                511,
+                473,
+                650
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 Application Example"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                687,
+                285,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "nges status from normal operation mode to sleep mode, it should be note that the output of the channel must be turned of before entering sleep mode . The output will be unstable if the channels are not turned off in advance as Byte1~Byte16 are forbidden to write i sleep mode. The example for entering sleep mode as following"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                714,
+                473,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "M CU program:"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                883,
+                208,
+                900
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start1: 10110000 (write byte0, normal mode, sele byte1)"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                96,
+                897,
+                134
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00000000 (write byte1, set OUT 1~5 output disable) Stop1 。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                143,
+                897,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start2：10000000 （w rite byte0， B5B4=00 and entersleep mode ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                191,
+                897,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop 2。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                239,
+                579,
+                256
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Select OUT1 -5 to output together. The maximum current of OUT1~3 is 40mA with 2/1024 grayscale o OUT1, 512/1024 grayscale of OUT2 and 1022/1024 grayscale of OUT3. The maximum curren t of OUT14~5 is 60mA with 512/1024 grayscale of OUT4 and 1022/1024 grayscale of OUT5:"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                266,
+                899,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start：10110000 （w rite byte0 ，normal operationmode ，select byte1）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                394,
+                897,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00011111 （w rite byte1，set OUT1~ 5 output enable）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                441,
+                887,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00101000 （w rite byte2 ，set OUT1 current range:40mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                468,
+                897,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00101000 （w rite byte3 ，set OUT 2 current range:40mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                516,
+                897,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00101000 （w rite byte4 ，set OUT 3 current range:40mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                564,
+                897,
+                601
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00111100 （w rite byte5 ，set OUT 4 current range:60mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                612,
+                897,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00111100 （w rite byte6 ，set OUT 5 current range:60mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                659,
+                897,
+                696
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010 （w rite byte7）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                706,
+                699,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （ w rite byte8 ， byte7 and byte8 set thegrayscale 2/1024 of OUT1 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                734,
+                897,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte9）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                781,
+                700,
+                797
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000 （w rite byte10，byte9 and byte10 set thegrayscale 512/1024 of OUT2 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                808,
+                897,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111110 （w rite byte11）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                856,
+                707,
+                873
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111111 （w rite byte12，byte11 and byte12 set thgrayscale1022/1024 of OUT3 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                884,
+                897,
+                922
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                953,
+                865,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                240,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                952,
+                258,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                952,
+                626,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte13）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                96,
+                282,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000 （w rite byte14，byte13 and byte14 set thegrayscale512/1024 of OUT4 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                123,
+                473,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111110 （w rite byte15）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                171,
+                282,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10111111 （w rite byte16，byte15 and byte16 set thgrayscale1022/1024 of OUT5 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                198,
+                472,
+                236
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop 。"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                247,
+                144,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Select OUT4 -5 to output together. The maximum current of OUT4~5 is 60mA with 2/1024 grayscale of OUT 4, 512/1024 grayscale of OUT5. After 1mS, th grayscale of OUT4 is changed to 512/1024 and the grayscale of OUT5 turns to 2/1024 :"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                274,
+                473,
+                372
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start1：101 10000 （w rite byte0 ，normal operationmode ，select byte1）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                382,
+                472,
+                418
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "000 11000 （ w rite byte1 ， set OUT1~3 disable andOUT4~5 enable ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                429,
+                472,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00000000 （w rite byte2，set OUT 1 current range:0mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                476,
+                477,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00000000 （w rite byte3，set OUT 2 current range:0mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                502,
+                477,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00000000 （w rite byte4，set OUT 3 current range:0mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                531,
+                477,
+                548
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00111100 （ w rite byte5 ， set OUT 4 currentrange:60mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                558,
+                473,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "00111100 （ w rite byte6 ， set OUT 5 currentrange:60mA ）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                606,
+                473,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                653,
+                147,
+                670
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start2：101 11100 （w rite byte0 ，normal operationmode ，select byte13）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                681,
+                470,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010 （w rite byte13）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                728,
+                282,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte14，byte13 and byte14 set thgrayscale2/1024 of OUT4 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                755,
+                472,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte15）"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                803,
+                280,
+                819
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000 （w rite byte16，byte15 and byte16et thgrayscale512/1024 of OUT5 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                829,
+                472,
+                868
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop2"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                878,
+                149,
+                894
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Start3：101 11100 （w rite byte0 ，normal operation"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                904,
+                472,
+                922
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "mode ，select byte13）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                96,
+                687,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte13）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                123,
+                707,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10110000 （w rite byte14，byte13 and byte14 set thgrayscale512/1024 of OUT4 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                151,
+                897,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100010 （w rite byte15）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                198,
+                707,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10100000 （w rite byte16，byte15 and byte16 set thgrayscale2/1024 of OUT5 together）"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                225,
+                897,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Stop3"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                273,
+                574,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. The Current configuration"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                300,
+                789,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D supports high precision COUT current se by external resistors."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                328,
+                899,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When Vbus>V cap , Current for COUT defined as："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                375,
+                862,
+                392
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\mathrm{I} _ {\\mathrm{CAP}} = \\frac {\\mathrm{V} _ {\\text { ref\\_RCAP }}}{\\mathrm{R} _ {\\mathrm{RCAP}}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6e60227466dc302210ee26cd2eb68717e5ee81483e4d8d5c2103f9eb70c698e1.jpg"
+                }
+            },
+            "bbox": [
+                643,
+                420,
+                774,
+                458
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Compensation for line voltag"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                508,
+                815,
+                526
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "the VREF_RCAP referencevoltage is reduced throu HV pin to reduce the charge current of COUT . HV and VREF_ The relationship of RCAP is as foll"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                535,
+                897,
+                593
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f76ceef3939e96f7edc3a6a0b1adae0b5ae69da8f6d2e4ba1b4e0033989a05a2.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure12.HV and VREF_ RCAP"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                556,
+                602,
+                865,
+                743
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Thermal regulation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                794,
+                731,
+                812
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5768D has thermal regulation function to bala the power delivering and temperature increasing. To improve the system reliability, the output cu will decrease after the BP5768D temperature reaches over temperature protection poin."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                822,
+                899,
+                920
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                953,
+                873,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                240,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                952,
+                260,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                952,
+                626,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6. Selection of key components"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                96,
+                389,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As shown in the typical application diagram of BP 5768 D in Figure 1, the diode D1 behind the rectifier bridge and the diode D2 / D3 connected COUT pin need to use fast recovery di"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                126,
+                473,
+                205
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7.PCB Layout design"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                214,
+                290,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Suggestion for BP5768D PCB layout："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                243,
+                361,
+                260
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Exposed Pad"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                269,
+                200,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5768D uses ESOP -8 package to improve the thermal dissipation. Put the ground copper of exposed pad as large as possible for better ther resistance and power dissipatio"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                298,
+                473,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                524,
+                95,
+                769,
+                112
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SDA and SCL Signal Wire"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                123,
+                712,
+                139
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The wires from MCU signal output to SDA and SCL pins of BP5768D should be as short as possible . Avoid the interference of other noise to the digit signal on PCB ."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                149,
+                899,
+                228
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "HV Pin Routing"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                237,
+                638,
+                255
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin2(HV) is the high voltage pin. Keep these high voltage pin and traces as far away as possible fr low voltage components and traces (e.g., SDA, SC etc.)."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                265,
+                899,
+                343
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                853,
+                953,
+                873,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                242,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                952,
+                260,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                952,
+                626,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Package Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                102,
+                314,
+                122
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8fc34424e21408bae0ae2a5028d0b919a72bf7ef13920945fa3334ddfb0ed0fa.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                129,
+                180,
+                411,
+                288
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2a1e441db6029c01b3b91c0dfd5ac40c7e848fbd783256deb1ef1f218d1552ac.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "ESSOP - 10 POD (unit:mm)"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                581,
+                180,
+                872,
+                263
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c8eaa87fa41dafc17b363df93593f48d1abac7fe15c8412f13117b86d456037c.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                340,
+                396,
+                543
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c7d7fbabe5bdeff690a4d735ef35ba653dd3920b8650925b38197eaa651e3881.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                97,
+                609,
+                321,
+                787
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/85403266d4535480d7c6ddbd24b2f730dff4364a5b06752a5fd9d382d62dc679.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.35</td><td>1.49</td><td>1.70</td></tr><tr><td>A1</td><td>0.00</td><td>0.04</td><td>0.08</td></tr><tr><td>A2</td><td>1.35</td><td>1.45</td><td>1.55</td></tr><tr><td>b</td><td>0.30</td><td>0.40</td><td>0.50</td></tr><tr><td>c</td><td>0.18</td><td>0.20</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>D1</td><td>3.10</td><td>3.30</td><td>3.50</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.80</td><td>3.90</td><td>4.00</td></tr><tr><td>E2</td><td>1.90</td><td>2.10</td><td>2.30</td></tr><tr><td>e</td><td colspan=\"3\">1.00BSC</td></tr><tr><td>L</td><td>0.40</td><td>0.60</td><td>0.80</td></tr><tr><td>L1</td><td colspan=\"3\">1.05REF</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                332,
+                573,
+                663,
+                854
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                38,
+                242,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                747,
+                53,
+                870,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                953,
+                258,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                855,
+                953,
+                873,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                953,
+                626,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Revision Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                102,
+                299,
+                120
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/95659ec5e3594d2aedd40a0b2d4a37898442b997f2264a254d0f340a22b4f7eb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision</td><td>Date</td><td>Notes</td></tr><tr><td>Rev.1.0</td><td>2022/4</td><td>Preliminary</td></tr><tr><td>Rev.1.1</td><td>2026/2</td><td>1、add the $\\theta_{JC}$ 2、correct the dimming depth to 0.1% in EC table</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                164,
+                905,
+                429
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                53,
+                880,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                953,
+                863,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                952,
+                250,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                952,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                436,
+                101,
+                561,
+                121
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Power Semiconductor (BPS) reserves the right to make changes at any time without prior no"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                173,
+                909,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is gr this document. BPS provides information in this datasheet “AS IS” and with all faults, an no warranty, express or implied, including but not limited to, the accuracy of the informatio provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all lia arising out of this datasheet or use of this datasheet, including without limitation consequen incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                233,
+                910,
+                374
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                53,
+                880,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                953,
+                863,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                952,
+                250,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                952,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electronic device scrap descriptio"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                292,
+                101,
+                705,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the end of its life cycle, the product is processed by the customer in accordance wit process of general electronic produc"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                170,
+                907,
+                208
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                843,
+                953,
+                863,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                38,
+                231,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D"
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                53,
+                880,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP 5768D _EN_DS_Rev .1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                952,
+                250,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential –Customer Use O nly"
+                    }
+                ]
+            },
+            "bbox": [
+                389,
+                952,
+                616,
+                966
+            ]
+        }
+    ]
+]

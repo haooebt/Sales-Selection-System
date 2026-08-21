@@ -1,0 +1,2152 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "主要描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                117,
+                179,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M是带记忆功能的墙壁开关调亮度专用芯片，输出三段PWM信号，与带PWM控制口的开关主控芯片配合使用。内部设定状态切换窗口时间  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{SW}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " (典型值6.4S)，关灯时间超过状态切换窗口时间芯片会记住关灯前的状态，下次开灯时直接呈现关灯前的状态；关灯时间小于状态切换窗口时间开灯可以实现亮度调节，增加了使用的便利性。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                149,
+                472,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片集成EEPROM存储单元，多位存储单元的冗余的设计确保数据长时间存储及电源的开关次数。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                280,
+                470,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片内置两种工作模式，可以兼容多种应用需求。通过检测交流信号来判断开关机，确保开关切换状态的同步性。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                329,
+                470,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M 采用 SOT23-6 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                379,
+                290,
+                395
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/25a6d41e445aba39fb93784274fed114c20ddf010ed1e5e9b8d578da8d4bb9aa.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOT23-6 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                247,
+                406,
+                314,
+                454
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                117,
+                574,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 开关三段调光,输出 PWM 信号:100%→50%→12%"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                149,
+                907,
+                164
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 带状态记忆功能，使用更加便利"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                170,
+                779,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 状态存储时间超过 10 年"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                190,
+                729,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 开关次数可达 10 万次以上（记忆功能正常）"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                210,
+                855,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 两种工作模式，兼容多种调光方案"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                230,
+                796,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 1S 内开关两次复位，解决不同步问题"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                250,
+                816,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 状态切换窗口时间内部计时 6.4S"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                269,
+                783,
+                286
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用范围"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                527,
+                305,
+                613,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 墙壁开关调亮度 LED 电源"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                336,
+                739,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                508,
+                178,
+                527
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cf3196a5033c32172455b50c3bfbbdfaa94354004ee833c467293fbdbe772672.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 S4165M 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                115,
+                546,
+                537,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM信号：100%→50%→12%"
+                    }
+                ]
+            },
+            "bbox": [
+                544,
+                618,
+                739,
+                632
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "* 断电后系统可维持S4165M VCC电压在1.5V以上持续超过7S，可省去VCC电容，否则VCC须添加电容，确保切换窗口时间达到内部设定值。"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                634,
+                831,
+                671
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                904,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                618,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                944,
+                670,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                178,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/088e7ce6c6f3b309fbd1131919120b51c684b932e1d190b7bacb4308bfd9c2da.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>S4165M</td><td>SOT23-6</td><td>-40°C ~ 105°C</td><td>卷盘3000 只/盘</td><td>S4165M</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                904,
+                239
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                259,
+                179,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e5d618507eda52623776210538858bc064091abfa7d9277d19c9ca44e3f23cca.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                336,
+                300,
+                663,
+                474
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                536,
+                179,
+                554
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9899ebf155ecd790df62d1895d468308a8eccb97213a4d4d207f049fbfe90c7b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>SET1</td><td>频率和占空比设定脚</td></tr><tr><td>2</td><td>GND</td><td>信号和功率地</td></tr><tr><td>3</td><td>SET2</td><td>保留功能脚(固定接VCC)</td></tr><tr><td>4</td><td>CLK</td><td>信号检测脚</td></tr><tr><td>5</td><td>VCC</td><td>供电脚</td></tr><tr><td>6</td><td>PWM</td><td>PWM信号输出脚</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                562,
+                904,
+                757
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                93
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                499,
+                928,
+                618,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                944,
+                670,
+                957
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                928,
+                905,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用极限参数（注1）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                118,
+                267,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1f5e93a34e32e7e902f593848052d53173e2c07f2a2ddfcd7bef35ca23ff4e65.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>SET1</td><td>频率和占空比设定脚电压范围</td><td>-0.3 ~ 9</td><td>V</td></tr><tr><td>SET2</td><td>保留功能脚电压范围</td><td>-0.3 ~ 9</td><td>V</td></tr><tr><td>PWM</td><td>PWM 信号输出脚电压范围</td><td>-0.3 ~ 9</td><td>V</td></tr><tr><td>CLK</td><td>检测脚电压范围</td><td>-0.3 ~ 9</td><td>V</td></tr><tr><td>VCC</td><td>芯片供电脚电压范围</td><td>-0.3 ~ 9</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.3</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>240</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 ~ 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-40 ~ 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                905,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：最大允许功耗是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的，温度升高最大功耗一定会减小。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                488,
+                905,
+                521
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                93
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                618,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                944,
+                670,
+                957
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                905,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f1f7d870c2c313b619a95346f21dd2bf262447bfe78a815e7d6ab854c4b8ff5c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气特性(注 3,4) (除非特别说明，VCC=5V, Ta=25°C)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ} \\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：该时钟信号为内部时钟，如果外围参数有差异会造成参数有波动。"
+                    }
+                ],
+                "html": "<table><tr><td>描述</td><td>符号</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td>VCC钳位电压</td><td> $VCC_{max}$ </td><td> $I_{vcc}=0.3mA$ </td><td>4.7</td><td>5.2</td><td>5.7</td><td>V</td></tr><tr><td>工作电流</td><td> $I_{vcc}$ </td><td>VCC=5V</td><td></td><td></td><td>0.3</td><td>mA</td></tr><tr><td>CLK脚的阈值</td><td> $VCLK_{th}$ </td><td></td><td></td><td>2.4</td><td></td><td>V</td></tr><tr><td>CLK阈值迟滞</td><td> $VCLK_{hy}$ </td><td></td><td></td><td>0.3</td><td></td><td>V</td></tr><tr><td>CLK输入电阻(CLK-GND)</td><td> $R_{CLK}$ </td><td></td><td></td><td>40</td><td></td><td>KΩ</td></tr><tr><td>状态切换窗口时间</td><td> $T_{SW}$ </td><td></td><td>6.0</td><td>6.4</td><td>6.8</td><td>S</td></tr><tr><td>复位时间</td><td> $T_{rs}$ </td><td></td><td>1.1</td><td>1.2</td><td>1.3</td><td>S</td></tr><tr><td>复位次数</td><td> $T_{reset}$ </td><td></td><td></td><td>2</td><td></td><td>次</td></tr><tr><td>判断开关闭合状态的延迟时间</td><td> $TD_{on}$ </td><td>Fsw=60KHz(注5)</td><td>60</td><td>67</td><td>74</td><td>mS</td></tr><tr><td>判断开关断开状态的延迟时间</td><td> $TD_{off}$ </td><td></td><td>26</td><td>30</td><td>34</td><td>mS</td></tr><tr><td>PWM的高电平</td><td>V_PWM</td><td></td><td></td><td>5.2</td><td></td><td>V</td></tr><tr><td>PWM的频率</td><td>Freq_P</td><td></td><td colspan=\"4\">参考“产品功能说明表”</td></tr><tr><td>PWM脚上拉电阻</td><td> $R_{up}$ </td><td></td><td></td><td>1.5</td><td></td><td>KΩ</td></tr><tr><td>PWM脚下拉电阻</td><td> $R_{down}$ </td><td></td><td></td><td></td><td>0.2</td><td>KΩ</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                142,
+                905,
+                549
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "产品功能说明表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                630,
+                240,
+                648
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e95f6d1873569aebfdcc8b3392b9cba68a24f40b79e0bbdbcbcba2d35a312b7b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "1）PWM 占空比及频率设定"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>模式</td><td>SET1</td><td>第一段</td><td>第二段</td><td>第三段</td><td>频率</td></tr><tr><td>1</td><td>接电阻</td><td>D=100%</td><td>D=50%</td><td>D=12%</td><td>由R5决定</td></tr><tr><td>2</td><td>VCC</td><td>D=100%</td><td>D=50%</td><td>D=12%</td><td>310Hz</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                675,
+                902,
+                759
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c889440d6638e628d9dd9c0ab3478454fb4bb19d2e8e23bb403cc9589161efc9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2）PWM频率与SET1电阻的关系"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>R5(KΩ)</td><td>100</td><td>50</td><td>20</td><td>10</td><td>5.1</td><td>3</td></tr><tr><td>PWM 频率 (KHz)</td><td>0.34</td><td>0.64</td><td>1.57</td><td>3.05</td><td>5.56</td><td>8.87</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                789,
+                905,
+                844
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                905,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                93
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                618,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                944,
+                670,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "检测脚信号要求"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                117,
+                242,
+                135
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M CLK 脚既可以检测高低电平，也可以检测脉冲信号，高电平或脉冲信号宽度须大于 180uS，电平幅度大于 2.4V，如图 3 所示，设计时须留足够余量。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                149,
+                899,
+                186
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3277f7da920a789c08d76fef27f941f87d0a2717c54dbfc05924853ccfa3edfd.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 检测脚波形要求示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                97,
+                197,
+                912,
+                286
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                344,
+                179,
+                363
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                375,
+                163,
+                392
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M通过VCC脚进行供电，在应用中通过供电电阻（如典型应用中R3与R4）将VCC脚与整流桥输出的正极相连。由于IC的工作电流大约为0.3mA，所以供电电阻的选取必须保证在任何的工作条件下，VCC电流必须大于0.3mA。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                406,
+                484,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "断电后，如系统可维持S4165M VCC电压在1.5V以上持续超过7S，可省去VCC电容，否则VCC须添加电容（耐压16V或以上即可，最小容值以满足上述时间为参照），确保切换窗口时间达到内部设定值。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                495,
+                484,
+                573
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                585,
+                163,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M 检测脚 CLK 通过电阻与交流端 L 或 N 相连，检测 AC 信号的通断，CLK 检测的有效信号要求如图 3 所示，为避免干扰导致状态错乱，芯片内置开机延迟时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{on}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  和关机延迟时间   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "TD_{off}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  分别判断有效开机和关机状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                615,
+                485,
+                693
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3、PWM 输出"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                703,
+                210,
+                721
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M 内置两种工作模式，三段输出状态。应用时可以通过设置芯片 SET1 脚的连接方式来进行工作模式的设置。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                734,
+                484,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) 第一工作模式: 当 SET1 外接电阻, S4165M 工作在第一工作模式。在该模式下, S4165M 的第一输出状态的 PWM 占空比为 100%, 第二输出状态的 PWM 占空比为 50%, 第三输出状态的 PWM 占空比为 12%。PWM 频率由 R5 的阻值决定, 频率与 R5 成反比关系。在此工作模式下, 为了增强 SET1 脚的抗干扰能力, 可在 SET1 脚增加一个到 GND 的滤波电容（典型值 100pF）。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                785,
+                485,
+                922
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 第二工作模式: 当 SET1 接 VCC 时, S4165M 工作在第二工作模式。在该模式下, S4165M 的第一状态的 PWM 占空比为 100%, 第二状态的 PWM 占空比为 50%, 第三状态的 PWM 占空比为 12%。PWM 频率为内部默认值 (310Hz)。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                376,
+                907,
+                453
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4、复位"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                456,
+                586,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M 内置开关两次复位功能，从 AC 开关关断时刻算起，Trs(状态复位时间，典型值 1.2S)内完成两次“关灯→开灯”操作，芯片会在第二次开灯时将状态复位到第一个状态，如图 4 所示。如后续开关仍满足复位条件，芯片保持第一状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                487,
+                907,
+                563
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/14c5181250cb69d99ec0c674623e573a64f28efde018a7d6a93df0fbffbcee06.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 S4165M 复位示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                529,
+                570,
+                902,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5、状态控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                705,
+                621,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M 可以通过墙壁开关进行输出亮度调节，关灯后在状态切换窗口时间 Tsw (内部计时，典型值 6.4S) 内开灯即可实现亮度切换；关灯时间超过状态切换窗口时间，芯片则记住关灯前的状态，下次开灯时直接呈现上次关灯前的状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                736,
+                907,
+                813
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6、设计注意事项"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                825,
+                657,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方案验证时，除验证多个电源的同步性外，还需确认状态切换窗口时间是否符合指标要求。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                856,
+                907,
+                892
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                907,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                77,
+                383,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                928,
+                620,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                944,
+                670,
+                958
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOT23-6 封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                97,
+                118,
+                275,
+                137
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9a3a4d9edfa081be55a5119165245dd10ad408366f57cdfc401ba28867382d87.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                149,
+                537,
+                397
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5bceb25f1d08467de51deaab6d91777a1dbd2a213914c1333706437e8899400b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                603,
+                160,
+                771,
+                392
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/036f7a0a69aab7f82fa60120d8bcb6d403547959c62a1a30520dff4d3e689bc9.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                258,
+                412,
+                569,
+                504
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/17da3c264a0ab4c44418318e32b58aace005696751f4f91f6af41d4f48f064b8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Symbol</td><td colspan=\"2\">Dimensions In Millimeters</td><td colspan=\"2\">Dimensions In Inches</td></tr><tr><td>Min</td><td>Max</td><td>Min</td><td>Max</td></tr><tr><td>A</td><td>1.050</td><td>1.250</td><td>0.041</td><td>0.049</td></tr><tr><td>A1</td><td>0.000</td><td>0.100</td><td>0.000</td><td>0.004</td></tr><tr><td>A2</td><td>0.950</td><td>1.150</td><td>0.037</td><td>0.045</td></tr><tr><td>b</td><td>0.300</td><td>0.400</td><td>0.012</td><td>0.016</td></tr><tr><td>c</td><td>0.100</td><td>0.200</td><td>0.004</td><td>0.008</td></tr><tr><td>D</td><td>2.820</td><td>3.020</td><td>0.111</td><td>0.119</td></tr><tr><td>E</td><td>1.500</td><td>1.700</td><td>0.059</td><td>0.067</td></tr><tr><td>E1</td><td>2.650</td><td>2.950</td><td>0.104</td><td>0.116</td></tr><tr><td>e</td><td colspan=\"2\">0.950 TYP</td><td colspan=\"2\">0.037TYP</td></tr><tr><td>e1</td><td>1.800</td><td>2.000</td><td>0.071</td><td>0.079</td></tr><tr><td>L</td><td colspan=\"2\">0.700REF</td><td colspan=\"2\">0.028REF</td></tr><tr><td>L1</td><td>0.300</td><td>0.600</td><td>0.012</td><td>0.024</td></tr><tr><td>θ</td><td>0°</td><td>8°</td><td>0°</td><td>8°</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                525,
+                905,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com\nSDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                928,
+                670,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                929,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                383,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                179,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/97a14312481d66826e782cec3e79bafde2fd590f628b6113bce98df096819ecf.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.3</td><td>2020/11</td><td>规格书格式变更</td></tr><tr><td>Rev. 1.4</td><td>2020/12</td><td>增加 VCC 电容参数设置方法的描述</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                904,
+                338
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com\nSDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                443,
+                928,
+                670,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                895,
+                928,
+                907,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调亮度控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                383,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                445,
+                117,
+                549,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "上海芯飞尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                158,
+                815,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对上海芯飞或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，上海芯飞不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯上海芯飞或任何第三人知识产权做任何明示或暗示保证，上海芯飞也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                187,
+                907,
+                246
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                211,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                905,
+                95
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4165M_CN_DS_Rev_1.4\n12/2020"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                243,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                928,
+                907,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com\nSDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                928,
+                670,
+                958
+            ]
+        }
+    ]
+]

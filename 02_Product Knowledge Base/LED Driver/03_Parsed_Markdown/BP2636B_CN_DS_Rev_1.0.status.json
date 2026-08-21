@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:22:15+08:00",
+  "file": "BP2636B_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 542497,
+    "pages": 10,
+    "sha256": "2c79cf03b03828bcf7afe8fc7097295f43034c88070fc20dfee174800df1b4dd"
+  },
+  "batch_id": "4da9919e-ec51-4a97-a387-6d2ba8f99986",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:22:16+08:00",
+    "errors": [],
+    "markdown_chars": 8964,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:22:29+08:00"
+}

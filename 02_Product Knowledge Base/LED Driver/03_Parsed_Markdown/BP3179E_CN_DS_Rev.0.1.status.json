@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:35:49+08:00",
+  "file": "BP3179E_CN_DS_Rev.0.1.pdf",
+  "pdf": {
+    "bytes": 735740,
+    "pages": 10,
+    "sha256": "96277cb16c8ccd2df7dd666f319d56cb3259b143001361c9a4c807cc44140c1e"
+  },
+  "batch_id": "c67246e1-eb79-4446-b801-da3619720284",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:35:52+08:00",
+    "errors": [],
+    "markdown_chars": 9368,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:36:04+08:00"
+}

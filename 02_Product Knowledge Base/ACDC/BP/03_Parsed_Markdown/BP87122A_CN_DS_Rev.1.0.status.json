@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:57:05+08:00",
+  "file": "BP87122A_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 848390,
+    "pages": 12,
+    "sha256": "820397bdcfdab17b1b658b4f4b534b091ea23093db197de34cb159bd7437cfd1"
+  },
+  "batch_id": "c305754c-92b8-48c6-a28f-51157bd6e9cc",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:57:07+08:00",
+    "errors": [],
+    "markdown_chars": 11371,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T15:21:34+08:00"
+}

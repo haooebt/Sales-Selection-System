@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:07:58+08:00",
+  "file": "BP3337EB_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 522315,
+    "pages": 10,
+    "sha256": "223b6edd95dd235cc0725b8ffcc0a6fe408c2e898dac1b60a73b7e140aa45656"
+  },
+  "batch_id": "afea32bd-4ff9-4a49-8ecc-283837526362",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:08:01+08:00",
+    "errors": [],
+    "markdown_chars": 8344,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:08:07+08:00"
+}

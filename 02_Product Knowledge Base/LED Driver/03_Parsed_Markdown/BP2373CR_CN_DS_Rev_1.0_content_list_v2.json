@@ -1,0 +1,2328 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                143,
+                139,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 是一款带有源功率因素校正的高精度非隔离型降压型 PFC LED 驱动芯片，专为通用电源设计且具有恒流控制作用。且 BP2373CR 工作在临界导通模式，减小了开关损耗并优化了 EMI。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                174,
+                485,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 集成整流桥，续流二极管，VCC,COMP 电容以此简化外部电路。它采用了特有的电流检测技术，减少了外部元件的同时可实现高精度输出电流，且拥有良好的线性调整率和负载调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                263,
+                485,
+                343
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 具有多重保护功能以加强系统可靠性,包括 LED 短路保护,另外，BP2373CR 具有过热调节功能，在驱动电源过热时减小输出电流，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                355,
+                485,
+                412
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f4da8086b1e1fd7c1505525510508217e1469b7fd1a2a883feb936c4dc551ea.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                233,
+                432,
+                305,
+                481
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                142,
+                561,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 有源功率因数校正，0.7 PF"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                174,
+                734,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 无 VCC 和 COMP 电容"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                195,
+                702,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成 600V 超快恢复二极管"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                214,
+                734,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 集成 800V 整流桥"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                235,
+                675,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 外置电流采样电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                255,
+                678,
+                272
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 电感电流临界连续模式"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                275,
+                707,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                294,
+                650,
+                312
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逐周期电流限流"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                315,
+                663,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 过热调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                336,
+                650,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 采用 ASOP7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                356,
+                672,
+                373
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                382,
+                561,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 球泡灯"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                413,
+                633,
+                430
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 灯管"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                432,
+                623,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 其它LED照明"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                453,
+                652,
+                470
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                542,
+                189,
+                562
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ASOP7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                220,
+                508,
+                309,
+                524
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5150ba7287421a56dd4ea90c0db6a3bfd11cf9f050b8c87246b58c3bce4a568e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2373CR 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                596,
+                744,
+                865
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                30,
+                418,
+                120
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                742,
+                68,
+                900,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                497,
+                105,
+                905,
+                127
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                914,
+                252,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                460,
+                914,
+                574,
+                928
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                354,
+                929,
+                747,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                915,
+                875,
+                928
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片名称"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                143,
+                189,
+                161
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d4eda07148e547632978f62b37c441682983f4d32394b7587084bfb62e7d62c0.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                315,
+                179,
+                677,
+                259
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                282,
+                188,
+                300
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/938a4c63767e9c9e8b3e08290de9ba4fe73733cd710629759ca4df6314c637e6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2373CR</td><td>ASOP7</td><td>编带5,000 颗/盘</td><td>BP2373XXXXYCZZZWWR</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                181,
+                307,
+                816,
+                392
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                420,
+                189,
+                439
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/474eb83770eae3330599eb1a27e215624a963e171b31753ea36040e44eb20a7a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                357,
+                447,
+                853,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                645,
+                189,
+                663
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ebbd81a101d7a4102668d72dccb7972f044a6714a12c325f38ade517ed085185.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1,7</td><td>ACIN</td><td>输入电压端</td></tr><tr><td>2</td><td>GND</td><td>芯片地</td></tr><tr><td>3</td><td>NC</td><td>无连接</td></tr><tr><td>4</td><td>CS</td><td>电流采样端,采样电阻接在 CS 和 GND 端之间</td></tr><tr><td>5</td><td>DRAIN</td><td>内部高压功率管漏极</td></tr><tr><td>6</td><td>HV</td><td>整流桥输出正极端(Vbus)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                670,
+                902,
+                877
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                428,
+                120
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                260,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                915,
+                584,
+                928
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                929,
+                757,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                915,
+                885,
+                927
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                143,
+                240,
+                161
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ab384b48d65b35f0852b799032211b295ab164e235e06203a3d151cb551a40a6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td colspan=\"2\">参数范围</td><td>单位</td></tr><tr><td>DRAIN</td><td>内部高压功率管漏极到源极峰值电压</td><td>C</td><td>-0.3~500</td><td>V</td></tr><tr><td>HV</td><td>整流桥后正极端,高压供电端</td><td colspan=\"2\">-0.3~600</td><td>V</td></tr><tr><td>ACIN</td><td>输入电压端</td><td colspan=\"2\">-0.3~800</td><td>V</td></tr><tr><td>CS</td><td>电流采样端</td><td colspan=\"2\">-0.3~6</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td colspan=\"2\">0.45</td><td>W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td colspan=\"2\">-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>存储温度范围</td><td colspan=\"2\">-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                168,
+                895,
+                411
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                426,
+                118
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                260,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                915,
+                584,
+                927
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                931,
+                757,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                915,
+                885,
+                927
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b3a9d158ffc27722ba1489e40c3f2a7d035060bbd3516d612c3e06015b91aeab.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注3,4)（无特别说明情况下，HV=100V,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ} \\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">高压电源(HV)</td></tr><tr><td> $I_{CC}$ </td><td>IC工作电流</td><td></td><td></td><td>0.3</td><td>0.6</td><td>mA</td></tr><tr><td colspan=\"7\">内部控制</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大导通时间</td><td></td><td></td><td>20</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>1.8</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大关断时间</td><td></td><td></td><td>260</td><td></td><td>us</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{CS\\_LIMIT}$ </td><td>CS峰值电压限制</td><td></td><td></td><td>1.3</td><td></td><td>V</td></tr><tr><td> $T_{LEB\\_CS}$ </td><td>电流采样前沿消隐时间</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td> $T_{DELAY}$ </td><td>芯片关断延迟</td><td></td><td></td><td>200</td><td></td><td>ns</td></tr><tr><td> $V_{REF}$ </td><td>内部基准电压</td><td></td><td>291</td><td>300</td><td>309</td><td>mV</td></tr><tr><td colspan=\"7\">续流二极管</td></tr><tr><td> $V_R$ </td><td>击穿电压</td><td>IR=10uA</td><td>600</td><td></td><td></td><td>V</td></tr><tr><td> $I_{F(AV)}$ </td><td>最大平均导通电流</td><td>Tj≤150°C</td><td colspan=\"3\">0.5</td><td>A</td></tr><tr><td> $V_F$ </td><td>导通压降</td><td>IF=0.5A</td><td></td><td></td><td>1.68</td><td>V</td></tr><tr><td> $T_{rr}$ </td><td>恢复时间</td><td>IF=0.5A, IR=1A, $I_{rr}$ =0.25A</td><td></td><td></td><td>35</td><td>ns</td></tr><tr><td colspan=\"7\">功率MOSFET</td></tr><tr><td> $C_{RDS\\_ON}$ </td><td>功率MOSFET导通电阻</td><td> $V_{GS}$ =10V/ $I_{DS}$ =0.5A</td><td></td><td>5.8</td><td></td><td>Ω</td></tr><tr><td> $BV_{DSS}$ </td><td>功率MOSFET击穿电压</td><td> $V_{GS}$ =0V/ $I_{DS}$ =250uA</td><td>500</td><td></td><td></td><td>V</td></tr><tr><td> $I_{DSS}$ </td><td>功率MOSFET漏电流</td><td> $V_{GS}$ =0V/ $V_{DS}$ =500V</td><td></td><td></td><td>1</td><td>uA</td></tr><tr><td colspan=\"7\">过热调节部分</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td>IC Surface</td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                168,
+                880,
+                769
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                426,
+                118
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                260,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                915,
+                584,
+                927
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                929,
+                757,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                915,
+                887,
+                926
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                143,
+                230,
+                161
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4017b09caefc1a4e8a40061ed9489e346f8c182454eda0634502f9b84e2ba589.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2373CR 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                110,
+                180,
+                878,
+                621
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                684,
+                188,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR是一款带有有源功率因素校正的高精度非隔离降压PFC LED驱动芯片，专为具有恒流控制的通用电源而设计。系统工作在电感电流临界连续模式，可以实现0.7功率因数、较低的总谐波失真和高效率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                717,
+                485,
+                794
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                814,
+                154,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在系统上电后，母线电压通过 HV 对芯片内部供电，当内部供电达到芯片开启阈值时，芯片内部控制电流开始工作，输出电压逐渐上升，电感峰值电流随之上升，从而实现输出 LED 电流的软启动，有效防止输出电流过冲。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                853,
+                489,
+                909
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                512,
+                680,
+                833,
+                695
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 恒流控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                715,
+                600,
+                731
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 采用特有恒流算法，在 CS 端电压采样后与芯片内部基准电压进行比较，可以实现高精度输出恒流控制。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                756,
+                902,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 输出电流计算方法："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                804,
+                678,
+                820
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {L E D} = \\frac {V _ {R E F}}{R c s}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a950e6611976e521e1ca3d089fef149d7ff788ac64ebc51ea2a9dead7726153c.jpg"
+                }
+            },
+            "bbox": [
+                655,
+                834,
+                752,
+                866
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                872,
+                556,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{REF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是内部基准电压"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                892,
+                653,
+                907
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                426,
+                120
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                262,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                915,
+                584,
+                928
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                929,
+                757,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                916,
+                885,
+                927
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{cs}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是电流采样电阻的值"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                137,
+                265,
+                153
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 过热调节"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                174,
+                184,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                214,
+                485,
+                271
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                291,
+                186,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR 内置多重保护功能，保证了系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                330,
+                445,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 输出短路时，芯片工作开关频率将工作在 3kHz 左右。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                360,
+                482,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出短路或变压器饱和时，CS 峰值电压将会比较高。当 CS 电压上升到内部限制值（1.3V）时，该功率 MOS 管马上停止工作。此逐周期限流功能可以保护功率 MOS 管、功率电感和输出续流二极管。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                409,
+                482,
+                486
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                506,
+                184,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2373CR PCB 板时，需要注意以下事项："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                545,
+                436,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尽量加大 GND Pin 铺铜，增强散热能力，电流采样电阻的功率地线尽可能短而粗。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                604,
+                482,
+                640
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "a) GND Pin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                575,
+                200,
+                590
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "b) 功率环路的面积"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                653,
+                248,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尽可能减小大电流环路的面积，以减小 EMI 辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                683,
+                431,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尽量加大 HV Pin 铺铜，以增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                741,
+                376,
+                758
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "d) DRAIN Pin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                772,
+                213,
+                787
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "c) HV Pin"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                714,
+                188,
+                728
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尽量加大 DRAIN Pin 铺铜，以增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                801,
+                403,
+                816
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/166564766da25d3ca50ff66170de8b410a786de5b53b2d0bf07cafb218f31d1c.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                517,
+                134,
+                882,
+                279
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Layout 布局"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                660,
+                303,
+                749,
+                318
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                426,
+                118
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                260,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                470,
+                915,
+                584,
+                927
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                929,
+                757,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                916,
+                887,
+                927
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息(ASOP7)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                142,
+                270,
+                162
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b3739411c0286bf197973e8808dc228a21f2e462e2614b950dc74275edb477cc.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                174,
+                216,
+                376,
+                273
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9cd873fad0e8f6f4d719d637599396182323812437ff1657d9f22d9878f97424.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                547,
+                219,
+                853,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a398754dc1507999fcb393769af6c82ecce894add4119a39708023ec66cced87.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                151,
+                351,
+                396,
+                457
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e2117931e200bc1ec61e27420b5088c1b50cfaca18bd3e8561133ed46f8b93c5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                564,
+                388,
+                826,
+                448
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fafd5af7298ddf1007d55d42c6920c2ff39bf12a5e79f60e47e27db761719865.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Unit</td><td colspan=\"3\">mm</td><td>Unit</td><td colspan=\"3\">mm</td></tr><tr><td>/</td><td>min</td><td>typ</td><td>max</td><td>/</td><td>min</td><td>typ</td><td>max</td></tr><tr><td>A</td><td>1.05</td><td>1.15</td><td>1.25</td><td>d1</td><td>2.46</td><td>2.51</td><td>2.56</td></tr><tr><td>C</td><td>0.15</td><td>0.20</td><td>0.22</td><td>d2</td><td>1.28</td><td>1.33</td><td>1.38</td></tr><tr><td>D</td><td>6.0</td><td>6.2</td><td>6.4</td><td>d3</td><td>1.22</td><td>1.27</td><td>1.32</td></tr><tr><td>E</td><td>3.70</td><td>3.9</td><td>4.1</td><td>d4</td><td>2.18</td><td>2.23</td><td>2.28</td></tr><tr><td>HE</td><td>5.9</td><td>6.0</td><td>6.1</td><td>d5</td><td>2.68</td><td>2.73</td><td>2.78</td></tr><tr><td>L</td><td>0.95</td><td>1.05</td><td>1.15</td><td>e1</td><td>0.35</td><td>0.40</td><td>0.45</td></tr><tr><td>L1</td><td>0.40</td><td>/</td><td>0.80</td><td>e2</td><td>0.46</td><td>0.51</td><td>0.56</td></tr><tr><td rowspan=\"2\">a</td><td rowspan=\"2\" colspan=\"3\">0.2 (ref)</td><td>e3</td><td>0.50</td><td>0.55</td><td>0.60</td></tr><tr><td>e4</td><td>0.75</td><td>0.80</td><td>0.85</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                132,
+                502,
+                862,
+                879
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                428,
+                120
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                262,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                915,
+                757,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                915,
+                887,
+                927
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                455,
+                143,
+                542,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                175,
+                825,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性，特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                193,
+                894,
+                273
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                30,
+                428,
+                120
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR"
+                    }
+                ]
+            },
+            "bbox": [
+                732,
+                68,
+                890,
+                91
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "非隔离降压型有源 PFC LED 驱动芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                105,
+                895,
+                126
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2373CR_CN_DS_Rev.1.0\nJan.6.2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                914,
+                262,
+                942
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBright Power Semiconductor Co. Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                916,
+                757,
+                945
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                915,
+                887,
+                927
+            ]
+        }
+    ]
+]

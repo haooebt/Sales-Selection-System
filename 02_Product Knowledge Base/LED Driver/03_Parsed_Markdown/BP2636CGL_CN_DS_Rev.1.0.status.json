@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:02:38+08:00",
+  "file": "BP2636CGL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2949736,
+    "pages": 9,
+    "sha256": "423e9a427946345add49c8d21bc87140bbeff5eb7f4277174ee003f84a9da471"
+  },
+  "batch_id": "ed85d827-21cd-410c-bfdd-cedffb6fc472",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:02:40+08:00",
+    "errors": [],
+    "markdown_chars": 9710,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:21:46+08:00"
+}

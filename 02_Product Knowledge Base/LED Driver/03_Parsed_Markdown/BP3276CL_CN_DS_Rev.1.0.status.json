@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:45:31+08:00",
+  "file": "BP3276CL_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1220965,
+    "pages": 12,
+    "sha256": "756bc0375e51b0804ae89f8434f01bf6d3ec5bdfc555ec469b607772864d8652"
+  },
+  "batch_id": "64aab29b-2a2d-4658-9d6e-3a55d207f288",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:45:32+08:00",
+    "errors": [],
+    "markdown_chars": 8889,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T13:46:00+08:00"
+}

@@ -1,0 +1,2615 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG Deeply Dimmable Low PF LED Driver"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                67,
+                603,
+                120
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                136,
+                184,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG is an isolated low PF dimmable LED driver, compatible with PWM or analog dimming signal, to provide high-precision and flicker-less light output. Dim to off function is available by PWM dimming signal."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                173,
+                489,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG works in BCM and QR mode to improve system efficiency and EMI. BP3177DG adopts advanced primary-side constant current algorithm to provide excellent line and load regulation. Primary-side regulation also helps to eliminate second-side components and reduce system cost."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                259,
+                487,
+                376
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG provides with multiple protections to assure reliability of LED driver design."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                386,
+                487,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG is packaged in DIP-7."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                431,
+                324,
+                449
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/63275de087ce5ede85b99283d71f7115fb252bde05f25880da61244079f1ed9b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7 package"
+                    }
+                ]
+            },
+            "bbox": [
+                228,
+                461,
+                326,
+                527
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                510,
+                136,
+                601,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Deep dimming depth down to 1%, compatible with PWM or analog dimming signal; support dim to off"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                173,
+                931,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Tight LED current reference of ±3%"
+                    }
+                ]
+            },
+            "bbox": [
+                509,
+                212,
+                808,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Good current consistency in deep dimming"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                233,
+                855,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Wide load voltage"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                254,
+                678,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Built-in line and load regulation"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                274,
+                774,
+                291
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Multiple protections"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                294,
+                695,
+                310
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " LED open and short protection"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                315,
+                803,
+                331
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " CS short protection"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                335,
+                726,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Over current protection"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                355,
+                754,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " Over temperature protection"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                375,
+                789,
+                391
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                509,
+                451,
+                628,
+                470
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " LED Ceiling Lights"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                481,
+                682,
+                500
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED Street Lamp"
+                    }
+                ]
+            },
+            "bbox": [
+                546,
+                502,
+                672,
+                519
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical\u0000Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                570,
+                260,
+                590
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8a040d69694ae7f95d26c8410ff12f350002fd97072df7eb890ab39e4a05bffa.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig.1 BP3177DG PWM Dimming"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Note：The circuit and parameters are for reference only and tests are needed to fully verify its application."
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                89,
+                609,
+                882,
+                852
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                734,
+                47,
+                924,
+                120
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "09/2025"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                927,
+                124,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                926,
+                929,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ordering\u0000Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                99,
+                285,
+                118
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a1889f030319bac862fef9e10c836d2f61272e1026503b90ad9ca85f09a6efe7.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Package Method</td><td>Marking</td></tr><tr><td>BP3177DG</td><td>DIP-7</td><td>Tube50pcs/Tube</td><td>BP3177XXXXXYGXXYYWWD</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                131,
+                927,
+                221
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin\u0000Configuration"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                231,
+                248,
+                250
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6e5e75862c142035fc1bb1d95b9c6e1cd4eb96e6be829469152d24604614d34e.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig.2 Pin Configuration"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG: Part Number XXYY: Sign WW: Week"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                269,
+                593,
+                387
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin\u0000Definition"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                441,
+                208,
+                460
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4b56abf2ffddab871cc683179016d22a00f1eccfc49ca88c9541ff24643c9425.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin No.</td><td>Name</td><td>Description</td></tr><tr><td>1</td><td>VCC</td><td>Power supply pin</td></tr><tr><td>2</td><td>FB</td><td>Zero current detection and output voltage sensing for OVP</td></tr><tr><td>3</td><td>DIM</td><td>Analog dimming signal input pin</td></tr><tr><td>4</td><td>PWM</td><td>PWM dimming signal input pin</td></tr><tr><td>5</td><td>GND</td><td>IC Ground</td></tr><tr><td>6</td><td>CS</td><td>MOSFET current sensing</td></tr><tr><td>7</td><td>DRAIN</td><td>MOSFET DRAIN</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                472,
+                927,
+                765
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                34,
+                179,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1e2e9f8f3bbc2ecf12e35fe45d19d97ab733e2acd64f877b510d81c866ae2e6f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Absolute\u0000Maximum\u0000Ratings\u0000(Note 1)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Range</td><td>Units</td></tr><tr><td>VCC</td><td>Voltage Range on VCC pin</td><td>-0.3~40</td><td>V</td></tr><tr><td>DRAIN</td><td>MOS DRAIN Breakdown voltage</td><td>-0.3~700</td><td>V</td></tr><tr><td>PWM</td><td>Voltage Range on PWM pin</td><td>-0.3~40</td><td>V</td></tr><tr><td>CS, FB, DIM</td><td>Voltage Range on CS/FB/DIM</td><td>-0.3~8</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Power Dissipation (Note 2)</td><td>0.9</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Thermal resistance between junction to ambient</td><td>80</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Operating Junction Temperature</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage Temperature</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                131,
+                927,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some particular parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                526,
+                931,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 2: The maximum power dissipation decrease if temperature rise, it is decided by TJMAX, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\theta _ { \\mathsf { J A } , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and environment temperature (T<sub>A</sub>). The maximum power dissipation is the lower one between P<sub>DMAX</sub> = (T<sub>JMAX</sub> - T<sub>A</sub>)/ θ<sub>JA</sub> and the number listed in the maximum table."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                612,
+                929,
+                646
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 3: Tested on 1 in.² double-sided board according to JEDEC standard."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                658,
+                500,
+                671
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                34,
+                179,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electrical\u0000Parameters\u0000(Note\u00004)\u0000(unless\u0000otherwise\u0000specified， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { A } = 2 5 ~ ^ { \\circ } C )"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                99,
+                635,
+                118
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e78eb55287b1db6b1798400019147dda0f522c769469a99035d7970798c23cbe.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Description</td><td>Conditions</td><td>Min.</td><td>Typ.</td><td>Max.</td><td>Unit</td></tr><tr><td colspan=\"7\">Power Supply Section (VCC)</td></tr><tr><td> $V_{CC\\_TH}$ </td><td> $V_{CC}$  Turn On Threshold</td><td> $V_{CC}$  Rising</td><td>10</td><td>12.3</td><td>14</td><td>V</td></tr><tr><td> $I_{CC\\_ST}$ </td><td> $V_{CC}$  Startup Current</td><td> $V_{CC\\_TH}-0.5V$ </td><td>110</td><td>135</td><td>160</td><td>μA</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$  UVLO Threshold</td><td> $V_{CC}$  Falling</td><td>6.6</td><td>7.9</td><td>8.6</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$  Clamp Voltage</td><td> $I_{CC}=2mA$ </td><td>30</td><td>35</td><td>40</td><td>V</td></tr><tr><td> $I_{CC\\_QUSIESCENT}$ </td><td> $V_{CC}$  Quiescent Current</td><td>No Switching</td><td>200</td><td>500</td><td>700</td><td>μA</td></tr><tr><td colspan=\"7\">Current Sensing (CS)</td></tr><tr><td> $V_{CS\\_LIM}$ </td><td>CS Cycle-by-Cycle Limit</td><td></td><td></td><td>0.82</td><td></td><td>V</td></tr><tr><td> $V_{CS\\_OCP}$ </td><td>CS Open Threshold</td><td></td><td>1.6</td><td>1.8</td><td>2</td><td>V</td></tr><tr><td colspan=\"7\">Timing Control</td></tr><tr><td> $T_{LEB1}$ </td><td>LEB Time for Normal Switching (Note 5)</td><td></td><td></td><td>410</td><td></td><td>ns</td></tr><tr><td> $T_{LEB2}$ </td><td>LEB Time for OCP (Note 5)</td><td></td><td></td><td>280</td><td></td><td>ns</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>Max. On Time</td><td></td><td>35</td><td>45</td><td>55</td><td>μs</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>Max. Off Time</td><td></td><td>200</td><td>255</td><td>360</td><td>μs</td></tr><tr><td colspan=\"7\">Internal MOSFET (DRAIN)</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>Internal MOSFET</td><td> $V_{GS}=10V, I_D=2A$ </td><td></td><td>2.2</td><td>2.8</td><td>Ω</td></tr><tr><td> $BV_{DSS}$ </td><td>Max. Breakdown Voltage</td><td> $V_{GS}=0V, I_D=250μA$ </td><td>700</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">ZCD and OVP (FB)</td></tr><tr><td> $V_{FB\\_FALL}$ </td><td>FB Falling Edge Threshold</td><td>FB Falling</td><td></td><td>0.15</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_HYS}$ </td><td>FB Hysteresis Voltage</td><td></td><td></td><td>0.09</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>FB OVP Threshold</td><td></td><td>1.9</td><td>2</td><td>2.1</td><td>V</td></tr><tr><td colspan=\"7\">Dimming Section (PWM, DIM)</td></tr><tr><td> $V_{DIM\\_MAX}$ </td><td>Max. Current Reference</td><td></td><td>1.746</td><td>1.8</td><td>1.854</td><td>V</td></tr><tr><td> $V_{PWM\\_ON}$ </td><td>PWM Effective High Level</td><td>PWM Rising</td><td></td><td>1.8</td><td></td><td>V</td></tr><tr><td> $V_{PWM\\_HYS}$ </td><td>PWM Effective High to Low Hysteresis</td><td>PWM Falling</td><td></td><td>1.75</td><td></td><td>V</td></tr><tr><td colspan=\"7\">Thermal Regulation</td></tr><tr><td> $T_{REG}$ </td><td>Thermal regulation</td><td></td><td></td><td>145</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                131,
+                929,
+                902
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                34,
+                179,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                87,
+                927,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note\u00004: the maximum and minimum parameters specified are guaranteed by test, the typical value is guaranteed by design, characterization and statistical analysis."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                177,
+                929,
+                212
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                34,
+                179,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                57,
+                927,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Internal\u0000Block\u0000Diagram"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                99,
+                341,
+                120
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a31cedb0cf46f97700980f05e06cd07d396155c6c990eee8503629e886c58805.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Fig. 3 BP3177DG Internal Block Diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                121,
+                146,
+                882,
+                495
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application\u0000Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                550,
+                312,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG is an isolated low PF dimmable LED driver controller, compatible with PWM or analog dimming signal, to provide high-precision and flicker-less light output."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                587,
+                473,
+                664
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Start-up"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                675,
+                147,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the system is powered up, VCC voltage will be charged to the turn-on threshold, and the controller begins to switch MOSFET. Output voltage will increase rapidly."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                705,
+                473,
+                784
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC pin is integrated with an internal clamping circuit to clamp VCC voltage. If VCC voltage is lower than UVLO threshold, the controller stops working."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                795,
+                472,
+                853
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Primary-side\u0000Constant\u0000Current\u0000Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                551,
+                870,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG adopts advanced primary side current sensing scheme. It can precisely control the LED current without secondary side sensing and feedback circuit. Quasiresonant peak current control is used and Flyback works in BCM mode to improve efficiency. Internal constant current algorithm of the BP3177DG guarantees highprecision output current, which can be set as:"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                582,
+                931,
+                720
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {o u t} = \\frac {1}{8} * \\frac {V _ {D I M \\_ M A X}}{R _ {c s}} * N _ {p s}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/79b9f6353d1266d7b5b1b7298f984a3a50f420bb07d103cbbbc16f28fc992ddb.jpg"
+                }
+            },
+            "bbox": [
+                650,
+                728,
+                862,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { p s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the turns ratio of primary to secondary, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { D I M \\_ M A X }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is maximum voltage of DIM pin and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the resistance of CS resistor. Cycle-by-cycle OCP threshold of CS pin is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { C S \\_ L I M } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". When CS reaches to V<sub>CS_OCP</sub>, MOSFET will be switched off and the controller enters into fault protection mode."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                778,
+                932,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                34,
+                179,
+                77
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Dimming"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                101,
+                154,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG accepts analog signals from DIM pin to change LED current. For non-dimming applications, connector one capacitor to the DIM pin and leave PWM pin floating. The BP3177DG changes reference voltage to adjust output current. The maximum reference voltage from DIM pin is 1.8V."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                131,
+                473,
+                249
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG also can accept PWM signal for dimming. One ceramic capacitor should be connected from DIM pin to GND, to act as a filter."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                262,
+                472,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If the PWM voltage is low for more than 18ms, the controller will stop switching. Once the PWM signal jumps to high (above 1.8V), the controller returns to switching the MOSFET."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                332,
+                473,
+                409
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dimming curve of the BP3177DG is as follows:"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                422,
+                394,
+                438
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b044b02c77603aa301df269b5c02df9f8d0843e7b522720660b2f5f11fdc6f4b.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                80,
+                451,
+                462,
+                649
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OVP/LED\u0000Open\u0000Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                694,
+                299,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OVP is triggered via FB pin. If the FB voltage is still higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "^ { 2 \\mathsf { V } , }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "the BP3177DG enters fault protection mode. After about 600ms, if the fault condition is removed, the BP3177DG restarts. Otherwise, the BP3177DG stays in fault protection mode."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                725,
+                473,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Flyback OVP voltage will be:"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                835,
+                270,
+                850
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {\\mathrm {out\\_ {O} VP}} = \\frac {N _ {S}}{N _ {A U X}} * \\frac {R _ {F B L} + R _ {F B H}}{R _ {F B L}} * V _ {F B \\_ {O} V P} (\\mathrm{V})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4fc6e9668d0645773ada725f9886321be1bba1bf7e1bfc89e39efc76fa7ea55c.jpg"
+                }
+            },
+            "bbox": [
+                94,
+                854,
+                443,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Where "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { S }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is turns of secondary winding and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "N _ { A U X }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is turns of auxiliary winding. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { F B H }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is upper resistor of FB divider, while "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "R _ { F B L }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is lower resistor."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                897,
+                472,
+                913
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                522,
+                90,
+                931,
+                120
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Output\u0000Short\u0000Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                162,
+                744,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When output is shorted, ZCD signal cannot be detected and turn-off time of the switch is extended to maximum to reduce power loss. When VCC voltage supplied by auxiliary winding is lower than VCC_UVLO, the controller enter into VCC UVLO protection."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                193,
+                932,
+                290
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Thermal\u0000Regulation\u0000"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                319,
+                705,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP3177DG integrates with over temperature protection. If the junction temperature of the BP3177DG is higher than TREG, the output current will be decreased to limit output power and temperature rise. This function is helpful to improve reliability of system."
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                351,
+                931,
+                449
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Other\u0000Protections"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                526,
+                468,
+                689,
+                483
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "such as CS resistor open protection and CS pin short protection."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                498,
+                931,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB\u0000Layouts"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                586,
+                642,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following rules should be followed in the PCB layout of the BP3177DG:"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                615,
+                931,
+                651
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) The bypass capacitor of DIM pin and VCC pin should be placed close to the controller and GND pin as possible, especially the DIM pin, which must be close to the IC ground."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                656,
+                931,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) The resistor divider and filtering capacitor of FB pin should be close to the controller, and far away from the switching node, to avoid mis-triggering of OVP by system noise."
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                737,
+                931,
+                814
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) Trace of the current sensing resistor should be as wide as possible and kept close to GND for better output current sensing accuracy. Otherwise current regulation will be affected. Besides, GND of small signal should be connected to IC ground by"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                818,
+                932,
+                916
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                954,
+                929,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "independent path."
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                95,
+                238,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) The area of main current loop including area of primary side of transformer, MOSFET and snubber circuit, as well as the secondary current loop including the secondary side of transformer, freewheeling diode and output capacitor, should both be as small as possible to reduce EMI noise."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                115,
+                473,
+                233
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                954,
+                929,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Physical\u0000Dimensions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                99,
+                312,
+                120
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aef05e4a7c0fed77c80f59e377f5118dcc4d6fdf8790d9f13337fca5cbea2a97.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7 PACKAGE OUTLINE DIMENSIONS"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                205,
+                149,
+                415,
+                298
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/980e36f2ddf6556201b9e5227bbce911e29727a74a21a888098007030bb80e93.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                584,
+                168,
+                761,
+                319
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d5fd06aaaec3ed6362f94ba582b3bc9c812a6467c29825175b60a838dcc6d217.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                208,
+                379,
+                438,
+                495
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4754477729fd5519a4792232624a4852e541f1c5da7d0564ec9dd17afe3ffea7.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ]
+            },
+            "bbox": [
+                541,
+                363,
+                789,
+                468
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5c2657d17f1ffa8e5e104f53b3f57c584d8d787bf0b0c1aa6b243cb632dd7689.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>—</td><td>—</td><td>4.80</td></tr><tr><td>A1</td><td>0.40</td><td>—</td><td>—</td></tr><tr><td>A2</td><td>3.10</td><td>—</td><td>3.50</td></tr><tr><td>b</td><td>0.355</td><td>—</td><td>0.559</td></tr><tr><td>B1</td><td colspan=\"3\">1.52REF</td></tr><tr><td>c</td><td>0.203</td><td>—</td><td>0.356</td></tr><tr><td>D</td><td>9.10</td><td>—</td><td>9.45</td></tr><tr><td>E</td><td>6.25</td><td>—</td><td>6.70</td></tr><tr><td>e</td><td>2.44</td><td>2.54</td><td>2.64</td></tr><tr><td>E1</td><td>7.62</td><td>—</td><td>10.90</td></tr><tr><td>L</td><td>2.92</td><td>—</td><td>3.81</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                208,
+                588,
+                492,
+                884
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                954,
+                929,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/554fd5cca9d62e7cf0133131b2a4c8d3ddac0e2f70a91d02543999a08b3ed284.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Revision\u0000Information"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision Information</td><td>Date</td><td>Notes</td></tr><tr><td>V1.0</td><td>2025/09</td><td>First release</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                124,
+                919,
+                294
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                954,
+                929,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                436,
+                99,
+                561,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Bright Power Semiconductor (BPS) reserves the right to make changes at any time without prior notice."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                177,
+                931,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is granted under this document. BPS provides information in this datasheet “AS IS” and with all faults, and makes no warranty, express or implied, including but not limited to, the accuracy of the information provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all liabilities arising out of this datasheet or use of this datasheet, including without limitation consequential or incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                246,
+                932,
+                346
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                954,
+                929,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Electronic device scrap description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                299,
+                99,
+                697,
+                120
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the end of its life cycle, the product is processed by the customer in accordance with the scrap process of general electronic products."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                131,
+                931,
+                168
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                72,
+                30,
+                179,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG"
+                    }
+                ]
+            },
+            "bbox": [
+                786,
+                53,
+                929,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3177DG_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                953,
+                228,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                954,
+                929,
+                965
+            ]
+        }
+    ]
+]

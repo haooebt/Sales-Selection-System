@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:06:55+08:00",
+  "file": "LKS1D5005D_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 336063,
+    "pages": 11,
+    "sha256": "3f3d5ba43dc68fe592a8c06af244c2a3d06575238c4d0211a68b05586574b8e8"
+  },
+  "batch_id": "56181e21-fca2-4e43-bfb4-94fd45f1aae4",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:06:55+08:00",
+    "errors": [],
+    "markdown_chars": 15417,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-21T13:06:58+08:00"
+}

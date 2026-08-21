@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:49:10+08:00",
+  "file": "BP62620_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3169918,
+    "pages": 13,
+    "sha256": "90f9618889bef8a887cdb70922ee6574cfd5b01909ff0bea0c399b24b49abe1b"
+  },
+  "batch_id": "887f7e32-5746-48f7-a50d-cbb114a6b25b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:49:11+08:00",
+    "errors": [],
+    "markdown_chars": 16201,
+    "parsed_pages": 13,
+    "passed": true,
+    "pdf_pages": 13
+  },
+  "published_at": "2026-08-21T12:49:28+08:00"
+}

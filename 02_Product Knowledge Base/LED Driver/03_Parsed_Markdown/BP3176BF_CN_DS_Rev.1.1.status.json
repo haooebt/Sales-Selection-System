@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:34:51+08:00",
+  "file": "BP3176BF_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 3241815,
+    "pages": 9,
+    "sha256": "5682b96a80abdab5100d3d7ce796b4484bc32080e72d08de979a21a1cb1dde1f"
+  },
+  "batch_id": "844df7b9-3d14-4153-985c-18492284592d",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:34:53+08:00",
+    "errors": [],
+    "markdown_chars": 8607,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T13:35:02+08:00"
+}

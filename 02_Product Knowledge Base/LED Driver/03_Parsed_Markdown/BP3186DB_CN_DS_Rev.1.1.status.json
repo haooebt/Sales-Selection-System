@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:38:52+08:00",
+  "file": "BP3186DB_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 2965508,
+    "pages": 10,
+    "sha256": "74a7c51b67ff36fad8e72592d00bb54d1f19026929b95967a75e6e9930ef84cd"
+  },
+  "batch_id": "0226548c-5867-4023-a56c-99c7c7482633",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:38:52+08:00",
+    "errors": [],
+    "markdown_chars": 9813,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:39:02+08:00"
+}

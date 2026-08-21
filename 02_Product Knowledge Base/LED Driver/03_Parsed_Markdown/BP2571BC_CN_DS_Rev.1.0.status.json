@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:13:47+08:00",
+  "file": "BP2571BC_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2590640,
+    "pages": 10,
+    "sha256": "6aeef0ac97bcf1dc24a6a5f1d8222c502ce28f9400462144303107374404c7ca"
+  },
+  "batch_id": "99730e85-f2f8-45f2-bc17-4edbca173eb4",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:13:47+08:00",
+    "errors": [],
+    "markdown_chars": 8662,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:13:49+08:00"
+}

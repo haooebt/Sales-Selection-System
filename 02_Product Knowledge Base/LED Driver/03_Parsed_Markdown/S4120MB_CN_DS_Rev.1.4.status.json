@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:42:22+08:00",
+  "file": "S4120MB_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 1345856,
+    "pages": 8,
+    "sha256": "aefc31b156d777a7de912e1b519c240db704d13840fd9464ce82c9d27e74c1f0"
+  },
+  "batch_id": "589cf125-f75f-4c6c-8ed5-2d5d5a30a435",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:42:23+08:00",
+    "errors": [],
+    "markdown_chars": 7588,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:42:30+08:00"
+}

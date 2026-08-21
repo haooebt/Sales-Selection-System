@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:12:37+08:00",
+  "file": "BP2373CR_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 996937,
+    "pages": 8,
+    "sha256": "2fe0aa218c8350e93c71f5f302e92455286e405572d9695a2e7d97530b275260"
+  },
+  "batch_id": "c84fe0a6-7ced-4cda-be28-02f79554e7e8",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:12:38+08:00",
+    "errors": [],
+    "markdown_chars": 7414,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T13:12:41+08:00"
+}

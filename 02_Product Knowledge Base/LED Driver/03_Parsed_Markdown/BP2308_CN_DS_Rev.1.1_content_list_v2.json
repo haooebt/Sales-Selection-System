@@ -1,0 +1,2309 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                152,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 是一款兼容 PWM/模拟调光的高 PF BUCKLED 恒流控制芯片,适用于 90Vac-265Vac 全范围输入电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                168,
+                485,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 采用高压启动，内置COMP 补偿电容，降低成本。芯片采用专利的电流控制机制，用极少的外部元件达到高精度的输出电流，实现了优异的线性调整率和负载调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                230,
+                484,
+                303
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 提供多种保护功能，包含 LED 负载短路保护，VCC欠压保护和温度调节功能，增强了系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                309,
+                484,
+                363
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                370,
+                294,
+                388
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                139,
+                566,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 兼容 PWM/模拟调光"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                168,
+                702,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ PWM 调光范围 1%~100%"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                187,
+                726,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 模拟调光范围 5%~100%"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                206,
+                729,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 高 PF，低 THD"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                225,
+                663,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 超低待机功耗"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                243,
+                663,
+                259
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 内置 COMP 电容"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                262,
+                670,
+                278
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 高精度输出电流(+/-3%)"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                280,
+                739,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 优异的线性、负载调整率"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                298,
+                749,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ VCC 欠压锁定"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                317,
+                657,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 逐周期限流"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                335,
+                645,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 输出短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                354,
+                662,
+                370
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 过温降电流"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                373,
+                645,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                391,
+                642,
+                407
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                417,
+                566,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "智能 LED 球泡灯"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                447,
+                678,
+                464
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                474,
+                200,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ 其他 LED 智能照明"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                464,
+                695,
+                482
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f056611e4227c4d8c65c8cdcb727cb22c23e43b7e05fc26bff0a816d609011d9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2308 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                104,
+                514,
+                892,
+                772
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                934,
+                887,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                46,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                102,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                72,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                935,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                200,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/aaf799a7fe365802ca0965718112ce3ec85cc85ecebaaf09984516b1629f54fb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2308</td><td>SOP-8</td><td>-40 °C到105 °C</td><td>4000pcs/盘</td><td>BP2308XXXXXYZZWWX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                104,
+                175,
+                895,
+                273
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                310,
+                201,
+                331
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6c214333e6d7257572fdb49579c1b633dee05d8170634f7755dad38e264c2479.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                327,
+                357,
+                695,
+                530
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXX：Lot Number"
+                    }
+                ]
+            },
+            "bbox": [
+                704,
+                350,
+                878,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ZZZZ：标记"
+                    }
+                ]
+            },
+            "bbox": [
+                705,
+                368,
+                806,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                705,
+                388,
+                796,
+                403
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                570,
+                200,
+                589
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/53e60076d691ab4919bb712671e30b77eab661c4dc2edd9fdfbe5a18c6474794.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>FB</td><td>反馈信号采样脚</td></tr><tr><td>2</td><td>VCC</td><td>芯片供电</td></tr><tr><td>3</td><td>NC</td><td>无连接</td></tr><tr><td>4</td><td>HV</td><td>高压启动和供电</td></tr><tr><td>5</td><td>GATE</td><td>连接 MOSFET 的栅极</td></tr><tr><td>6</td><td>CS</td><td>电流采样信号输入端,通过电阻接到 GND 来检测电流。</td></tr><tr><td>7</td><td>GND</td><td>芯片地</td></tr><tr><td>8</td><td>DIM</td><td>PWM/模拟调光信号输入端</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                596,
+                902,
+                860
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                934,
+                889,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                47,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                72,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                102,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                935,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数（注 1）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                140,
+                265,
+                159
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7b04d2e2a06f8c51f4fbfb487dfe42a872f871bb799fab98e5a35f08ca2ef823.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{GATE}$ </td><td>GATE引脚电压范围</td><td>-0.3~20</td><td>V</td></tr><tr><td> $V_{HV}$ </td><td>芯片高压供电</td><td>-0.3~600</td><td>V</td></tr><tr><td> $V_{VCC}$ </td><td>芯片供电范围</td><td>-0.3~16</td><td>V</td></tr><tr><td> $V_{IO}$ </td><td>CS、FB引脚电压范围</td><td>-0.3~8</td><td>V</td></tr><tr><td> $V_{DIM}$ </td><td>DIM引脚电压范围</td><td>-0.3~24</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr><tr><td></td><td>ESD(注3)</td><td>2</td><td>KV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                166,
+                900,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { { P _ { D M A X } } \\ = \\ \\left( T _ { \\mathrm { { J M A X } } } \\ - \\ \\bar { \\ T } _ { \\mathrm { { A } } } \\right) / }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                545,
+                895,
+                577
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 3：人体模型，100pF 电容通过 1.5KΩ 电阻放电。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                581,
+                445,
+                596
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                934,
+                887,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                47,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                72,
+                895,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                103,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                102,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                935,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cad7ad2f876e35ff96c7d733885d0eee95124e255b4509c7e5fc057e4f57b2f3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "规格参数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "( \\yen 4,5)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "：（无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\scriptstyle \\mathtt { V } _ { \\infty } = 1 2 \\mathtt { V } , \\ \\mathtt { T } _ { \\mathtt { A } } = 2 5 \\ \\mathtt { C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 4：典型参数值为 25˚C 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 5：规格书的最小、最大规范范围"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">高压供电(HV)</td></tr><tr><td> $V_{HV\\_BR}$ </td><td></td><td></td><td>600</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">电源电压(VCC)</td></tr><tr><td> $V_{CC\\_ON}$ </td><td> $V_{CC}$ 启动电压</td><td> $V_{CC}$ 上升</td><td></td><td>12</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$ 欠压保护阈值</td><td> $V_{CC}$ 下降</td><td></td><td>8</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_HIGH}$ </td><td> $V_{CC}$ 充电截止电压</td><td> $V_{CC}$ 上升</td><td></td><td>12</td><td></td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$ 钳位电压</td><td> $I_{CC}=1mA$ </td><td></td><td>15</td><td></td><td>V</td></tr><tr><td> $I_{CC}$ </td><td> $V_{CC}$ 工作电流</td><td> $F_{SW}=50KHz$ </td><td></td><td>0.4</td><td>0.55</td><td>mA</td></tr><tr><td> $I_{ST}$ </td><td>芯片待机电流</td><td>DIM=0</td><td></td><td>15</td><td>30</td><td>μA</td></tr><tr><td colspan=\"7\">电流采样(CS)</td></tr><tr><td> $V_{REF}$ </td><td>内部参考电压</td><td></td><td>0.291</td><td>0.3</td><td>0.309</td><td>V</td></tr><tr><td> $V_{CS\\_LIMIT}$ </td><td>逐周期限流阈值</td><td></td><td></td><td>1.8</td><td></td><td>V</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td> $T_{DELAY}$ </td><td>芯片关断延迟</td><td></td><td></td><td>200</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">模拟调光(DIM)</td></tr><tr><td> $V_{DIM\\_ON}$ </td><td>调光使能阈值</td><td></td><td></td><td>0.4</td><td></td><td>V</td></tr><tr><td> $V_{DIM\\_OFF}$ </td><td>调光关断阈值</td><td></td><td></td><td>0.36</td><td></td><td>V</td></tr><tr><td> $V_{DIM}$ </td><td>调光线性范围</td><td></td><td>0.4</td><td></td><td>2</td><td>V</td></tr><tr><td> $R_{PD\\_DIM}$ </td><td>DIM内部下拉电阻</td><td></td><td></td><td>180</td><td></td><td>kΩ</td></tr><tr><td colspan=\"7\">PWM调光(DIM)</td></tr><tr><td> $V_{PWM\\_ON}$ </td><td>PWM高电平有效</td><td>PWM上升</td><td>2.2</td><td></td><td></td><td>V</td></tr><tr><td> $V_{PWM\\_OFF}$ </td><td>PWM低电平有效</td><td>PWM下降</td><td></td><td></td><td>0.25</td><td>V</td></tr><tr><td> $F_{PWM}$ </td><td>PWM频率范围</td><td></td><td>500</td><td></td><td>4000</td><td>Hz</td></tr><tr><td colspan=\"7\">电压反馈(FB)</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>FB过压保护阈值</td><td></td><td></td><td>1.5</td><td></td><td>V</td></tr><tr><td colspan=\"7\">内部时间控制</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td></td><td>27</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>3.5</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大关断时间</td><td> $V_{CS}>0.5V$ </td><td></td><td>170</td><td></td><td>us</td></tr><tr><td colspan=\"7\">过热调节部分</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                166,
+                880,
+                800
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                934,
+                887,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BaS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                105,
+                47,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                72,
+                895,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                103,
+                895,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                935,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                102,
+                139,
+                247,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fc5944ef066796a34acf023f47d7c634d5709dda4a9701b1f50131f779772ad1.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2308 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                144,
+                185,
+                870,
+                604
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                639,
+                200,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 是一款兼容 PWM/模拟调光的高 PF BUCKLED 恒流控制芯片,适用于 90Vac-265Vac 全范围输入电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                669,
+                484,
+                722
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                749,
+                173,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电以后，芯片先检测到 DIM信号，再通过HV对VCC电容充电，当VCC电压达到芯片开启阈值时，芯片内部控制电路开始工作。然后输出电压逐步上升，电感电流也上升，LED电流由于软启动，无过冲。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                766,
+                480,
+                859
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                669,
+                744,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 采用专有的电流检测机制，极少的外部元 件就可达到高精度的输出电流，优异的线性调整 率和负载调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                688,
+                897,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最大亮度时 LED输出电流计算方法："
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                749,
+                789,
+                765
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {O U T} \\approx \\frac {V _ {R E F}}{R _ {C S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/4531604c041c5cc48fa4086a8b24e0a835781ef6cf1263dc91888fbc01fd040f.jpg"
+                }
+            },
+            "bbox": [
+                657,
+                787,
+                752,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                824,
+                561,
+                838
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V } _ { \\mathrm { R E F } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是内部基准电压"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                841,
+                668,
+                857
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R _ { C S } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是电流采样电阻的值"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                860,
+                699,
+                876
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                935,
+                887,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                47,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                71,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 调光"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                131,
+                173,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 可以接受PWM信号或模拟信号进行调光。模拟调光电压范围为 0.4V-2V，可参考如下调光曲线。当 VDIM＜0.36V，控制器关闭 MOSFET;当VDIM≥2V，LED电流达到100%输出并保持恒流。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                149,
+                472,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光信号频率范围 500Hz-4KHz，PWM 调光逻辑低电平需＜0.24V，逻辑高电平需＞2.2V。如果 PWM低电平持续时间达到20mS，芯片会进入待机模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                244,
+                480,
+                315
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/227c4a420e85653bdbb02426235cab3d26b849249eb01037ecf4c09af1ee7761.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4 BP2308 模拟调光曲线"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                142,
+                326,
+                436,
+                517
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 反馈网络"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                558,
+                208,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FB引脚可以用来探测输出过压保护（OVP），阈值为 1.5V。FB 的上下分压电阻比例可以设置为："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                577,
+                482,
+                612
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {R _ {F B L}}{R _ {F B L} + R _ {F B H}} \\approx \\frac {1 . 5 V}{V _ {O V P}} \\times \\frac {N _ {P}}{N _ {A}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/df7b63deb0e2bdbdae0fe06953de5d86addcd20e2a582eca42e5d8060cd0c507.jpg"
+                }
+            },
+            "bbox": [
+                191,
+                632,
+                393,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                669,
+                147,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R } _ { \\mathrm { F B L } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是反馈网络的下分压电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                688,
+                337,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { R } _ { \\mathrm { F B H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是反馈网络的上分压电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                706,
+                337,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V<sub>OVP</sub>是输出电压过压保护设定点"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                725,
+                357,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N _ { P } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是变压器原边绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                743,
+                322,
+                759
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N _ { A } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是变压器辅助绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                762,
+                324,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                799,
+                243,
+                815
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。芯片内部设定过热调节温度点为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 \\mathrm { { ‰} }"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                818,
+                480,
+                890
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                131,
+                621,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308 内置多重保护功能，保证了系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                149,
+                884,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 短路时，系统工作频率低于 6kHz。"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                187,
+                840,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统进入故障保护状态后， VCC电压开始下降，当 VCC 到达欠压阈值时，系统将重启。 同时系统不断的检测系统状态，如果故障解除，系统会重新开始正常工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                224,
+                887,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出短路或者电感饱和时， CS 峰值电压将会比较高。当 CS 电压上升到内部限制值（1.8V）时，开关周期马上停止。 此逐周期限流功能可以保护功率 MOSFET、电感和输出续流二极管。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                317,
+                887,
+                390
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7 PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                410,
+                616,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2308 PCB 板时，需要注意以下事项："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                428,
+                878,
+                445
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "旁路电容"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                464,
+                589,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC 的旁路电容需要紧靠芯片 VCC和 GND 引"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                483,
+                867,
+                521
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "地线"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                539,
+                554,
+                555
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能粗，且要离芯片的地尽量近，以保证电流采样的准确性，否则可能会影响输出电流精度。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                558,
+                890,
+                613
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功率环路的面积"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                633,
+                643,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "减小大电流环路的面积，以减小 EMI 辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                651,
+                853,
+                667
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FB 引脚"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                688,
+                581,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "接到 FB 的分压电阻必须靠近FB 引脚，且节点要远离变压器的动点，否则系统噪声容易误触发 FBOVP 保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                706,
+                895,
+                760
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                934,
+                889,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                47,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                72,
+                895,
+                97
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                103,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                139,
+                200,
+                159
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ec9f4e867610593ebe5fa8395c67f32f6ff5fa50bcb7e639e64cee1f099b8e53.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                196,
+                236,
+                507,
+                497
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ef6b3762559bb8f2f3d984e99a3e7908ebebe8f7f84305d34df0753862f62a5a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                613,
+                244,
+                754,
+                464
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6f393d6ab9ce70fd0fbb14bb202a4576d2d7104abe002e1891c1c01d7f2f92ea.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                213,
+                501,
+                576,
+                594
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8a7811ccd2ab4c95d9e6cd0617feb849b591b7ac82f747b3c47f76c473a1ea06.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">Symbol</td><td colspan=\"2\">Dimensions In Millimeters</td><td colspan=\"2\">Dimensions In Inches</td></tr><tr><td>Min</td><td>Max</td><td>Min</td><td>Max</td></tr><tr><td>A</td><td>1.350</td><td>1.750</td><td>0.053</td><td>0.069</td></tr><tr><td>A1</td><td>0.100</td><td>0.250</td><td>0.004</td><td>0.010</td></tr><tr><td>A2</td><td>1.350</td><td>1.550</td><td>0.053</td><td>0.061</td></tr><tr><td>b</td><td>0.330</td><td>0.510</td><td>0.013</td><td>0.020</td></tr><tr><td>c</td><td>0.170</td><td>0.250</td><td>0.006</td><td>0.010</td></tr><tr><td>D</td><td>4.700</td><td>5.100</td><td>0.185</td><td>0.200</td></tr><tr><td>E</td><td>3.800</td><td>4.000</td><td>0.150</td><td>0.157</td></tr><tr><td>E1</td><td>5.800</td><td>6.200</td><td>0.228</td><td>0.244</td></tr><tr><td>e</td><td colspan=\"2\">1.270 (BSC)</td><td colspan=\"2\">0.050 (BSC)</td></tr><tr><td>L</td><td>0.400</td><td>1.270</td><td>0.016</td><td>0.050</td></tr><tr><td>θ</td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td><td> $0^{\\circ}$ </td><td> $8^{\\circ}$ </td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                136,
+                646,
+                816,
+                878
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                934,
+                887,
+                945
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BOS晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                46,
+                357,
+                126
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                71,
+                895,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "兼容 PWM/模拟调光 APFC BUCK 控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                102,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2308_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                236,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ]
+]

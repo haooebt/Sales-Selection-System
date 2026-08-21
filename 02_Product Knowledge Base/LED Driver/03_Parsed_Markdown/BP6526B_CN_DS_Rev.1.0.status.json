@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:38:14+08:00",
+  "file": "BP6526B_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2698890,
+    "pages": 10,
+    "sha256": "620c21c6239051fe22e7035fe1721c61dbf203e9e955fde94260f1b610064f1b"
+  },
+  "batch_id": "29d978e0-0b5e-4429-9ec8-6e3934496bc6",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:38:17+08:00",
+    "errors": [],
+    "markdown_chars": 6995,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:38:33+08:00"
+}

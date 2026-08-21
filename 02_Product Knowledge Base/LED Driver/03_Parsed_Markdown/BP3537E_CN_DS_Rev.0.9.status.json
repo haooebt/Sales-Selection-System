@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:03:44+08:00",
+  "file": "BP3537E_CN_DS_Rev.0.9.pdf",
+  "pdf": {
+    "bytes": 3278917,
+    "pages": 10,
+    "sha256": "828bf1b155e0863a07c1a77ff2d427f4858c8c3a6c44493614bf9cb335a94232"
+  },
+  "batch_id": "7839db76-d782-4ac5-8845-22c08ebdd65b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:03:45+08:00",
+    "errors": [],
+    "markdown_chars": 9823,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:03:53+08:00"
+}

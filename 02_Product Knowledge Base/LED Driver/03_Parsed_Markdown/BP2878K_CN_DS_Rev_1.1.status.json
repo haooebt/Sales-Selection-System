@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:30:57+08:00",
+  "file": "BP2878K_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 451536,
+    "pages": 10,
+    "sha256": "6718467242998ac91a586a0dd9cbb006611fca57b5dfe054d4302ca10edae660"
+  },
+  "batch_id": "23f05fe9-8bbe-4ec6-9465-fdf46ea67392",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:31:00+08:00",
+    "errors": [],
+    "markdown_chars": 9055,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:31:09+08:00"
+}

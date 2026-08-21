@@ -1,0 +1,2056 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                68,
+                383,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                110,
+                137,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 是带记忆功能的墙壁开关调色温专用芯片，专用于搭配线性主控芯片。通过操作墙壁开关，即可实现色温的变化。内部设定状态切换窗口时间Tsw(典型值6.4S)，关灯时间超过状态切换窗口时间芯片会记住关灯前的状态，下次开灯时直接呈现关灯前的状态；关灯时间小干状态切换窗口时间开灯可以实现色温切换，增加了使用的便利性。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                141,
+                485,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 内置两个400V的晶闸管，简化了外围电路，非常适合对成本及空间有要求的球泡和筒灯等使用。检测AC信号判断开关机，保证多个电源同时应用时的逻辑一致性。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                272,
+                485,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 采用 SOP-8 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                341,
+                282,
+                357
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d0b612494e21bb3498e10a6896b67709c45e894057df8580b2a7c791640b8d0a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                255,
+                374,
+                317,
+                414
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                110,
+                561,
+                128
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "三段开关调色温：L1→L2→(L1+L2)/2"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                141,
+                806,
+                156
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内置状态记忆功能，使用更加便利"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                162,
+                784,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "状态存储时间超过10年"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                181,
+                717,
+                197
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "开关次数可达10万次以上（记忆功能正常）"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                202,
+                842,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 10S内开关7次复位，解决不同步问题"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                222,
+                813,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内置400V开关管，无需外挂开关管"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                242,
+                794,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "状态切换窗口时间内部计时6.4S"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                263,
+                771,
+                278
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                297,
+                561,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "墙壁开关调色温 LED 电源"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                329,
+                727,
+                344
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                475,
+                179,
+                493
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7370aabb42c0863ff55cf46fbd45b2aac8c4aa18a34bed793e5bed7521af7785.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                151,
+                510,
+                845,
+                677
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/db2a53060374535b9af44eeed50b5f09ca3e2eec8cee6d17cf94d64e3511fd85.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 S4512MB 无输入电解典型应用图"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 2 S4512MB 有输入电解典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                725,
+                853,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                33,
+                231,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                38,
+                902,
+                87
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB CN DS Rev 1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                662,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                902,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                178,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c932fa6b56403eaba66d1b50d882503a0ec41770b095592437d1b13b080ee3e0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>S4512MB</td><td>SOP-8</td><td>-40°C~105°C</td><td>卷盘4000只/盘</td><td>S4512MBXXXXXXXXXXXXXXXXX</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                904,
+                239
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                259,
+                179,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/876332e47f2b2250147c578079c3bdfeba7c985ff190fe1ed11405a050dfdcee.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 封装管脚图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                332,
+                300,
+                636,
+                454
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                518,
+                179,
+                536
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/52e6e04b48b903095fbc33bc99f9ed4ef90f76b73993755149556c0f8e708145.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VCC</td><td>芯片供电引脚</td></tr><tr><td>2</td><td>CLK</td><td>信号检测引脚</td></tr><tr><td>3</td><td>VDD</td><td>内部供电引脚</td></tr><tr><td>4</td><td>GND</td><td>信号和功率地</td></tr><tr><td>5,6</td><td>D2</td><td>LED 灯珠负极连接点</td></tr><tr><td>7,8</td><td>D1</td><td>LED 灯珠负极连接点</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                543,
+                904,
+                739
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                904,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                231,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                902,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                660,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用极限参数（注1）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                118,
+                267,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/461927e1ef5ae5fb237e03e864350a82baa520f920df50a2874ec9c6157ecb7f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：最大允许功耗是由 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\Delta M A X } , \\theta _ { J A } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和环境温度Ta所决定的,温度升高最大功耗一定会减小。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P _ { D M A X } = ( T _ { J M A X } - T _ { A } ) / \\theta _ { J A }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td>芯片 VCC 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>VDD</td><td>芯片 VDD 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>CLK</td><td>芯片 CLK 引脚电压范围</td><td>-0.3~9</td><td>V</td></tr><tr><td>D1/D2</td><td>晶闸管阳极电压范围</td><td>0~400</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>PN 结到环境的热阻</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 ~ 125</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-40 ~ 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                904,
+                392
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                902,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                233,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                904,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                660,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d4cdaa75b97a6a65651c507dcf23dee70b8b19c3d0989b048baa04cf6bd29aff.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "规格参数(注3,4)（无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { C C } = 5 V _ { \\mathrm { { i } } }"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } { = } 2 5 ^ { \\circ } \\sf C )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为25℃下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试、或统计分析保证。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注5：该时钟信号为内部时钟，如果外围参数有差异会造成参数有波动。"
+                    }
+                ],
+                "html": "<table><tr><td>描述</td><td>符号</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td>供电脚限制电压</td><td>Vcc_max</td><td>IVCC=2mA</td><td>6.1</td><td>6.5</td><td>6.9</td><td>V</td></tr><tr><td>内部供电电压</td><td>VDD</td><td>IVCC=2mA</td><td>5.8</td><td>6.2</td><td>6.6</td><td>V</td></tr><tr><td>工作电流</td><td>IVCC</td><td>VCC=5V</td><td></td><td></td><td>0.5</td><td>mA</td></tr><tr><td>检测脚CLK阈值电压</td><td>CLK(th)</td><td></td><td></td><td>2.4</td><td></td><td>V</td></tr><tr><td>检测脚阈值迟滞</td><td>CLK(hy)</td><td></td><td></td><td>0.3</td><td></td><td>V</td></tr><tr><td>检测脚输入电阻</td><td>Rclk</td><td></td><td></td><td>40</td><td></td><td>KΩ</td></tr><tr><td>判断开关闭合状态的延迟时间</td><td>Td(on)</td><td>Fsw=60KHz(注5)</td><td>60</td><td>67</td><td>74</td><td>mS</td></tr><tr><td>判断开关断开状态的延迟时间</td><td>Td(off)</td><td></td><td>26</td><td>30</td><td>34</td><td>mS</td></tr><tr><td>状态切换窗口</td><td>Tsw</td><td></td><td>6.0</td><td>6.4</td><td>6.8</td><td>S</td></tr><tr><td>状态复位时间</td><td>Trs</td><td></td><td>9.5</td><td>10</td><td>10.5</td><td>S</td></tr><tr><td>状态复位开关次数</td><td>Treset</td><td></td><td></td><td>7</td><td></td><td>次</td></tr><tr><td>D1和D2的饱和电压</td><td>VDx</td><td>IDx=250mA</td><td></td><td>1.4</td><td></td><td>V</td></tr><tr><td>D1和D2的最大耐压</td><td>VD(bv)</td><td></td><td>400</td><td></td><td></td><td>V</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                905,
+                530
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "逻辑顺序"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                611,
+                179,
+                629
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 是三段开关调色温，逻辑顺序为 L1→L2→(L1+L2)/2；其中 L1 和 L2 分别代表第一和第二路LED 灯串。S4512MBCLK脚既可以检测高低电平，也可以检测脉冲信号，高电平或脉冲信号宽度须大于180uS，电平幅度大于2.4V。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                643,
+                905,
+                678
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9c91054f49f15fd2e32b40700c9586cf72e5285f0ec65fd60464faae2a3f2d99.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图4 检测脚波形要求示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                92,
+                693,
+                902,
+                793
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                904,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                231,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                46,
+                904,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                662,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "复位方式"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                179,
+                135
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9bd4511e5eb7a83dfb5c30942c0020eb1a6c69c4f2c605646969d3b9d1a00fbb.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5 复位操作示意图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                95,
+                146,
+                895,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) 10S内开关七次复位，复位操作之前必须亮灯，亮灯时间不限，第一次开灯不算，“关灯--开灯”算一次，如上图所示，芯片会在第七次关灯后再开灯时把状态复位到第一个状态"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                316,
+                904,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 复位时的“关灯--开灯”操作的要求是，Trs(状态复位时间，典型值10S)时间内完成七次“关--开”操作，芯片将在第七次开灯时将状态复位到第一个状态，不限制单次关灯或开灯时间，只计算总时间；"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                365,
+                900,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) 复位之后，如果仍然做“关灯--开灯”动作，并且时间满足复位的时间，则芯片会在第14次开灯时重新复位，以此类推。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                414,
+                905,
+                432
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                450,
+                179,
+                469
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1、供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                489,
+                161,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB通过VCC脚进行供电，在应用中通过供电电阻(如典型应用所示）将VCC 脚与输出正极相连。由于IC的工电流大约为0.5mA，所以供电电阻的选取必须保证在任何工作条件下，VCC 的电流都必须大于0.5mA。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                521,
+                485,
+                598
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2、检测"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                609,
+                161,
+                626
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 的检测脚为 CLK 脚，该脚位通过检测电阻与 AC的| 或者 N 相连。S4512MB 通过 CLK脚对 AC 输入电压进行检测判断开关机状态。CLK脚也可以检测高低电平信号。为过滤掉噪声，避免造成误触发，S4512MB内部设计了判断开关闭合状态的延迟时间Td(on) (典型值67mS)和判断开关断开状态的延迟时间Td(off)（典型值 30mS)，CLK 脚检测信号要求如图3 所示。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                640,
+                485,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3、带载能力"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                790,
+                198,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 内置两个 400V 晶闸管,导通饱和电压为 1.4V 左右(IDx=250mA)，S4512MB 适合于输出电流小于250mA的应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                820,
+                485,
+                877
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4、状态控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                489,
+                621,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 内置 EEPROM 存储单元，关灯时会把关灯前的状态存储到存储单元中，关灯时间超过状态切换窗口时间Tsw后再次开灯，芯片会直接调取存储单元中的状态作为输出状态(即关灯前的状态)。若用户需要切换色温，只需关灯时间小于状态切换窗口时间再开即可切换色温。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                521,
+                907,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB 的状态切换窗口时间(Tsw)由内部时钟计时,典型值为6.4S。如典型应用所示，若为无输入电解应用，VCC脚需要外接一个电容给芯片供电，确保断电 7S 内 VDD 电压维持在 1.5V 以上，VCC 电容通常建议选取 10uE 或以上容值；若为有输入电解应用，且断电7S内输入电解足以维持 VDD 电压在 1.5V 以上，VCC 脚加 1uF 滤波电容即可(若S4512MB 和输入电解共地，电解足够大的情况下VCC 电容可省略，布板时须预留 VCC 电容位置)。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                631,
+                907,
+                789
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                233,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                904,
+                96
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                660,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                245,
+                136
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/03876e7994855a5ca354d38b7e4f4268ca3ca00a0c8e0ba61620bacb9a777a84.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                105,
+                147,
+                440,
+                437
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/57649ad0063a0b0aa2900f59b035de8428b3d08a1fcae271bd5151b76b2bf5d4.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "FRONT VIEW"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                546,
+                225,
+                870,
+                367
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/37c48ba2b77710523cd02fb8132762d1afcf78989b6173f99d0979d30e6e765a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "BOTTOM VIEW"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                110,
+                470,
+                500,
+                585
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/113d69b8635fcfd5117aa7d507dd15126ebce8d03081ffeed6dbb0740ed68906.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DETAIL A"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                605,
+                445,
+                794,
+                563
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/62dc50591afb66a3c7688b62e23d893faa8f6d63934e4aa21d3f628ed82b729a.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "RECOMMENDED LAND PATTERN"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                110,
+                601,
+                366,
+                781
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "NOTE:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                442,
+                678,
+                492,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) ALL DIMENSIONS ARE IN MILLIMETERS. 2) EXPOSED PADDLE SIZE DOES NOT INCLUDE MOLD FLASH. 3) LEAD COPLANARITY SHALL BE 0.10 MILLIMETER MAX. 4) DRAWING CONFORMS TO JEDEC MO-229, VARIATION VEED-5. 5) DRAWING IS NOT TO SCALE."
+                    }
+                ]
+            },
+            "bbox": [
+                440,
+                695,
+                894,
+                757
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                233,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                77,
+                381,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                905,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                958
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                611,
+                940
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                944,
+                660,
+                957
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                383,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                117,
+                179,
+                135
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eb68d534ee8a2391b234617ca5ae134cca85a16a2dd270d2678dc7d470945838.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.1</td><td>2020/11</td><td>规格书格式变更,无电解应用电路更新(VCC 加电容,VDD 电容省略)</td></tr><tr><td>Rev. 1.2</td><td>2021/01</td><td>更新概述内容描述</td></tr><tr><td>Rev. 1.3</td><td>2021/01</td><td>增加一种典型应用电路,更新 VCC 电容的使用说明</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                143,
+                904,
+                338
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                233,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                902,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB_CN_DS_Rev_1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                957
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                928,
+                662,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                904,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "带记忆开关调色温控制芯片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                77,
+                383,
+                98
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                445,
+                117,
+                549,
+                136
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "上海芯飞尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                158,
+                815,
+                175
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对上海芯飞或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，上海芯飞不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯上海芯飞或任何第三人知识产权做任何明示或暗示保证，上海芯飞也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                187,
+                907,
+                246
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                42,
+                233,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "SDS"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                46,
+                904,
+                96
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "S4512MB CN DS Rev 1.3 01/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                928,
+                250,
+                958
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                890,
+                929,
+                904,
+                941
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.sdsemi.com SDS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                433,
+                928,
+                662,
+                958
+            ]
+        }
+    ]
+]

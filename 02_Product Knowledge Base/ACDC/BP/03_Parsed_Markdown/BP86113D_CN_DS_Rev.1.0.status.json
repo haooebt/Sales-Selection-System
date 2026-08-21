@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:00:33+08:00",
+  "file": "BP86113D_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2610021,
+    "pages": 10,
+    "sha256": "8a474ffb8640897aa2e94cfd88f02dd590fb6b027f4bc1a62b6e6c64441da04d"
+  },
+  "batch_id": "f9e0b3cd-6912-4bf1-9ad7-362efd06d3cd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:00:34+08:00",
+    "errors": [],
+    "markdown_chars": 9751,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:00:36+08:00"
+}

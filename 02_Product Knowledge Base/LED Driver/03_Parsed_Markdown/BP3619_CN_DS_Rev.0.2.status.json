@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:06:31+08:00",
+  "file": "BP3619_CN_DS_Rev.0.2.pdf",
+  "pdf": {
+    "bytes": 2971355,
+    "pages": 10,
+    "sha256": "aab84b050fd416780ba52506466404d4bb5a047b61e7b9cccda9a426d57ba9f8"
+  },
+  "batch_id": "2b9dab89-9ade-4c9a-b26c-efaf3521fa8d",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:06:38+08:00",
+    "errors": [],
+    "markdown_chars": 12935,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:06:51+08:00"
+}

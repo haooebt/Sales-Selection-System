@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:01:53+08:00",
+  "file": "BP3536D_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3336234,
+    "pages": 10,
+    "sha256": "962381048ea52dbfaa43f6b2d10b8699df1412c0916626ab18b1665050bdafad"
+  },
+  "batch_id": "5c8a4a32-3b5f-4211-9d05-f08d2eaff376",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:01:57+08:00",
+    "errors": [],
+    "markdown_chars": 12075,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:02:13+08:00"
+}

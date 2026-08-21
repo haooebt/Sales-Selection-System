@@ -1,0 +1,2192 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                138,
+                152,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 是一款专利的超低待机功耗的恒压驱动芯片，待机功耗仅 1mW，能有效消除单火线应用中灯具关断时的微亮或闪烁问题。该芯片能够在85-265Vac 宽范围输入电压下正常工作，特别适用于单火线智能面板电源应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                169,
+                475,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 芯片内部集成 700V 功率开关，采用独有的电压电流控制技术，不需要外部环路补偿电容即可实现优异的恒压特性，极大的节约了系统成本和体积。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                267,
+                482,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 芯片采用多模式控制技术，有效降低系统待机功耗，提高效率和动态性能，并减小系统工作在轻载时的噪声。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                347,
+                484,
+                401
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 采用 SOT33-5A 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                408,
+                329,
+                423
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                138,
+                566,
+                160
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 1mW 超低待机功耗@Vin=230Vac"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                169,
+                789,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 85-265Vac 宽范围输入电压"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                185,
+                763,
+                201
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内部集成 700V 功率管"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                203,
+                722,
+                218
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 集成高压启动功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                220,
+                697,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 优异的动态响应"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                237,
+                678,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 减小音频噪声的降幅调制技术"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                252,
+                784,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 改善 EMI的抖频技术"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                270,
+                719,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " ±3%输出电压精度"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                287,
+                697,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                304,
+                626,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 过载保护"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                320,
+                662,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输出过压保护"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                337,
+                695,
+                353
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 过温保护"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                353,
+                662,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 逐周期限流"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                370,
+                678,
+                385
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                394,
+                564,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 单火线智能应用"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                429,
+                678,
+                446
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 其他应用"
+                    }
+                ]
+            },
+            "bbox": [
+                515,
+                447,
+                626,
+                465
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                520,
+                189,
+                540
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/aeee30a98f0e0f973a7e6dab0ce1058545ed8d800e0bb6a54cfd8a630c774966.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP2535C 典型应用"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                107,
+                568,
+                818,
+                834
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B2S晶丰明源 Bright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                43,
+                379,
+                125
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C超低待机功耗恒压芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                71,
+                897,
+                123
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                872,
+                934,
+                882,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                933,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                93,
+                189,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/af39e879c44031aa4bd11f80166a2f5ae70f4711abacf57dc610aa5711a4fb65.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>BP2535C</td><td>SOT33-5A</td><td>-40°C 到 105°C</td><td>编带7,500 颗/盘</td><td>BP2535XXXXXYZZZZWWC</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                119,
+                887,
+                214
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                233,
+                191,
+                254
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/77fe8674e6b4ddb693f695d65a6939c7d44c6c109bf3f1c7e6256209df22c40c.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                329,
+                264,
+                867,
+                404
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                456,
+                191,
+                476
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a8e67f485287b8b35cd7100620f2df0213408315a4ac9f53d74ca033614da692.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GND</td><td>芯片地</td></tr><tr><td>2</td><td>FB</td><td>输出电压采样端。</td></tr><tr><td>3</td><td>VCC</td><td>芯片电源端</td></tr><tr><td>4</td><td>DRAIN</td><td>芯片内部高压功率管的漏极</td></tr><tr><td>5</td><td>CS</td><td>电流采样端,采样电阻接在CS和GND端之间</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                90,
+                482,
+                895,
+                660
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                933,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                934,
+                598,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                934,
+                873,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                93,
+                252,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6b57fa90d4bdbe82d5eba7717567504df16d1e82647fc5d05720a057e2fa942e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{DS}$ </td><td>内部高压功率管漏极到源极峰值电压</td><td>-0.3~700</td><td>V</td></tr><tr><td> $I_{DMAX}$ </td><td>内部高压功率管峰值电流@  $T_J=100°C$ </td><td>500</td><td>mA</td></tr><tr><td>VCC</td><td>VCC电压</td><td>-0.3~7</td><td>V</td></tr><tr><td> $I_{CC\\_MAX}$ </td><td>VCC引脚最大电源电流</td><td>10</td><td>mA</td></tr><tr><td>FB</td><td>输出电压选择端</td><td>-0.3~6</td><td>V</td></tr><tr><td>CS</td><td>电流采样端</td><td>-0.3~6</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.4</td><td>W</td></tr><tr><td> $θ_{JA}$ </td><td>PN结到环境的热阻</td><td>155</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 to 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55 to 150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                156,
+                119,
+                830,
+                442
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                454,
+                899,
+                507
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ 和环境温度T 所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\Delta P _ { D M A X } \\ = \\Delta \\left( T _ { J M A X } \\mathrm { \\Delta - \\Delta T _ { A } } \\right) / \\Omega }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                510,
+                894,
+                543
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片最大功率"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                573,
+                238,
+                592
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fd9c7c644a2e4c1a2633a2c8949c8c58942fe4b713a303230dc90a543f408834.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>型号</td><td>测试条件描述</td><td>限值范围</td><td>单位</td></tr><tr><td>BP2535C</td><td>输入电压 85Vac-265Vac</td><td>2</td><td>W</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                599,
+                880,
+                663
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                934,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                934,
+                598,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                934,
+                873,
+                944
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0c98e17d1d1478b812a487a64448e7352ba3dfd561f3c5c8246605f8b79101df.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 3, 4)（无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { \\mathrm { A } } = 2 5 ^ { \\circ } \\mathrm { C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 3：典型参数值为25˚C下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 5：设计或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压 VCC</td></tr><tr><td> $V_{CC_ON}$ </td><td> $V_{CC}$ 开启电压</td><td>Rising</td><td>3.8</td><td>4.3</td><td>4.8</td><td>V</td></tr><tr><td> $V_{CC_OFF}$ </td><td> $V_{CC}$ 关断电压</td><td>Falling</td><td>2.7</td><td>3.2</td><td>3.7</td><td>V</td></tr><tr><td> $\\begin{array}{c}V_{CC\\_CHRG}^{(注5)}\\\\ \\end{array}$ </td><td> $V_{CC}$ 充电开启电压</td><td>Falling</td><td></td><td>3.5</td><td>4.0</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$ 引脚箝位电压</td><td> $I_{CLAMP}=1mA$ </td><td>6.0</td><td>6.4</td><td>6.8</td><td>V</td></tr><tr><td> $\\begin{array}{c}V_{CC\\_OVP}^{(注5)}\\\\ \\end{array}$ </td><td> $V_{CC}$ 过压保护阈值</td><td></td><td>6.3</td><td>6.7</td><td>7.1</td><td>V</td></tr><tr><td> $I_{CC\\_OP}$ </td><td> $V_{CC}$ 工作电流</td><td> $V_{CC}=5V,V_{FB}=1V,V_{DRAIN}=2V$ </td><td></td><td>350</td><td>500</td><td>uA</td></tr><tr><td> $I_{Q\\_SKIP\\_MODE}$ </td><td> $V_{CC}$ Skip Mode 静态电流</td><td> $V_{CC}=5V,V_{FB}=1.4V,V_{DRAIN}=2V$ </td><td></td><td>30</td><td>50</td><td>uA</td></tr><tr><td> $I_{CC\\_ST}$ </td><td> $V_{CC}$ 启动电流</td><td></td><td></td><td>2</td><td></td><td>mA</td></tr><tr><td colspan=\"7\">电压反馈 FB</td></tr><tr><td> $V_{FB_EA\\_REF}$ </td><td>内部误差放大器基准</td><td></td><td>1.18</td><td>1.22</td><td>1.27</td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>输出过压阈值</td><td></td><td></td><td>1.4</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_OLP}$ </td><td>输出过载阈值</td><td></td><td></td><td>0.8</td><td></td><td>V</td></tr><tr><td colspan=\"7\">振荡器</td></tr><tr><td> $F_{OSC\\_MAX}$ </td><td>最大开关频率</td><td></td><td>58</td><td>68</td><td>78</td><td>kHz</td></tr><tr><td> $D_{MAX}$ </td><td>最大占空比</td><td></td><td></td><td>80</td><td></td><td>%</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{CS\\_TH}$ </td><td>电流检测阈值</td><td></td><td>250</td><td>300</td><td>350</td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>240</td><td></td><td>ns</td></tr><tr><td> $T_{ILD}$ </td><td>电流限流延迟</td><td></td><td></td><td>100</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>功率管导通阻抗</td><td> $I_{DS}=10mA$ </td><td></td><td>17</td><td>21</td><td>Ω</td></tr><tr><td> $I_{DSS}$ </td><td>功率管关断漏极漏电流</td><td> $V_{CC}=5V/V_{DS}=700V$ </td><td></td><td></td><td>50</td><td>uA</td></tr><tr><td> $BV_{DSS}$ </td><td>功率管的击穿电压</td><td> $V_{GS}=0V/I_{DS}=250uA$ </td><td>700</td><td></td><td></td><td>V</td></tr><tr><td> $\\begin{array}{c}V_{DS\\_SUP}^{(注5)}\\\\ \\end{array}$ </td><td>漏极供电电压</td><td></td><td>30</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">过热保护</td></tr><tr><td> $T_{SD}$ </td><td>过热调节温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                99,
+                119,
+                942,
+                764
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                934,
+                873,
+                944
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                933,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                934,
+                598,
+                956
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                93,
+                238,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/04e2bd097bf299a7ca657f789980e74fe741138798de477d7d4ea99153089cee.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP2535C 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                154,
+                127,
+                882,
+                410
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                445,
+                191,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 是一款专利的超低待机功耗的恒压驱动芯片，能够在 85-265Vac 宽范围输入电压下正常工作。芯片内部集成 700V功率开关，只需要极少的外围组件就可以达到优异的恒压特性。特别适用于单火线智能面板电源应用。 o"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                473,
+                480,
+                565
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                577,
+                132,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后，母线电压直接通过 Drain 端对 V<sub>CC</sub>电容充电，当 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压达到芯片开启阈值时，芯片内部控制电路开始工作。BP2535C 内置6.2V 稳压管，用于钳位 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压。芯片正常工作时，需要的 V<sub>CC</sub>电流极低，可以直接从输出通过二极管给 V<sub>CC</sub>供电。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                605,
+                485,
+                695
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "软启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                707,
+                152,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片具有软启动功能，在软启动过程中，会分段增加原边峰值电流以减小开关应力，每一次重启都会经历软启动的过程。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                733,
+                484,
+                788
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/0af3406e7c346c1298bb7ed56ee3995c1bf02493ae49eeb29dbfd655a857dffe.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                544,
+                486,
+                915,
+                716
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                743,
+                626,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 通过 FB 分压电阻直接反馈输出电压，采样电压与内部基准比较形成闭环后，来恒定输出电压Vo。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                771,
+                907,
+                824
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V O = \\frac {1 . 2 * (R _ {F B L} + R _ {F B H})}{R _ {F B L}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/926ac925e11c8d3b3e834e8cf7285d4363a9cf1d5da7517ad2d9842d2dd7d817.jpg"
+                }
+            },
+            "bbox": [
+                606,
+                837,
+                811,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，R<sub>FBL</sub>是FB 下拉电阻，R<sub>FBH</sub>是FB上拉电阻。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                883,
+                877,
+                899
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                933,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                934,
+                598,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                934,
+                873,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "峰值电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                86,
+                203,
+                102
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片逐周期检测电感的峰值电流，CS 端连接到内部的峰值电流比较器的输入端，与内部阈值电压进行比较，当 CS外部电压达到内部检测阈值时，功率管关断。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                112,
+                484,
+                185
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "满载时电感峰值电流的表达式为："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                197,
+                351,
+                213
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm {P\\_PK}} = \\frac {3 0 0}{R _ {C S}} (m A)",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/62ff572059c54faeea5bbfb6dc3830528487a4dd21e60cd873a43d963db1d0d2.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                225,
+                354,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CS 比较器的输出还包括一个 240nS 前沿消隐时间。副边峰值电流计算方法："
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                271,
+                482,
+                315
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {\\mathrm {S\\_PK}} = I _ {\\mathrm {P\\_PK}} \\times \\frac {N _ {P}}{N _ {S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/b0c060d753a7bd122bc190233cb8477ae514a9d9598f551bec63fa2192c8c17f.jpg"
+                }
+            },
+            "bbox": [
+                218,
+                327,
+                354,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { N p }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是变压器主级的匝数，Ns是变压器次级的匝数， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I _ { \\mathrm { P \\_ P K } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是主级侧的峰值电流， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "I _ { \\mathrm { S , P K } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是次级侧的峰值电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                372,
+                484,
+                427
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "变压器设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                437,
+                186,
+                454
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 可工作于 CCM、DCM 等多种工作模式，对于变压器的选择包括感量、峰值电流、磁芯尺寸以及线径等。最终根据变压器价格、尺寸以及系统效率来决定变压器的大小。小感量变压器可以减小尺寸、降低价格，但会增大电感的峰值电流和输出纹波并且降低系统效率，相反的，大感量变压器可以提高效率。根据原边电感纹波电流系数 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { R P }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "来设定工作模式， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { R P } = 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 DCM 模式， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "K _ { R P } < 1"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为 CCM 模式。然后根据输入/输出电压、系统最大 Ton 时间、电感纹波电流 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\Delta I _ { P L }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "估算电感感量。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                465,
+                485,
+                649
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{c} T _ {O N M A X} = \\frac {V _ {O R}}{(V _ {I N M I N} + V _ {O R}) * F _ {S W M A X}} \\\\ \\mathrm{Lp} = \\frac {V _ {I N M I N} \\times T _ {O N M A X}}{\\Delta I _ {P L}} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8e02684dd504579349d024c066fa8fe80fd2950530ecb485aaba8baebe8d23f3.jpg"
+                }
+            },
+            "bbox": [
+                107,
+                654,
+                440,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                749,
+                132,
+                764
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} & {V _ {O R} \\text {为反射电压}} \\\\ & {\\Delta I _ {P L} = I _ {P K 1} * K _ {R P}} \\\\ & {K _ {R P} = \\frac {I _ {P K 1} - I _ {P K 2}}{I _ {P K 1}}} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ba6982dd125d710cbaf0017e8200bf167035c10d7cc7f4ba6a93a6f80b25c4a8.jpg"
+                }
+            },
+            "bbox": [
+                216,
+                776,
+                357,
+                864
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输入电容的选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                871,
+                221,
+                887
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入电容的选取与输入电压范围以及输出带载能力有关。一个总的原则是此电容越大，带载能力越强，但体积和成本会增加，需要折衷考虑。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                85,
+                907,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "另外电解电容存在漏电流，尤其高温下会更明显，此漏电流会经过灯泡引起微亮。为了减小漏电流，建议输入电容选择 CBB电容。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                150,
+                905,
+                205
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电容的选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                213,
+                643,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电容的作用是输出电压的滤波以及输出动态电流的供应。当输出电流恒定时，输出纹波主要由输出电容的 ESR 以及容量决定。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                238,
+                905,
+                290
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} & V _ {R I P P L E} = V _ {R I P P L E \\_ E S R} + V _ {R I P P L E \\_ C} \\\\ & V _ {R I P P L E \\_ E S R} = \\Delta I _ {S L} \\times E S R \\\\ & V _ {R I P P L E \\_ C} = \\frac {\\Delta I _ {S L} \\times T o n}{C _ {O U T}} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/6648cf5794346981a3f6d1ab51069acec054eb7201f51c08f626a0a871f97b97.jpg"
+                }
+            },
+            "bbox": [
+                581,
+                298,
+                838,
+                391
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二极管选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                515,
+                400,
+                610,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了提高效率，尽量使用具有快恢复时间和低导通压降的二极管作为续流二极管。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                427,
+                905,
+                463
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "多模式控制"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                473,
+                610,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 芯片采用 PWM/PFM 多模式控制技术，能有效降低系统待机功耗，提高效率，并减小系统工作在轻载时的噪声。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                501,
+                905,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电压过压/过载、短路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                567,
+                759,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 通过 FB 引脚来实现输出电压的过压与过载、短路保护,当 FB 电压高于 1.4V，芯片即实现输出过压保护，停止开关动作。当 FB 电压下降到低于1.4V，芯片会继续开关动作。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                595,
+                907,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 FB 电压低于 0.8V，且保持 100ms，芯片即实现输出过载保护。过载保护后，功率 MOSFET 关断，芯片振荡器工作在最低频率为 1.5KHz，保护发生后，芯片会定时 1.4s 重新检测 FB 电压，如果过载、短路解除，则正常工作，如未解除，继续保护。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                678,
+                907,
+                769
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "其它保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                780,
+                626,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C 内置多种保护功能，包括过温保护，逐周期限流等。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                807,
+                905,
+                843
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                853,
+                586,
+                870
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP2535C PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                882,
+                860,
+                899
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                933,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                934,
+                873,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7ae43571e45635ae9be797483899064c432c9c776e29b79234548740aaa4807a.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                97,
+                321,
+                902,
+                872
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "·旁路电容"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                85,
+                184,
+                102
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V<sub>CC</sub>的旁路电容需要紧靠芯片 V<sub>CC</sub>和GND 引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                114,
+                431,
+                130
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "·芯片 GND"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                95,
+                141,
+                181,
+                157
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能短，且要和芯片的地线及其它小信号的地线分头接到母线电容的地端。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                169,
+                484,
+                223
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "·FB 引脚"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                94,
+                233,
+                178,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "接到 FB 的分压电阻必须靠近 FB 引脚，且节点要远离输出电压、整流桥地和母线电压,防止 FB 采样信号受到干扰。FB 引脚需要加贴片电容到 GND 做滤"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                252,
+                485,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "波，来减小噪声干扰。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                85,
+                685,
+                102
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "·功率环路的面积"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                114,
+                662,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "减小功率环路的面积，如输入母线电容、变压器原边、芯片 DRAIN 引脚、CS 电阻以及 GND 之间的环路，输出电容、变压器副边、输出整流管之间的环路以减小 EMI 辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                141,
+                907,
+                214
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "·DRAIN 引脚"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                517,
+                224,
+                621,
+                241
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "增加 DRAIN引脚的敷铜面积以提高芯片散热，但是过大的铺铜面积会使 EMI辐射变差。DRAIN 引脚尽量远离低压引脚和元器件。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                252,
+                905,
+                306
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                933,
+                236,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                603,
+                956
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                862,
+                933,
+                873,
+                945
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f399372d4f0dee2f12faa71c7996f66921d9cb0d04bebb624afe388e83cb056c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>—</td><td>—</td><td>1.30</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.15</td></tr><tr><td>A2</td><td>1.05</td><td>1.10</td><td>1.15</td></tr><tr><td>A3</td><td>0.50</td><td>0.55</td><td>0.65</td></tr><tr><td>a</td><td>0.52</td><td>—</td><td>0.60</td></tr><tr><td>a1</td><td>0.51</td><td>0.54</td><td>0.57</td></tr><tr><td>b</td><td>0.58</td><td>—</td><td>0.66</td></tr><tr><td>b1</td><td>0.57</td><td>0.60</td><td>0.63</td></tr><tr><td>c</td><td>0.15</td><td>—</td><td>0.19</td></tr><tr><td>c1</td><td>0.14</td><td>0.15</td><td>0.16</td></tr><tr><td>d</td><td>0.38</td><td>—</td><td>0.46</td></tr><tr><td>d1</td><td>0.37</td><td>0.40</td><td>0.43</td></tr><tr><td>D</td><td>3.80</td><td>3.90</td><td>4.00</td></tr><tr><td>E1</td><td>2.50</td><td>2.60</td><td>2.70</td></tr><tr><td>E</td><td>3.80</td><td>4.00</td><td>4.20</td></tr><tr><td>e</td><td colspan=\"3\">0.90BSC</td></tr><tr><td>e1</td><td colspan=\"3\">0.81 BSC</td></tr><tr><td>e2</td><td colspan=\"3\">1.25 BSC</td></tr><tr><td>L</td><td>0.40</td><td>0.50</td><td>0.60</td></tr><tr><td>L1</td><td colspan=\"3\">0.70REF.</td></tr><tr><td>θ</td><td>0</td><td>—</td><td>8°</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                147,
+                125,
+                850,
+                836
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                85,
+                200,
+                105
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2535C_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                934,
+                245,
+                945
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                400,
+                934,
+                605,
+                954
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                870,
+                934,
+                884,
+                944
+            ]
+        }
+    ]
+]

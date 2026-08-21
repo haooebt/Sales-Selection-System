@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:43:15+08:00",
+  "file": "S4165M_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 1097491,
+    "pages": 8,
+    "sha256": "c794328c84868740806897a4b95684598f8cabc533cad2cfd8aead8e8cdf9eb2"
+  },
+  "batch_id": "3a5e4eb0-c42d-431f-a7a6-f45f034a615e",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:43:16+08:00",
+    "errors": [],
+    "markdown_chars": 8120,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:43:20+08:00"
+}

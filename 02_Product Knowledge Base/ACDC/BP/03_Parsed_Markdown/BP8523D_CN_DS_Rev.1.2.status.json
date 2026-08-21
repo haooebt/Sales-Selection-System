@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:55:23+08:00",
+  "file": "BP8523D_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 3092121,
+    "pages": 15,
+    "sha256": "1b84ad8e149fb14be31256bdfa978b6dfc7f0a76e077e256f6d93dc36f88e894"
+  },
+  "batch_id": "21c8b968-a1e5-44ff-81ac-5f7c2604a0c4",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:55:24+08:00",
+    "errors": [],
+    "markdown_chars": 18645,
+    "parsed_pages": 15,
+    "passed": true,
+    "pdf_pages": 15
+  },
+  "published_at": "2026-08-21T12:55:32+08:00"
+}

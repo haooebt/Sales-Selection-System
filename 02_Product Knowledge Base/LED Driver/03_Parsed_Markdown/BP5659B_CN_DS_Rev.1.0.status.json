@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:31:19+08:00",
+  "file": "BP5659B_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 468255,
+    "pages": 6,
+    "sha256": "0c53d1653398d4ae73dde42c29bcdee1aeaf380fe8fabb1c05036a8220969a01"
+  },
+  "batch_id": "d6794705-a9e1-4050-8184-72a33971c2b7",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:31:21+08:00",
+    "errors": [],
+    "markdown_chars": 5562,
+    "parsed_pages": 6,
+    "passed": true,
+    "pdf_pages": 6
+  },
+  "published_at": "2026-08-21T14:31:29+08:00"
+}

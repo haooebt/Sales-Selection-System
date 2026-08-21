@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:31:33+08:00",
+  "file": "BP2879DB_EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 560298,
+    "pages": 12,
+    "sha256": "cce5195dcd3ec5e2cff420afb9b736b9a8634bf9195e00b34d61865c17321ffa"
+  },
+  "batch_id": "0058aebc-fb30-4266-ac86-5a7e304b90ad",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:31:36+08:00",
+    "errors": [],
+    "markdown_chars": 17061,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T13:32:07+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:07:09+08:00",
+  "file": "BP3288L_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1071730,
+    "pages": 10,
+    "sha256": "364ba8c3d167157d573eda30fe401d7958a9bde461ce9e42d320836eec27d2d7"
+  },
+  "batch_id": "6c30f406-56b4-45a3-ad53-ca3011380f49",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:07:11+08:00",
+    "errors": [],
+    "markdown_chars": 8006,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:07:21+08:00"
+}

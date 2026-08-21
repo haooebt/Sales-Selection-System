@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T12:47:18+08:00",
+  "file": "BP6211CS_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 2905254,
+    "pages": 12,
+    "sha256": "15d0eca48f74c6eb83ef0dfd2a435361132894f2e7bc2a8bebea35ca8f62cce4"
+  },
+  "batch_id": "7b4d633d-6ae3-48d4-a5f4-03ce53a98033",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T12:47:19+08:00",
+    "errors": [],
+    "markdown_chars": 10494,
+    "parsed_pages": 12,
+    "passed": true,
+    "pdf_pages": 12
+  },
+  "published_at": "2026-08-21T12:47:23+08:00"
+}

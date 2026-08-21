@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:11:46+08:00",
+  "file": "BP5118GH_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 580454,
+    "pages": 10,
+    "sha256": "9c5546f67a14f234336b380e49a98b50c3c8755257a4fca41b0177f3f8a59e34"
+  },
+  "batch_id": "d2479059-3121-41a8-af67-def5d5338cbd",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:11:54+08:00",
+    "errors": [],
+    "markdown_chars": 6325,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T14:12:20+08:00"
+}

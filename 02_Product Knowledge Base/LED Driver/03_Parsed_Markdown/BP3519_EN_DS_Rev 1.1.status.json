@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:58:34+08:00",
+  "file": "BP3519_EN_DS_Rev 1.1.pdf",
+  "pdf": {
+    "bytes": 1098419,
+    "pages": 10,
+    "sha256": "d2ce3cea00e416a341d4ad90743343b2b0129d0a86dea06c871e17fc5ae0656d"
+  },
+  "batch_id": "502a4ed0-4a06-4a6d-9a1c-ebb3bbed9248",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:58:36+08:00",
+    "errors": [],
+    "markdown_chars": 14146,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:58:46+08:00"
+}

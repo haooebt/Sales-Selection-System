@@ -1,0 +1,2832 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                133,
+                147,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 是一款高精度的低 PF 原边反馈 LED 恒流控制芯片，适合搭配前级 APFC 升压电路，实现两级隔离无频闪应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                169,
+                484,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 内置精确的导通时间限制和过流保护功能，在输入电压下降的时候可以有效限制电感电流上升，防止电感饱和，提升系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                236,
+                484,
+                293
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 工作在电感电流临界连续模式，降低开关损耗及 EMI，提升变压器的利用率。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                302,
+                484,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 提供完善的保护功能，包括输出开路保护、输出短路保护、逐周期限流保护、过温保护等。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                347,
+                484,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 采用 DIP-7 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                394,
+                292,
+                410
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cd17f069412617aad6a82449d8144b57e547729f9887af759525392e876ae249.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                236,
+                423,
+                347,
+                498
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                542,
+                131,
+                591,
+                152
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 内置高压启动，启动速度快"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                169,
+                773,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 高精度电流参考(+/-3%)"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                191,
+                749,
+                207
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 优异的负载调整率"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                211,
+                712,
+                226
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 临界导通模式"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                231,
+                682,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 低工作电流"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                251,
+                668,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ VCC 欠压锁定"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                271,
+                682,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "逐周期限流"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                290,
+                668,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 输出开路/短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                311,
+                717,
+                327
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 过温降电流"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                331,
+                668,
+                347
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ 支持 DIP-7 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                351,
+                697,
+                368
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                549,
+                418,
+                636,
+                437
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 面板灯"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                454,
+                667,
+                472
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "■ LED 筒灯"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                475,
+                653,
+                491
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                543,
+                188,
+                562
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1f799c39b67e716474e60db519a7d1b38b7aa91802a360e41a9d983a28093ccf.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7 封装"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 1 BP3337EB 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                171,
+                583,
+                818,
+                811
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                87,
+                895,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                260,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                457,
+                935,
+                578,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                952,
+                618,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                935,
+                895,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Z: 预留"
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                383,
+                724,
+                397
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                179,
+                150
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/85c6d9963ec11f7da34ec076c1e31dd638c8df77cb068ff39dc2d7e1d3eec29f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP3337EB</td><td>DIP-7</td><td>管装50颗/管</td><td>BP3337EXXXXXYZXXYYWWB</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                163,
+                887,
+                254
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                264,
+                179,
+                283
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB: 产品型号"
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                302,
+                816,
+                318
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e2fe53459555d77ab4db59dce5323a170b1a434e2c607d8058d456c599a006ea.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXY: 批次"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXYY: 标识"
+                    },
+                    {
+                        "type": "text",
+                        "content": "WW: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                296,
+                820,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 2 DIP-7 管脚封装图"
+                    }
+                ]
+            },
+            "bbox": [
+                410,
+                413,
+                576,
+                429
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                92,
+                465,
+                179,
+                483
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/be18cc9521015671babd8b0de648444f4c49896070d7646abe0df1319aff50a0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>GND</td><td>芯片地</td></tr><tr><td>2</td><td>COMP</td><td>环路补偿脚</td></tr><tr><td>3</td><td>FB</td><td>反馈信号采样脚</td></tr><tr><td>4</td><td>CS</td><td>原边电流采样脚,接采样电阻到地</td></tr><tr><td>5</td><td>DRAIN</td><td>内置 MOS 管漏极</td></tr><tr><td>6</td><td>DRAIN</td><td>内置 MOS 管漏极</td></tr><tr><td>7</td><td>VCC</td><td>芯片供电脚</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                496,
+                892,
+                732
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                739,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                87,
+                894,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                250,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                937,
+                568,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                935,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                215,
+                150
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bc82c4c7034d73a943bb2673b356572b24f04b308910b9448f6da0cc13a009cc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $I_{CC\\_MAX}$ </td><td>VCC 引脚最大电流</td><td>10</td><td>mA</td></tr><tr><td> $V_{DRAIN}$ </td><td>内置MOS管漏极</td><td>-0.3~650</td><td>V</td></tr><tr><td> $V_{IO}$ </td><td>CS/FB/COMP等引脚电压范围</td><td>-0.3~6</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.9</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注 3)</td><td>80</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                97,
+                163,
+                887,
+                423
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                470,
+                895,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注2：温度升高最大功耗一定会减小，这也是由  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{JMAX}, \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 和环境温度  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_A"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 所决定的。最大允许功耗为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P_{DMAX} = (T_{JMAX} - T_A) / \\theta_{JA}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                536,
+                894,
+                570
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 3：1 平方英寸双层 PCB 板，按照 JEDEC 标准测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                581,
+                400,
+                595
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                739,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                87,
+                894,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                250,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                937,
+                568,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                953,
+                608,
+                965
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注4)（无特别说明情况下，  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T_{A}=25^{\\circ}C"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ）"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                431,
+                152
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6412a3376b615b5fbfefcb9cf8c569ebda1b8eba9fefa5a5438e50dad31734eb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源电压(VCC)</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$ 钳位电压</td><td> $I_{CC}=1mA$ </td><td>15</td><td>17</td><td>19</td><td>V</td></tr><tr><td> $V_{CC\\_ON}$ </td><td> $V_{CC}$ 启动电压</td><td> $V_{CC}$ 上升</td><td>13.5</td><td>15</td><td>16.5</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$ 欠压保护阈值</td><td> $V_{CC}$ 下降</td><td>6.7</td><td>7.5</td><td>8.3</td><td>V</td></tr><tr><td> $I_{QUIESCENT}$ </td><td> $V_{CC}$ 静态工作电流</td><td>无开关动作</td><td>0.1</td><td>0.18</td><td>0.27</td><td>mA</td></tr><tr><td colspan=\"7\">误差放大器(COMP)</td></tr><tr><td> $G_m$ </td><td>误差放大器跨导</td><td></td><td></td><td>60</td><td></td><td>μA/V</td></tr><tr><td> $V_{COMP}$ </td><td>COMP线性工作范围</td><td></td><td>1.5</td><td></td><td>4.5</td><td>V</td></tr><tr><td> $V_{REF}$ </td><td>内部基准电压</td><td></td><td>194</td><td>200</td><td>206</td><td>mV</td></tr><tr><td colspan=\"7\">电流采样(CS)</td></tr><tr><td> $V_{CS\\_TH1}$ </td><td>逐周期限流阈值1</td><td>FB≤0.4V</td><td></td><td>0.2</td><td></td><td>V</td></tr><tr><td> $V_{CS\\_TH2}$ </td><td>逐周期限流阈值2</td><td>FB&gt;0.4V</td><td>0.25</td><td>0.3</td><td>0.35</td><td>V</td></tr><tr><td> $T_{LEB}$ </td><td>前沿消隐时间</td><td></td><td></td><td>300</td><td></td><td>ns</td></tr><tr><td> $T_{DELAY}$ </td><td>芯片关断延迟</td><td></td><td></td><td>200</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">零电流检测及输出开路保护(FB)</td></tr><tr><td> $V_{FB\\_FALL}$ </td><td>FB下降阈值电压</td><td>FB下降</td><td></td><td>0.1</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_HYS}$ </td><td>FB迟滞电压</td><td>FB上升</td><td></td><td>0.1</td><td></td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>FB过压保护阈值</td><td></td><td>1.4</td><td>1.5</td><td>1.6</td><td>V</td></tr><tr><td colspan=\"7\">内部时间控制</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>最大开通时间</td><td></td><td>7</td><td>9.5</td><td>12</td><td>us</td></tr><tr><td> $T_{OFF\\_MIN}$ </td><td>最小关断时间</td><td></td><td></td><td>4.5</td><td></td><td>us</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>最大关断时间</td><td></td><td></td><td>130</td><td></td><td>us</td></tr><tr><td colspan=\"7\">内置MOS</td></tr><tr><td> $R_{DS\\_ON}$ </td><td>MOSFET导通阻抗</td><td></td><td></td><td>1.8</td><td></td><td>Ω</td></tr><tr><td> $BV_{DSS}$ </td><td>MOSFET漏源极击穿电压</td><td></td><td>650</td><td></td><td></td><td>V</td></tr><tr><td colspan=\"7\">过热调节部分</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                163,
+                894,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                737,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                87,
+                894,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                252,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                935,
+                569,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                92,
+                121,
+                892,
+                188
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                737,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                87,
+                894,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                252,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                937,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                133,
+                220,
+                150
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/621b24941467fb2f3ae89f4f8d598748b379a8e55564792e3d5a3099d605a016.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP3337EB 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                100,
+                174,
+                882,
+                568
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                603,
+                179,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 是一款高精度的原边反馈 LED 恒流控制芯片，适合搭配前级 Boost APFC 升压电路，实现两级隔离无频闪应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                641,
+                482,
+                697
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                716,
+                132,
+                733
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电以后，母线电压无需启动电阻通过芯片 DRAIN 端对 VCC 电容充电，当 VCC 电压达到芯片开启阈值时，芯片内部控制电路开始工作，COMP 电压被快速上拉到 1.7V 左右。然后 BP3337EB 开始输出脉冲信号，系统刚开始工作在 7kHz。当 FB 引脚检测到正向电平大于 0.4V 以后，BP3337EB 转为闭环工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                757,
+                484,
+                874
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                656,
+                714,
+                673
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 采用了专有的电流采样机制, 工作于原边反馈模式, 无需次级反馈电路, 即可实现高精度输出恒流控制。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                695,
+                905,
+                732
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 输出电流计算方法:"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                737,
+                678,
+                752
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {o u t} \\approx \\frac {V _ {R E F}}{2 \\times R _ {c s}} \\times \\frac {N _ {P}}{N _ {S}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/415cb8408686b0e7eb2683f04e3359e67f6151fe073158cdc753de021f592207.jpg"
+                }
+            },
+            "bbox": [
+                633,
+                761,
+                793,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                813,
+                556,
+                827
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{REF}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是内部基准电压"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                833,
+                653,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{P}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是变压器原边绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                853,
+                705,
+                868
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是变压器次级绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                872,
+                705,
+                888
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{cs}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是电流采样电阻的值"
+                    }
+                ]
+            },
+            "bbox": [
+                514,
+                893,
+                678,
+                908
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                935,
+                568,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                443,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                739,
+                51,
+                894,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                559,
+                87,
+                894,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                937,
+                252,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                608,
+                966
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                882,
+                937,
+                894,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "反馈网络"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                134,
+                166,
+                150
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 通过 FB 引脚检测输出电流过零的状态，FB 的下降阈值电压设置在 0.1V，迟滞电压为 0.1V。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                174,
+                482,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FB 引脚也可以用来探测输出过压保护(OVP)，阈值为 1.5V。\nFB 的上下分压电阻比例可以设置为："
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                214,
+                482,
+                250
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {R _ {F B L}}{R _ {F B L} + R _ {F B H}} \\approx \\frac {1 . 5 V}{V _ {O V P}} \\times \\frac {N _ {S}}{N _ {A}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/67b11b1a3520da1e813d73dd5dfb2a83c52af30d02a60705f4ff29587ee5a567.jpg"
+                }
+            },
+            "bbox": [
+                183,
+                258,
+                394,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中："
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                311,
+                132,
+                325
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{FBL}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是反馈网络的下分压电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                331,
+                292,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "R_{FBH}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是反馈网络的上分压电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                351,
+                292,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "V_{OVP}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是输出电压过压保护设定值"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                371,
+                307,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{s}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 是变压器次级绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                391,
+                282,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "N_{A}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  是变压器辅助绕组的匝数"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                412,
+                282,
+                427
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                447,
+                203,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 具有过热调节功能, 在驱动电源过热时逐渐减小输出电流, 从而控制输出功率和温升, 使电源温度保持在设定值, 以提高系统的可靠性。芯片内部设定过热调节温度点为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "150^{\\circ} \\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                486,
+                484,
+                564
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "保护功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                583,
+                168,
+                600
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB 内置多重保护功能，保证了系统可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                624,
+                436,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 LED 开路时，输出电压逐渐上升，FB 检测到的电压也会跟随上升。当 FB 检测到的电压升高到 1.5V OVP 阈值时，会触发保护逻辑并停止开关工作，芯片进入故障保护状态。当 LED 短路时，FB 检测不到退磁信号，系统工作在 7kHz低频。若经过 100 个连续的开关周期后仍未解除输出短路故障状态，芯片进入故障保护状态。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                643,
+                485,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                512,
+                128,
+                905,
+                163
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统进入故障保护状态后，芯片以约   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "42\\mu A"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  左右的电流对 VCC 电压放电，当 VCC 到达欠压保护阈值时，系统将重启。同时系统不断的检测系统状态，如果故障解除，系统会重新开始正常工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                176,
+                907,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当输出短路或者变压器饱和时，CS 峰值电压将会比较高。当 CS 电压上升到内部限制值时，该开关周期马上停止。此逐周期限流功能可以保护功率 MOS 管、变压器和输出续流二极管。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                267,
+                907,
+                344
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                364,
+                655,
+                381
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP3337EB 应用 PCB 时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                403,
+                868,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VCC 的旁路电容需要紧靠芯片 VCC 和 GND 引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                433,
+                877,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 电流采样电阻的功率地线尽可能粗，且要离芯片的地尽量近，以保证电流采样的准确性，否则可能会影响输出电流的调整率。线电压补偿用的电阻必须尽量靠近芯片 CS 引脚。另外，信号地需要单独连接到芯片的地引脚。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                461,
+                907,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) 减小大电流环路的面积，如变压器原边、功率管及吸收网络的环路面积，以及变压器次级、次级二极管、输出电容的环路面积，以减小EMI辐射。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                573,
+                907,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) 接到 FB 的分压电阻必须靠近 FB 引脚，且节点要远离变压器的动点，否则系统噪声容易误触发 FB OVP 保护功能。"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                642,
+                907,
+                699
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                17,
+                442,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                751,
+                52,
+                905,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                571,
+                87,
+                905,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                937,
+                905,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                935,
+                252,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                448,
+                935,
+                568,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                952,
+                610,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                125,
+                186,
+                143
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7df0ad8a88e8867e46a20c5039b61b1f6726f6ab8cb52f676732c583bc73fc76.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DIP-7 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                201,
+                182,
+                442,
+                355
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7abcf94e58b9ef3afca46a71629b765cca35fc8814af32c37c458f8ee483a2c6.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                598,
+                212,
+                784,
+                370
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56c2930b81bdbcb28edfcbc0cafd13b0cdce4ce344391387835a3c13a1982d93.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                194,
+                389,
+                473,
+                527
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c2e58538caf76e22f1c34ab3d967d4588cc2118aec7b70f3859d156f505865b6.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "WITH PLATING"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                395,
+                798,
+                489
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dd54b8ff69449d650b9da62fd11e4715ceaaa497dd8f4d5e31071344c662991b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>—</td><td>—</td><td>4.80</td></tr><tr><td>A1</td><td>0.40</td><td>—</td><td>—</td></tr><tr><td>A2</td><td>3.10</td><td>—</td><td>3.50</td></tr><tr><td>b</td><td>0.355</td><td>—</td><td>0.559</td></tr><tr><td>B1</td><td colspan=\"3\">1.52REF</td></tr><tr><td>c</td><td>0.203</td><td>—</td><td>0.356</td></tr><tr><td>D</td><td>9.10</td><td>—</td><td>9.45</td></tr><tr><td>E</td><td>6.25</td><td>—</td><td>6.70</td></tr><tr><td>e</td><td>2.44</td><td>2.54</td><td>2.64</td></tr><tr><td>E1</td><td>7.62</td><td>—</td><td>10.90</td></tr><tr><td>L</td><td>2.92</td><td>—</td><td>3.81</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                152,
+                538,
+                507,
+                909
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                885,
+                937,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                110
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                87,
+                895,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                260,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                127,
+                188,
+                146
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/87bfb687f3a8350e6730a7d382443bfbf7f15473c37bf4b592b85e485a217c5f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2021/04</td><td>首次发行</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                176,
+                894,
+                353
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                884,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                260,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                618,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                123,
+                549,
+                143
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                201,
+                823,
+                217
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                250,
+                899,
+                327
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                877,
+                935,
+                897,
+                948
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "B25 晶丰明源\nBright Power Semiconductor"
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                17,
+                452,
+                109
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB"
+                    }
+                ]
+            },
+            "bbox": [
+                741,
+                51,
+                895,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "低 PF 隔离反激原边恒流控制器"
+                    }
+                ]
+            },
+            "bbox": [
+                561,
+                87,
+                897,
+                109
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP3337EB_CN_DS_Rev.1.0\n04/2021"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                935,
+                260,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com\nBPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                393,
+                935,
+                620,
+                966
+            ]
+        }
+    ]
+]

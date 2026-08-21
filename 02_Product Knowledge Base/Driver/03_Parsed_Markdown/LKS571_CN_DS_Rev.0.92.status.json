@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:57:44+08:00",
+  "file": "LKS571_CN_DS_Rev.0.92.pdf",
+  "pdf": {
+    "bytes": 771571,
+    "pages": 15,
+    "sha256": "d3638fc90a6a3efbcc0a7cf0b270f10ececdd63f049df94f93122ddd890bbf09"
+  },
+  "batch_id": "9bca4334-2432-4f89-8812-68178e799699",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:57:44+08:00",
+    "errors": [],
+    "markdown_chars": 9073,
+    "parsed_pages": 15,
+    "passed": true,
+    "pdf_pages": 15
+  },
+  "published_at": "2026-08-17T21:57:44+08:00"
+}

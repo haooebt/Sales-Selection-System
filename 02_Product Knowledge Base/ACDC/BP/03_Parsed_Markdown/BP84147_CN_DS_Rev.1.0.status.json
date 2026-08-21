@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:13:09+08:00",
+  "file": "BP84147_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3247716,
+    "pages": 9,
+    "sha256": "92b49524afa64584bae564538223b2743165b10aa8a716ea7248385b771213cf"
+  },
+  "batch_id": "45420987-237d-4ed7-b1cb-b08dba19e753",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:13:10+08:00",
+    "errors": [],
+    "markdown_chars": 10422,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-17T22:13:10+08:00"
+}

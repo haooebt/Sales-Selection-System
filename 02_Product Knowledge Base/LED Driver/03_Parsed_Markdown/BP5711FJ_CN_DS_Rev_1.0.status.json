@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:32:01+08:00",
+  "file": "BP5711FJ_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 1004437,
+    "pages": 9,
+    "sha256": "24764894ade97ec305d6b0bf8b5abd334660637f0922281408481f2651d46a5d"
+  },
+  "batch_id": "dde57443-bb56-4cd1-80d9-646a17ad96b9",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:32:02+08:00",
+    "errors": [],
+    "markdown_chars": 6830,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:32:23+08:00"
+}

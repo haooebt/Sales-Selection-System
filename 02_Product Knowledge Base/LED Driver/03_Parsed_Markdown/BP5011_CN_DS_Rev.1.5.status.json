@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:09:07+08:00",
+  "file": "BP5011_CN_DS_Rev.1.5.pdf",
+  "pdf": {
+    "bytes": 2681586,
+    "pages": 8,
+    "sha256": "7e503229bbde03ba6c4c753473cf4e64edfc026d9b36608383d839b0ce8e58f4"
+  },
+  "batch_id": "21691581-6985-4c70-94a2-14082540b55c",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:09:08+08:00",
+    "errors": [],
+    "markdown_chars": 6678,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:09:15+08:00"
+}

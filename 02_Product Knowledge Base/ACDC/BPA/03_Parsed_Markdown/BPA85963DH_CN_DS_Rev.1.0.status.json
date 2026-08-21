@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:54:37+08:00",
+  "file": "BPA85963DH_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 3043744,
+    "pages": 11,
+    "sha256": "7f9bc256e6ff448edc34c9139ba0581d6192591204ee4f6869b9f655596480a4"
+  },
+  "batch_id": "6690dabd-49be-46da-95e5-5ca881f2976f",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:54:37+08:00",
+    "errors": [],
+    "markdown_chars": 9866,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-17T21:54:37+08:00"
+}

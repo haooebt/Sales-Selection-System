@@ -1,0 +1,2650 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D自供电 PSR 反激驱动开关"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                91,
+                378,
+                143
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                161,
+                114,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D采用原边反馈控制恒压、恒流反激变换器芯片。BP86113D采用DCM控制方式，通过检测辅助绕组的去磁实现开关管的谷底开通，减小开关损耗和EMI。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                187,
+                484,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D通过高压自供电给VCC充电，无需外部启动电阻，同时源极开关结构可以实现VCC自供电，无需辅助供电，便于宽输出电压的应用。BP86113D采用镜像电流采样技术，可以省去原边CS电阻，节省了外围成本和体积，同时提高了系统可靠性。恒压模式下，BP86113D提供了输出线压降补偿功能，以获得较好的负载调整率。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                255,
+                489,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D通过检测辅助绕组电压实现原边反馈，无需光耦和相关电路元件，极简的外围电路不仅降低了系统成本和体积，也提高了可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                382,
+                484,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D具有丰富的保护功能，包括逐周期限流， VCC欠压保护，VCC电压钳位，输出短路保护，反馈开路保护，输出过压/欠压保护，输出整流管短路保护，迟滞过温保护等，使系统更加安全可靠。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                451,
+                484,
+                527
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D采用SOP-8封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                539,
+                255,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                161,
+                581,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 原边 CV/CC 控制，源极开关 BJT"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                187,
+                810,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " <75 mW 待机功耗"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                206,
+                712,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置高压启动"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                227,
+                682,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " VCC 自供电，无需辅助供电"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                248,
+                774,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 原边镜像电流采样，无需 CS 电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                268,
+                816,
+                284
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输出线压降补偿，实现良好的负载调整率"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                288,
+                863,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输入线电压补偿，实现 CC 精度±5%"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                307,
+                838,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 外围元器件少"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                329,
+                682,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                349,
+                653,
+                365
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 逐周期限流（OCP）"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                369,
+                752,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输出短路保护（SCP）"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                388,
+                766,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "次级整流管短路保护"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                409,
+                763,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "反馈环开路保护（OLP）"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                429,
+                781,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "过温保护（OTP）"
+                    }
+                ]
+            },
+            "bbox": [
+                618,
+                449,
+                737,
+                466
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                532,
+                489,
+                621,
+                508
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 小家电辅助电源"
+                    }
+                ]
+            },
+            "bbox": [
+                547,
+                523,
+                697,
+                539
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                658,
+                154,
+                677
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                206,
+                627,
+                292,
+                644
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7f8f17f30e6945a72b0b20301cc11a3e897fbfd1d700c63fb9e653ec5b87a1e8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1. BP86113D 典型应用电路"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                270,
+                696,
+                710,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                724,
+                57,
+                905,
+                126
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2024/10"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                124,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                946,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0de906024c47a3f0921fc9cd699abd604aa4ddbff0d37a1f0c4b2bb54f743b90.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP86113D</td><td>SOP-8</td><td>卷盘4000颗/盘</td><td>BP86113XXXXYYZZZZWWD</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                122,
+                927,
+                203
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                215,
+                154,
+                231
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/275a7eb21a04320d55957fdaf6b94e1d0b10229f0c58b104f02a7d61f85f0d22.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2. SOP-8 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP86113：产品型号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXXXXYY: 批次号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "ZZZZ: 标示"
+                    }
+                ]
+            },
+            "bbox": [
+                357,
+                243,
+                600,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                663,
+                332,
+                744,
+                349
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "D：封装代码（D 代表 SOP-8）"
+                    }
+                ]
+            },
+            "bbox": [
+                665,
+                351,
+                868,
+                368
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                412,
+                154,
+                430
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b04a5ad9305a98ed08b28a380afbf4da819c2c830aa210e9fae003765b6ac5b5.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>FB</td><td>反馈电压检测脚,同时检测变压器去磁信号</td></tr><tr><td>2</td><td>GND</td><td>芯片内部功率管的源极,芯片地</td></tr><tr><td>3</td><td>NC</td><td>无连接</td></tr><tr><td>4</td><td>VCC</td><td>VCC引脚,接VCC电容</td></tr><tr><td>5、6、7、8</td><td>C</td><td>内置三极管的集电极</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                439,
+                927,
+                618
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出功率"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                630,
+                154,
+                646
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c20f3b57278c27bf9366a6603ad57331f06467808df43c7bef9649d7724ae074.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>产品型号</td><td>工作特点</td><td>输出功率(85~265VAC)</td></tr><tr><td>BP86113D</td><td>恒压输出</td><td>12W</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                658,
+                927,
+                715
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注 1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                191,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b5f98b46bb2cf81d9a02bbe7764410a101768b2c2820749b094f91203f30a1fd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 T<sub>JMAX</sub>, θ<sub>JA</sub>,和环境温度T<sub>A</sub>所决定的。最大允许功耗为P<sub>DMAX</sub> = (T<sub>JMAX</sub> - T<sub>A</sub>)/ θ<sub>JA</sub>或是极限范围给出的数字中比较低的那个值。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 3：1平方英寸双层 PCB板，按照JEDEC 标准测试。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注 4：按照 JEDEC 标准测试, 100pF 电容通过 1.5kΩ 电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>VCC</td><td>芯片 VCC 引脚电压范围</td><td>-0.6~6</td><td>V</td></tr><tr><td>FB</td><td>FB 脚到 GND 电压范围</td><td>-6~6</td><td>V</td></tr><tr><td>C</td><td>集电极到 GND 脚的电压范围</td><td>-0.6~800</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.86</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注 3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr><tr><td>ESD</td><td>人体模型 ESD(注 4)</td><td>2</td><td>kV</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                122,
+                927,
+                412
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 5)"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                93,
+                191,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/33545540e3b7e795e6f4433df5e3fd9f0dc8f9c1dd216ba3b6ca8da1b8a51ffa.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">VCC供电</td></tr><tr><td> $V_{CC\\_ON}$ </td><td>VCC启动阈值电压</td><td>VCC上升至IC开启</td><td>4.5</td><td>5</td><td>5.5</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>VCC欠压保护开启电压</td><td>VCC下降至IC关闭</td><td>2.7</td><td>3.05</td><td>3.4</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td>VCC钳位电压</td><td>ICC=500μA</td><td>4.5</td><td>4.8</td><td>5.3</td><td>V</td></tr><tr><td> $I_{ST}$ </td><td>启动前VCC电流</td><td> $VCC=V_{CC\\_ON}-1V$ </td><td></td><td>0.24</td><td>1</td><td>μA</td></tr><tr><td> $I_Q$ </td><td>待机电流</td><td> $T_J=25°C$ </td><td></td><td>40</td><td></td><td>μA</td></tr><tr><td> $I_{CC}$ </td><td>工作电流</td><td> $T_J=25°C$ </td><td>150</td><td>260</td><td>300</td><td>μA</td></tr><tr><td colspan=\"7\">峰值电流控制</td></tr><tr><td> $I_{PK}$ </td><td>峰值电流阈值(注6)</td><td></td><td></td><td>740</td><td></td><td>mA</td></tr><tr><td> $R_{DEM}$ </td><td>副边退磁占空比</td><td> $T_J=25°C$ </td><td></td><td>44</td><td></td><td>%</td></tr><tr><td> $t_{LEB}$ </td><td>前沿消隐时间</td><td> $T_J=25°C$ </td><td></td><td>400</td><td></td><td>ns</td></tr><tr><td colspan=\"7\">FB电压检测</td></tr><tr><td> $V_{FB\\_REF}$ </td><td>反馈基准电压</td><td> $T_J=25°C$ </td><td>0.99</td><td>1.015</td><td>1.04</td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>输出过压保护</td><td> $T_J=25°C$ </td><td></td><td>120%* $V_{FB\\_REF}$ </td><td></td><td>V</td></tr><tr><td> $t_{FB\\_OVP}$ </td><td>过压保护延迟</td><td> $T_J=25°C$ </td><td></td><td>3</td><td></td><td>Cycles</td></tr><tr><td> $V_{FB\\_UVP}$ </td><td>FB欠压保护阈值</td><td> $T_J=25°C$ </td><td></td><td>0.6</td><td></td><td>V</td></tr><tr><td> $t_{FB\\_UVP}$ </td><td>FB欠压保护延时</td><td> $T_J=25°C$ </td><td></td><td>40</td><td></td><td>ms</td></tr><tr><td> $I_{CABLE\\_MAX}$ </td><td>最大线损补偿电流</td><td>FULL load</td><td></td><td>12</td><td></td><td>μA</td></tr><tr><td colspan=\"7\">开关频率</td></tr><tr><td> $F_{MIN}$ </td><td>最低工作频率</td><td> $T_J=25°C$ </td><td></td><td>160</td><td></td><td>Hz</td></tr><tr><td colspan=\"7\">过温保护</td></tr><tr><td> $T_{OTP}$ </td><td>过热保护温度</td><td></td><td></td><td>150</td><td></td><td>°C</td></tr><tr><td> $T_{HYST}$ </td><td>过温保护迟滞</td><td></td><td></td><td>30</td><td></td><td>°C</td></tr><tr><td colspan=\"7\">功率管</td></tr><tr><td> $V_{CBO}$ </td><td>三极管击穿电压</td><td> $I_C=0.4mA$ </td><td>800</td><td></td><td></td><td>V</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                67,
+                114,
+                929,
+                776
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4b18c143274fee3222ac8ebd269f024e28e6a63ddcf7f7c657f39c107d3898d5.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3. BP86113D 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                215,
+                126,
+                873,
+                449
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                485,
+                154,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D采用原边控制恒压、恒流反激变换器芯片，配合合封的BJT实现源极开关拓扑。BP86113D采用DCM控制方式，通过检测辅助绕组的去磁实现开关管在谷底开通，减小开关损耗和EMI。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                519,
+                473,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D通过BJT内置的高压电阻给VCC充电，无需外置启动电阻，同时源极开关结构可以实现VCC自供电，无需辅助供电，便于宽输出电压的应用。BP86113D集成低压MOS，镜像电流采样技术可以省去原边CS电阻，节省了成本和体积，"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                606,
+                477,
+                722
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D 具有丰富的保护功能，包括逐周期限流， VCC 欠压保护，VCC 电压钳位，输出短路保护，反馈开路保护，输出过压/欠压保护，输出整流管短路保护，迟滞过温保护等，使系统更加安全可靠。（注 7：以下描述到的参数均为电气参数列表中的典型值，除非特别说明是最大或最小值）。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                733,
+                477,
+                822
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                834,
+                109,
+                850
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D 自带高压启动和自供电功能，系统上电后通过 C引脚对 VCC 的电容进⾏充电，当 VCC 电压达到芯片的启动电压 V ，芯片内部控制电路开始工作。为保证给芯片提供稳定的工作电压，建议VCC引脚的旁路电容应选择低ESR电容，以保证芯片可靠稳定工作和 VCC 电源纹波小，推荐使用 2.2 µF温度特性好的电解电容。为避免低温启动困难，需要在 VCC 引脚并联一个约 1μF的 X7R 材质的瓷片电容。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                863,
+                473,
+                897
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                524,
+                516,
+                931,
+                609
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出恒流"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                621,
+                603,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D 内部采用逐周期检测电感峰值电流，当原边电感电流增大到芯片内部设定的峰值电流阈值I 时，功率管关断。芯片内置输入线电压补偿功能，使得输出电流基本不随输入电压变化。输出电流由下式决定："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                650,
+                934,
+                722
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {O} = R _ {D E M} * I _ {P K} * \\frac {N _ {P}}{N _ {S}} * 0. 5",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8d948ce557ba0692d2918f211ff332b21a22da62e80c301c4f848310e0e9be3a.jpg"
+                }
+            },
+            "bbox": [
+                638,
+                730,
+                816,
+                760
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，R 为退磁时间占比，Np 为变压器原边绕组匝数，Ns 为变压器输出绕组匝数，I 为原边电感的峰值电流，应用时可通过设定变压器的匝数比设定输出电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                768,
+                929,
+                821
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出恒压"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                833,
+                603,
+                850
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D 通过采样辅助绕组电压，以调整板端输出电压"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\sf { O U T o } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "输出电压有下面公式决定："
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                862,
+                931,
+                897
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O U T \\_ M I N} = V _ {F B} * \\frac {R _ {F B L} + R _ {F B H}}{R _ {F B L}} * \\frac {N _ {S}}{N _ {a u x}} - V _ {D}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/da428c5f547486c7918aa2d6f7eb639dba10969f6cfff91094f02c1a61b8b7d9.jpg"
+                }
+            },
+            "bbox": [
+                127,
+                89,
+                410,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { F B }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为内部参考电压， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R } _ { \\mathsf { F B L } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是FB下拉电阻， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R } _ { \\mathsf { F B H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是 FB上拉电阻，V<sub>D</sub>为输出续流二极管压降，Ns和Naux分别是变压器副边绕组和辅助绕组的匝数。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                126,
+                472,
+                180
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "为了得到好的负载调整率，BP86113D 内置输出线损补偿功能。由芯片内部产生与负载电流成正比的 FB 引脚下拉电流I<sub>CABLE</sub>，在 FB 分压电阻上产生与负载电流成正比的分压比，用于补偿输出电流在输出线上引起的线损压降。最大补偿比例由下式决定："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                191,
+                472,
+                282
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\frac {\\Delta V}{V _ {o u t}} \\approx \\frac {I _ {C A B L E \\_ M A X} \\times (R _ {F B L} | | R _ {F B H})}{V _ {F B \\_ R E F}} \\times 100 \\%",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e11ac7070a0d53016ed5f2e1273716342a39464d69e16ed8b78bbe1a676ade69.jpg"
+                }
+            },
+            "bbox": [
+                122,
+                292,
+                416,
+                326
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出过压/欠压保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                338,
+                221,
+                355
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 FB 检测到平台电压达到内部设定的过压保护阈值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { F B \\_ O \\vee P }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "并持续 t<sub>FB_OVP</sub>时间，系统进入过压保护。OVP 由下面公式计算得出："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                367,
+                472,
+                420
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {O V P} = \\frac {V _ {F B \\_ O V P} \\times (R _ {F B L} + R _ {F B H})}{R _ {F B L}} * \\frac {N _ {S}}{N _ {a u x}} - V _ {D}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/cee873402b9953d72dd8acccd6550bcf98b7324436f83aa49034a6e5c37b010b.jpg"
+                }
+            },
+            "bbox": [
+                121,
+                420,
+                416,
+                451
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中，V 是过压保护电压阈值。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                458,
+                305,
+                473
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当 FB 检测到平台电压持续 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { \\Delta t { } _ { F B \\_ U V P } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "低于内部设定的短路保护阈值 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { F B \\_ U V P } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，系统进入欠压保护模式。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                478,
+                470,
+                512
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {U V P} = \\frac {V _ {F B \\_ U V P} \\times (R _ {F B L} + R _ {F B H})}{R _ {F B L}} \\times \\frac {N _ {S}}{N _ {a u x}} - V _ {D}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/29f529761852f7beee6fd49b271579c875b143eb396e55241608a1ba2391a7a9.jpg"
+                }
+            },
+            "bbox": [
+                119,
+                513,
+                418,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { F B \\_ U V P } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是输出短路保护电压阈值。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                549,
+                336,
+                564
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC欠压保护/电压钳位"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                65,
+                580,
+                258,
+                596
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当VCC电压低于VCC欠压保护电 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sqrt { \\pm } \\tt V _ { C C \\_ O F F } \\tt H \\vec { y }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，芯片发生VCC欠压保护，芯片停止工作；当 VCC 电压高于 VCC 启动电压"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { C C \\_ O N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，芯片开始工作。当 BP86113D VCC 电压高于V<sub>CC_CLAMP</sub>时，内部电路会钳位到 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "v _ { C C \\_ C L A M P }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                608,
+                472,
+                682
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "FB脚短路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                693,
+                188,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "当FB 引脚短路，IC检测到原边功率管导通时的FB电压连续4 个工作周期高于-400 mV，系统进入 FB PIN短路保护。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                722,
+                470,
+                757
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出⼆极管短路保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                769,
+                231,
+                785
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在 t 时间内，连续 7 次检测到原边电流高于限流值，则触发输出二极管短路保护。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                797,
+                472,
+                832
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                93,
+                603,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D 内置了过温保护电路，当结温达到过温保护阈值"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { T } } _ { 0 { \\mathsf { T } } { \\mathsf { P } } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "时，芯片停止工作；直到结温下降到过温保护解除阈值T<sub>OTP</sub>-T<sub>HYST</sub>时，芯片重新开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                122,
+                931,
+                175
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                196,
+                668,
+                212
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP86113D PCB时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                227,
+                847,
+                242
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) VCC电容尽可能靠近VCC和GND引脚放置，如果由于PCB 布局限制，电解电容离芯片较远，通常建议在VCC 和 GND 引脚之间放置一个 0.1μF 的瓷片电容，并靠近芯片，以提升芯片的抗⼲扰能⼒和抗 ESD 能⼒。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                253,
+                931,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) 为了降低辐射⼲扰，应减小高频功率环路面积。初级⺟线电容、变压器绕组和芯片组成的环路面积尽可能小；次级绕组、二极管和输出滤波电容组成的环路面积尽可能小；初级绕组和钳位电路组成的环路面积尽可能小。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                341,
+                931,
+                419
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) FB 信号线不要铺大铜⽪，以避免容易受到⼲扰。⾛线尽可能短，并远离 C（集电极）、初级钳位电路、辅助绕组等强⼲扰源。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                426,
+                931,
+                486
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) 芯片的C引脚（集电极）能很好地起到散热作用，是器件散热的主要途径。但是由于芯片 C 属于 EMI 动点，在满⾜散热的条件下铺铜面积应尽量小。"
+                    }
+                ]
+            },
+            "bbox": [
+                526,
+                497,
+                929,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5) 应将Y电容放置在初级输入滤波电容正端和次级滤波电容地之间。如果输入端使用了π型 EMI 滤波器，那么滤波电感应放置在输入滤波电容的负极之间。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                565,
+                931,
+                621
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6) 辅助绕组的地端应直接连接到⺟线电容的负端。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                633,
+                875,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7) ESD放电针应直接连接在初级输入滤波电容正端和次级滤波电容地或者输出正端之间，并远离芯片控制电路。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                659,
+                929,
+                696
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                791,
+                57,
+                929,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d4cbed2855fc62b4f2ee4ba6619727f6533a0047248c5bfbbcd71fcaeee88182.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 封装外形尺寸"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                205,
+                193,
+                428,
+                360
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c4410ecea1942a2831d7635533ab007c2ef9c08f194f728e10b3105a8df3b082.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                220,
+                426,
+                438,
+                499
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dee79609c880fdaf664635f0f1a1db57f6cff80ad75850867eb87f32a0cc0375.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.05</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.30</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                240,
+                592,
+                413,
+                772
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                178,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                55,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6d8a4ca2dd54e3f1d426fdf0fb76ef49f3251e35aca0e9c12cd34211dbe676fb.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2024/10</td><td>首次发布</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                927,
+                171
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/572abacf1d8d38e52a47776ad5ccb80163b78473722804e5a63d656f079b755b.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                97,
+                225,
+                877,
+                768
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                176,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                96,
+                549,
+                115
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽⼒确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                155,
+                789,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定⽬的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本⾝及其使用有关的偶然或必然损失承担任何责 。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                195,
+                932,
+                252
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                178,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                613,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电子器件报废说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                401,
+                95,
+                596,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该产品在生命周期结束后，由客⼾按照一般电⼦产品的报废流程进⾏处理。"
+                    }
+                ]
+            },
+            "bbox": [
+                203,
+                202,
+                783,
+                219
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                40,
+                179,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                57,
+                929,
+                77
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP86113D_CN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                613,
+                947
+            ]
+        }
+    ]
+]

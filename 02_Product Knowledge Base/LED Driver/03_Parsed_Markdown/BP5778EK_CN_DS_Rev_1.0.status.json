@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:35:41+08:00",
+  "file": "BP5778EK_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 1471323,
+    "pages": 9,
+    "sha256": "8e016e75fa291daac06716098f6bd5e020fba53873beddd634ba6979bf3cb320"
+  },
+  "batch_id": "36653fa2-71f6-4bb7-a856-b2e9b41d9b6d",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:35:42+08:00",
+    "errors": [],
+    "markdown_chars": 7395,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T14:35:55+08:00"
+}

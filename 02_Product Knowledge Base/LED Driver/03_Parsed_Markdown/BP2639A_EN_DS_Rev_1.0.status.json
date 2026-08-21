@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:03:12+08:00",
+  "file": "BP2639A_EN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 422434,
+    "pages": 10,
+    "sha256": "0a4a60a3a83e553d62050a600aa01a867416f9bc6e001acc9f290d5511b6513a"
+  },
+  "batch_id": "b92a2d6c-6386-4f48-96b8-3502664b162b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:03:13+08:00",
+    "errors": [],
+    "markdown_chars": 15154,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:03:23+08:00"
+}

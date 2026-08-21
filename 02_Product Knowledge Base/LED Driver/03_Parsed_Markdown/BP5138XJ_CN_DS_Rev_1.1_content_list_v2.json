@@ -1,0 +1,1880 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                114,
+                139,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 是一款高精度的单段线性恒流 LED 控制芯片，集成了高压 MOS 管和 JFET 高压供电功能。主要用于驱动由市电供电的高电压、低电流 LED 灯串。由于不需要磁性元件，LED 驱动器可以实现小体积、长寿命，并符合 EMI 规定。"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                146,
+                485,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 可以通过外部电阻精确的设定 LED 电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                252,
+                443,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 具有过温调节功能。当输入电压过高，或者 LED 电流过大时，此功能将降低输出电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                277,
+                485,
+                315
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 采用 ESSOP6 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                323,
+                302,
+                340
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/432099fa66f561342e9cc7d8f606ad17f68cc65740ad9fb0fc00150fcb7e3429.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                216,
+                350,
+                321,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                114,
+                561,
+                133
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 内置 800V 整流桥"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                146,
+                710,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 外围电路非常简单，驱动器体积非常小"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                165,
+                848,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 无需磁性元件"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                186,
+                682,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 500V 高压 MOS 管，无需压敏电阻"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                206,
+                825,
+                223
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 超快 LED 启动"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                225,
+                687,
+                243
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ ±5% LED 输出电流精度"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                246,
+                759,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ LED 电流可外部设定"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                267,
+                731,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 过温调节功能"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                287,
+                685,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 采用 ESSOP6 封装"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                307,
+                717,
+                324
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                514,
+                341,
+                561,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ GU10/E27 LED 球泡灯、射灯"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                369,
+                786,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 蜡烛灯"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                388,
+                673,
+                407
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◆ 其它 LED 照明"
+                    }
+                ]
+            },
+            "bbox": [
+                549,
+                409,
+                687,
+                426
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                426,
+                188,
+                447
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e60bacde9c7e28a40ce1f20a4868b6a3f09e9d2efd776eb1766c5e5b4d5141dd.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP5138XJ 典型应用图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                168,
+                466,
+                778,
+                800
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ\n高压单段线性恒流 LED 控制芯片"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                49,
+                529,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                685,
+                30,
+                867,
+                98
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "05/2023"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                938,
+                147,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                771,
+                938,
+                905,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                93,
+                186,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eb5eee7992cde274a899048f7bea851a54249e90c884f9fa525d6f30de9c64ee.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP5138XJ</td><td>ESSOP6</td><td>编带5000颗/盘</td><td>BP5138XXXXXXYWXYJ</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                120,
+                894,
+                222
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                269,
+                188,
+                288
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7b24d29983cdaec3e9a59828998c2fde9ded97df0ea7ea15d20bed77c52b81a9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 BP5138XJ 管脚封装图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                223,
+                303,
+                561,
+                458
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第一行：BP5138: 产品名\nX: A/D"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                313,
+                873,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第二行：XXXXX: lot code\nY: 封装厂代码\nX: 特殊字符"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                353,
+                870,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第三行：WX: sign\nYY: 周号"
+                    }
+                ]
+            },
+            "bbox": [
+                697,
+                414,
+                825,
+                451
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                510,
+                186,
+                527
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0628b00ce8ab73624a2ea2c1d370ec91439b03b665c362cdb94de7f072375cc5.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1/6</td><td>ACIN</td><td>交流电压输入端</td></tr><tr><td>2</td><td>GND</td><td>芯片地</td></tr><tr><td>3</td><td>CS</td><td>芯片电流采样端,接采样电阻到地</td></tr><tr><td>4</td><td>Drain</td><td>内部高压功率 MOS 漏极</td></tr><tr><td>5</td><td>BUS</td><td>整流桥输出正,接输入电容和灯珠</td></tr><tr><td>衬底</td><td>GND</td><td>芯片地</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                95,
+                536,
+                902,
+                801
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                940,
+                878,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                34,
+                215,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                887,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f264663674828f6ddbf138a3ede505d8448690b078aa37a57bbce57790653c03.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "极限参数(注1)"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注2：人体模型，100pF电容通过  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1.5\\mathrm{K}\\Omega"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 电阻放电。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td colspan=\"2\">参数范围</td><td>单位</td></tr><tr><td>ACIN/ACIN</td><td>整流桥最大耐压值</td><td colspan=\"2\">-0.3~800</td><td>V</td></tr><tr><td>BUS</td><td>整流桥输出正最大耐压值</td><td colspan=\"2\">-0.6~500</td><td>V</td></tr><tr><td>Drain</td><td>集成功率 MOS 高压接口</td><td colspan=\"2\">-0.3~500</td><td>V</td></tr><tr><td>CS</td><td>芯片低压接口</td><td colspan=\"2\">-0.3~6</td><td>V</td></tr><tr><td rowspan=\"2\">ID_MAX</td><td rowspan=\"2\">漏极最大饱和电流@ TJ_max</td><td>DJ</td><td>80</td><td rowspan=\"2\">mA</td></tr><tr><td>AJ</td><td>60</td></tr><tr><td>TJ</td><td>工作结温范围</td><td colspan=\"2\">-40 to 150</td><td>°C</td></tr><tr><td>TSTG</td><td>储存温度范围</td><td colspan=\"2\">-55 to 155</td><td>°C</td></tr><tr><td></td><td>ESD (注2)</td><td colspan=\"2\">2</td><td>KV</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                118,
+                895,
+                497
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                941,
+                878,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                34,
+                215,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                887,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/051ae5840e6fc0f41f2285ff017e08e51024562f5935c83bbd53135a27a7b0b2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 3,4)（无特别说明情况下，TA=25℃）"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注3：典型参数值为  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "25^{\\circ}\\mathrm{C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 下测得的参数标准。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">工作电流</td></tr><tr><td> $I_{CC}$ </td><td>静态工作电流</td><td>D=30V</td><td></td><td>70</td><td>150</td><td>uA</td></tr><tr><td colspan=\"7\">电流采样</td></tr><tr><td> $V_{REF}$ </td><td>电流基准</td><td>D=30V, Rcs=120Ω</td><td></td><td>600</td><td></td><td>mV</td></tr><tr><td colspan=\"7\">过热调节</td></tr><tr><td> $T_{REG}$ </td><td>过热调节温度</td><td>-</td><td></td><td>150</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                120,
+                895,
+                382
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9079927078226ee1d5ebdf2af49c66571264f76479523f786f5bfeea2f07d525.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 3 BP5138XJ 部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                122,
+                492,
+                873,
+                807
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                941,
+                878,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                34,
+                213,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                54,
+                887,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                93,
+                189,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 是一款高精度单段线性恒流 LED 控制芯片，主要用于驱动由市电供电的高电压、低电流 LED 灯串。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                126,
+                484,
+                162
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "供电"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                174,
+                142,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在系统上电后，Drain 端通过内部的高压 JFET 给芯片供电，当 Drain 端的电压超过 10V 之后芯片开始工作。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                205,
+                484,
+                242
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "恒流控制，输出电流设置"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                282,
+                305,
+                300
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 可以通过外部电阻精确设定 LED 电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                313,
+                433,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED 导通时，输出电流计算公式："
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                343,
+                326,
+                359
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {L E D} = \\frac {V r e f}{R c s}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f801321fa6153ba36224a4edccda7f2acb113a5662f4b8ed66fe6b70c8730107.jpg"
+                }
+            },
+            "bbox": [
+                179,
+                376,
+                312,
+                411
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由于散热能力的限制，在 220V 市电输入时，建议将 LED 电流设在 60mA/40mA(DJ/AJ)以下；在 110V 市电输入时，建议将 LED 电流设在 80mA/60mA(DJ/AJ)以下。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                432,
+                485,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "过温调节功能"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                530,
+                215,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 具有过热调节功能，在驱动电源过热时逐渐减小输出电流，从而控制输出功率和温升，使电源温度保持在设定值，以提高系统的可靠性。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                560,
+                484,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "过热调节温度为芯片内部设定值(参照电气参数表)。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                630,
+                440,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB 设计"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                687,
+                183,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计BP5138XJ的PCB板时，需要注意以下事项："
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                725,
+                453,
+                741
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "地线"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                771,
+                139,
+                787
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电流采样电阻的功率地线尽可能短。GND 的面积要尽可能大，以减小热阻，增强散热能力。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                810,
+                485,
+                848
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片散热片"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                866,
+                181,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "部已经连接到 GND 引脚。在设计 PCB 时，将散热片连接到 PCB 的地。为了达到良好的散热效果，需要将散热片连接的 PCB 铜皮面积尽量大。"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                89,
+                899,
+                146
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ 芯片底部有增强散热能力的散热片，在芯片内"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                907,
+                484,
+                923
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                34,
+                215,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                54,
+                887,
+                73
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                941,
+                878,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                93,
+                201,
+                114
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4ac42e04c1dde28b2bc2c56eb5a5835ca1aac6cb3a8fc5a89bfa9284c9905303.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Side View"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                205,
+                231,
+                445,
+                299
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1558e6f53a2e56d75ee325f8fa680e9a20a0ebdd65b35230dca705102cae8c60.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Side View"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                574,
+                237,
+                763,
+                292
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0e6d41d711788157585c82dd8c73b3367c48bd8042ee73a3324f84f9faa06a78.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top View"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                183,
+                397,
+                490,
+                548
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b598eb37919ff84ea271a54476e2e8a3e1de65fa22e13a2f601105e0dbc471dd.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Bottom View"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                527,
+                382,
+                825,
+                542
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b5ebb6fc775179a1ca1144e96f987499fa72c425a13047f4d9cbedf45491476a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Unit</td><td></td><td>A</td><td>C</td><td>D</td><td>E</td><td>HE</td><td>d1</td><td>d2</td><td>e1</td><td>L</td><td>L1</td><td>a</td><td>∠</td></tr><tr><td rowspan=\"3\">mm</td><td>max</td><td>1.20</td><td>0.25</td><td>4.90</td><td>4.00</td><td>6.00</td><td>2.05</td><td>1.70</td><td>0.45</td><td>1.15</td><td>0.63</td><td rowspan=\"3\">0.2 (ref)</td><td rowspan=\"6\"> $12^{\\circ}$ </td></tr><tr><td>typ</td><td>1.10</td><td>0.20</td><td>4.70</td><td>3.80</td><td>5.90</td><td>2.00</td><td>1.65</td><td>0.40</td><td>1.05</td><td>/</td></tr><tr><td>min</td><td>1.00</td><td>0.15</td><td>4.50</td><td>3.60</td><td>5.80</td><td>1.95</td><td>1.60</td><td>0.35</td><td>0.95</td><td>0.23</td></tr><tr><td rowspan=\"3\">mil</td><td>max</td><td>47</td><td>10</td><td>193</td><td>157</td><td>236</td><td>81</td><td>67</td><td>18</td><td>45</td><td>25</td><td rowspan=\"3\">8 (ref)</td></tr><tr><td>typ</td><td>43</td><td>8</td><td>185</td><td>150</td><td>232</td><td>79</td><td>65</td><td>16</td><td>41</td><td>/</td></tr><tr><td>min</td><td>39</td><td>6</td><td>177</td><td>142</td><td>228</td><td>77</td><td>63</td><td>14</td><td>37</td><td>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                166,
+                618,
+                794,
+                791
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                34,
+                215,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                887,
+                74
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                941,
+                878,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                100,
+                93,
+                188,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0329b34987b35c75ed1d6852cc413093925ea1615d99bda64221c30c3333e5f3.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev. 1.0</td><td>2023/4</td><td>首次发行</td></tr><tr><td>Rev. 1.1</td><td>2023/5</td><td>修改封装管脚示意图,增加 1 号脚位标识</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                102,
+                120,
+                895,
+                385
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                941,
+                880,
+                952
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                34,
+                215,
+                72
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                887,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                260,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                104,
+                549,
+                124
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                167,
+                823,
+                181
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                206,
+                900,
+                285
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                941,
+                878,
+                953
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS\n晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                34,
+                215,
+                73
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                54,
+                887,
+                74
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP5138XJ_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                100,
+                940,
+                262,
+                953
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                465,
+                941,
+                576,
+                954
+            ]
+        }
+    ]
+]

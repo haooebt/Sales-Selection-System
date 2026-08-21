@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:53:46+08:00",
+  "file": "S7302SL_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 2611829,
+    "pages": 9,
+    "sha256": "86eff16eb5cbcccce803829ebab8bba5a179443880d34f2c138c415249a97338"
+  },
+  "batch_id": "50bf90cb-14be-4004-b7fe-c69dc2e7de0d",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:53:46+08:00",
+    "errors": [],
+    "markdown_chars": 6155,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-17T22:53:46+08:00"
+}

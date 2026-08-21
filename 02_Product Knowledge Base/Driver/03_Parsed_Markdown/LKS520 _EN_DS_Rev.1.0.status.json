@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:15:43+08:00",
+  "file": "LKS520 _EN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 683712,
+    "pages": 9,
+    "sha256": "31730fa22cac505c7736ab53f73c3bf36f7e532f4c55b78aace611585dad4a89"
+  },
+  "batch_id": "8f70a128-b27b-4786-ad6a-ac041a739e66",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:15:43+08:00",
+    "errors": [],
+    "markdown_chars": 11693,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-17T22:15:43+08:00"
+}

@@ -1,0 +1,2749 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Non-isolated Low PF Dimmable LED Driver"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                112,
+                623,
+                135
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Description"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                152,
+                184,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB is a non-isolated low PF dimmable LED driver controller, compatible with PWM or full range analog dimming signal, and supports dimming to off, to provide high-precision and flicker-less light output."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                174,
+                485,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB works in BCM and QR mode to improve system efficiency and reduce EMI as well as the size of transformer. The BP2879DB adopts advanced primaryside constant current algorithm to provide with excellent line and load regulation."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                250,
+                485,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB provides with multiple protections to assure reliability of LED driver power."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                347,
+                484,
+                382
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB adopts SOP-8 package."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                387,
+                322,
+                404
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Features"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                537,
+                152,
+                626,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Wide dimmable range from 5% to 100%, compatible with PWM or analog dimming signal, and support dimming to off"
+                    }
+                ]
+            },
+            "bbox": [
+                534,
+                174,
+                931,
+                228
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ High accuracy of current reference (±3%)"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                229,
+                887,
+                246
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Good current tolerance in deep dimming"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                248,
+                887,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No output current overshoot"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                267,
+                801,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Built-in compensation for line and load regulation"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                285,
+                931,
+                319
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ Integrated multiple protections"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                322,
+                823,
+                338
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ Output open and short protection"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                340,
+                867,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ CS short circuit protection"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                359,
+                811,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ Over current protection"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                376,
+                789,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ Over temperature protection"
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                395,
+                823,
+                411
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2058d380b1341eee1119e009cfa99ec5d7394fc36c6bbe0fee4b97fea4968390.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 Package"
+                    }
+                ]
+            },
+            "bbox": [
+                205,
+                417,
+                299,
+                475
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Applications"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                414,
+                665,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LED Panel Light"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                438,
+                705,
+                454
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "◼ LED Street Lamp"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                455,
+                715,
+                472
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Typical Application"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                514,
+                257,
+                533
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/235671cdc6d5e771561271748bfc047ee151f94e997c30122efb4577a68f0568.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1 Typical Application of BP2879DB PWM dimming"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note: The parameters of components and schematic are only for reference. The actual application schematic and parameters must be fully verified."
+                    }
+                ]
+            },
+            "bbox": [
+                107,
+                544,
+                880,
+                760
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                726,
+                57,
+                905,
+                126
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "09/2023"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                947,
+                129,
+                961
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                789,
+                946,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ordering Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                278,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8cac6b4bc7eccbafecfefdf0960ff9dcb99b0e58a88b5b8172e3e65504123c1d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Part Number</td><td>Package</td><td>Package Method</td><td>Marking</td></tr><tr><td>BP2879DB</td><td>SOP-8</td><td>Tape4,000/Reel</td><td>BP2879XXXXYBXYWWD</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                927,
+                203
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin Configuration and Marking Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                215,
+                490,
+                233
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0cfa56809b494bd80ab461443d96a575fe9e8aebc8be6d90fdc431006e2be466.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB：Part Number"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XXXXXY：Lot Code"
+                    },
+                    {
+                        "type": "text",
+                        "content": "XY：Sign"
+                    }
+                ]
+            },
+            "bbox": [
+                394,
+                241,
+                610,
+                344
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：Week"
+                    }
+                ]
+            },
+            "bbox": [
+                655,
+                307,
+                749,
+                323
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/45557a80fda7d6acf6eff950e38d39045da1a36042dee53c2c9341bad9ac3ec8.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2 Pin Configuration"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Pin Definition"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Pin No.</td><td>Name</td><td>Parameter</td></tr><tr><td>1</td><td>PWM</td><td>PWM dimming signal input pin, internally pulled up to VCC by default</td></tr><tr><td>2</td><td>CTRL</td><td>Control pin to enable or disable the controller, the voltage should be above 0.35V for normal operation</td></tr><tr><td>3</td><td>FB</td><td>Zero current detection and output voltage sensing for OVP</td></tr><tr><td>4</td><td>DIM</td><td>Analog dimming signal input pin</td></tr><tr><td>5</td><td>GND</td><td>IC Ground</td></tr><tr><td>6</td><td>CS</td><td>MOSFET current sensing</td></tr><tr><td>7</td><td>GATE</td><td>MOSFET gate driving</td></tr><tr><td>8</td><td>VCC</td><td>IC Power Supply</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                70,
+                410,
+                924,
+                689
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                188,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                922,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Absolute Maximum Ratings (Note1)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                400,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/29a47fa4df8ae052988b99aaf555d3c4f7039ebacd3ff248068f02153ed214a7.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Symbol</td><td>Parameters</td><td>Range</td><td>Units</td></tr><tr><td>VCC</td><td>Voltage of VCC pin</td><td>-0.3~40</td><td>V</td></tr><tr><td>GATE,PWM</td><td>Input &amp; output pin</td><td>-0.3~40</td><td>V</td></tr><tr><td>CS,CTRL,FB,DIM</td><td>Input &amp; output pin</td><td>-0.3~8</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>Power dissipation (Note 2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>Thermal resistance of junction to ambient (Note 3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>Operating junction temperature</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>Storage temperature range</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                120,
+                927,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 1: Stresses beyond those listed under “absolute maximum ratings” may cause permanent damage to the device. Under “recommended operating conditions” the device operation is assured, but some particular parameter may not be achieved. The electrical characteristics table defines the operation range of the device, the electrical characteristics is assured on DC and AC voltage by test program. For the parameters without minimum and maximum value in the EC table, the typical value defines the operation range, the accuracy is not guaranteed by spec. Note 2: The maximum power dissipation decreases if temperature rise, it is decided by TJMAX, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { \\theta } _ { \\mathsf { J } \\mathsf { A } _ { t } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "and environment temperature (TA). The maximum power dissipation is the lower one between PDMAX = (TJMAX - TA)/ θJA and the number listed in the maximum table."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                355,
+                931,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 3: Tested on 1 in.² double-sided board according to JEDEC standard."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                485,
+                519,
+                499
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                188,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                57,
+                922,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                935,
+                228,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                935,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8ea2261078feee27671175c1a839f9308e990c7496e836b854f88e7f620fb518.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Electrical Characteristics (Note 4)（Unless otherwise specified, "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\mathsf { T A } } = 2 5 ^ { \\circ } { \\mathsf { C } } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "Note 4: The maximum and minimum parameters specified are guaranteed by test, the typical value are guaranteed by design, characterization and statistical analysis."
+                    }
+                ],
+                "html": "<table><tr><td>Symbol</td><td>Parameter</td><td>Condition</td><td>Min</td><td>Typ</td><td>Max</td><td>Units</td></tr><tr><td colspan=\"7\">Power Supply (VCC)</td></tr><tr><td> $V_{CC\\_TH}$ </td><td> $V_{CC}$  turn on threshold</td><td> $V_{CC}$  rising</td><td>10</td><td>12.7</td><td>14</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td> $V_{CC}$  UVLO threshold</td><td> $V_{CC}$  rising</td><td>6.6</td><td>7.8</td><td>8.8</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td> $V_{CC}$  Clamp voltage</td><td> $I_{CC}=2mA$ </td><td>30</td><td>35</td><td>40</td><td>V</td></tr><tr><td> $V_{CC\\_DIMOFF}$ </td><td> $V_{CC}$  dimming to off threshold (5)</td><td> $V_{DIM}=0V$ </td><td>8.3</td><td>8.9</td><td>9.5</td><td>V</td></tr><tr><td> $I_{CC\\_ST}$ </td><td> $V_{CC}$  start up current</td><td> $V_{CC\\_TH}-0.5V$ </td><td>95</td><td>120</td><td>135</td><td>μA</td></tr><tr><td> $I_{CC\\_QUIESCENT}$ </td><td> $V_{CC}$  quiescent current</td><td>No switching</td><td>200</td><td>430</td><td>700</td><td>μA</td></tr><tr><td colspan=\"7\">Current sensing (CS)</td></tr><tr><td> $V_{CS\\_LIM}$ </td><td>CS cycle by cycle limit(5)</td><td></td><td>0.74</td><td>0.82</td><td>0.9</td><td>V</td></tr><tr><td> $V_{CS\\_OCP}$ </td><td>CS open circuit protection threshold</td><td></td><td>1</td><td>1.26</td><td>1.4</td><td>V</td></tr><tr><td colspan=\"7\">Time control</td></tr><tr><td> $T_{LEB1}$ </td><td>LEB time at normal switching(5)</td><td></td><td>250</td><td>460</td><td>650</td><td>ns</td></tr><tr><td> $T_{LEB2}$ </td><td>LEB time for OCP(5)</td><td></td><td>160</td><td>280</td><td>400</td><td>ns</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>Max. ON time</td><td></td><td>35</td><td>45</td><td>55</td><td>μs</td></tr><tr><td> $T_{OFF\\_MAX}$ </td><td>Max. OFF time</td><td></td><td>200</td><td>255</td><td>360</td><td>μs</td></tr><tr><td rowspan=\"4\"> $T_{QRTMO}$ </td><td rowspan=\"4\">Internal delay time after ZCD(5)</td><td></td><td>4</td><td>4.5</td><td>5</td><td>μs</td></tr><tr><td>-40°C</td><td colspan=\"3\">4.4</td><td>μs</td></tr><tr><td>27°C</td><td colspan=\"3\">4.495</td><td>μs</td></tr><tr><td>105°C</td><td colspan=\"3\">5.05</td><td>μs</td></tr><tr><td colspan=\"7\">Gate Driving</td></tr><tr><td> $I_{SOURCE}$ </td><td>Max. sourcing current(5)</td><td> $V_{GATE}=2V$ </td><td>90</td><td>150</td><td>250</td><td>mA</td></tr><tr><td> $I_{SINK}$ </td><td>Max. sinking current</td><td> $V_{GATE}=2V$ </td><td>125</td><td>230</td><td>325</td><td>mA</td></tr><tr><td colspan=\"7\">ZCD and OVP(FB)</td></tr><tr><td> $V_{FB\\_FALL}$ </td><td>FB falling edge threshold(5)</td><td>FB falling</td><td>0.12</td><td>0.15</td><td>0.18</td><td>V</td></tr><tr><td> $V_{FB\\_HYS}$ </td><td>FB hysteresis voltage(5)</td><td></td><td>0.075</td><td>0.09</td><td>0.105</td><td>V</td></tr><tr><td> $V_{FB\\_OVP}$ </td><td>FB OVP threshold</td><td></td><td>1.9</td><td>2</td><td>2.1</td><td>V</td></tr><tr><td colspan=\"7\">Dimming section(PWM,DIM)</td></tr><tr><td> $V_{DIM\\_ON}$ </td><td>DIM to on threshold(5)</td><td>PWM rising</td><td>60</td><td>75</td><td>90</td><td>mV</td></tr><tr><td> $V_{DIM\\_OFF}$ </td><td>DIM to off threshold(5)</td><td>PWM falling</td><td>16</td><td>37.5</td><td>58</td><td>mV</td></tr><tr><td> $V_{DIM\\_MAX}$ </td><td>Max. Current Reference</td><td></td><td>1.746</td><td>1.8</td><td>1.854</td><td>V</td></tr><tr><td> $V_{PWM\\_ON}$ </td><td>PWM output high(5)</td><td>PWM rising</td><td>1.74</td><td>1.8</td><td>1.854</td><td>V</td></tr><tr><td> $V_{PWM\\_OFF}$ </td><td>PWM output low(5)</td><td>PWM falling</td><td>1.68</td><td>1.75</td><td>1.82</td><td>V</td></tr><tr><td colspan=\"7\">External control (CTRL)</td></tr><tr><td> $V_{CTRL\\_ST\\_TH}$ </td><td>Turn on threshold(5)</td><td></td><td>325</td><td>350</td><td>375</td><td>mV</td></tr><tr><td> $V_{CTRL\\_TH}$ </td><td>Turn off threshold(5)</td><td></td><td>325</td><td>350</td><td>375</td><td>mV</td></tr><tr><td> $T_{CTRL\\_TH}$ </td><td>Turn off detect time(5)</td><td>After start-up</td><td>14</td><td>18</td><td>22</td><td>ms</td></tr><tr><td> $T_{CTRL\\_ST\\_DELLY}$ </td><td>Turn on delay time(5)</td><td>Before start-up</td><td>1.76</td><td>2.2</td><td>2.64</td><td>ms</td></tr><tr><td colspan=\"7\">Over Temperature protection</td></tr><tr><td> $T_{REG}$ </td><td>OTP threshold(5)</td><td></td><td>135</td><td>145</td><td>155</td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                112,
+                929,
+                913
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                189,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                922,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                230,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                618,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                87,
+                927,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Note 5:Guaranteed by design."
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                485,
+                258,
+                499
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                35,
+                188,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                57,
+                922,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b8cf0256a594f82248ad617041fa21767bf740699465886625786314fa151bda.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Internal Block Diagram"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Figure 3 BP2879DB Internal Block Diagram"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                109,
+                129,
+                887,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Application Information"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                521,
+                327,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB is a non-isolated low PF dimmable LED driver controller, compatible with PWM or full range analog dimming signal, and supports dimming to off, to provide high-precision and flicker-less light output."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                551,
+                485,
+                624
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Start-up"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                638,
+                166,
+                655
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After system is powered on, when VCC voltage reaches the turn on threshold, the controller begins to work. If the voltage on CTRL pin is higher than V and it lasts for more than 2.2ms,the controller begins to switch MOSFET, and the output current increases rapidly."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                678,
+                485,
+                796
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC pin is integrated with an internal Zener to protect VCC pin. If VCC voltage is lower than UVLO(7.8V),The controller stops switching."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                808,
+                485,
+                866
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ON/OFF Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                558,
+                657,
+                576
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CTRL pin can be used to turn on/off controller. After VCC power on, if CTRL voltage is lower than V<sub>CTRL_TH</sub> for than 18ms,the controller will stop working, and enters into fault protection mode until CTRL voltage returns to be normal. After 600ms,the controller detects CTRL voltage again. If CRTL voltage is higher than V<sub>CTRL_TH</sub>, and it lasts for more than 2.2ms,the controller returns to normal operation. CTRL pin also be used for input voltage brown out protection."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                590,
+                907,
+                770
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constant Current Control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                784,
+                732,
+                800
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB adopts peak current control, and it works in quasi-resonant mode to improve efficiency of system."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                814,
+                907,
+                871
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⚫ BP2879DB internal constant current algorithm assure high precision of output current, which"
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                875,
+                907,
+                912
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                188,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                922,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "can be set as:"
+                    }
+                ]
+            },
+            "bbox": [
+                127,
+                90,
+                231,
+                104
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {o u t} = \\frac {1}{8} * \\frac {V _ {D I M \\_ M A X}}{R _ {c s}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/e05afdd1aee98c5b89bdf77b0a2373b334d984a832d0f735b911b6d321644650.jpg"
+                }
+            },
+            "bbox": [
+                205,
+                123,
+                369,
+                161
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Where："
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                184,
+                151,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V<sub>DIM_MAX</sub> is the maximum voltage of DIM pin"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                204,
+                418,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R c s }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is the resistance of CS resistor."
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                224,
+                344,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Cycle by cycle OCP threshold of CS pin is "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { C S \\_ L I M }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "<sub>.</sub> when CS voltage reaches to "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C S \\_ O C P } } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", MOSFET will be shut down immediately and the controller enters into fault protection mode."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                244,
+                485,
+                321
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Dim control"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                336,
+                198,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB can accept analog signal from DIM pin to change LED current. For non-dimming application, only connect a ceramic capacitor from DIM pin to GND. Internal current reference voltage of DIM pin is 1.8V."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                366,
+                485,
+                463
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB also can accept PWM dimming signal and transfers it to an analog signal through internal resistor and DIM capacitor. The internal filter resistance is about 75K."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                467,
+                485,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If DIM voltage is less than 37.5mV/75mV(with hysteresis voltage),MOSFET will be turned off."
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                557,
+                482,
+                595
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Dimming curve of BP2879DB is as below:"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                607,
+                396,
+                623
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/ecf0a7482250ed2c8254fba672a161790d021df24fba961c9d6704de8f24cfed.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                84,
+                631,
+                475,
+                818
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Constant voltage with dimming to off"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                847,
+                416,
+                865
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After BP2879DB start up, If DIM voltage is less than"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                878,
+                484,
+                895
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "37.5mV, BP2879DB will stop switching and VCC voltage drops since the auxiliary winding stops to supply the VCC pin. Once VCC voltage drops below V<sub>CC_DIMOFF</sub> (8.9V), the controller begins to switch immediately and VCC voltage increases again. So VCC voltage is kept around V<sub>CC_DIMOFF</sub> (8.9V), and output voltage is also kept below LED threshold voltage."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                89,
+                907,
+                227
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OVP/LED Open Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                246,
+                741,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "OVP is triggered via FB pin. If FB voltage is still higher than 2V after blanking time of 1.2μs, the BP2879DB enters fault protection mode and GATE is kept as low. After about 600ms, the controller detects FB voltage again, if fault condition is removed, the BP2879DB restarts. Otherwise, if fault remains, protection is enabled continuously. The OVP voltage is set as:"
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                277,
+                907,
+                434
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {\\mathrm {OUT\\_OVP}} = \\frac {N _ {P}}{N _ {A U X}} * \\frac {R _ {F B L} + R _ {F B H}}{R _ {F B L}} * V _ {F B \\_ O V P} (\\mathrm{V})",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/3c933df6ed4498b7e07f95a3940599d2fea6e3516287ffe68cb4179236ab3a8f.jpg"
+                }
+            },
+            "bbox": [
+                544,
+                457,
+                873,
+                489
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Np is turns of primary winding and "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { N } _ { \\mathsf { A U X } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is turns of auxiliary winding. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R } _ { \\mathsf { F B H } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is higher resistor of FB divider, while "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { R } _ { \\mathsf { F B L } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "is lower resistor. V is FB OVP threshold."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                512,
+                899,
+                583
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Output short Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                595,
+                727,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "When output is shorted, the system works in T<sub>OFF_MAX</sub>. Since output voltage is very low, the auxiliary winding can not supply enough energy to VCC. If VCC power supply is insufficient, VCC voltage will drop to UVLO threshold."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                625,
+                907,
+                722
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Over Temperature Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                512,
+                741,
+                764,
+                759
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB integrates with over temperature protection. If junction temperature of BP2879DB is higher than "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 5 0 \\%"
+                    },
+                    {
+                        "type": "text",
+                        "content": ", BP2879DB will decrease output current."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                772,
+                907,
+                848
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                954,
+                905,
+                966
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                32,
+                211,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                53,
+                899,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                953,
+                253,
+                966
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                953,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Other Protection"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                96,
+                238,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The BP2879DB also integrates with other protections, such as CS pin open protection, CS resistor short protection and brown out protection (CTRL pin)."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                126,
+                484,
+                184
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Valley turn-on"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                193,
+                216,
+                210
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The controller(BP2879DB) detects FB threshold voltage during dimming to turn on MOSFET at drain voltage valley, to optimize the dimming curve and decrease temperature rise of MOSFET and improve efficiency of system at light load."
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                224,
+                484,
+                322
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layouts"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                90,
+                351,
+                215,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following rules should be followed in BP2879DB PCB layout:"
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                385,
+                484,
+                420
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) The bypass capacitor of DIM pin and VCC pin should be placed as close to the controller and GND"
+                    }
+                ]
+            },
+            "bbox": [
+                90,
+                430,
+                485,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pin as possible, especially the DIM pin, which must be close to the IC ground."
+                    }
+                ]
+            },
+            "bbox": [
+                510,
+                89,
+                905,
+                126
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) The resistor divider and filter capacitor of FB pin should be close to the controller, and far away from switching node, to avoid mis-triggering of OVP by system noise."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                134,
+                907,
+                211
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3) The trace of current sensing resistor should be as wide as possible and keep closed to GND for better current sensing precision. Otherwise output current regulation will be affected. should be connected to ground by independent path."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                219,
+                907,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4) The area of main current loop , including area of primary side of transformer, and MOSFET, and the area of secondary side of transformer, as small as possible, to reduce EMI noise."
+                    }
+                ]
+            },
+            "bbox": [
+                512,
+                366,
+                907,
+                463
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                894,
+                954,
+                905,
+                965
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                112,
+                32,
+                213,
+                70
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                752,
+                54,
+                899,
+                73
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                92,
+                954,
+                253,
+                965
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                954,
+                616,
+                966
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/9a4226aa159a00a0f0cb3bf3efcef108f82ca5c1ebda15e5bbe59a8a8e2d1714.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Characteristic Curve"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                110,
+                128,
+                889,
+                551
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                189,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                924,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                230,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                618,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Physical Dimensions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                268,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/979c6fffc2ef56bfecdc3ce6faa10e696e8ad87f2a4c2cb8386d94fdb7b6effe.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SOP-8 PACKAGE OUTLINE DIMENSIONS"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                107,
+                192,
+                403,
+                388
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d48090ce53328810ed271b5fd660950ba3bb9466adbca1d22dc23b1e9676fa31.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                662,
+                173,
+                884,
+                369
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/db62287f43cfe72a0e4917bbca227449a37a4f5e485c50be9be92ada93f4213b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                124,
+                470,
+                413,
+                539
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/95df4ac1aff10ec4c6e8c7125139642e86d3b9de2fb75c7fd0dacc21f6671d18.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                569,
+                458,
+                889,
+                560
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d25e5359b95d40e423992e767e32890ce44ce1573060a6e284b6da5a4065d520.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>1.30</td><td>—</td><td>1.80</td></tr><tr><td>A1</td><td>0.10</td><td>—</td><td>0.25</td></tr><tr><td>A2</td><td>1.25</td><td>1.40</td><td>1.65</td></tr><tr><td>b</td><td>0.33</td><td>—</td><td>0.51</td></tr><tr><td>c</td><td>0.17</td><td>—</td><td>0.25</td></tr><tr><td>D</td><td>4.70</td><td>4.90</td><td>5.10</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.70</td><td>3.90</td><td>4.10</td></tr><tr><td>e</td><td colspan=\"3\">1.27BSC</td></tr><tr><td>L</td><td>0.40</td><td>—</td><td>1.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                152,
+                665,
+                383,
+                881
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                189,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                922,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                228,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2c506ae06565a2138e6b4080308cd7fa194c8032839334f2fea93f0443cdb7c1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Revision Information"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>Revision</td><td>Date</td><td>Notes</td></tr><tr><td>Rev. 1.0</td><td>2023/09</td><td>First Issue</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                162,
+                927,
+                337
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                35,
+                189,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                55,
+                924,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                230,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                618,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                931,
+                946
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Disclaimer"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                436,
+                97,
+                561,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The information provided in this datasheet is believed to be accurate and reliable. However, Bright Power Semiconductor (BPS) reserves the right to make changes at any time without prior notice."
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                149,
+                931,
+                186
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No license, to any intellectual property right owned by BPS or any other third party, is granted under this document. BPS provides information in this datasheet “AS IS” and with all faults, and makes no warranty, express or implied, including but not limited to, the accuracy of the information provided in this datasheet, merchantability, fitness of a specific purpose, or non-infringement of intellectual property rights of BPS or any other third party. BPS disclaims any and all liabilities arising out of this datasheet or use of this datasheet, including without limitation consequential or incidental damages."
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                217,
+                932,
+                335
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                87,
+                49,
+                188,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB"
+                    }
+                ]
+            },
+            "bbox": [
+                776,
+                70,
+                922,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP2879DB_EN_DS_Rev.1.0"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                230,
+                947
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                910,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                934,
+                616,
+                947
+            ]
+        }
+    ]
+]

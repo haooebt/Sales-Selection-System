@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:53:40+08:00",
+  "file": "BP3296H_CN_DS_Rev.0.9.pdf",
+  "pdf": {
+    "bytes": 1006374,
+    "pages": 9,
+    "sha256": "7fba8d803c60c4a26ac25571494d8d4cba8148a55e371b491c463f726915de37"
+  },
+  "batch_id": "086b30d8-9dd2-40d7-ae42-ea54de17b40f",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:53:43+08:00",
+    "errors": [],
+    "markdown_chars": 7518,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T13:53:53+08:00"
+}

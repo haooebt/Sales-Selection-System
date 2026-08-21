@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T21:56:11+08:00",
+  "file": "BPA8604P_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 3768553,
+    "pages": 20,
+    "sha256": "b14c0d38d00dcc2b5804dbdba4582ffcd71d0c1f0ff368a12c573d0b4d00803b"
+  },
+  "batch_id": "ecd652a8-db77-4ff9-8034-bee0bdc3ff04",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T21:56:11+08:00",
+    "errors": [],
+    "markdown_chars": 25886,
+    "parsed_pages": 20,
+    "passed": true,
+    "pdf_pages": 20
+  },
+  "published_at": "2026-08-17T21:56:11+08:00"
+}

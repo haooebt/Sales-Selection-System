@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:20:19+08:00",
+  "file": "BP2628D_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 653584,
+    "pages": 11,
+    "sha256": "103f81e96e147a205368c16ab5fe81a5a7df45042cc097af19797163e20b6ee2"
+  },
+  "batch_id": "6892d2e9-82bd-48bf-8030-7425bf301142",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:20:22+08:00",
+    "errors": [],
+    "markdown_chars": 12441,
+    "parsed_pages": 11,
+    "passed": true,
+    "pdf_pages": 11
+  },
+  "published_at": "2026-08-21T13:20:31+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:56:50+08:00",
+  "file": "BP3337DB_CN_DS_Rev.0.9.pdf",
+  "pdf": {
+    "bytes": 546299,
+    "pages": 7,
+    "sha256": "482a64bb69ff0f0120ea9e50e1d9c19d5fcfdbc68507df5faefddfc1f823bd63"
+  },
+  "batch_id": "59512b8c-55c5-4db0-9854-076a00c4fe00",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:56:53+08:00",
+    "errors": [],
+    "markdown_chars": 7876,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T13:56:57+08:00"
+}

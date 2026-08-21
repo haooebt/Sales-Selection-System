@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:55:19+08:00",
+  "file": "BP3336D_CN_DS_Rev.1.4.pdf",
+  "pdf": {
+    "bytes": 573197,
+    "pages": 8,
+    "sha256": "4f40fc8110c53c37f01afaf51cc263f61792c55d49510e14b9bc2fe1a531e875"
+  },
+  "batch_id": "c3a81605-fe8a-4d63-837a-e47874b36218",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:55:22+08:00",
+    "errors": [],
+    "markdown_chars": 8328,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T13:55:25+08:00"
+}

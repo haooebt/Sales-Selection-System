@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:46:26+08:00",
+  "file": "S4512MB_CN_DS_Rev_1.3.pdf",
+  "pdf": {
+    "bytes": 1124443,
+    "pages": 8,
+    "sha256": "23d0a78d78655272a09045e3d0f94f6fb0e27c7f741fa8797dbc571173fb7510"
+  },
+  "batch_id": "df77af5b-5ac1-44af-b8f1-5fbaffa3a0a7",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:46:29+08:00",
+    "errors": [],
+    "markdown_chars": 6793,
+    "parsed_pages": 8,
+    "passed": true,
+    "pdf_pages": 8
+  },
+  "published_at": "2026-08-21T14:46:49+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:15:25+08:00",
+  "file": "BP8501CH_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 643067,
+    "pages": 9,
+    "sha256": "1bb131fb139f05685658532920e0596046e167ab29d5ff2734ca853b7ed30974"
+  },
+  "batch_id": "4a36003e-4965-4fb5-8022-140690819799",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:15:25+08:00",
+    "errors": [],
+    "markdown_chars": 10740,
+    "parsed_pages": 9,
+    "passed": true,
+    "pdf_pages": 9
+  },
+  "published_at": "2026-08-21T15:15:29+08:00"
+}

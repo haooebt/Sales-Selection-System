@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:13:57+08:00",
+  "file": "BPA8505P_CN_DS_Rev.1.3.pdf",
+  "pdf": {
+    "bytes": 1276467,
+    "pages": 22,
+    "sha256": "ef2fb49871c0d17e9ec054be561405712a1fc3589a5a8a4e5c50c95b5c32f4f5"
+  },
+  "batch_id": "b81bebe9-2ef1-46f6-9106-ed486764ff15",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:13:57+08:00",
+    "errors": [],
+    "markdown_chars": 28794,
+    "parsed_pages": 22,
+    "passed": true,
+    "pdf_pages": 22
+  },
+  "published_at": "2026-08-17T22:13:57+08:00"
+}

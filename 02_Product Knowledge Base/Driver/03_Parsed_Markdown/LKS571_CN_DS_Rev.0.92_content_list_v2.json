@@ -1,0 +1,2451 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b0533712ad82583cd6aa5ff541fe429896695bb68c62d5b3ceb6fb67705d463d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "南京凌鸥创芯电子有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                83,
+                347,
+                159
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                418,
+                346,
+                848,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "@ 2019, 版权归凌鸥创芯所有"
+                    }
+                ]
+            },
+            "bbox": [
+                603,
+                697,
+                840,
+                714
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "机密文件，未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                603,
+                715,
+                842,
+                733
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目 录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                467,
+                114,
+                524,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 概述....1\n1.1 功能简述....1\n1.2 主要指标....1\n1.3 控制逻辑....2\n2 管脚分布....3\n2.1 管脚分布图....3\n2.2 管脚说明....3\n3 封装尺寸....4\n4 应用示例....5\n5 电气性能参数....6\n5.1 极限参数....6\n5.2 建议工况....6\n5.3 动态电气参数....6\n5.4 静态电气参数....8\n6 订购包装信息....9\n7 版本历史....10"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                137,
+                850,
+                491
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                43,
+                280,
+                58
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LK>"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                925,
+                221,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                933,
+                500,
+                944
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "i"
+                    }
+                ]
+            },
+            "bbox": [
+                833,
+                935,
+                840,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表格目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                450,
+                93,
+                536,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "表 1-1 主要指标参数....1\n表 2-1 LKS571 管脚说明....3\n表 3-1 LKS571 封装尺寸....4\n表 5-1 LKS571 极限参数表....6\n表 5-2 LKS571 建议工作参数表....6\n表 5-3 LKS571 动态电气参数表....7\n表 5-4 LKS571 静态电气参数....8\n表 7-1 文档版本历史....10"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                140,
+                850,
+                287
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                43,
+                278,
+                57
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                925,
+                220,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                933,
+                500,
+                942
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "ii"
+                    }
+                ]
+            },
+            "bbox": [
+                833,
+                935,
+                843,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "图片目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                452,
+                93,
+                536,
+                111
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 1-1 LKS571 内部结构框图 ..... 1\n图 1-2 LKS571 控制逻辑时序图 ..... 2\n图 2-1 LKS571 管脚分布图 ..... 3\n图 3-1 LKS571 封装图示 ..... 4\n图 4-1 典型应用图示 ..... 5\n图 4-2 大电流负载应用图示 ..... 5\n图 5-1 时序参数  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "t_{\\text{on}} / t_{\\text{off}} / t_r / t_f"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 定义 ..... 7\n图 5-2 时序参数 MT 定义 ..... 7\n图 5-3 死区时序定义 ..... 7"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                139,
+                850,
+                305
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                43,
+                278,
+                57
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "LK"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                925,
+                220,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                933,
+                500,
+                942
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "iii"
+                    }
+                ]
+            },
+            "bbox": [
+                833,
+                935,
+                845,
+                942
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                117,
+                103,
+                200,
+                124
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1 功能简述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                161,
+                240,
+                179
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 是一款用于驱动 MOS/IGBT 栅极的集成电路，芯片有高侧驱动输出和低侧驱动输出两组，可同时驱动两个 MOS/IGBT 器件，其中高侧器件通过浮动管脚实现电压抬升，最高耐压达+250V。"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                204,
+                880,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "输入信号可兼容 CMOS 和 LSTTL 电平。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                259,
+                452,
+                275
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4857688da83660ddd029567b11e5f80c3ec49cdb981f069a632086308c7c1292.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1-1 LKS571 内部结构框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                127,
+                282,
+                865,
+                507
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 主要指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                557,
+                240,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高侧驱动采用浮动电源设计，最高耐压+250V"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                600,
+                539,
+                617
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 驱动电流+1.2A/-1.5A"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                627,
+                352,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 可承受瞬时负压"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                653,
+                312,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 芯片电源供电范围 8~20V"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                682,
+                386,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高低侧欠压保护功能"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                709,
+                347,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输入电平 3.3/5/15V 兼容"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                736,
+                384,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 内置 250ns 死区时间"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                763,
+                351,
+                780
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/53a2ad1452b081777121ef65fea31c543e6bc0d8a933a1dc8e196c4052669868.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 1-1 主要指标参数"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>参数名称</td><td>参数值</td></tr><tr><td>浮动电压</td><td>250V(max)</td></tr><tr><td>驱动电流</td><td>+1.2A/-1.5A</td></tr><tr><td>欠压保护</td><td>7V</td></tr><tr><td>导通延时</td><td>140ns</td></tr><tr><td>关断延时</td><td>140ns</td></tr><tr><td>死区时间</td><td>250ns</td></tr><tr><td>工作温度</td><td>-40°C ~150°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                221,
+                808,
+                774,
+                910
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ]
+            },
+            "bbox": [
+                715,
+                49,
+                756,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                134,
+                922,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                223,
+                83,
+                774,
+                146
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.3 控制逻辑"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                171,
+                238,
+                189
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "控制逻辑如图 1.2 所示：高侧控制端 HIN 高电平有效，低侧控制端 LIN 高电平有效，当高侧低侧同时有效时，输出禁止。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                216,
+                880,
+                250
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b20249c2d7683ea9c80c271b2df39233ccbdb5b55b5fb6733b4a8d2ce9752680.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1-2 LKS571 控制逻辑时序图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                321,
+                256,
+                707,
+                431
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                51,
+                756,
+                65
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                921,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 管脚分布"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                252,
+                117
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 管脚分布图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                158,
+                258,
+                175
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3f54f88335397a034e07791d753e31ef6834d7af68a8c9af838ed033662f9aeb.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2-1 LKS571 管脚分布图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                374,
+                211,
+                576,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 管脚说明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                417,
+                238,
+                435
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/96c049866449eb2ccfbdaeeba673e741973805542fd6887d46f159c7a68934c7.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 2-1 LKS571 管脚说明"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>编号</td><td>名称</td><td>类型</td><td>功能说明</td></tr><tr><td>1</td><td>VCC</td><td>电源</td><td>芯片供电电压</td></tr><tr><td>2</td><td>HIN</td><td>输入</td><td>高侧输入信号,逻辑&#x27;1&#x27;代表高侧导通</td></tr><tr><td>3</td><td>LIN</td><td>输入</td><td>低侧输入信号,逻辑&#x27;1&#x27;代表低侧导通</td></tr><tr><td>4</td><td>COM</td><td>地</td><td>芯片地</td></tr><tr><td>5</td><td>LO</td><td>输出</td><td>低侧栅极驱动信号输出</td></tr><tr><td>6</td><td>VS</td><td>输入/输出</td><td>高侧浮动偏置电压</td></tr><tr><td>7</td><td>HO</td><td>输出</td><td>高侧栅极驱动信号输出</td></tr><tr><td>8</td><td>VB</td><td>输入/输出</td><td>高侧浮动输入电源电压</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                107,
+                469,
+                902,
+                648
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚分布"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                49,
+                789,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                921,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 封装尺寸"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                252,
+                117
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SOP8 Package:"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                151,
+                231,
+                167
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c8b5b052f172446942ae36532d0b78f915e8cbe453e02e2a5c3babe00a863ff9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3-1 LKS571 封装图示"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                300,
+                172,
+                697,
+                420
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cdbe7ba071b8d470568bf27839c5be8b8fbd7b19df75f54250fad607cb1bc570.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 3-1 LKS571 封装尺寸"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"2\">MILLIMETER</td></tr><tr><td>MIN</td><td>MAX</td></tr><tr><td>A</td><td>1.350</td><td>1.750</td></tr><tr><td>A1</td><td>0.100</td><td>0.250</td></tr><tr><td>A2</td><td>1.350</td><td>1.550</td></tr><tr><td>b</td><td>0.330</td><td>0.510</td></tr><tr><td>c</td><td>0.170</td><td>0.250</td></tr><tr><td>D</td><td>4.700</td><td>5.100</td></tr><tr><td>E</td><td>3.800</td><td>4.000</td></tr><tr><td>E1</td><td>5.800</td><td>6.200</td></tr><tr><td>e</td><td colspan=\"2\">1.270BSC</td></tr><tr><td>L</td><td>0.400</td><td>1.270</td></tr><tr><td>θ</td><td>0°</td><td>8°</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                218,
+                499,
+                779,
+                751
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "封装尺寸"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                49,
+                789,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                921,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 应用示例"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                252,
+                116
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7ffab5f818a49dd15b32ed2248b0b51eb186f555c46b8a75bdd6ad77965dd2e9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-1 典型应用图示"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                131,
+                149,
+                868,
+                422
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8e4cb0b68dc0a8b1daa48447d950cf3b06068555fbd4e407e468e6ee69391713.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4-2 大电流负载应用图示"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                132,
+                450,
+                865,
+                736
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "应用示例"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                49,
+                789,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                921,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 电气性能参数"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                300,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.1 极限参数"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                158,
+                238,
+                175
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7daf99ff8100153a8c826ea989ec014319c5845bf1c5a837a8f05783c06c859c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 5-1 LKS571 极限参数表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>参数</td><td>定义</td><td>Min.</td><td>Max.</td><td>单位</td></tr><tr><td>VB</td><td>高侧浮动输入电源电压</td><td>-0.3</td><td>250</td><td rowspan=\"6\">V</td></tr><tr><td>VS</td><td>高侧浮动偏置电压</td><td>VB-25</td><td>VB+0.3</td></tr><tr><td>VHO</td><td>高侧栅极驱动信号输出电压</td><td>VS-0.3</td><td>VB+0.3</td></tr><tr><td>VLO</td><td>低侧栅极驱动信号输出电压</td><td>-0.3</td><td>VCC+0.3</td></tr><tr><td>VCC</td><td>芯片供电电压</td><td>-0.3</td><td>25</td></tr><tr><td>VIN</td><td>芯片输入逻辑信号电压 (HIN &amp; LIN)</td><td>-0.3</td><td>VCC+0.3</td></tr><tr><td>dVS/dt</td><td>高侧浮动偏置电压变化率</td><td>—</td><td>50</td><td>V/ns</td></tr><tr><td> $P_D$ </td><td>功率耗散 @ TA +25°C, SOIC-8</td><td></td><td>0.625</td><td>W</td></tr><tr><td> $Rth_{JA}$ </td><td>结对环境的热阻, SOIC-8</td><td></td><td>200</td><td>°C/W</td></tr><tr><td>TJ</td><td>结温</td><td>-40</td><td>150</td><td rowspan=\"3\">°C</td></tr><tr><td>TS</td><td>储存温度</td><td>-55</td><td>150</td></tr><tr><td>TL</td><td>引脚温度 (10秒焊接条件下)</td><td></td><td>260</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                219,
+                877,
+                473
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.2 建议工况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                117,
+                519,
+                238,
+                536
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3a6c2b3d3d34b709c2b17733b407b4e3cf1989b65a9127e1726e08ded2d69e39.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 5-2 LKS571 建议工作参数表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>参数</td><td>定义</td><td>Min.</td><td>Max.</td><td>单位</td></tr><tr><td>VB</td><td>高侧浮动输入电源电压</td><td>VS + 10</td><td>VS + 20</td><td rowspan=\"6\">V</td></tr><tr><td>VS</td><td>高侧浮动偏置电压</td><td>-5</td><td>200</td></tr><tr><td>VHO</td><td>高侧栅极驱动信号输出电压</td><td>VS</td><td>VB</td></tr><tr><td>VLO</td><td>低侧栅极驱动信号输出电压</td><td>0</td><td>VCC</td></tr><tr><td>VCC</td><td>芯片供电电压</td><td>10</td><td>20</td></tr><tr><td>VIN</td><td>芯片输入逻辑信号电压 (HIN &amp; LIN)</td><td>0</td><td>VCC</td></tr><tr><td>TA</td><td>工作温度</td><td>-40</td><td>150</td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                579,
+                877,
+                739
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.3 动态电气参数"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                784,
+                280,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如非特殊说明， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { B I A S } \\ ( V _ { C C } , V _ { B S } ) } = 1 2 \\mathrm { V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "• "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { C _ { L } } = 1 0 0 0 \\mathrm { p F }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { \\mathrm { A } } = 2 5 ^ { \\circ } \\mathrm { C } ."
+                    },
+                    {
+                        "type": "text",
+                        "content": "0"
+                    }
+                ]
+            },
+            "bbox": [
+                151,
+                828,
+                652,
+                843
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "电气性能参数"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                51,
+                821,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                921,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/83975eeab9599354190b47f683981bacfeb5c3b70b6c35b80baea28b3afbddbc.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5-1 时序参数 t<sub>on</sub>/t<sub>off</sub>/t<sub>r</sub>/t<sub>f</sub> 定义"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                329,
+                86,
+                689,
+                210
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6ae0f9070628e21abaf1e09625b725badda37aaaa4750397935bbae2c9334df7.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5-2 时序参数 MT 定义"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                351,
+                269,
+                680,
+                406
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fe85902a29ab6d8fa525f9ee6d37190bad51d30df35cab61844d5e15c375d4e9.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5-3 死区时序定义"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                321,
+                483,
+                734,
+                631
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8cdf4ff9aad17cfa31e8d8cdce549e587ca976d42330fd78c9fd838cfb60798f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 5-3 LKS571 动态电气参数表"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>参数</td><td>定义</td><td>最小</td><td>典型</td><td>最大</td><td>单位</td><td>测试条件</td></tr><tr><td>ton</td><td>导通延时</td><td>—</td><td>140</td><td>220</td><td rowspan=\"6\">ns</td><td>VS = 0V</td></tr><tr><td>toff</td><td>关断延时</td><td>—</td><td>140</td><td>220</td><td>VS = 0V or 200V</td></tr><tr><td>tr</td><td>导通上升沿</td><td>10</td><td>22</td><td>50</td><td></td></tr><tr><td>tf</td><td>关断下升沿</td><td>8</td><td>14</td><td>35</td><td></td></tr><tr><td>DT</td><td>死区时间</td><td>—</td><td>250</td><td>—</td><td></td></tr><tr><td>MT</td><td>延时匹配度</td><td>—</td><td>60</td><td>120</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                744,
+                877,
+                885
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "电气性能参数"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                49,
+                821,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                921,
+                191,
+                948
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.4 静态电气参数"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                93,
+                280,
+                112
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如非特殊说明， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { V _ { B I A S } \\left( V _ { C C } , V _ { B S } \\right) = 1 2 V }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "• "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathrm { T } _ { \\mathrm { A } } = 2 5 ^ { \\circ } ~ \\mathrm { C } _ { \\mathrm { \\Omega } }"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                137,
+                514,
+                154
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/23cb67141c7c9b67412de063d4dd401f7af109624c8ca714879a0e0bd1838daa.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 5-4 LKS571 静态电气参数"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>参数</td><td>定义</td><td>最小</td><td>典型</td><td>最大</td><td>单位</td><td>测试条件</td></tr><tr><td>VCCUV+</td><td>VCC欠压保护电压上阈值</td><td>6.5</td><td>7.5</td><td>8.5</td><td rowspan=\"3\">V</td><td></td></tr><tr><td>VCCUV-</td><td>VCC欠压保护电压下阈值</td><td>6</td><td>7</td><td>8</td><td></td></tr><tr><td>VCCHYS</td><td>VCC欠压保护迟滞电压</td><td>0.2</td><td>0.5</td><td>0.8</td><td></td></tr><tr><td>VBSUV+</td><td>VBS欠压保护电压上阈值</td><td>6.5</td><td>7.5</td><td>8.5</td><td rowspan=\"3\">V</td><td></td></tr><tr><td>VBSUV-</td><td>VBS欠压保护电压下阈值</td><td>6</td><td>7</td><td>8</td><td></td></tr><tr><td>VBSHYS</td><td>VBS欠压保护迟滞电压</td><td>0.2</td><td>0.5</td><td>0.8</td><td></td></tr><tr><td>IQCC</td><td>VCC静态电流</td><td>-</td><td>70</td><td>150</td><td rowspan=\"2\">uA</td><td>VIN=0V</td></tr><tr><td>IQBS</td><td>VBS静态电流</td><td>-</td><td>20</td><td>30</td><td>VIN=0V</td></tr><tr><td>ILK</td><td>高侧偏置电源漏电流</td><td>-</td><td>-</td><td>10</td><td>uA</td><td>VB=VS=250V</td></tr><tr><td>VIH</td><td>输入信号逻辑1的电压范围</td><td>1.95</td><td>-</td><td>-</td><td rowspan=\"2\">V</td><td>VCC=10~20V</td></tr><tr><td>VIL</td><td>输入信号逻辑0的电压范围</td><td>-</td><td>-</td><td>1.25</td><td>VCC=10~20V</td></tr><tr><td>IIN+</td><td>输入信号逻辑1的偏置电流</td><td>-</td><td>50</td><td>120</td><td rowspan=\"2\">uA</td><td>VIN=5V</td></tr><tr><td>IIN-</td><td>输入信号逻辑0的偏置电流</td><td>-</td><td>-</td><td>1</td><td>VIN=0V</td></tr><tr><td>IO+</td><td>LO/HO输出高电压短路脉冲拉电流</td><td>-</td><td>1200</td><td>-</td><td rowspan=\"2\">mA</td><td>VO=0V, VIN=VIH, PW 10 us</td></tr><tr><td>IO-</td><td>LO/HO输出低电压短路脉冲灌电流</td><td>-</td><td>1500</td><td>-</td><td>VO=15V, VIN=VIL PW 10 us</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                115,
+                191,
+                877,
+                541
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                940
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "电气性能参数"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                51,
+                821,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                922,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                928,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 订购包装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                297,
+                116
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/05d6f7e2bcfb933359daf686bf7cfacb62f8b0a211a74bb1c8385ca4f1476b15.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>型号</td><td>封装形式</td><td>每盘/管数量</td><td>每盒数量</td><td>每盒箱数</td><td>外箱数量</td></tr><tr><td>LKS571</td><td>SOP8</td><td>4000/盘</td><td>8000PCS</td><td>8</td><td>64000PCS</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                148,
+                877,
+                193
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                855,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "订购包装信息"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                51,
+                821,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                922,
+                189,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                929,
+                468,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7 版本历史"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                115,
+                96,
+                252,
+                117
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9eade52cd5ba8fb941f283b5d186c2726774b2ac07a02f85a6786f9c0223ca3b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 7-1 文档版本历史"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>时间</td><td>版本号</td><td>说明</td></tr><tr><td>2024.08.12</td><td>0.92</td><td>更新内部结构框图</td></tr><tr><td>2024.07.30</td><td>0.91</td><td>增加订购包装信息、增加免责声明</td></tr><tr><td>2024.07.16</td><td>0.9</td><td>更新 EC table 数据</td></tr><tr><td>2024.07.04</td><td>0.1</td><td>Preliminary</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                105,
+                166,
+                875,
+                269
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                847,
+                929,
+                862,
+                939
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "版本历史"
+                    }
+                ]
+            },
+            "bbox": [
+                717,
+                51,
+                788,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "K"
+                    }
+                ]
+            },
+            "bbox": [
+                131,
+                922,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                213,
+                929,
+                470,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                421,
+                162,
+                573,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS 和 LKO 为凌鸥创芯注册商标。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                222,
+                408,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "南京凌鸥创芯电子有限公司（以下简称：“Linko” ）尽力确保本文档内容的准确和可靠，但是保留随 时更改、更正、增强、修改产品和/或 文档的权利，恕不另行通知。用户可在下单前获取最新相关信息。"
+                    }
+                ]
+            },
+            "bbox": [
+                114,
+                263,
+                882,
+                332
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "客户应针对应用需求选择合适的 Linko 产品，详细设计、验证和测试您的应用，以确保满足相应标准以及任何安全、安保或其它要求。客户应对此独自承担全部责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                344,
+                880,
+                388
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Linko 在此确认未以明示或暗示方式授予 Linko 或第三方的任何知识产权许可。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                405,
+                766,
+                422
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Linko 产品的转售，若其条款与此处规定不同，Linko 对此类产品的任何保修承诺无效。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                447,
+                823,
+                464
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Linko 产品禁止用于军事用途或生命监护、维持系统。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                480,
+                552,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "如有更早期版本文档，一切信息以此文档为准。"
+                    }
+                ]
+            },
+            "bbox": [
+                115,
+                514,
+                497,
+                533
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "LKS571 数据手册"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                49,
+                248,
+                66
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "IK"
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                922,
+                191,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "2019 版权归凌鸥创芯所有 机密文件未经许可不得扩散"
+                    }
+                ]
+            },
+            "bbox": [
+                211,
+                929,
+                470,
+                940
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                845,
+                929,
+                862,
+                940
+            ]
+        }
+    ]
+]

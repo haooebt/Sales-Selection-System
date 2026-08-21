@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:18:15+08:00",
+  "file": "BP2519_CN_DS_Rev 1.0.pdf",
+  "pdf": {
+    "bytes": 467954,
+    "pages": 7,
+    "sha256": "66773cf7ede8faad2ed352133c6bd2ddcb6d5b45f06f489c0c90d6ab3e59376c"
+  },
+  "batch_id": "1dfae3d2-664b-4991-a77e-8618ef0e6565",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:18:15+08:00",
+    "errors": [],
+    "markdown_chars": 8441,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-17T22:18:15+08:00"
+}

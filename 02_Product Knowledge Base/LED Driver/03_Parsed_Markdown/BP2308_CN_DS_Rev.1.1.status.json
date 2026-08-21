@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:11:38+08:00",
+  "file": "BP2308_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 496164,
+    "pages": 7,
+    "sha256": "f43896cb03d8b07ac494f99342ac26d350d4a05bebeb42b068e2ea8f517d21f6"
+  },
+  "batch_id": "77e7861d-5528-492e-9a7f-d4156c9e97bb",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:11:39+08:00",
+    "errors": [],
+    "markdown_chars": 8710,
+    "parsed_pages": 7,
+    "passed": true,
+    "pdf_pages": 7
+  },
+  "published_at": "2026-08-21T13:11:42+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:34:07+08:00",
+  "file": "BP5768D_EN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 2261733,
+    "pages": 15,
+    "sha256": "492780a37d18a6d5fd61ac3c25564da3477e62defbcd24897494c404a4120dc4"
+  },
+  "batch_id": "b7f47f6b-19da-47eb-b351-30f391e23a7b",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:34:08+08:00",
+    "errors": [],
+    "markdown_chars": 23669,
+    "parsed_pages": 15,
+    "passed": true,
+    "pdf_pages": 15
+  },
+  "published_at": "2026-08-21T14:34:22+08:00"
+}

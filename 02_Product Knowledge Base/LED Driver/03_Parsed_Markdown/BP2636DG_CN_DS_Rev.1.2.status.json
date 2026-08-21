@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:25:39+08:00",
+  "file": "BP2636DG_CN_DS_Rev.1.2.pdf",
+  "pdf": {
+    "bytes": 2981474,
+    "pages": 10,
+    "sha256": "b8471055207f143367dc1bf5ea44fe10c831a78c90d961eb69d0e068509d5212"
+  },
+  "batch_id": "94e3de54-b422-42ec-a719-f68e292e48d0",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:25:40+08:00",
+    "errors": [],
+    "markdown_chars": 9974,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:25:47+08:00"
+}

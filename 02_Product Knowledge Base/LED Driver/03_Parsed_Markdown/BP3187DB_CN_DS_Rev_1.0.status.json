@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T13:39:52+08:00",
+  "file": "BP3187DB_CN_DS_Rev_1.0.pdf",
+  "pdf": {
+    "bytes": 2835303,
+    "pages": 10,
+    "sha256": "04ae96a7732ee213b83ad814728a5ec8c87094b6ef978557f435cfce59af01ae"
+  },
+  "batch_id": "25ad8185-05ce-45dc-be3d-f8793e2787d7",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T13:39:53+08:00",
+    "errors": [],
+    "markdown_chars": 9798,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T13:40:07+08:00"
+}

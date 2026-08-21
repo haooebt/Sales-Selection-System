@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T14:55:13+08:00",
+  "file": "BP85957DL_CN_DS_Rev.1.1.pdf",
+  "pdf": {
+    "bytes": 3075257,
+    "pages": 14,
+    "sha256": "e4c0ddca1c24ceb99537833f579ca272c8959804dd9e3f3c9c9dcfbf2e1ee1ec"
+  },
+  "batch_id": "08514451-52da-4760-a937-372b63d17609",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T14:55:17+08:00",
+    "errors": [],
+    "markdown_chars": 16544,
+    "parsed_pages": 14,
+    "passed": true,
+    "pdf_pages": 14
+  },
+  "published_at": "2026-08-21T14:55:35+08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-21T15:01:36+08:00",
+  "file": "BP2618_CN_DS_Rev_1.1.pdf",
+  "pdf": {
+    "bytes": 637062,
+    "pages": 10,
+    "sha256": "4d9e00fb5a79be10997194f6d4f20deb11f9b532909da051aa98a199fbee88f6"
+  },
+  "batch_id": "3fc772af-8d7d-4a85-aca7-19e9dd49a7f1",
+  "model_version": "vlm",
+  "token_source": "environment",
+  "qa": {
+    "checked_at": "2026-08-21T15:01:37+08:00",
+    "errors": [],
+    "markdown_chars": 8628,
+    "parsed_pages": 10,
+    "passed": true,
+    "pdf_pages": 10
+  },
+  "published_at": "2026-08-21T15:01:47+08:00"
+}

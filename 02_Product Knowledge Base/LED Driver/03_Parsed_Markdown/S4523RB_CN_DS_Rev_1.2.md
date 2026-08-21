@@ -1,0 +1,122 @@
+## 功率叠加开关调色
+
+## 主要描述
+
+S4523RB是一款专用于双驱、四驱等多驱（偶数驱）电源开关调色温的方案，根据输入开关的动作控制连接在L1和L2脚的驱动电源启动和关闭。芯片集成高压JFET供电和高压电阻检测网络，降低了方案成本。
+
+S4523RB采用成熟的交流信号开关检测技术，可以有效解决多路开关调色温驱动电源方案中碰到的问题，例如：多个电源同时应用时的逻辑不一致或LED铝基板感应漏电时出现逻辑状态不正常。
+
+S4523RB采用SOT23-5封装。
+
+![](images/a0617bd54af6a919de1f4714521b5fde529d10f80de9524978458169d2e65aad.jpg)  
+SOT23-5 封装
+
+## 特点
+
+■ 三段功率叠加开关调色：L1+L2→L1→L2
+
+■ 极简外围，无需任何外围元件
+
+■ 铝基板漏电检测技术
+
+■ 成熟的开关检测技术，性能稳定
+
+■ 内置状态保持时间，一致性好
+
+内置 30V 高压控制开关管，应用范围更宽
+
+■ 低 UVLO 电压和工作电流，应用简单
+
+## 应用范围
+
+■ 中大功率LED调色温驱电源
+
+## 典型应用
+
+![](images/ae2c44d40b742342319919dd8ef532f767b42b8a0cfc3dcf14690de39a2da2cb.jpg)  
+图 1 S4523RB 典型应用
+
+## 定购信息
+
+<table><tr><td>定购型号</td><td>封装</td><td>温度范围</td><td>包装形式</td><td>打印</td></tr><tr><td>S4523RB</td><td>SOT23-5</td><td>-40°C~105°C</td><td>卷盘3000只/盘</td><td>S4523RB</td></tr></table>
+
+## 管脚封装图
+
+![](images/15b5bf633acbdb695f60b8caf66441c43f6b2993835ed217b9a136bb5a82214d.jpg)  
+图2 封装脚位图
+
+## 管脚描述
+
+<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>L1</td><td>控制脚 1</td></tr><tr><td>2</td><td>GND</td><td>信号和功率地</td></tr><tr><td>3</td><td>L2</td><td>控制脚2</td></tr><tr><td>4</td><td>CLK</td><td>交流输入检测脚</td></tr><tr><td>5</td><td>HV</td><td>高压供电脚</td></tr></table>
+
+![](images/b6cc8b1533720c089559020f3c92a6a02900217faf0e32092fa924f7d349b356.jpg)
+
+## 极限参数（注1）
+
+<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td>HV</td><td>芯片高压供电引脚电压范围</td><td>-0.3~650</td><td>V</td></tr><tr><td>CLK</td><td>芯片交流检测脚电压范围</td><td>-500~500</td><td>V</td></tr><tr><td>L1/L2</td><td>芯片 L1/L2 引脚电压范围</td><td>-0.3~30</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注 2)</td><td>0.3</td><td>W</td></tr><tr><td> $\theta_{JA}$ </td><td>PN结到环境的热阻</td><td>240</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40 ~ 150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-40 ~ 150</td><td>°C</td></tr></table>
+
+注1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。  
+注2：最大允许功耗是由 $T_{JMAX}, \theta_{JA}$ 和环境温度 $T_A$ 所决定的，温度升高最大功耗一定会减小。最大允许功耗为 $P_{DMAX} = (T_{JMAX} - T_A)/\theta_{JA}$ 或是极限范围给出的数字中比较低的那个值。
+
+## 电气特性(注 3,4) (除非特别说明，Ta=25°C)
+
+<table><tr><td>描述</td><td>符号</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan="6">CLK管脚部分</td></tr><tr><td>检测阈值电压(注5)</td><td>Vth</td><td>115</td><td>125</td><td>135</td><td>V</td></tr><tr><td>UVLO电压</td><td>Vuvlo</td><td></td><td>1.5</td><td></td><td>V</td></tr><tr><td>状态保持时的工作电流</td><td>Iq</td><td></td><td>&lt;1</td><td></td><td>uA</td></tr><tr><td colspan="6">内部时间</td></tr><tr><td>开启延迟</td><td>Ton_delay</td><td></td><td>24.5</td><td></td><td>mS</td></tr><tr><td>关闭延迟</td><td>Toff_delay</td><td></td><td>26</td><td></td><td>mS</td></tr><tr><td>状态保持时间</td><td>Tw</td><td></td><td>6</td><td></td><td>S</td></tr><tr><td colspan="6">D1和D2脚部分</td></tr><tr><td>最大耐压</td><td>VD_max</td><td></td><td>30</td><td></td><td>V</td></tr><tr><td>内部电阻</td><td>Rvd</td><td></td><td>0.5</td><td></td><td>KΩ</td></tr></table>
+
+注 3: 典型参数值为 $25^{\circ}$ C 下测得的参数标准。  
+注4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。  
+注5:检测阈值电压Vth对应的直流电压值，Vac\_min=Vth/1.414≈88V，S4523RB适用于宽输入电压范围的应用。
+
+## 功能模块图
+
+![](images/e1d7d5a1acc267afc1d192ba05b9776e6d658e59222868f0a7b660cb446fcd71.jpg)  
+图 3S4523RB 内部结构框图
+
+## 功能描述
+
+## 1、供电
+
+S4523RB的供电输入脚（HV）内置高压JFET，无需外围元器件，可以直接从输入电解正端取电。
+
+## 2、检测
+
+S4523RB通过CLK脚对AC输入进行检测(如图1所示)，从而判断输入开关的状态。CLK脚内部内置高压元器件，可以直接检测AC信号。CLK脚的检测阈值为125V左右直流电压，最低工作电压88Vac左右，适用宽输入电压。
+
+## 3、内部延迟及开关切换窗口
+
+为了滤除噪声，避免造成逻辑状态混乱，S4523RB 在开启和关断阶段都内置了适当的延迟时间。上电后采样脚 CLK 电平达到检测阈值后须持续开启延时 Ton\_delay (典型值 24.5mS) 以上，芯片判断为开机；断电后，持续关闭延时 Toff\_delay (典型值 26mS) 以上 CLK 脚未检测到有效信号，芯片判断为关机。
+
+S4523RB的状态保持时间由内部时钟决定，只要电容C1的容量足够大，S4523RB的状态保持时间为固定的6S左右。（若搭配非SDS高压供电主控，可能存在复位时间偏短的情况，可以在每一路恒流主控HV脚串一个5.1V的稳压管）。
+
+## 4、控制脚 L1/L2
+
+芯片控制脚 L1/L2 为开漏输出 (Open Drain)，耐压 30V，内部无上拉；L1/L2 对应的芯片内部 MOS 管的漏极各串有一个 500Ω 电阻。如控制芯片使能脚，可直接驱动；如控制芯片供电脚（有启动电阻和电容），为避免电容瞬间放电产生的大电流对 L1/L2 造成损伤，建议外部串联限流电阻（尤其是存在反馈绕组辅助供电的情况）。
+
+## 5、逻辑顺序
+
+S4523RB 的初始状态是 L1+L2 亮，开关切换的逻辑顺序是：L1+L2→L1→L2。
+
+## 6、设计技巧
+
+在设计 PCB 板时，遵循以下原则会有更佳的性能：
+
+1）S4523RB的HV和GND与电解C1（如图1所示）的正极和负极之间的连线应该尽量短。
+
+2）在 HV 脚和 CLK 脚串联电阻可以提高抗雷击浪涌能力 (CLK 脚串 100K 以内，HV 脚串 10K)。
+
+3）搭配内置高压 JFET 供电主控使用时，主控需确保 HV 脚在 2V 以下不漏电，否则 S4523RB 的复位时间会很短，状态保持不住。
+
+## SOT23-5 封装信息
+
+![](images/bcaf7b5794b87d0173e4bb4b17c468c13fe9cbb35ec6c7fa9aaf676c15be5b8e.jpg)
+
+<table><tr><td rowspan="2">Symbol</td><td colspan="2">Dimensions in Millimeters</td><td colspan="2">Dimensions in Inches</td></tr><tr><td>Min.</td><td>Max.</td><td>Min.</td><td>Max.</td></tr><tr><td>A</td><td>1.000</td><td>1.450</td><td>0.039</td><td>0.057</td></tr><tr><td>A1</td><td>0.000</td><td>0.150</td><td>0.000</td><td>0.006</td></tr><tr><td>A2</td><td>1.000</td><td>1.200</td><td>0.039</td><td>0.047</td></tr><tr><td>b</td><td>0.300</td><td>0.500</td><td>0.012</td><td>0.020</td></tr><tr><td>c</td><td>0.100</td><td>0.200</td><td>0.004</td><td>0.008</td></tr><tr><td>D</td><td>2.720</td><td>3.120</td><td>0.107</td><td>0.123</td></tr><tr><td>E</td><td>1.400</td><td>1.800</td><td>0.055</td><td>0.071</td></tr><tr><td>E1</td><td>2.600</td><td>3.000</td><td>0.102</td><td>0.118</td></tr><tr><td>e</td><td colspan="2">0.950 (BSC)</td><td colspan="2">0.037 (BSC)</td></tr><tr><td>e1</td><td>1.800</td><td>2.000</td><td>0.071</td><td>0.079</td></tr><tr><td>L</td><td>0.300</td><td>0.600</td><td>0.012</td><td>0.024</td></tr><tr><td>θ</td><td> $0^{\circ}$ </td><td> $8^{\circ}$ </td><td> $0^{\circ}$ </td><td> $8^{\circ}$ </td></tr></table>
+
+## 版本信息
+
+<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.1</td><td>2020/11</td><td>规格书格式变更</td></tr><tr><td>Rev.1.2</td><td>2020/12</td><td>增加 L1/L2 内部结构描述</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table>
+
+## 免责声明
+
+上海芯飞尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。
+
+本产品规格书未包含任何针对上海芯飞或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，上海芯飞不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯上海芯飞或任何第三人知识产权做任何明示或暗示保证，上海芯飞也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。

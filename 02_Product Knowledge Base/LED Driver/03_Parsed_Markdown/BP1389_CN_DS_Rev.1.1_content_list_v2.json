@@ -1,0 +1,2635 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389可深度调光的降压型LED恒流控制器"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                84,
+                510,
+                137
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "概述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                154,
+                114,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 是一款采用滞环控制的可深度调光的降压型 LED 恒流控制器，特别适合用于80V以下直流输入的DALI调光、0-10V调光和 PWM 调光等 LED 恒流应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                180,
+                485,
+                237
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 的 ADIM 引脚可接受模拟调光信号，调光范围 5%-100%。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                244,
+                485,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 的 PWM 引脚接受 PWM 调光信号进行斩波调光。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                288,
+                448,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389提供输出电压和输出电流反馈信号，便于DALI调光应用中实现更为复杂的控制。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                313,
+                485,
+                350
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 采用 SSOP16L 封装。"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                359,
+                268,
+                375
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3b08f5e6642f7874bb7e41171cd24ad757b4b3cb599183bf906716c640ab2515.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SSOP16L 封装"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                201,
+                394,
+                347,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输入电压可达 80V"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                152,
+                700,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "独立的 ADIM 和 PWM 双调光接口，ADIM 调光范围5%~100%，综合调光深度低至 0.1%"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                171,
+                917,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 适合宽输出电压范围"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                209,
+                715,
+                225
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 滞环控制模式，恒流精度≤±3%"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                229,
+                798,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 调光全程启动速度快"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                248,
+                715,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 高精度 5V 基准电压"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                267,
+                712,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 最大工作频率 1MHz"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                286,
+                714,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 输出过压保护、过热调节"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                306,
+                744,
+                322
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 封装：SSOP16L"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                325,
+                689,
+                341
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "应用领域"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                534,
+                366,
+                623,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " DALI 调光、0-10V 调光、无线智能调光"
+                    }
+                ]
+            },
+            "bbox": [
+                536,
+                397,
+                838,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " LCD 背光照明"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                417,
+                673,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 可调光 LED 灯"
+                    }
+                ]
+            },
+            "bbox": [
+                537,
+                436,
+                675,
+                451
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "特点典型应用"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                523,
+                154,
+                569
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/653036be244fb013f3249c98b8c8c60c91ff2e979eaf97bac772738b611f2766.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 1 BP1389 典型应用电路"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：该线路及参数仅供参考，实际应用电路和参数请通过试验充分验证。"
+                    }
+                ]
+            },
+            "bbox": [
+                97,
+                571,
+                806,
+                869
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                724,
+                58,
+                905,
+                127
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5/2025"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                946,
+                117,
+                960
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "www.bpsemi.com"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                945,
+                929,
+                961
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XXXXXY：批次"
+                    }
+                ]
+            },
+            "bbox": [
+                653,
+                309,
+                757,
+                326
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "定购信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3efa6c4b3b78fc87795984429a4cdf46444108deaf250bd1af4ae027ba9e6d07.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>定购型号</td><td>封装</td><td>包装形式</td><td>打印</td></tr><tr><td>BP1389</td><td>SSOP16L</td><td>卷盘4,000/盘</td><td>BP1389XXXXXYZYWWZ</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                122,
+                927,
+                204
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚封装"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                250,
+                154,
+                268
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0fff92488f1def0897aeaab81caac483ad73afc45b1e118e3efb2f912cbbfce8.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 2 管脚封装图"
+                    }
+                ],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "BP1389：产品型号"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                278,
+                613,
+                399
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "XY：标识"
+                    }
+                ]
+            },
+            "bbox": [
+                653,
+                330,
+                724,
+                346
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "WW：周号"
+                    }
+                ]
+            },
+            "bbox": [
+                653,
+                349,
+                732,
+                366
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Z：预留"
+                    }
+                ]
+            },
+            "bbox": [
+                650,
+                370,
+                717,
+                386
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "管脚描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                68,
+                439,
+                154,
+                457
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7e7dd82edca6fde989393d71121b6703b6086072779449d3260769b9216dc36d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>管脚号</td><td>管脚名称</td><td>描述</td></tr><tr><td>1</td><td>VIN</td><td>芯片供电输入端,输出电压差分采样正端</td></tr><tr><td>2</td><td>GND</td><td>芯片地</td></tr><tr><td>3</td><td>VCC</td><td>芯片工作电源</td></tr><tr><td>4</td><td>VREF</td><td>5V基准电压输出端</td></tr><tr><td>5</td><td>OVP</td><td>输出过压保护设置管脚,可接受DC电压用于设置输出空载电压峰值</td></tr><tr><td>7</td><td>ADIM</td><td>模拟调光管脚,可接受DC电压进行调光</td></tr><tr><td>8</td><td>PWM</td><td>PWM调光管脚,可接受PWM调光信号进行调光</td></tr><tr><td>9</td><td>IFB</td><td>输出电流反馈,与输出电流呈比例关系</td></tr><tr><td>10</td><td>VFB</td><td>输出电压反馈,与输出电压呈比例关系</td></tr><tr><td>6,11,12,13</td><td>NC</td><td>无连接</td></tr><tr><td>14</td><td>GATE</td><td>MOSFET栅极驱动管脚</td></tr><tr><td>15</td><td>CSN</td><td>电感电流差分采样负端</td></tr><tr><td>16</td><td>CSP</td><td>电感电流差分采样正端,同时用作输出电压差分采样输入负端</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                466,
+                927,
+                877
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "极限参数<sub>(</sub>注 <sub>1)</sub>"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                95,
+                189,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d5672ff16ce38768599c06347ba663cde9cdbd98b476d09468d0cc9df2014eba.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 1：最大极限值是指超出该工作范围，芯片有可能损坏。推荐工作范围是指在该范围内，器件功能正常，但并不完全保证满足个别性能指标。电气参数定义了器件在工作范围内并且在保证特定性能指标的测试条件下的直流和交流电参数规范。对于未给定上下限值的参数，该规范不予保证其精度，但其典型值合理反映了器件性能。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>参数</td><td>参数范围</td><td>单位</td></tr><tr><td> $V_{IN}, V_{CSP}, V_{CSN}$ </td><td>输入电源</td><td>-0.3~80</td><td>V</td></tr><tr><td> $I_{CC}$ </td><td>VCC钳位电流</td><td>5</td><td>mA</td></tr><tr><td> $V_{CC} V_{GATE}$ </td><td>GATE输入电压</td><td>-0.3~9</td><td>V</td></tr><tr><td> $V_{IFB}, V_{VFB}, V_{REF}, V_{ADIM}, V_{PWM}, V_{OVP}$ </td><td>低压管脚输入电压</td><td>-0.3~7</td><td>V</td></tr><tr><td> $P_{DMAX}$ </td><td>功耗(注2)</td><td>0.45</td><td>W</td></tr><tr><td> $\\theta_{JA}$ </td><td>结到环境的热阻(注3)</td><td>145</td><td>°C/W</td></tr><tr><td> $T_J$ </td><td>工作结温范围</td><td>-40~150</td><td>°C</td></tr><tr><td> $T_{STG}$ </td><td>储存温度范围</td><td>-55~150</td><td>°C</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                929,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 2：温度升高最大功耗一定会减小，这也是由 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "T _ { \\Delta M A X } , \\theta _ { J A } ,"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和环境温度 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { T } _ { \\mathsf { A } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "所决定的。最大允许功耗为 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "P _ { \\tt D M A X } = \\left( \\mathbb { T } _ { \\tt J M A X } - \\mathbb { T } _ { A } \\right) / \\theta _ { \\tt J A }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "或是极限范围给出的数字中比较低的那个值。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                483,
+                929,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注 3：1平方英寸双层 PCB板，按照JEDEC 标准测试。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                527,
+                376,
+                541
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                211,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/03079abad6bdf546ebab269643e31a31e81a93a373b6a8c63e83ec76af505b9e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "电气参数(注 4)（无特别说明情况下， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "{ \\sf T } _ { \\sf A } = 2 5 ^ { \\circ } { \\sf C } )"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注 4：规格书的最小、最大规范范围由测试保证，典型值由设计、测试或统计分析保证。"
+                    }
+                ],
+                "html": "<table><tr><td>符号</td><td>描述</td><td>条件</td><td>最小值</td><td>典型值</td><td>最大值</td><td>单位</td></tr><tr><td colspan=\"7\">电源部分</td></tr><tr><td> $V_{IN}$ </td><td>输入电压工作范围</td><td></td><td>8</td><td></td><td>80</td><td>V</td></tr><tr><td> $V_{CC_ON}$ </td><td>VCC启动电压</td><td> $V_{CC}$ 上升</td><td>6.2</td><td>6.7</td><td>7.2</td><td>V</td></tr><tr><td> $V_{CC\\_UVLO}$ </td><td>VCC欠压保护阈值</td><td> $V_{CC}$ 下降</td><td>4.5</td><td>5</td><td>5.5</td><td>V</td></tr><tr><td> $V_{CC\\_CLAMP}$ </td><td>VCC钳位电压</td><td> $V_{CSP}=30V$ </td><td>8.2</td><td>8.6</td><td>9</td><td>V</td></tr><tr><td> $I_Q$ </td><td>VCC静态电流</td><td> $V_{CC}=7V$ </td><td></td><td>350</td><td>900</td><td>μA</td></tr><tr><td colspan=\"7\">电流采样(CSP,CSN)</td></tr><tr><td> $V_{CS\\_REF}$ </td><td>输出电流检测基准</td><td> $V_{ADIM}=2V$ </td><td>242.5</td><td>250</td><td>257.5</td><td>mV</td></tr><tr><td> $V_{CS\\_HYS}$ </td><td>CS迟滞电压</td><td> $V_{ADIM}=2V$ </td><td></td><td>75</td><td></td><td>mV</td></tr><tr><td> $T_{LEB}$ </td><td>消隐时间</td><td></td><td>100</td><td>120</td><td>140</td><td>ns</td></tr><tr><td colspan=\"7\">基准电压(VREF)</td></tr><tr><td> $V_{REF}$ </td><td>VREF基准电压</td><td></td><td>4.85</td><td>5</td><td>5.15</td><td>V</td></tr><tr><td colspan=\"7\">模拟调光(ADIM)</td></tr><tr><td> $V_{ADIM}$ </td><td>模拟调光范围</td><td>推荐外加电压范围</td><td>0.2</td><td></td><td>2</td><td>V</td></tr><tr><td colspan=\"7\">PWM调光(PWM)</td></tr><tr><td> $V_{PWM_ON}$ </td><td>PWM高电平有效</td><td></td><td>2.5</td><td></td><td></td><td>V</td></tr><tr><td> $V_{PWM_OFF}$ </td><td>PWM低电平有效</td><td></td><td></td><td></td><td>1</td><td>V</td></tr><tr><td> $T_{STD}$ </td><td>PWM低电平待机计时</td><td></td><td></td><td>15</td><td></td><td>ms</td></tr><tr><td colspan=\"7\">输出电压/电流反馈(VFB,IFB)</td></tr><tr><td> $K_{IFB1}$ </td><td>IFB电压放大倍数1</td><td>CSP=20V CSN=19.75V(模拟调光深度100%)</td><td>9.5</td><td>10</td><td>10.5</td><td></td></tr><tr><td> $K_{IFB2}$ </td><td>IFB电压放大倍数2</td><td>CSP=20V CSN=19.975V(模拟调光深度10%)</td><td>7.5</td><td>9.4</td><td>11.3</td><td></td></tr><tr><td> $K_{VFB1}$ </td><td>VFB电压缩小倍数1</td><td> $V_{IN}=45V,V_{OUT}=40V$ </td><td>19</td><td>20</td><td>21</td><td></td></tr><tr><td> $K_{VFB2}$ </td><td>VFB电压缩小倍数2</td><td> $V_{IN}=45V,V_{OUT}=5V$ </td><td>17.5</td><td>20</td><td>22.5</td><td></td></tr><tr><td colspan=\"7\">输出过压保护(OVP)</td></tr><tr><td> $K_{OVP}$ </td><td>OVP电压放大倍数</td><td></td><td>95</td><td>100</td><td>105</td><td></td></tr><tr><td colspan=\"7\">GATE驱动</td></tr><tr><td> $I_{SOURCE}$ </td><td>GATE上拉电流</td><td></td><td></td><td>250</td><td></td><td>mA</td></tr><tr><td> $I_{SINK}$ </td><td>GATE下拉电流</td><td></td><td></td><td>350</td><td></td><td>mA</td></tr><tr><td> $T_{ON\\_MAX}$ </td><td>满载MOS最大导通时间</td><td> $V_{ADIM}=2V$ </td><td>30</td><td>35</td><td>42</td><td>μs</td></tr><tr><td colspan=\"7\">过温保护</td></tr><tr><td> $T_{OTP}$ </td><td>过温降电流阈值</td><td></td><td></td><td>140</td><td></td><td>°C</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                115,
+                929,
+                828
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "内部结构框图"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                194,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/86137fbccf1e060bee72d0f681d0457dfc8390dde516e8c1d40d7fd00b307137.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 3 BP1389 内部框图"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                94,
+                121,
+                892,
+                637
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "功能描述"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                676,
+                154,
+                694
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 是一款采用滞环控制的可深度调光的降压型 LED 恒流控制器，特别适合用于 80V以下直流输入的 DALI 调光、0-10V 调光和 PWM 调光等 LED 恒流应用。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                707,
+                468,
+                760
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "芯片启动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                772,
+                144,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "系统上电后通过 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\sf I N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "引脚的供电电路对 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电容充电，当 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压高于 V 以后，芯片开始工作，GATE 引脚输出驱动信号。 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "端口的钳位电压为 8.7V 左右。 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "电压经过芯片内部 LDO 产生高精度的 5V 基准电压，并从 V 引脚输出。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                802,
+                465,
+                875
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电流"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                708,
+                603,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "最大输出电流可通过连接在 CSP 和 CSN 之间的电阻进行设定。非调光状态时输出电流计算公式如下："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                737,
+                929,
+                772
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {O M A X} = \\frac {V _ {R E F}}{R _ {S E N S E}} = \\frac {V _ {A D I M}}{8 R _ {S E N S E}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/ad88e8c7384658430920eecdad6f5a140d7124fe3925036d61a6a51b48080b70.jpg"
+                }
+            },
+            "bbox": [
+                611,
+                782,
+                842,
+                822
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "其中 I 为最大输出电流平均值，R 为系统的电流检测电阻，V 为 ADIM 电压。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                832,
+                929,
+                868
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 是采用滞环方式控制的 Buck电路。当 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { V } _ { \\mathsf { C C } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "被充电到"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { C C \\_ O N }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，GATE 输出高电平，电感电流线性上升。当电感电流上升到 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { I } _ { \\mathsf { L } ( \\mathsf { p e a k } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，MOS 关断，电感电流线性下降。当 MOS 电感电流下降至 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { l } _ { \\mathsf { L } ( \\mathsf { v a l l e y } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，MOS 再次导通。 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { I } _ { \\mathsf { L } ( \\mathsf { p e a k } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "和 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\mathsf { l } _ { \\mathsf { L } ( \\mathsf { v a l l e y } ) }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "的差值会随着 ADIM 电压变化而变化。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                93,
+                472,
+                190
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电感电流波形如下图所示："
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                200,
+                245,
+                216
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f153b41705d2b42154d5367fe5ccb7615f18a3916eda397c70cf092727fe9d15.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 4电感电流波形"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                85,
+                233,
+                445,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "模拟调光"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                407,
+                144,
+                424
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 的ADIM 脚接受模拟电压来调节输出电流，芯片对模拟电压的最大和最小值不做限制。推荐 ADIM 电压范围放在 0.1V-2V，对应调光深度 5%-100%。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                436,
+                463,
+                491
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/b8bf71cd208617aa9cecbc4c2273f211ffe326288945d3e486d2e20cecf8d0d2.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图 5 模拟调光曲线"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                84,
+                512,
+                448,
+                715
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 调光"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                751,
+                156,
+                766
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PWM 脚可接收 PWM 信号进行斩波调光。输出电流的斩波频率和占空比分别等于 PWM 调光信号的频率和占空比。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                778,
+                458,
+                814
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "电感选择"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                826,
+                144,
+                843
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "由于芯片原理设定，不同的电感值，会影响到驱动的开关频率。电感值决定了电感电流在开关时的升降斜率，而电流斜率决定了MOSFET开关时电流从波谷到波峰和波峰到波谷消耗的时间。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                854,
+                472,
+                890
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                524,
+                92,
+                929,
+                126
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{r l} t _ {O N} & = \\frac {L \\times \\Delta I}{V I N - V _ {L E D} - I _ {O U T} \\times (F E T _ {R _ {D S} (O N)} + D C R _ {L} + R _ {S E N S E})} \\\\ & t _ {O F F} = \\frac {L \\times \\Delta I}{V _ {L E D} + V _ {\\text {DIODE}} + I _ {O U T} \\times D C R _ {L}} \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/8a1e5e6b535e0a32ca0ab8f10e7211e45ec84f84eb508e70d1b9bcdb5af6524f.jpg"
+                }
+            },
+            "bbox": [
+                529,
+                136,
+                922,
+                219
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DCR 是电感的直流电阻值， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { L E D }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "是 LED 的压降，FET<sub>R_DS</sub> <sub>(ON)</sub>是功率 MOSFET的导通电阻， "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "V _ { \\mathsf { D } | \\mathsf { O D E } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为续流二极管的压降。开关频率可由以下公式计算："
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                230,
+                929,
+                284
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f _ {S W} = \\frac {1}{t _ {O N} + t _ {O F F}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/a9567fb3e5e54a3f9b73ed69a492f07a041efd9d8d40e70ce278534a264e0018.jpg"
+                }
+            },
+            "bbox": [
+                601,
+                293,
+                855,
+                336
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "电感值越大，电感电流的变化越缓慢。由于从 CS 检测到MOSFET 的开关之间存在传播延时，使得期望值和真实的纹波电流之间存在细微的差异。为补偿该差异，BP1389 内置闭环补偿，使得 LED 电流具有良好的一致性。选择电感时，不应使电流峰值超过电感的额定饱和电流。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                344,
+                931,
+                439
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "续流二极管"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                450,
+                621,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意续流二极管的额定平均电流应大于流过二极管的平均电流 平均电流计算公式如下："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                479,
+                924,
+                514
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "I _ {a v g \\_ d i o d e} = I _ {O U T} \\times \\frac {t _ {O F F}}{t _ {O N} + t _ {O F F}}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/276858b4de0e1cc2cd5b31916e110a8d4c2719c1435956c06ce2e763cf1cb205.jpg"
+                }
+            },
+            "bbox": [
+                594,
+                526,
+                858,
+                565
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注意，二极管应具有承受反向峰值电压的能力。建议选择反向额定电压大于输入电压的二极管。为了提高效率，建议选择肖特基二极管。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                577,
+                924,
+                631
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC旁路电容"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                643,
+                642,
+                659
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VCC 引脚需要并联一个 1μF以上的旁路电容，电容的大小选择和驱动 MOS 的大小有关系，MOS 越大，需要的旁路电容也越大。PCB布板的时候 VCC 电容需要紧挨着端口布局。"
+                    }
+                ]
+            },
+            "bbox": [
+                522,
+                671,
+                929,
+                726
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "OVP 保护"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                738,
+                608,
+                753
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 具有OVP 保护功能。空载电压峰值为 OVP 引脚电压的 100 倍。OVP 回差固定为3.8V 左右。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                766,
+                919,
+                801
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "输出电流和电压反馈"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                524,
+                813,
+                690,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389 支持输出电流和电压反馈。VFB引脚电压为输出电压的 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "1 / { \\mathsf { K } } { \\mathsf { v } } { \\mathsf { F B } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，IFB引脚电压与输出电流的关系如下："
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                841,
+                922,
+                877
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "V _ {I F B} = I _ {O U T} \\cdot R _ {C S} \\cdot K _ {I F B}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/f6cebf4b109684cd0e1fe9b65570a065c6e3baa162200bbeb92d9015abfe7797.jpg"
+                }
+            },
+            "bbox": [
+                638,
+                885,
+                816,
+                903
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                931,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB Layout 指南"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                70,
+                93,
+                213,
+                110
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在设计 BP1389 应用电路 PCB时，需要遵循以下建议："
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                122,
+                435,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MOSFET Drain 端与续流二极管、功率电感和 CS 检流电阻的布线覆铜尽可能长度短、线宽大。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                151,
+                472,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " CS检流电阻与芯片CSP和CSN端口之间的连接线应尽量短。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                198,
+                472,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 芯片的VCC电容靠近芯片布局，且VCC电容的GND端与芯片的 GND 端保持单点连接。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                95,
+                931,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": " 系统的输入电容尽可能靠近 BP1389 系统布局，保证输入电容达到尽量好的滤波效果。"
+                    }
+                ]
+            },
+            "bbox": [
+                524,
+                142,
+                931,
+                178
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c78968b1022010c41bc447ce5e46c8ff62c96b3646bac23597dea556fb3d4d1e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "图6四路共阳连接电路示意图"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                263,
+                885,
+                571
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                919,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                76
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                947
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "封装信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                93,
+                154,
+                112
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fa9d7fcde498d1336fbafa1e2f67412e5548a7b485644c39b801dea097b23d40.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                163,
+                195,
+                416,
+                376
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ad2b32558ba1dfc85218040c3a7f7e7b93680a9d49dd04c10c8dbd062ab09818.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                166,
+                405,
+                401,
+                495
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/38415ea27b22e98cc42b5c49164a39443c0b61d7cc54d6c4aef22354b1876acf.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SSOP16L 封装外形尺寸"
+                    },
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                569,
+                219,
+                922,
+                456
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/78c4cc86d787a22065c351a0ec9acd1c4378e8697eaa9965f33fa579379f69a6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">SYMBOL</td><td colspan=\"3\">MILLIMETER</td></tr><tr><td>MIN</td><td>NOM</td><td>MAX</td></tr><tr><td>A</td><td>--</td><td>--</td><td>1.75</td></tr><tr><td>A1</td><td>0.10</td><td>--</td><td>0.23</td></tr><tr><td>A2</td><td>1.30</td><td>1.40</td><td>1.50</td></tr><tr><td>A3</td><td>0.60</td><td>0.65</td><td>0.70</td></tr><tr><td>b</td><td>0.23</td><td>--</td><td>0.31</td></tr><tr><td>b1</td><td>0.22</td><td>0.25</td><td>0.28</td></tr><tr><td>c</td><td>0.20</td><td>--</td><td>0.24</td></tr><tr><td>c1</td><td>0.19</td><td>0.20</td><td>0.21</td></tr><tr><td>D</td><td>4.80</td><td>4.90</td><td>5.00</td></tr><tr><td>E</td><td>5.80</td><td>6.00</td><td>6.20</td></tr><tr><td>E1</td><td>3.80</td><td>3.90</td><td>4.00</td></tr><tr><td>e</td><td colspan=\"3\">0.635 BSC</td></tr><tr><td>h</td><td>0.25</td><td>--</td><td>0.50</td></tr><tr><td>L</td><td>0.50</td><td>0.65</td><td>0.80</td></tr><tr><td>L1</td><td colspan=\"3\">1.05 REF</td></tr><tr><td>θ</td><td>0</td><td>--</td><td>8°</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                315,
+                527,
+                682,
+                816
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                76
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                55,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                211,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/c59f2848a7843d167d7419b8ff341ab243964d9265ffa48ff02c6403e28428fa.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "bbox": [
+                92,
+                222,
+                892,
+                784
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "版本信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                67,
+                95,
+                152,
+                112
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d552d44774b697c08ff9712bf60251f3145bda9041561b2d3689495ff57f146c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>版本</td><td>日期</td><td>记录</td></tr><tr><td>Rev.1.0</td><td>2023/10</td><td>首次发行</td></tr><tr><td>Rev.1.1</td><td>2025/5</td><td>增加 Tonmax 上下限</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                68,
+                121,
+                902,
+                191
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                917,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                36,
+                181,
+                74
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                57,
+                917,
+                77
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                68,
+                934,
+                211,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                386,
+                934,
+                611,
+                947
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "免责声明"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                448,
+                102,
+                549,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "晶丰明源尽力确保本产品规格书内容的准确和可靠，但是保留在没有通知的情况下，修改规格书内容的权利。"
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                161,
+                789,
+                177
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本产品规格书未包含任何针对晶丰明源或第三方所有的知识产权的授权。针对本产品规格书所记载的信息，晶丰明源不做任何明示或暗示的保证，包括但不限于对规格书内容的准确性、商业上的适销性、特定目的的适用性或者不侵犯晶丰明源或任何第三人知识产权做任何明示或暗示保证，晶丰明源也不就因本规格书本身及其使用有关的偶然或必然损失承担任何责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                202,
+                931,
+                259
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                912,
+                935,
+                929,
+                946
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "'BPS晶丰明源"
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                49,
+                181,
+                89
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389"
+                    }
+                ]
+            },
+            "bbox": [
+                813,
+                70,
+                917,
+                90
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BP1389_CN_DS_Rev.1.1"
+                    }
+                ]
+            },
+            "bbox": [
+                67,
+                934,
+                211,
+                946
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "BPS Confidential – Customer Use Only"
+                    }
+                ]
+            },
+            "bbox": [
+                384,
+                934,
+                613,
+                947
+            ]
+        }
+    ]
+]

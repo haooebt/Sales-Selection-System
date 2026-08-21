@@ -1,0 +1,22 @@
+{
+  "status": "done",
+  "timestamp": "2026-08-17T22:54:00+08:00",
+  "file": "LKS1M25003L_CN_DS_Rev.1.0.pdf",
+  "pdf": {
+    "bytes": 1530590,
+    "pages": 17,
+    "sha256": "3756f2d2b3afda7e7521ec64f0cb0605c93fc469ad1c5b26b3c2ba5f8431308a"
+  },
+  "batch_id": "622a482a-69ed-47e2-8231-2621979124dc",
+  "model_version": "vlm",
+  "token_source": "macos-keychain",
+  "qa": {
+    "checked_at": "2026-08-17T22:54:00+08:00",
+    "errors": [],
+    "markdown_chars": 14586,
+    "parsed_pages": 17,
+    "passed": true,
+    "pdf_pages": 17
+  },
+  "published_at": "2026-08-17T22:54:00+08:00"
+}
